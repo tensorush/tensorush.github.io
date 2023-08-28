@@ -10,31 +10,16 @@
 
 ### Here're a few blogs that I've been deeply enjoying for quite a while:
 
-#### 🧑‍💻 Programmers
-
-- ##### [Phil Eaton](https://notes.eatonphil.com/)
-- ##### [Alex Kladov](https://matklad.github.io/)
-- ##### [Jakub Konka](http://www.jakubkonka.com/)
-- ##### [King Butcher](https://kprotty.me/)
-- ##### [Ted Kaminski](https://www.tedinski.com/archive/)
-- ##### [Andrew Kelley](https://andrewkelley.me/)
-- ##### [Jamie Brandon](https://www.scattered-thoughts.net/)
-- ##### [Brendan Gregg](https://www.brendangregg.com/blog/index.html)
-- ##### [Steven Wittens](https://acko.net/)
-- ##### [Vitalik Buterin](https://vitalik.ca/)
-- ##### [Mitchell Hashimoto](https://mitchellh.com/writing)
-
-#### 🧑‍🔬 Scientists
-
-- ##### [Joscha Bach](http://bach.ai/)
-- ##### [Jared Tumiel](https://jaredtumiel.github.io/blog/)
-- ##### [Scott Alexander](https://astralcodexten.substack.com/)
-- ##### [Stephen Wolfram](https://writings.stephenwolfram.com/all-by-date/)
-- ##### [Eliezer Yudkowsky](https://www.yudkowsky.net/sitemap)
-
-#### 🧑‍🎨 Creatives
-
-- ##### [Tim Urban](https://waitbutwhy.com/archive)
-- ##### [Bret Victor](http://worrydream.com/)
-- ##### [Paul Graham](http://paulgraham.com/articles.html)
-- ##### [Dan Benoni & Louis-Xavier Lavallee](https://growth.design/)
+|                    🧑‍💻 Programmers 👩‍💻                    |                       🧑‍🔬 Scientists 👩‍🔬                        |                    🧑‍🎨 Creatives 👩‍🎨                     |
+|:-------------------------------------------------------------:|:-------------------------------------------------------------------:|:------------------------------------------------------------:|
+|          [Phil Eaton](https://notes.eatonphil.com/)           |                   [Joscha Bach](http://bach.ai/)                    |         [Tim Urban](https://waitbutwhy.com/archive)          |
+|           [Alex Kladov](https://matklad.github.io/)           |         [Jared Tumiel](https://jaredtumiel.github.io/blog/)         |            [Bret Victor](http://worrydream.com/)             |
+|           [Jakub Konka](http://www.jakubkonka.com/)           |       [Scott Alexander](https://astralcodexten.substack.com/)       |      [Paul Graham](http://paulgraham.com/articles.html)      |
+|              [King Butcher](https://kprotty.me/)              | [Stephen Wolfram](https://writings.stephenwolfram.com/all-by-date/) | [Dan Benoni & Louis-Xavier Lavallee](https://growth.design/) |
+|       [Ted Kaminski](https://www.tedinski.com/archive/)       |       [Eliezer Yudkowsky](https://www.yudkowsky.net/sitemap)        |                                                              |
+|           [Andrew Kelley](https://andrewkelley.me/)           |                                                                     |                                                              |
+|     [Jamie Brandon](https://www.scattered-thoughts.net/)      |                                                                     |                                                              |
+| [Brendan Gregg](https://www.brendangregg.com/blog/index.html) |                                                                     |                                                              |
+|              [Steven Wittens](https://acko.net/)              |                                                                     |                                                              |
+|            [Vitalik Buterin](https://vitalik.ca/)             |                                                                     |                                                              |
+|      [Mitchell Hashimoto](https://mitchellh.com/writing)      |                                                                     |                                                              |
