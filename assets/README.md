@@ -1,12 +1,12 @@
-## Hey! :wave:
+## Hey! 👋
 
-> Betcha expected some badass blog here. But you see, I don't really blog. Yet?.. :crossed_fingers:
+> Betcha expected some badass blog here. But you see, I don't really blog. Yet?.. 🤞
 
-## :shamrock: Bio
+## ☘️ Bio
 
 ### Here's my [CV](https://tensorush.github.io/cv/en.pdf).
 
-## :gift: Bonus
+## 🎁 Bonus
 
 <details>
 <summary><h3>Here're a few blogs that I've been deeply enjoying for quite some time now:</h3></summary>
