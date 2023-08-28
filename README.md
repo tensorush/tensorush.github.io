@@ -1,16 +1,16 @@
-# Hey! :wave:
+# Hey! 👋
 
-> #### Betcha expected some badass blog here. But you see, I don't really blog. Yet?.. :crossed_fingers:
+> #### Betcha expected some badass blog here. But you see, I don't really blog. Yet?.. 🤞
 
-# :shamrock: Bio
+# ☘️ Bio
 
 ## Here's my [CV](https://tensorush.github.io/cv/en.pdf).
 
-# :gift: Bonus
+# 🎁 Bonus
 
 ## Here're a few blogs that I've been deeply enjoying for quite some time now:
 
-### :technologist: Programmers
+### 🧑‍💻 Programmers
 
 - #### [Phil Eaton](https://notes.eatonphil.com/)
 - #### [Alex Kladov](https://matklad.github.io/)
@@ -24,7 +24,7 @@
 - #### [Steven Wittens](https://acko.net/)
 - #### [Mitchell Hashimoto](https://mitchellh.com/writing)
 
-### :scientist: Scientists
+### 🧑‍🔬 Scientists
 
 - #### [Joscha Bach](http://bach.ai/)
 - #### [Jared Tumiel](https://jaredtumiel.github.io/blog/)
@@ -32,7 +32,7 @@
 - #### [Stephen Wolfram](https://writings.stephenwolfram.com/all-by-date/)
 - #### [Eliezer Yudkowsky](https://www.yudkowsky.net/sitemap)
 
-### :artist: Creatives
+### 🧑‍🎨 Creatives
 
 - #### [Tim Urban](https://waitbutwhy.com/archive)
 - #### [Bret Victor](http://worrydream.com/)
