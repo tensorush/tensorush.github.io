@@ -1,6 +1,6 @@
 ## Hey! :wave:
 
-> Betcha expected to see some badass blog here. But you see, I don't really blog. Yet?.. :crossed_fingers:
+> Betcha expected some badass blog here. But you see, I don't really blog. Yet?.. :crossed_fingers:
 
 ## :shamrock: Bio
 
