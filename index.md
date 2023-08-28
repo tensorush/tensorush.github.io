@@ -1,6 +1,6 @@
 ## Hey! 👋
 
-> ##### Betcha expected some badass blog here. But you see, I don't really blog. Yet?.. 🤞
+### Betcha expected some badass blog here. But you see, I don't really blog. Yet?..
 
 ## ☘️ Bio
 
@@ -17,11 +17,11 @@
 - ##### [Jakub Konka](http://www.jakubkonka.com/)
 - ##### [King Butcher](https://kprotty.me/)
 - ##### [Ted Kaminski](https://www.tedinski.com/archive/)
-- ##### [Vitalik Buterin](https://vitalik.ca/)
 - ##### [Andrew Kelley](https://andrewkelley.me/)
 - ##### [Jamie Brandon](https://www.scattered-thoughts.net/)
 - ##### [Brendan Gregg](https://www.brendangregg.com/blog/index.html)
 - ##### [Steven Wittens](https://acko.net/)
+- ##### [Vitalik Buterin](https://vitalik.ca/)
 - ##### [Mitchell Hashimoto](https://mitchellh.com/writing)
 
 #### 🧑‍🔬 Scientists
