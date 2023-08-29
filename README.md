@@ -12,6 +12,7 @@
 
 |                    🧑‍💻 Programmers 👩‍💻                    |                       🧑‍🔬 Scientists 👩‍🔬                        |                    🧑‍🎨 Creatives 👩‍🎨                     |
 |:-------------------------------------------------------------:|:-------------------------------------------------------------------:|:------------------------------------------------------------:|
+|            [Loris Cro](https://kristoff.it/blog/)             |                   [Joscha Bach](http://bach.ai/)                    |         [Tim Urban](https://waitbutwhy.com/archive)          |
 |          [Phil Eaton](https://notes.eatonphil.com/)           |                   [Joscha Bach](http://bach.ai/)                    |         [Tim Urban](https://waitbutwhy.com/archive)          |
 |           [Alex Kladov](https://matklad.github.io/)           |         [Jared Tumiel](https://jaredtumiel.github.io/blog/)         |            [Bret Victor](http://worrydream.com/)             |
 |           [Jakub Konka](http://www.jakubkonka.com/)           |       [Scott Alexander](https://astralcodexten.substack.com/)       |      [Paul Graham](http://paulgraham.com/articles.html)      |
