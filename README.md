@@ -1,7 +1,3 @@
-## Hey! 👋
-
-### Betcha expected some badass blog here. But you see, I don't really blog. Yet?..
-
 ## ☘️ Bio
 
 ### Here's my [CV](https://tensorush.github.io/cv/en.pdf).
