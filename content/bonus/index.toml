@@ -1,8 +1,8 @@
-## 🎁 Bonus
+title = "Bonus"
+content = """
+Here're a few blogs that I've been deeply enjoying for quite a while:
 
-### Here're a few blogs that I've been deeply enjoying for quite a while:
-
-|                    🧑‍💻 Programmers 👩‍💻                    |                       🧑‍🔬 Scientists 👩‍🔬                        |                    🧑‍🎨 Creatives 👩‍🎨                     |
+|                          Programmers                          |                             Scientists                              |                          Creatives                           |
 |:-------------------------------------------------------------:|:-------------------------------------------------------------------:|:------------------------------------------------------------:|
 |            [Loris Cro](https://kristoff.it/blog/)             |                   [Joscha Bach](http://bach.ai/)                    |         [Tim Urban](https://waitbutwhy.com/archive)          |
 |          [Phil Eaton](https://notes.eatonphil.com/)           |         [Jared Tumiel](https://jaredtumiel.github.io/blog/)         |            [Bret Victor](http://worrydream.com/)             |
@@ -16,3 +16,4 @@
 |              [Steven Wittens](https://acko.net/)              |                                                                     |                                                              |
 |            [Vitalik Buterin](https://vitalik.ca/)             |                                                                     |                                                              |
 |      [Mitchell Hashimoto](https://mitchellh.com/writing)      |                                                                     |                                                              |
+"""

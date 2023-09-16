@@ -1,11 +1,15 @@
 <!DOCTYPE html>
 {{>head.html}}
-<header><h1>{{title}}</h1></header>
+<header>
+    <h1>{{title}}</h1>
+</header>
 {{#content}}<div itemprop="articleBody">{{content}}</div>{{/content}}
 {{>page_list.html}}
-{{#pagination}}<nav><p>
-    {{#previous}}<a href="{{#site}}{{url}}{{/site}}{{path}}/{{previous}}.html">&laquo; Previous</a> |{{/previous}}
-    <span>Page {{current}} of {{length}}</span>
-    {{#next}}| <a href="{{#site}}{{url}}{{/site}}{{path}}/{{next}}.html">Next &raquo;</a>{{/next}}
-</p></nav>{{/pagination}}
+{{#pagination}}<nav>
+    <p>
+        {{#previous}}<a href="{{#site}}{{url}}{{/site}}{{path}}/{{previous}}.html">&laquo; Previous</a> |{{/previous}}
+        <span>Page {{current}} of {{length}}</span>
+        {{#next}}| <a href="{{#site}}{{url}}{{/site}}{{path}}/{{next}}.html">Next &raquo;</a>{{/next}}
+    </p>
+</nav>{{/pagination}}
 {{>foot.html}}
