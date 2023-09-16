@@ -1,0 +1,11 @@
+{{#pages}}<article itemscope itemtype="http://schema.org/CreativeWork">
+    <header>
+        <h2 itemprop="name">
+            <a href="{{permalink}}">{{title}}</a>
+        </h2>
+        <span class="muted">{{>date.html}}</span>
+    </header>
+    {{#summary}}<div itemprop="summary">{{summary}}
+            <nav class="readmore"><a itemprop="url" href="{{permalink}}">Read More&nbsp;&raquo;</a></nav>
+    </div>{{/summary}}
+</article>{{/pages}}

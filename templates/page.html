@@ -1,0 +1,32 @@
+{{>head.html}}
+<article itemscope itemtype="http://schema.org/BlogPosting">
+    <header>
+        <h1 itemprop="headline">{{title}}</h1>
+        <span class="muted">{{>date.html}}</span>
+    </header>
+    <div itemprop="articleBody">{{content}}</div>
+    
+    <section class="gallery">{{#pictures}}
+        <a class="thumbnail" href="{{permalink}}">
+            <figure class="small-figure">
+                <picture>
+            		<source type="image/jpeg" srcset="/img/thumb/{{file}}.jpg">
+            		<img class="gallery-photo" alt="{{alt}}" src="/img/thumb/{{file}}.jpg"/>
+                </picture>
+                <figcaption class="gallery-caption">{{caption}}</figcaption>
+            </figure>
+        </a>
+    {{/pictures}}</section>
+
+    <footer>
+        <hr>
+        <p>
+            {{#site}}{{#author}}Published by {{name}}{{/author}}{{/site}}
+            {{#taxonomies}}
+                {{#categories}} in <a href="{{#site}}{{url}}{{/site}}/categories/{{name}}">{{name}}</a>{{/categories}}
+                tagged {{#tags}}<a href="{{#site}}{{url}}{{/site}}/tags/{{name}}">{{name}}</a> {{/tags}}
+            {{/taxonomies}}
+        </p>
+    </footer>
+</article>
+{{>foot.html}}

@@ -1,0 +1,11 @@
+{{>head.html}}
+<h1>{{title}}
+    {{#taxonomy}}<small><a href="{{#site}}{{url}}{{/site}}/{{slug}}/">{{title}}</a></small>{{/taxonomy}}
+</h1>
+{{>page_list.html}}
+{{#pagination}}<nav><p>
+    {{#previous}}<a href="{{#site}}{{url}}{{/site}}/{{#taxonomy}}{{slug}}{{/taxonomy}}/{{previous}}.html">&laquo; Previous</a> |{{/previous}}
+    <span>Page {{current}} of {{length}}</span>
+    {{#next}}| <a href="{{#site}}{{url}}{{/site}}/{{#taxonomy}}{{slug}}{{/taxonomy}}/{{next}}.html">Next &raquo;</a>{{/next}}
+</p></nav>{{/pagination}}
+{{>foot.html}}

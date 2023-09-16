@@ -1,0 +1,27 @@
+title = "Zig Program Patterns"
+date = 2023-09-14
+summary = """
+Patterns that I'd observed in the Zig standard library and on the Zig News forum.
+"""
+content = """
+- [Traits](https://github.com/ziglang/zig/blob/master/lib/std/meta/trait.zig#L10)
+- [Closure](https://github.com/ziglang/zig/blob/master/lib/std/Thread/Pool.zig#L86)
+- [Context](https://github.com/ziglang/zig/blob/master/lib/std/hash_map.zig#L132)
+- [Decorator](https://zig.news/xq/cool-zig-patterns-configuration-parameters-591a)
+- [Arena allocator](https://github.com/ziglang/zig/blob/master/lib/std/heap/arena_allocator.zig#L8)
+- [Struct of arrays](https://zig.news/andrewrk/multi-object-for-loops-data-oriented-design-41ob)
+- [Custom type format](https://github.com/ziglang/zig/blob/master/lib/std/Uri.zig#L209)
+- [WaitGroup + ThreadPool](https://github.com/ziglang/zig/blob/master/lib/build_runner.zig#L772)
+- [Comptime string intern pool](https://zig.news/xq/cool-zig-patterns-comptime-string-interning-3558)
+- [Anonymous struct coercions](https://zig.news/xq/cool-zig-patterns-305o)
+- [Named (optional) arguments](https://github.com/ziglang/zig/blob/master/lib/std/fmt.zig#L22)
+- [Static dispatch (tagged union)](https://zig.news/kristoff/easy-interfaces-with-zig-0100-2hc5)
+- [Dynamic dispatch (fat pointer)](https://github.com/ziglang/zig/blob/master/lib/std/mem/Allocator.zig#L14)
+
+> [My Ziggit post](https://ziggit.dev/t/zig-patterns/1748)
+"""
+
+[taxonomies]
+authors = ["tensorush"]
+categories = ["blog"]
+tags = ["zig", "ziggit"]

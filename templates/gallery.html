@@ -1,0 +1,17 @@
+{{>head.html}}
+{{#current}}
+<h1>{{caption}}</h1>
+<figure id="gallery-figure">
+    <picture>
+		<source type="image/jpeg" srcset="/img/full/{{file}}.jpg">
+		<img class="gallery-photo" alt="{{alt}}" src="/img/full/{{file}}.jpg"/>
+    </picture>
+</figure>
+{{/current}}
+
+<nav><p>
+    {{#previous}}<a href="{{permalink}}">&laquo; Previous</a> |{{/previous}}
+    {{#parent}}<a href="{{permalink}}">{{title}}</a>{{/parent}}
+    {{#next}}| <a href="{{permalink}}">Next &raquo;</a>{{/next}}
+</p></nav>
+{{>foot.html}}

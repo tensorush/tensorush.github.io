@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>{{title}}{{#current}}{{pid}}{{/current}} - {{#site}}{{title}}</title>
+
+  {{#atom}}<link rel="alternate" type="application/atom+xml" title="Atom" href="{{url}}/atom.xml">{{/atom}}
+  {{#rss}}<link rel="alternate" type="application/rss+xml" title="RSS" href="{{url}}/rss.xml">{{/rss}}
+  <link rel="stylesheet" href="{{url}}/{{assets}}/style.css">
+  {{/site}}
+</head>
+<body class="hack dark main container">
+    <header>
+        <nav itemscope itemtype="http://schema.org/SiteNavigationElement">
+            {{#index}}
+                <a {{#active}}class="active"{{/active}} itemprop="url" href="{{permalink}}"><span itemprop="name">Home</span></a>
+            {{#subsections}}
+                <a {{#active}}class="active"{{/active}} itemprop="url" href="{{permalink}}"><span itemprop="name">{{title}}</span></a>
+            {{/subsections}}{{/index}}
+            {{#classification}}
+            {{#categories}}
+                <a itemprop="url" href="{{#site}}{{url}}{{/site}}/{{slug}}/"><span itemprop="name">{{title}}</span></a>
+            {{/categories}}
+            {{#tags}}
+                <a itemprop="url" href="{{#site}}{{url}}{{/site}}/{{slug}}/"><span itemprop="name">{{title}}</span></a>
+            {{/tags}}
+            {{/classification}}
+        </nav>
+    </header>
+
+    <main>

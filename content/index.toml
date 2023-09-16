@@ -1,0 +1,3 @@
+title = "tensorush"
+summary = "My personal static site generated with Blades."
+paginate_by = 3

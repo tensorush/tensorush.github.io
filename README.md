@@ -1,22 +1,16 @@
-## ☘️ Bio
+## :herb: **tensorush.github.io**
 
-### Here's my [CV](https://tensorush.github.io/cv/en.pdf).
+[![CD][cd-shield]][cd-url]
+[![WS][ws-shield]][ws-url]
+[![LC][lc-shield]][lc-url]
 
-## 🎁 Bonus
+### My personal static site generated with [Blades](https://getblades.org/).
 
-### Here're a few blogs that I've been deeply enjoying for quite a while:
+<!-- MARKDOWN LINKS -->
 
-|                    🧑‍💻 Programmers 👩‍💻                    |                       🧑‍🔬 Scientists 👩‍🔬                        |                    🧑‍🎨 Creatives 👩‍🎨                     |
-|:-------------------------------------------------------------:|:-------------------------------------------------------------------:|:------------------------------------------------------------:|
-|            [Loris Cro](https://kristoff.it/blog/)             |                   [Joscha Bach](http://bach.ai/)                    |         [Tim Urban](https://waitbutwhy.com/archive)          |
-|          [Phil Eaton](https://notes.eatonphil.com/)           |         [Jared Tumiel](https://jaredtumiel.github.io/blog/)         |            [Bret Victor](http://worrydream.com/)             |
-|           [Alex Kladov](https://matklad.github.io/)           |       [Scott Alexander](https://astralcodexten.substack.com/)       |      [Paul Graham](http://paulgraham.com/articles.html)      |
-|           [Jakub Konka](http://www.jakubkonka.com/)           | [Stephen Wolfram](https://writings.stephenwolfram.com/all-by-date/) |         [Randall Munroe](https://xkcd.com/archive/)          |
-|              [King Butcher](https://kprotty.me/)              |       [Eliezer Yudkowsky](https://www.yudkowsky.net/sitemap)        | [Dan Benoni & Louis-Xavier Lavallee](https://growth.design/) |
-|       [Ted Kaminski](https://www.tedinski.com/archive/)       |                                                                     |                                                              |
-|           [Andrew Kelley](https://andrewkelley.me/)           |                                                                     |                                                              |
-|     [Jamie Brandon](https://www.scattered-thoughts.net/)      |                                                                     |                                                              |
-| [Brendan Gregg](https://www.brendangregg.com/blog/index.html) |                                                                     |                                                              |
-|              [Steven Wittens](https://acko.net/)              |                                                                     |                                                              |
-|            [Vitalik Buterin](https://vitalik.ca/)             |                                                                     |                                                              |
-|      [Mitchell Hashimoto](https://mitchellh.com/writing)      |                                                                     |                                                              |
+[cd-shield]: https://img.shields.io/github/actions/workflow/status/tensorush/cv/cd.yaml?branch=main&style=for-the-badge&logo=github&label=CD&labelColor=black
+[cd-url]: https://github.com/tensorush/cv/blob/main/.github/workflows/cd.yaml
+[ws-shield]: https://img.shields.io/badge/click-009E60?style=for-the-badge&logo=circuitverse&label=site&labelColor=black
+[ws-url]: https://tensorush.github.io
+[lc-shield]: https://img.shields.io/github/license/tensorush/cv.svg?style=for-the-badge&labelColor=black
+[lc-url]: https://github.com/tensorush/cv/blob/main/LICENSE.md
