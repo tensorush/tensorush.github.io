@@ -22,5 +22,6 @@ content = """
 """
 
 [taxonomies]
+authors = ["tensorush"]
 categories = ["blog"]
 tags = ["zig"]

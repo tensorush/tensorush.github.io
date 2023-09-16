@@ -22,8 +22,8 @@
     <footer>
         <hr>
         <p>
-            {{#site}}{{#author}}Published by {{name}}{{/author}}{{/site}}
             {{#taxonomies}}
+            {{#authors}}Published by <a href="https://github.com/{{name}}">{{name}}</a>{{/authors}}
             {{#categories}} in <a href="{{#site}}{{url}}{{/site}}/categories/{{name}}">{{name}}</a>{{/categories}}
             tagged {{#tags}}<a href="{{#site}}{{url}}{{/site}}/tags/{{name}}">{{name}}</a> {{/tags}}
             {{/taxonomies}}
