@@ -1,4 +1,4 @@
-title = "Zig Program Patterns"
+title = "Zig Design Patterns"
 time = "Sep 14, 2023"
 summary = """
 Patterns I've seen in the Zig standard library and on the Zig News forum.
