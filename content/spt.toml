@@ -1,0 +1,24 @@
+title = "Software Product Types"
+time = "Sep 23, 2023"
+summary = """
+Classification of software products I've devised out of thin air.
+"""
+content = """
+> Abbreviations:
+>
+> OTP - One-time payment, Don - Donation, Sub - Subscription,
+>
+> OTD - One-time download, Sync - Client-server synchronisation.
+
+|       Type        |       Purpose Category       | Business Model  | Distribution Model |
+|:-----------------:|:----------------------------:|:---------------:|:------------------:|
+|    Video games    |     Art & Entertainment      |       OTP       |     OTD / Sync     |
+|     Dev tools     |    Utility & Productivity    |    Don / OTP    |        OTD         |
+|     User apps     | Communication & Productivity | Don / OTP / Sub |        OTD         |
+| Content platforms |   Creation & Communication   |       Sub       |        Sync        |
+"""
+
+[taxonomies]
+authors = ["tensorush"]
+categories = ["blog"]
+tags = ["swe"]
