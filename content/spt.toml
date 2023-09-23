@@ -1,7 +1,7 @@
 title = "Software Product Types"
 time = "Sep 23, 2023"
 summary = """
-Classification of software products I've devised out of thin air.
+Classification of software products I've pulled out of thin air.
 """
 content = """
 > Abbreviations:
@@ -12,9 +12,9 @@ content = """
 
 |       Type        |       Purpose Category       | Business Model  | Distribution Model |
 |:-----------------:|:----------------------------:|:---------------:|:------------------:|
-|    Video games    |     Art & Entertainment      |       OTP       |     OTD / Sync     |
 |     Dev tools     |    Utility & Productivity    |    Don / OTP    |        OTD         |
 |     User apps     | Communication & Productivity | Don / OTP / Sub |        OTD         |
+|    Video games    |     Art & Entertainment      |       OTP       |     OTD / Sync     |
 | Content platforms |   Creation & Communication   |       Sub       |        Sync        |
 """
 
