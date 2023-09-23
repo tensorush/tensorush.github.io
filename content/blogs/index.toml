@@ -1,56 +1,19 @@
 title = "Blogs"
 content = """
-Programmers:
-
-- [Loris Cro](https://kristoff.it/blog/)
-
-- [Phil Eaton](https://notes.eatonphil.com/)
-
-- [Alex Kladov](https://matklad.github.io/)
-
-- [Jakub Konka](http://www.jakubkonka.com/)
-
-- [Drew DeVault](https://drewdevault.com/)
-
-- [King Butcher](https://kprotty.me/)
-
-- [Ted Kaminski](https://www.tedinski.com/archive/)
-
-- [Andrew Kelley](https://andrewkelley.me/)
-
-- [Jamie Brandon](https://www.scattered-thoughts.net/)
-
-- [Brendan Gregg](https://www.brendangregg.com/blog/index.html)
-
-- [Steven Wittens](https://acko.net/)
-
-- [Vitalik Buterin](https://vitalik.ca/)
-
-- [Mitchell Hashimoto](https://mitchellh.com/writing)
-
-- [Bartosz Ciechanowski](https://ciechanow.ski/archives/)
-
-Scientists:
-
-- [Joscha Bach](http://bach.ai/)
-
-- [Jared Tumiel](https://jaredtumiel.github.io/blog/)
-
-- [Scott Alexander](https://astralcodexten.substack.com/)
-
-- [Stephen Wolfram](https://writings.stephenwolfram.com/all-by-date/)
-
-- [Eliezer Yudkowsky](https://www.yudkowsky.net/sitemap)
-
-Creatives:
-
-- [Tim Urban](https://waitbutwhy.com/archive)
-
-- [Bret Victor](http://worrydream.com/)
-
-- [Paul Graham](http://paulgraham.com/articles.html)
-
-- [Randall Munroe](https://xkcd.com/archive/)
-
-- [Dan Benoni & Louis-Xavier Lavallee](https://growth.design/)
+|                          Programmers                          |                             Scientists                              |                          Creatives                           |
+|:-------------------------------------------------------------:|:-------------------------------------------------------------------:|:------------------------------------------------------------:|
+|            [Loris Cro](https://kristoff.it/blog/)             |                   [Joscha Bach](http://bach.ai/)                    |         [Tim Urban](https://waitbutwhy.com/archive)          |
+|          [Phil Eaton](https://notes.eatonphil.com/)           |         [Jared Tumiel](https://jaredtumiel.github.io/blog/)         |            [Bret Victor](http://worrydream.com/)             |
+|           [Alex Kladov](https://matklad.github.io/)           |       [Scott Alexander](https://astralcodexten.substack.com/)       |      [Paul Graham](http://paulgraham.com/articles.html)      |
+|           [Jakub Konka](http://www.jakubkonka.com/)           | [Stephen Wolfram](https://writings.stephenwolfram.com/all-by-date/) |         [Randall Munroe](https://xkcd.com/archive/)          |
+|           [Drew DeVault](https://drewdevault.com/)            |       [Eliezer Yudkowsky](https://www.yudkowsky.net/sitemap)        | [Dan Benoni & Louis-Xavier Lavallee](https://growth.design/) |
+|              [King Butcher](https://kprotty.me/)              |                                                                     |                                                              |
+|       [Ted Kaminski](https://www.tedinski.com/archive/)       |                                                                     |                                                              |
+|           [Andrew Kelley](https://andrewkelley.me/)           |                                                                     |                                                              |
+|     [Jamie Brandon](https://www.scattered-thoughts.net/)      |                                                                     |                                                              |
+| [Brendan Gregg](https://www.brendangregg.com/blog/index.html) |                                                                     |                                                              |
+|              [Steven Wittens](https://acko.net/)              |                                                                     |                                                              |
+|            [Vitalik Buterin](https://vitalik.ca/)             |                                                                     |                                                              |
+|      [Mitchell Hashimoto](https://mitchellh.com/writing)      |                                                                     |                                                              |
+|    [Bartosz Ciechanowski](https://ciechanow.ski/archives/)    |                                                                     |                                                              |
 """
