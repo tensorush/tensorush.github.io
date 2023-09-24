@@ -1,0 +1,18 @@
+title = "Computer Resource Types"
+time = "Sep 24, 2023"
+summary = """
+Classification of computer resources I've pulled out of thin air.
+"""
+content = """
+| Resource Type | Interface Unit |    Example App     |
+|:-------------:|:--------------:|:------------------:|
+|      CPU      |     Thread     | Multimedia player  |
+|     Disk      |      File      |  Antivirus daemon  |
+|    Memory     |   Cache line   |     Video game     |
+|    Network    |     Socket     | Application server |
+"""
+
+[taxonomies]
+authors = ["tensorush"]
+categories = ["blog"]
+tags = ["swe"]

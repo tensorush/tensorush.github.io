@@ -10,12 +10,12 @@ content = """
 >
 > OTD - One-time download, Sync - Client-server synchronisation.
 
-|     Product Type  |       Purpose Category       | Business Model  | Distribution Model |
-|:-----------------:|:----------------------------:|:---------------:|:------------------:|
-|     Dev tools     |    Utility & Productivity    |    Don / OTP    |        OTD         |
-|     User apps     | Communication & Productivity | Don / OTP / Sub |        OTD         |
-|    Video games    |     Art & Entertainment      |       OTP       |     OTD / Sync     |
-| Content platforms |   Creation & Communication   |       Sub       |        Sync        |
+|   Product Type   |       Purpose Category       | Business Model  | Distribution Model |
+|:----------------:|:----------------------------:|:---------------:|:------------------:|
+|     Dev tool     |    Utility & Productivity    |    Don / OTP    |        OTD         |
+|     User app     | Communication & Productivity | Don / OTP / Sub |        OTD         |
+|    Video game    |     Art & Entertainment      |       OTP       |     OTD / Sync     |
+| Content platform |   Communication & Creation   |       Sub       |        Sync        |
 """
 
 [taxonomies]

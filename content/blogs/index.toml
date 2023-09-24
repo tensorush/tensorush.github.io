@@ -2,11 +2,12 @@ title = "Blogs"
 content = """
 |                          Programmers                          |                             Scientists                              |                          Creatives                           |
 |:-------------------------------------------------------------:|:-------------------------------------------------------------------:|:------------------------------------------------------------:|
-|            [Loris Cro](https://kristoff.it/blog/)             |                   [Joscha Bach](http://bach.ai/)                    |         [Tim Urban](https://waitbutwhy.com/archive)          |
-|          [Phil Eaton](https://notes.eatonphil.com/)           |         [Jared Tumiel](https://jaredtumiel.github.io/blog/)         |            [Bret Victor](http://worrydream.com/)             |
-|           [Alex Kladov](https://matklad.github.io/)           |       [Scott Alexander](https://astralcodexten.substack.com/)       |      [Paul Graham](http://paulgraham.com/articles.html)      |
-|           [Jakub Konka](http://www.jakubkonka.com/)           | [Stephen Wolfram](https://writings.stephenwolfram.com/all-by-date/) |         [Randall Munroe](https://xkcd.com/archive/)          |
-|           [Drew DeVault](https://drewdevault.com/)            |       [Eliezer Yudkowsky](https://www.yudkowsky.net/sitemap)        | [Dan Benoni & Louis-Xavier Lavallee](https://growth.design/) |
+|            [Russ Cox](https://research.swtch.com/)            |                   [Joscha Bach](http://bach.ai/)                    |         [Tim Urban](https://waitbutwhy.com/archive)          |
+|            [Loris Cro](https://kristoff.it/blog/)             |         [Jared Tumiel](https://jaredtumiel.github.io/blog/)         |            [Bret Victor](http://worrydream.com/)             |
+|          [Phil Eaton](https://notes.eatonphil.com/)           |       [Scott Alexander](https://astralcodexten.substack.com/)       |      [Paul Graham](http://paulgraham.com/articles.html)      |
+|           [Alex Kladov](https://matklad.github.io/)           | [Stephen Wolfram](https://writings.stephenwolfram.com/all-by-date/) |         [Randall Munroe](https://xkcd.com/archive/)          |
+|           [Jakub Konka](http://www.jakubkonka.com/)           |       [Eliezer Yudkowsky](https://www.yudkowsky.net/sitemap)        | [Dan Benoni & Louis-Xavier Lavallee](https://growth.design/) |
+|           [Drew DeVault](https://drewdevault.com/)            |                                                                     |                                                              |
 |              [King Butcher](https://kprotty.me/)              |                                                                     |                                                              |
 |       [Ted Kaminski](https://www.tedinski.com/archive/)       |                                                                     |                                                              |
 |           [Andrew Kelley](https://andrewkelley.me/)           |                                                                     |                                                              |
