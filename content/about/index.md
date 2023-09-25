@@ -1,4 +1,5 @@
++++
 title = "About"
-content = """
++++
+
 [Curriculum vitae](https://tensorush.github.io/cv/en.pdf)
-"""

@@ -1,5 +1,7 @@
++++
 title = "Blogs"
-content = """
++++
+
 |                          Programmers                          |                             Scientists                              |                          Creatives                           |
 |:-------------------------------------------------------------:|:-------------------------------------------------------------------:|:------------------------------------------------------------:|
 |            [Russ Cox](https://research.swtch.com/)            |                   [Joscha Bach](http://bach.ai/)                    |         [Tim Urban](https://waitbutwhy.com/archive)          |
@@ -14,8 +16,8 @@ content = """
 |           [Andrew Kelley](https://andrewkelley.me/)           |                                                                     |                                                              |
 |     [Jamie Brandon](https://www.scattered-thoughts.net/)      |                                                                     |                                                              |
 | [Brendan Gregg](https://www.brendangregg.com/blog/index.html) |                                                                     |                                                              |
+|  [Eli Bendersky](https://eli.thegreenplace.net/archives/all)  |                                                                     |                                                              |
 |              [Steven Wittens](https://acko.net/)              |                                                                     |                                                              |
 |            [Vitalik Buterin](https://vitalik.ca/)             |                                                                     |                                                              |
 |      [Mitchell Hashimoto](https://mitchellh.com/writing)      |                                                                     |                                                              |
 |    [Bartosz Ciechanowski](https://ciechanow.ski/archives/)    |                                                                     |                                                              |
-"""
