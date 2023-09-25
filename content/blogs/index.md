@@ -9,7 +9,8 @@ weight = 1
 |            [Loris Cro](https://kristoff.it/blog/)             |         [Jared Tumiel](https://jaredtumiel.github.io/blog/)         |            [Bret Victor](http://worrydream.com/)             |
 |            [Ayaz Hafiz](https://ayazhafiz.com/cc)             |       [Scott Alexander](https://astralcodexten.substack.com/)       |      [Paul Graham](http://paulgraham.com/articles.html)      |
 |          [Phil Eaton](https://notes.eatonphil.com/)           | [Stephen Wolfram](https://writings.stephenwolfram.com/all-by-date/) |         [Randall Munroe](https://xkcd.com/archive/)          |
-|           [Alex Kladov](https://matklad.github.io/)           |       [Eliezer Yudkowsky](https://www.yudkowsky.net/sitemap)        | [Dan Benoni & Louis-Xavier Lavallee](https://growth.design/) |
+|         [George Hotz](https://geohot.github.io/blog/)         |       [Eliezer Yudkowsky](https://www.yudkowsky.net/sitemap)        | [Dan Benoni & Louis-Xavier Lavallee](https://growth.design/) |
+|           [Alex Kladov](https://matklad.github.io/)           |                                                                     |                                                              |
 |           [Jakub Konka](http://www.jakubkonka.com/)           |                                                                     |                                                              |
 |           [Drew DeVault](https://drewdevault.com/)            |                                                                     |                                                              |
 |              [King Butcher](https://kprotty.me/)              |                                                                     |                                                              |
@@ -23,3 +24,4 @@ weight = 1
 |            [Vitalik Buterin](https://vitalik.ca/)             |                                                                     |                                                              |
 |      [Mitchell Hashimoto](https://mitchellh.com/writing)      |                                                                     |                                                              |
 |    [Bartosz Ciechanowski](https://ciechanow.ski/archives/)    |                                                                     |                                                              |
+|     [Wesley Aptekar-Cassels](https://blog.wesleyac.com/)      |                                                                     |                                                              |
