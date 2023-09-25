@@ -1,5 +1,6 @@
 +++
 title = "Blogs"
+weight = 1
 +++
 
 |                          Programmers                          |                             Scientists                              |                          Creatives                           |
