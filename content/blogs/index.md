@@ -18,6 +18,7 @@ weight = 1
 |     [Jamie Brandon](https://www.scattered-thoughts.net/)      |                                                                     |                                                              |
 | [Brendan Gregg](https://www.brendangregg.com/blog/index.html) |                                                                     |                                                              |
 |  [Eli Bendersky](https://eli.thegreenplace.net/archives/all)  |                                                                     |                                                              |
+|       [Graydon Hoare](https://graydon2.dreamwidth.org)        |                                                                     |                                                              |
 |              [Steven Wittens](https://acko.net/)              |                                                                     |                                                              |
 |            [Vitalik Buterin](https://vitalik.ca/)             |                                                                     |                                                              |
 |      [Mitchell Hashimoto](https://mitchellh.com/writing)      |                                                                     |                                                              |
