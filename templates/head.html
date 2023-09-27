@@ -2,9 +2,10 @@
 <html lang="en">
 
 <head>
+    <meta name="author" content="Jora Troosh">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
-
+    <meta name="description" content="My personal static site generated with Blades.">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
     <title>{{title}}{{#current}}{{pid}}{{/current}} - {{#site}}{{title}}</title>
@@ -13,7 +14,13 @@
     <link rel="alternate" type="application/atom+xml" title="Atom" href="{{url}}/atom.xml">{{/atom}}
     {{#rss}}
     <link rel="alternate" type="application/rss+xml" title="RSS" href="{{url}}/rss.xml">{{/rss}}
+
     <link rel="stylesheet" href="{{url}}/{{assets}}/style.css">
+
+    <link rel="icon" type="image/x-icon" href="{{url}}/{{assets}}/favicon.ico">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{url}}/{{assets}}/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{url}}/{{assets}}/favicon-32x32.png">
+    <link rel="apple-touch-icon" type="image/png" sizes="180x180" href="{{url}}/{{assets}}/apple-touch-icon.png">
     {{/site}}
 </head>
 
