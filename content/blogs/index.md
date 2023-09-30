@@ -5,13 +5,13 @@ weight = 1
 
 |                          Programmers                          |                             Scientists                              |                          Creatives                           |
 |:-------------------------------------------------------------:|:-------------------------------------------------------------------:|:------------------------------------------------------------:|
-|            [Russ Cox](https://research.swtch.com/)            |                   [Joscha Bach](http://bach.ai/)                    |         [Tim Urban](https://waitbutwhy.com/archive)          |
-|            [Loris Cro](https://kristoff.it/blog/)             |         [Jared Tumiel](https://jaredtumiel.github.io/blog/)         |            [Bret Victor](http://worrydream.com/)             |
-|            [Ayaz Hafiz](https://ayazhafiz.com/cc)             |       [Possibly Wrong](https://possiblywrong.wordpress.com/)        |      [Paul Graham](http://paulgraham.com/articles.html)      |
-|          [Phil Eaton](https://notes.eatonphil.com/)           |       [Scott Alexander](https://astralcodexten.substack.com/)       |         [Randall Munroe](https://xkcd.com/archive/)          |
-|         [George Hotz](https://geohot.github.io/blog/)         | [Stephen Wolfram](https://writings.stephenwolfram.com/all-by-date/) | [Dan Benoni & Louis-Xavier Lavallee](https://growth.design/) |
-|           [Alex Kladov](https://matklad.github.io/)           |       [Eliezer Yudkowsky](https://www.yudkowsky.net/sitemap)        |                                                              |
-|           [Jakub Konka](http://www.jakubkonka.com/)           |                                                                     |                                                              |
+|            [Russ Cox](https://research.swtch.com/)            |                 [Jeremy Kun](https://jeremykun.com)                 |         [Tim Urban](https://waitbutwhy.com/archive)          |
+|            [Loris Cro](https://kristoff.it/blog/)             |                   [Joscha Bach](http://bach.ai/)                    |            [Bret Victor](http://worrydream.com/)             |
+|            [Ayaz Hafiz](https://ayazhafiz.com/cc)             |         [Jared Tumiel](https://jaredtumiel.github.io/blog/)         |      [Paul Graham](http://paulgraham.com/articles.html)      |
+|          [Phil Eaton](https://notes.eatonphil.com/)           |       [Possibly Wrong](https://possiblywrong.wordpress.com/)        |         [Randall Munroe](https://xkcd.com/archive/)          |
+|         [George Hotz](https://geohot.github.io/blog/)         |       [Scott Alexander](https://astralcodexten.substack.com/)       | [Dan Benoni & Louis-Xavier Lavallee](https://growth.design/) |
+|           [Alex Kladov](https://matklad.github.io/)           | [Stephen Wolfram](https://writings.stephenwolfram.com/all-by-date/) |                                                              |
+|           [Jakub Konka](http://www.jakubkonka.com/)           |       [Eliezer Yudkowsky](https://www.yudkowsky.net/sitemap)        |                                                              |
 |           [Drew DeVault](https://drewdevault.com/)            |                                                                     |                                                              |
 |              [King Butcher](https://kprotty.me/)              |                                                                     |                                                              |
 |       [Ted Kaminski](https://www.tedinski.com/archive/)       |                                                                     |                                                              |
