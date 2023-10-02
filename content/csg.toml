@@ -523,13 +523,13 @@ caption = "Rewind #flip"
 alt = ""
 
 [[pictures]]
-pid = "stn"
+pid = "1"
 file = "stn"
 caption = "Shotgun #flip"
 alt = "https://youtu.be/CDZ0CePSQ40?t=261"
 
 [[pictures]]
-pid = "oto"
+pid = "2"
 file = "oto"
 caption = "One-to-one #flip"
 alt = "https://youtu.be/SwaejeJ8kPk?t=477"
