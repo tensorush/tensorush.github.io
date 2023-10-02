@@ -927,7 +927,7 @@ select.form-control {
 
 .dark,
 .dark pre {
-    background-color: #343434;
+    background-color: #242424;
 }
 
 .dark pre {
@@ -975,7 +975,7 @@ select.form-control {
 }
 
 .dark .form-group.form-textarea label:after {
-    background-color: #343434;
+    background-color: #242424;
 }
 
 .dark .form-control {
