@@ -1,6 +1,5 @@
 title = "Zig Design Patterns"
 date = "2023-09-14"
-weight = 0
 summary = """
 Patterns I've seen in the Zig standard library and on the Zig News forum.
 """
