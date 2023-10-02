@@ -1,5 +1,6 @@
 +++
 title = "About"
+date = "2023-09-15"
 +++
 
 ## General
@@ -13,5 +14,7 @@ title = "About"
 ## Sports
 
 First, I did swimming for 4 years, then played tennis for another 4, then stuck with weight-lifting for 8 more.
+
 I've been going cardio-only (swimming, running, rope-jumping) for the past 4 years.
-Lately, I've been into cheer stunting, only brushing up on my theory for now, though.
+
+Lately, I got into [cheer stunting](https://tensorush.github.io/csg.html), only brushing up on my theory for now, though.
