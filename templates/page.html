@@ -2,7 +2,7 @@
 <article itemscope itemtype="http://schema.org/BlogPosting">
     <header>
         <h1 itemprop="headline">{{title}}</h1>
-        <span class="muted">{{time}}</span>
+        <span class="muted">{{#date}}{{b}} {{e}}, {{y}}{{/date}}</span>
     </header>
 
     <div itemprop="articleBody">{{content}}</div>
@@ -11,8 +11,8 @@
         <a class="thumbnail" href="{{permalink}}">
             <figure class="small-figure">
                 <picture>
-                    <source type="image/jpeg" srcset="/img/thumb/{{file}}.jpg">
-                    <img class="gallery-photo" alt="{{alt}}" src="/img/thumb/{{file}}.jpg" />
+                    <source type="image/jpeg" srcset="/images/thumb/{{file}}.jpg">
+                    <img class="gallery-photo" alt="{{alt}}" src="/images/thumb/{{file}}.jpg" />
                 </picture>
                 <figcaption class="gallery-caption">{{caption}}</figcaption>
             </figure>
