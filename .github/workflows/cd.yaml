@@ -3,11 +3,9 @@ name: Continuos Delivery
 on:
   push:
     branches: [main]
-    paths: ["**.toml", "**.html", "**.css"]
 
   pull_request:
     branches: [main]
-    paths: ["**.toml", "**.html", "**.css"]
 
   workflow_dispatch:
 
