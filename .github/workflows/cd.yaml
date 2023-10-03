@@ -30,7 +30,6 @@ jobs:
         uses: baptiste0928/cargo-install@v2
         with:
           crate: blades
-          git: https://github.com/grego/blades
 
       - name: Build site
         run: blades all
