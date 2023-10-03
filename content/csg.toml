@@ -4,90 +4,85 @@ summary = """
 Illustrated textbook of basic cheerleading stunts.
 """
 content = """
-## General advice to bases:
+
+## Massive props:
+
+- [Hybrid Cheer](https://www.hybridcheer.com/pages/about-us)
+
+- [Eliza Labelle](https://www.youtube.com/@elizalabelle)
+
+- [Bonde Johnson](https://www.youtube.com/@bonde.johnson)
+
+- [Daniel Buyeske](https://www.youtube.com/@danielbuyeske)
+
+- [Gauge Stricklin](https://www.youtube.com/@Strictlycheer)
+
+## Types of stunts:
+
+- #pose - one-foot flyer poses
+- #startup - ways to get into a stunt
+- #dismount - ways to get down from a stunt
+- #static - static ways to chain stunts together
+- #dynamic - dynamic ways to chain stunts together
+- #extra - extra ways to mix it up for most stunts
+- #hands - ways for a flyer to kick into a handstand
+- #spin - ways to spin into, during or out of most stunts
+- #flip - ways to flip into, during or out of most stunts
+
+## Advice to bases:
 
 1) Don't drop your flyers.
-
 2) Keep your free hand on your hip.
-
 3) Make sure to switch to the non-dominant hand.
 
-## General advice to flyers:
+## Advice to flyers:
 
 1) Stay light and cute.
-
 2) Keep your chin, chest and toes up.
-
 3) Keep your body straight and above the base.
 
-## Y'all be safe and have fun, happy stuntin'!
+# **Y'all be safe and have fun, happy stuntin'!**
 """
 
-# Two-feet poses
+# Poses
 
 [[pictures]]
-pid = "hgv"
-file = "hgv"
-caption = "High-V #twofeet"
-alt = ""
+pid = "hvl"
+file = "hvl"
+caption = "High-V #pose"
+alt = "https://youtu.be/3ju2179PNC8?t=132"
 
 [[pictures]]
-pid = "tmn"
-file = "tmn"
-caption = "T-Motion #twofeet"
-alt = ""
-
-[[pictures]]
-pid = "thn"
-file = "thn"
-caption = "Touchdown #twofeet"
-alt = ""
-
-# One-foot poses
-
-[[pictures]]
-pid = "lbt"
-file = "lbt"
-caption = "Lib #onefoot"
+pid = "scl"
+file = "scl"
+caption = "Scale #pose"
 alt = ""
 
 [[pictures]]
 pid = "trh"
 file = "trh"
-caption = "Torch #onefoot"
-alt = ""
-
-[[pictures]]
-pid = "scl"
-file = "scl"
-caption = "Scale #onefoot"
+caption = "Torch #pose"
 alt = ""
 
 [[pictures]]
 pid = "sth"
 file = "sth"
-caption = "Stretch #onefoot"
-alt = ""
+caption = "Stretch #pose"
+alt = "https://youtu.be/kOSlKw79qdA?t=728"
 
 [[pictures]]
 pid = "scn"
 file = "scn"
-caption = "Scorpion #onefoot"
+caption = "Scorpion #pose"
 alt = ""
 
 [[pictures]]
 pid = "rbq"
 file = "rbq"
-caption = "Arabesque #onefoot"
-alt = ""
+caption = "Arabesque #pose"
+alt = "https://youtu.be/kOSlKw79qdA?t=576"
 
 # Jumps
-
-[[pictures]]
-pid = "tkj"
-file = "tkj"
-caption = "Tuck #jump"
-alt = ""
 
 [[pictures]]
 pid = "pkj"
@@ -128,21 +123,39 @@ alt = ""
 # Tosses
 
 [[pictures]]
+pid = "tsl"
+file = "tsl"
+caption = "Toss lib #toss"
+alt = ""
+
+[[pictures]]
 pid = "tsh"
 file = "tsh"
 caption = "Toss hands #toss"
+alt = "https://youtu.be/1hzO2X9e_CE?t=61"
+
+[[pictures]]
+pid = "tst"
+file = "tst"
+caption = "Toss fists #toss"
+alt = "https://youtu.be/7HU_bauP2lI?t=617"
+
+[[pictures]]
+pid = "tsp"
+file = "tsp"
+caption = "Toss platform #toss"
 alt = ""
 
 [[pictures]]
 pid = "tsx"
 file = "tsx"
 caption = "Toss extension #toss"
-alt = ""
+alt = "https://youtu.be/9LaHx5fUn6s?t=716"
 
 [[pictures]]
-pid = "tsp"
-file = "tsp"
-caption = "Toss platform #toss"
+pid = "tsc"
+file = "tsc"
+caption = "Toss cupie #toss"
 alt = ""
 
 [[pictures]]
@@ -152,102 +165,78 @@ caption = "Toss recliner #toss"
 alt = "https://youtu.be/aybcpdbEbNw?t=582"
 
 [[pictures]]
-pid = "tsc"
-file = "tsc"
-caption = "Toss cupie #toss"
-alt = ""
-
-[[pictures]]
-pid = "tsf"
-file = "tsf"
-caption = "Toss half #toss"
-alt = ""
-
-[[pictures]]
-pid = "tsl"
-file = "tsl"
-caption = "Toss lib #toss"
-alt = ""
-
-[[pictures]]
-pid = "vsr"
-file = "vsr"
-caption = "Visor #toss"
-alt = ""
-
-[[pictures]]
-pid = "gsd"
-file = "gsd"
-caption = "Genie stand #toss"
+pid = "dpt"
+file = "dpt"
+caption = "Drop toss #toss"
 alt = ""
 
 [[pictures]]
 pid = "spm"
 file = "spm"
 caption = "Superman #toss"
-alt = ""
+alt = "https://youtu.be/3pC9y3dZVrU?t=696"
 
 # Dismounts
 
 [[pictures]]
-pid = "ppc"
-file = "ppc"
+pid = "cdl"
+file = "cdl"
 caption = "Cradle #dismount"
-alt = ""
+alt = "https://youtu.be/kOSlKw79qdA?t=578"
 
 [[pictures]]
 pid = "ppf"
 file = "ppf"
 caption = "Pop off #dismount"
-alt = ""
+alt = "https://youtu.be/HMBSWEz2l24?t=672"
 
 [[pictures]]
 pid = "snf"
 file = "snf"
 caption = "Sign off #dismount"
-alt = ""
+alt = "https://youtu.be/LV3RCD7S-GE?t=201"
 
 [[pictures]]
-pid = "dpt"
-file = "dpt"
-caption = "Drop toss #dismount"
-alt = ""
+pid = "stt"
+file = "stt"
+caption = "Set out #dismount"
+alt = "https://youtu.be/WBMVkXf3oBU?t=755"
 
-[[pictures]]
-pid = "std"
-file = "std"
-caption = "Split drop #dismount"
-alt = ""
-
-# Extra
+# Extras
 
 [[pictures]]
 pid = "nrm"
 file = "nrm"
 caption = "One-arm #extra"
-alt = ""
-
-[[pictures]]
-pid = "mdt"
-file = "mdt"
-caption = "Immediate #extra"
-alt = ""
+alt = "https://youtu.be/REmmtNLAF7Q?t=150"
 
 [[pictures]]
 pid = "nlg"
 file = "nlg"
 caption = "One-leg #extra"
-alt = ""
+alt = "https://youtu.be/Pp5O3fj7Pbc?t=763"
+
+[[pictures]]
+pid = "nlk"
+file = "nlk"
+caption = "No-look #extra"
+alt = "https://youtu.be/ApTsZwIDYLU?t=421"
+
+[[pictures]]
+pid = "ldh"
+file = "ldh"
+caption = "Lend-a-hand #extra"
+alt = "https://youtu.be/LV3RCD7S-GE?t=873"
 
 [[pictures]]
 pid = "ddt"
 file = "ddt"
 caption = "Dead toss #extra"
-alt = ""
+alt = "https://youtu.be/ApTsZwIDYLU?t=473"
 
 [[pictures]]
-pid = "rmh"
-file = "rmh"
+pid = "msw"
+file = "msw"
 caption = "Arm switch #extra"
 alt = ""
 
@@ -264,42 +253,30 @@ caption = "Opposite spin #extra"
 alt = ""
 
 [[pictures]]
-pid = "plt"
-file = "plt"
-caption = "Pull through #extra"
-alt = ""
+pid = "mdt"
+file = "mdt"
+caption = "Immediate / Pull through #extra"
+alt = "https://youtu.be/HMBSWEz2l24?t=316"
 
-[[pictures]]
-pid = "rvf"
-file = "rvf"
-caption = "Reverse face #extra"
-alt = ""
-
-[[pictures]]
-pid = "rvg"
-file = "rvg"
-caption = "Reverse grip #extra"
-alt = ""
-
-[[pictures]]
-pid = "cpt"
-file = "cpt"
-caption = "Cupie time #extra"
-alt = ""
-
-[[pictures]]
-pid = "nkm"
-file = "nkm"
-caption = "Knuckle mode #extra"
-alt = ""
-
-# Static transitions
+# Statics
 
 [[pictures]]
 pid = "prp"
 file = "prp"
 caption = "Prep #static"
 alt = ""
+
+[[pictures]]
+pid = "vsr"
+file = "vsr"
+caption = "Visor #static"
+alt = ""
+
+[[pictures]]
+pid = "dlv"
+file = "dlv"
+caption = "Double Visor #static"
+alt = "https://youtu.be/7HU_bauP2lI?t=601"
 
 [[pictures]]
 pid = "gvt"
@@ -311,7 +288,7 @@ alt = ""
 pid = "stg"
 file = "stg"
 caption = "Split gravity #static"
-alt = ""
+alt = "https://youtu.be/3ju2179PNC8?t=272"
 
 [[pictures]]
 pid = "sst"
@@ -325,19 +302,31 @@ file = "ssd"
 caption = "Shoulder stand #static"
 alt = ""
 
-# Dynamic transitions
+[[pictures]]
+pid = "gsd"
+file = "gsd"
+caption = "Genie stand #static"
+alt = ""
+
+# Dynamics
+
+[[pictures]]
+pid = "tct"
+file = "tct"
+caption = "Tic-toc #dynamic"
+alt = "https://youtu.be/ey00mPkhMCs?t=234"
 
 [[pictures]]
 pid = "ppv"
 file = "ppv"
 caption = "Pop over #dynamic"
-alt = ""
+alt = "https://youtu.be/UnSqDsi_6lE?t=148"
 
 [[pictures]]
-pid = "flr"
-file = "flr"
-caption = "Full-over #dynamic"
-alt = ""
+pid = "flv"
+file = "flv"
+caption = "Full over #dynamic"
+alt = "https://youtu.be/7HU_bauP2lI?t=433"
 
 [[pictures]]
 pid = "pps"
@@ -352,72 +341,30 @@ caption = "Pop through #dynamic"
 alt = ""
 
 [[pictures]]
-pid = "tct"
-file = "tct"
-caption = "Tic-toc #dynamic"
-alt = ""
-
-[[pictures]]
-pid = "lth"
-file = "lth"
-caption = "Low-to-high #dynamic"
-alt = ""
-
-[[pictures]]
-pid = "hth"
-file = "hth"
-caption = "High-to-high #dynamic"
-alt = ""
+pid = "rpt"
+file = "rpt"
+caption = "Reverse pop through #dynamic"
+alt = "https://youtu.be/7HU_bauP2lI?t=688"
 
 # Start-ups
 
 [[pictures]]
-pid = "wlk"
-file = "wlk"
+pid = "wkn"
+file = "wkn"
 caption = "Walk-in #startup"
-alt = ""
-
-[[pictures]]
-pid = "hfp"
-file = "hfp"
-caption = "Half-up #startup"
-alt = ""
-
-[[pictures]]
-pid = "swp"
-file = "swp"
-caption = "Swing-up #startup"
-alt = "https://youtu.be/_qJulETphrI?t=174"
-
-[[pictures]]
-pid = "flp"
-file = "flp"
-caption = "Full-up #startup"
-alt = ""
-
-[[pictures]]
-pid = "nhp"
-file = "nhp"
-caption = "One-and-a-half-up #startup"
-alt = ""
-
-[[pictures]]
-pid = "hpp"
-file = "hpp"
-caption = "Hip-up #startup"
-alt = ""
-
-[[pictures]]
-pid = "pkp"
-file = "pkp"
-caption = "Pike-up #startup"
-alt = ""
+alt = "https://youtu.be/Pp5O3fj7Pbc?t=644"
 
 [[pictures]]
 pid = "blp"
 file = "blp"
 caption = "Ball-up #startup"
-alt = ""
+alt = "https://youtu.be/KsHd_mN0a84?t=73"
+
+[[pictures]]
+pid = "flp"
+file = "flp"
+caption = "Full-up #startup"
+alt = "https://youtu.be/HMBSWEz2l24?t=298"
 
 [[pictures]]
 pid = "dlp"
@@ -429,7 +376,19 @@ alt = "https://youtu.be/vUINVgnZBAQ?t=424"
 pid = "stp"
 file = "stp"
 caption = "Split-up #startup"
-alt = ""
+alt = "https://youtu.be/HMBSWEz2l24?t=664"
+
+[[pictures]]
+pid = "swp"
+file = "swp"
+caption = "Swing-up #startup"
+alt = "https://youtu.be/_qJulETphrI?t=174"
+
+[[pictures]]
+pid = "bmr"
+file = "bmr"
+caption = "Boomerang #startup"
+alt = "https://youtu.be/Vsq-m_Rd7Zk?t=767"
 
 [[pictures]]
 pid = "ssm"
@@ -441,51 +400,45 @@ alt = ""
 pid = "cnb"
 file = "cnb"
 caption = "Cannonball #startup"
-alt = ""
+alt = "https://youtu.be/ey00mPkhMCs?t=679"
 
 [[pictures]]
 pid = "bhp"
 file = "bhp"
 caption = "Back-handspring-up #startup"
-alt = ""
+alt = "https://youtu.be/LV3RCD7S-GE?t=455"
 
 [[pictures]]
 pid = "fhp"
 file = "fhp"
 caption = "Front-handspring-up #startup"
-alt = ""
+alt = "https://youtu.be/ebOIvS87YpM?t=621"
 
 # Spins
 
 [[pictures]]
-pid = "hfd"
-file = "hfd"
-caption = "Half-around #spin"
-alt = ""
+pid = "ftw"
+file = "ftw"
+caption = "Full twist #spin"
+alt = "https://youtu.be/DfFdPsbxVPQ?t=609"
 
 [[pictures]]
 pid = "fld"
 file = "fld"
 caption = "Full-around #spin"
-alt = ""
+alt = "https://youtu.be/LV3RCD7S-GE?t=314"
 
 [[pictures]]
-pid = "nhf"
-file = "nhf"
-caption = "One-and-a-half #spin"
-alt = ""
+pid = "nnh"
+file = "nnh"
+caption = "One-and-a-half-around #spin"
+alt = "https://youtu.be/u1x7tgvlO3M?t=518"
 
 [[pictures]]
-pid = "dbd"
-file = "dbd"
-caption = "Double-around #spin"
-alt = ""
-
-[[pictures]]
-pid = "atw"
-file = "atw"
+pid = "rtw"
+file = "rtw"
 caption = "Around-the-world #spin"
-alt = ""
+alt = "https://youtu.be/hw7tZkE-dHk?t=354"
 
 # Hands
 
@@ -499,19 +452,19 @@ alt = "https://youtu.be/_qJulETphrI?t=729"
 pid = "dmd"
 file = "dmd"
 caption = "Diamidov #hands"
-alt = ""
+alt = "https://youtu.be/7HU_bauP2lI?t=302"
 
 [[pictures]]
 pid = "dtd"
 file = "dtd"
 caption = "Hand-to-hand #hands"
-alt = ""
+alt = "https://youtu.be/LV3RCD7S-GE?t=172"
 
 [[pictures]]
 pid = "ddv"
 file = "ddv"
 caption = "Dolphin dive #hands"
-alt = ""
+alt = "https://youtu.be/UnSqDsi_6lE?t=405"
 
 # Flips
 
@@ -519,16 +472,16 @@ alt = ""
 pid = "rwd"
 file = "rwd"
 caption = "Rewind #flip"
-alt = ""
+alt = "https://youtu.be/LV3RCD7S-GE?t=375"
 
 [[pictures]]
-pid = "1"
+pid = "stn"
 file = "stn"
 caption = "Shotgun #flip"
 alt = "https://youtu.be/CDZ0CePSQ40?t=261"
 
 [[pictures]]
-pid = "2"
+pid = "oto"
 file = "oto"
 caption = "One-to-one #flip"
 alt = "https://youtu.be/SwaejeJ8kPk?t=477"
