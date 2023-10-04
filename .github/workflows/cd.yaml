@@ -26,10 +26,10 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v3
 
-      - name: Install Zola with Cargo
-        uses: baptiste0928/cargo-install@v2
+      - name: Install Zola
+        uses: taiki-e/install-action@v2
         with:
-          crate: zola
+          tool: zola
 
       - name: Build site
         run: zola build
