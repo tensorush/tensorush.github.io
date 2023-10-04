@@ -22,22 +22,22 @@ content = """
 * #flip — flipping a flyer
 * #pose — flyer striking a pose
 * #jump — flyer jumping upwards
-* #hand — flyer does a handstand
-* #rise — rising up into a stunt
-* #drop — dropping down from a stunt
-* #more — making it more challenging
+* #hand — flyer doing a handstand
+* #rise — flyer rising up into a stunt
+* #drop — flyer dropping down from a stunt
+* #more — making it more difficult to stunt
 
 ## Advice to bases:
 
-1. Always have a spotter.
-2. Keep your free hand on your hip.
-3. Make sure to switch to the non-dominant hand.
+1) Always have a spotter.
+2) Keep your free hand on your hip.
+3) Make sure to switch to the non-dominant hand.
 
 ## Advice to flyers:
 
-1. Stay light and cute.
-2. Keep your chin, chest and toes up.
-3. Keep your body straight and above the base.
+1) Stay light and cute.
+2) Keep your chin, chest and toes up.
+3) Keep your body straight and above the base.
 
 # **Y'all be safe and have fun, happy stuntin'!**
 """
