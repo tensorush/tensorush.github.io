@@ -9,6 +9,8 @@ tags = ["swe"]
 
 Classification of software products I've pulled out of thin air.
 
+<!-- more -->
+
 > Abbreviations:
 >
 > OTP - One-time payment, Don - Donation, Sub - Subscription,

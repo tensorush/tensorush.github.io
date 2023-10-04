@@ -48,13 +48,13 @@ pre code {
 
 a {
     cursor: pointer;
-    color: #ff2e88;
+    color: #009e60;
     text-decoration: none;
-    border-bottom: 1px solid #ff2e88
+    border-bottom: 1px solid #009e60
 }
 
 a:hover {
-    background-color: #ff2e88;
+    background-color: #009e60;
     color: #fff
 }
 
@@ -286,26 +286,6 @@ a:hover {
 .hack h5:before,
 .hack h6:before {
     display: inline
-}
-
-.hack h2:before {
-    content: "## "
-}
-
-.hack h3:before {
-    content: "### "
-}
-
-.hack h4:before {
-    content: "#### "
-}
-
-.hack h5:before {
-    content: "##### "
-}
-
-.hack h6:before {
-    content: "###### "
 }
 
 .hack li {
@@ -912,8 +892,8 @@ select.form-control {
 
 .menu .menu-item.active,
 .menu .menu-item:hover {
-    color: #000;
-    border-color: #000;
+    color: #242424;
+    border-color: #242424;
     background-color: transparent
 }
 
@@ -954,7 +934,7 @@ select.form-control {
 
 .dark,
 .dark pre {
-    background-color: #000
+    background-color: #242424
 }
 
 .dark pre {
@@ -1002,7 +982,7 @@ select.form-control {
 }
 
 .dark .form-group.form-textarea label:after {
-    background-color: #000
+    background-color: #242424
 }
 
 .dark .form-control {

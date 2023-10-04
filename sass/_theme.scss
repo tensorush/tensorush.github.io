@@ -72,12 +72,12 @@ blockquote cite::before {
 }
 
 nav a.active {
-    background-color: #ff2e88;
+    background-color: #009e60;
     color: #fff;
 }
 
 a[itemprop="url"] {
-    color: #009e60;
+    color: #f6a516;
 }
 
 a[itemprop="url"]:hover {
@@ -114,4 +114,21 @@ article [itemprop="summary"] p {
     .container {
         max-width: 50rem;
     }
+}
+
+.gallery-photo {
+    max-width: 100%;
+}
+
+.gallery {
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+.thumbnail {
+    margin: 1em;
+}
+
+.small-figure {
+    margin: 0;
 }

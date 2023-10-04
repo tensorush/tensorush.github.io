@@ -9,6 +9,8 @@ tags = ["zig", "swe"]
 
 Patterns I've seen in the Zig standard library and on the Zig News forum.
 
+<!-- more -->
+
 * [Traits](https://github.com/ziglang/zig/blob/master/lib/std/meta/trait.zig#L10)
 * [Closure](https://github.com/ziglang/zig/blob/master/lib/std/Thread/Pool.zig#L86)
 * [Context](https://github.com/ziglang/zig/blob/master/lib/std/hash_map.zig#L132)

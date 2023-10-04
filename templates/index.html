@@ -4,7 +4,11 @@
 <html lang="en">
 
     <head>
+        {% if page %}
+        <title>{{ page.title }}</title>
+        {% else %}
         <title>tensorush</title>
+        {% endif %}
 
         <meta name="author" content="Jora Troosh">
         <meta name="description" content="{{config.description}}">
@@ -27,7 +31,7 @@
         {% block header %}
         <header>
             <nav itemscope itemtype="http://schema.org/SiteNavigationElement">
-                <a class="active" itemprop="url" href="{{config.base_url}}"><span itemprop="name">Home</span></a>
+                <a itemprop="url" href="{{config.base_url}}"><span itemprop="name">Home</span></a>
                 <a itemprop="url" href="{{config.base_url}}/about/"><span itemprop="name">About</span></a>
                 <a itemprop="url" href="{{config.base_url}}/blogs/"><span itemprop="name">Blogs</span></a>
                 <a itemprop="url" href="{{config.base_url}}/categories/"><span itemprop="name">Categories</span></a>

@@ -9,6 +9,8 @@ tags = ["swe"]
 
 Classification of computer resources I've pulled out of thin air.
 
+<!-- more -->
+
 | Resource Type | Interface Unit |    Example App     |
 |:-------------:|:--------------:|:------------------:|
 |      CPU      |     Thread     | Multimedia player  |
