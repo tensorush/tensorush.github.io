@@ -1,0 +1,17 @@
+{% extends "index.html" %}
+
+{% block body %}
+
+{% block header %}
+{{ super() }}
+{% endblock header %}
+
+<h1>{{ taxonomy.name | capitalize }}</h1>
+
+<ul>
+    {% for term in terms %}
+    <li><a href="{{ term.permalink | safe }}">{{ term.name }}</a> ({{ term.pages | length }})</li>
+    {% endfor %}
+</ul>
+
+{% endblock body %}

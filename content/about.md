@@ -1,6 +1,6 @@
 +++
 title = "About"
-date = "2023-09-15"
+date = 2023-09-12
 +++
 
 ## General
@@ -15,6 +15,6 @@ date = "2023-09-15"
 
 First, I did swimming for 4 years, then played tennis for another 4, then stuck with weight-lifting for 8 more.
 
-I've been going cardio-only (swimming, running, rope-jumping) for the past 4 years.
+I've been only doing cardio for the past 4 years.
 
-Lately, I've been into [cheer stunting](https://tensorush.github.io/csg.html), only brushing up on my theory, though.
+Lately, I've been into cheer stunting, only brushing up on my theory, though.

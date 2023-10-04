@@ -1,0 +1,13 @@
+compile_sass = false
+generate_feed = true
+base_url = "https://tensorush.github.io"
+taxonomies = [{ name = "tags" }, { name = "categories" }]
+
+[slugify]
+paths = "off"
+anchors = "off"
+taxonomies = "off"
+
+[link_checker]
+skip_prefixes = ["https://"]
+skip_anchor_prefixes = ["https://"]

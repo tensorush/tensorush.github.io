@@ -1,9 +1,14 @@
++++
 title = "Software Product Types"
-date = "2023-09-23"
-summary = """
+date = 2023-09-23
+
+[taxonomies]
+categories = ["blog"]
+tags = ["swe"]
++++
+
 Classification of software products I've pulled out of thin air.
-"""
-content = """
+
 > Abbreviations:
 >
 > OTP - One-time payment, Don - Donation, Sub - Subscription,
@@ -16,9 +21,3 @@ content = """
 |     User app     | Communication & Productivity | Don / OTP / Sub |        OTD         |
 |    Video game    |     Art & Entertainment      |       OTP       |     OTD / Sync     |
 | Content platform |   Communication & Creation   |       Sub       |        Sync        |
-"""
-
-[taxonomies]
-authors = ["tensorush"]
-categories = ["blog"]
-tags = ["swe"]

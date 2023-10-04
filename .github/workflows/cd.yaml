@@ -26,13 +26,13 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v3
 
-      - name: Install blades with Cargo
+      - name: Install Zola with Cargo
         uses: baptiste0928/cargo-install@v2
         with:
-          crate: blades
+          crate: zola
 
       - name: Build site
-        run: blades all
+        run: zola build
 
       - name: Upload artifact for GitHub Pages
         uses: actions/upload-pages-artifact@v1

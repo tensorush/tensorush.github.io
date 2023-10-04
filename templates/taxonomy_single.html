@@ -1,0 +1,17 @@
+{% extends "index.html" %}
+
+{% import "macros.html" as macros %}
+
+{% block body %}
+
+{% block header %}
+{{ super() }}
+{% endblock header %}
+
+<h1>{{ term.name }}</h1>
+
+{% for page in term.pages %}
+{{ macros::entry(page=page) }}
+{% endfor %}
+
+{% endblock body %}

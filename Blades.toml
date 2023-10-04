@@ -1,7 +1,0 @@
-lang = "en-us"
-author = "Jora Troosh"
-title = "tensorush.github.io"
-url = "https://tensorush.github.io"
-keywords = "tensorush, personal, static, site, blades"
-description = "My personal static site generated with Blades."
-repository = "https://github.com/tensorush/tensorush.github.io"

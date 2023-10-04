@@ -1,10 +1,13 @@
++++
 title = "Zig Design Patterns"
-date = "2023-09-14"
-summary = """
+date = 2023-09-14
+
+[taxonomies]
+categories = ["blog"]
+tags = ["zig", "swe"]
++++
+
 Patterns I've seen in the Zig standard library and on the Zig News forum.
-"""
-content = """
-> [My Ziggit post](https://ziggit.dev/t/zig-patterns/1748)
 
 * [Traits](https://github.com/ziglang/zig/blob/master/lib/std/meta/trait.zig#L10)
 * [Closure](https://github.com/ziglang/zig/blob/master/lib/std/Thread/Pool.zig#L86)
@@ -19,9 +22,3 @@ content = """
 * [Comptime string intern pool](https://zig.news/xq/cool-zig-patterns-comptime-string-interning-3558)
 * [Static dispatch (tagged union)](https://zig.news/kristoff/easy-interfaces-with-zig-0100-2hc5)
 * [Dynamic dispatch (fat pointer)](https://github.com/ziglang/zig/blob/master/lib/std/mem/Allocator.zig#L14)
-"""
-
-[taxonomies]
-authors = ["tensorush"]
-categories = ["blog"]
-tags = ["zig"]

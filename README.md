@@ -4,7 +4,7 @@
 [![WS][ws-shield]][ws-url]
 [![LC][lc-shield]][lc-url]
 
-### My personal static site generated with [Blades](https://getblades.org/).
+### My personal static site generated with [Zola](https://www.getzola.org).
 
 <!-- MARKDOWN LINKS -->
 
