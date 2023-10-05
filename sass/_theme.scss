@@ -116,13 +116,15 @@ article [itemprop="summary"] p {
     }
 }
 
-.gallery-photo {
-    max-width: 100%;
+.gallery-image {
+    display: inline-block;
+    max-width: 130%;
+    height: auto;
 }
 
 .gallery {
     display: grid;
-    grid-template-columns: auto auto auto;
+    grid-template-columns: 280px 280px 280px;
 }
 
 .thumbnail {

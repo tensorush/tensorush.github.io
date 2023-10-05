@@ -13,6 +13,6 @@ date = 2023-09-12
 
 First, I did swimming for 4 years, then played tennis for another 4, then stuck with weight-lifting for 8 more.
 
-I've been only doing cardio for the past 4 years.
+I've been going cardio-only for the past 4 years.
 
-Lately, I've been into [cheer stunting](@/csg.md), only brushing up on my theory, though.
+Lately, I got into [cheer stunting](@/csg.md), only brushing up on my theory for now, though.

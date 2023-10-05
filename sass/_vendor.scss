@@ -7,12 +7,14 @@ html {
     text-rendering: geometricPrecision
 }
 
-body {
-    font-size: 1rem;
-    line-height: 1.5rem;
-    margin: 0;
-    font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
-    word-wrap: break-word
+@media screen and (prefers-color-scheme: dark) {
+    body {
+        font-size: 1rem;
+        line-height: 1.5rem;
+        margin: 0;
+        font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
+        word-wrap: break-word
+    }
 }
 
 h1,
