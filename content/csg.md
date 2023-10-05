@@ -45,13 +45,13 @@ c) Keep your body straight and above the base.
 
 {{ gallery_start() }}
 {{ image(path="tsh.jpg", desc="Toss hands", link="https://youtu.be/1hzO2X9e_CE?t=61") }}
-{{ image(path="tsm.jpg", desc="Toss platform", link="https://youtu.be/FZ4A0nTEtkc?t=107") }}
+{{ image(path="tsp.jpg", desc="Toss platform", link="https://youtu.be/FZ4A0nTEtkc?t=107") }}
 {{ image(path="tsx.jpg", desc="Toss extension", link="https://youtu.be/9LaHx5fUn6s?t=716") }}
-{{ image(path="tsp.jpg", desc="Toss cupie", link="https://youtu.be/0TN-f7vbnTQ?t=579") }}
+{{ image(path="tsc.jpg", desc="Toss cupie", link="https://youtu.be/0TN-f7vbnTQ?t=579") }}
 {{ image(path="spm.jpg", desc="Superman", link="https://youtu.be/3pC9y3dZVrU?t=716") }}
 {{ image(path="tsv.jpg", desc="Toss reverse", link="https://youtu.be/qjbRUuxKr3Q?t=796") }}
-{{ image(path="tsc.jpg", desc="Toss chair", link="https://youtu.be/aybcpdbEbNw?t=486") }}
-{{ image(path="tsr.jpg", desc="Toss recliner", link="https://youtu.be/aybcpdbEbNw?t=582") }}
+{{ image(path="tsr.jpg", desc="Toss chair", link="https://youtu.be/aybcpdbEbNw?t=486") }}
+{{ image(path="tsn.jpg", desc="Toss recliner", link="https://youtu.be/aybcpdbEbNw?t=582") }}
 {{ image(path="dpt.jpg", desc="Drop toss", link="https://youtu.be/7HU_bauP2lI?t=30") }}
 {{ gallery_end() }}
 
