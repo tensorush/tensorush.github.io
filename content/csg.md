@@ -170,8 +170,8 @@ c) Keep your body straight and above the base.
 
 {{ gallery_start() }}
 {{ image(path="mdt.jpg", desc="Immediate lib", link="https://youtu.be/HMBSWEz2l24?t=316") }}
+{{ image(path="pts.jpg", desc="Reverse spin", link="https://youtu.be/7HU_bauP2lI?t=451") }}
 {{ image(path="ptl.jpg", desc="Opposite leg", link="https://youtu.be/LV3RCD7S-GE?t=223") }}
-{{ image(path="pts.jpg", desc="Opposite spin", link="https://youtu.be/7HU_bauP2lI?t=451") }}
 {{ image(path="ldh.jpg", desc="Lend-a-hand", link="https://youtu.be/LV3RCD7S-GE?t=873") }}
 {{ image(path="ddt.jpg", desc="Dead toss", link="https://youtu.be/ApTsZwIDYLU?t=473") }}
 {{ image(path="tst.jpg", desc="Toss fists", link="https://youtu.be/7HU_bauP2lI?t=617") }}
