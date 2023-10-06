@@ -11,8 +11,6 @@ date = 2023-09-12
 
 ## Sports background
 
-First, I did swimming for 4 years, then played tennis for another 4, then stuck with weight-lifting for 8 more.
+First, I did swimming for 4 years, then played tennis for another 4, then stuck with weight-lifting for 8 more. For the past 4 years I've been going cardio-only, though.
 
-I've been going cardio-only for the past 4 years.
-
-Lately, I got into [cheer stunting](@/csg.md), only brushing up on my theory for now, though.
+Lately, I got into cheer stunting, only brushing up on my theory for now and dreaming of stunting with [these guys](@/csg.md).
