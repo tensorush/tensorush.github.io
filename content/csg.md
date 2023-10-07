@@ -29,7 +29,7 @@ a) Always have a spotter.
 
 b) Keep your free hand on your hip.
 
-c) Make sure to switch to the non-dominant hand.
+c) Make sure to switch to the non-dominant arm.
 
 ### **Advice to flyers:**
 
@@ -77,7 +77,7 @@ c) Keep your body straight and above the base.
 {{ image(path="pps.jpg", desc="Power press", link="https://youtu.be/0TN-f7vbnTQ?t=270") }}
 {{ image(path="ppt.jpg", desc="Pop through", link="https://youtu.be/REmmtNLAF7Q?t=369") }}
 {{ image(path="rpt.jpg", desc="Reverse pop through", link="https://youtu.be/7HU_bauP2lI?t=688") }}
-{{ image(path="tct.jpg", desc="Tic-tock", link="https://youtu.be/ey00mPkhMCs?t=234") }}
+{{ image(path="tkt.jpg", desc="Tick-tock", link="https://youtu.be/ey00mPkhMCs?t=234") }}
 {{ gallery_end() }}
 
 # **Start-ups - flyer gets up into a stunt**
@@ -143,7 +143,7 @@ c) Keep your body straight and above the base.
 {{ image(path="kkd.jpg", desc="Kick-double", link="") }}
 {{ gallery_end() }}
 
-# **Poses - flyer strikes a pose at the top**
+# **Poses - flyer hits a pose at the top**
 
 {{ gallery_start() }}
 {{ image(path="hvl.jpg", desc="Lib", link="https://youtu.be/3ju2179PNC8?t=132") }}
@@ -155,13 +155,13 @@ c) Keep your body straight and above the base.
 {{ image(path="bnr.jpg", desc="Bow and arrow", link="https://www.youtube.com/shorts/mC6yrsA0Ixk") }}
 {{ gallery_end() }}
 
-# **Jumps - flyer strikes a pose mid-air**
+# **Jumps - flyer hits a pose mid-air**
 
 {{ gallery_start() }}
 {{ image(path="pkj.jpg", desc="Pike", link="") }}
 {{ image(path="hkj.jpg", desc="Herkie", link="") }}
 {{ image(path="hdr.jpg", desc="Hurdler", link="") }}
-{{ image(path="tth.jpg", desc="Toe-touch", link="") }}
+{{ image(path="tth.jpg", desc="Toe touch", link="") }}
 {{ image(path="dlh.jpg", desc="Double hook", link="") }}
 {{ image(path="sdg.jpg", desc="Spread eagle", link="") }}
 {{ gallery_end() }}
