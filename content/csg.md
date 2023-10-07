@@ -59,10 +59,11 @@ c) Keep your body straight and above the base.
 
 {{ gallery_start() }}
 {{ image(path="prp.jpg", desc="Prep", link="https://youtu.be/FZ4A0nTEtkc?t=69") }}
+{{ image(path="sst.jpg", desc="Shoulder sit", link="https://youtu.be/ApTsZwIDYLU?t=119") }}
+{{ image(path="ssd.jpg", desc="Shoulder stand", link="https://youtu.be/SonOnjYRtHU?t=281") }}
 {{ image(path="gvt.jpg", desc="Gravity", link="https://www.youtube.com/shorts/5PSboWckPbc") }}
 {{ image(path="stg.jpg", desc="Split gravity", link="https://youtu.be/3ju2179PNC8?t=272") }}
-{{ image(path="ssd.jpg", desc="Shoulder stand", link="https://youtu.be/SonOnjYRtHU?t=281") }}
-{{ image(path="sst.jpg", desc="Shoulder sit", link="https://youtu.be/ApTsZwIDYLU?t=119") }}
+{{ image(path="hcr.jpg", desc="Helicopter", link="https://www.youtube.com/shorts/mC6yrsA0Ixk") }}
 {{ image(path="gsd.jpg", desc="Genie stand", link="https://youtu.be/RLbde7dYHkI?t=167") }}
 {{ image(path="vsr.jpg", desc="Visor", link="https://youtu.be/RLbde7dYHkI?t=235") }}
 {{ image(path="dlv.jpg", desc="Double Visor", link="https://youtu.be/7HU_bauP2lI?t=601") }}
@@ -77,7 +78,6 @@ c) Keep your body straight and above the base.
 {{ image(path="ppt.jpg", desc="Pop through", link="https://youtu.be/REmmtNLAF7Q?t=369") }}
 {{ image(path="rpt.jpg", desc="Reverse pop through", link="https://youtu.be/7HU_bauP2lI?t=688") }}
 {{ image(path="tct.jpg", desc="Tic-tock", link="https://youtu.be/ey00mPkhMCs?t=234") }}
-{{ image(path="hcr.jpg", desc="Helicopter", link="https://www.youtube.com/shorts/mC6yrsA0Ixk") }}
 {{ gallery_end() }}
 
 # **Start-ups - flyer gets up into a stunt**
@@ -89,9 +89,8 @@ c) Keep your body straight and above the base.
 {{ image(path="swp.jpg", desc="Swing-up", link="https://youtu.be/_qJulETphrI?t=174") }}
 {{ image(path="stp.jpg", desc="Split-up", link="https://youtu.be/HMBSWEz2l24?t=664") }}
 {{ image(path="wkn.jpg", desc="Walk-in", link="https://youtu.be/Pp5O3fj7Pbc?t=644") }}
-{{ image(path="bhp.jpg", desc="Back-handspring-up", link="https://youtu.be/LV3RCD7S-GE?t=455") }}
 {{ image(path="fhp.jpg", desc="Front-handspring-up", link="https://youtu.be/ebOIvS87YpM?t=621") }}
-{{ image(path="cnb.jpg", desc="Cannonball", link="https://youtu.be/ey00mPkhMCs?t=679") }}
+{{ image(path="bhp.jpg", desc="Back-handspring-up", link="https://youtu.be/LV3RCD7S-GE?t=455") }}
 {{ image(path="blp.jpg", desc="Ball-up", link="https://youtu.be/KsHd_mN0a84?t=73") }}
 {{ gallery_end() }}
 
@@ -111,6 +110,7 @@ c) Keep your body straight and above the base.
 {{ image(path="dsk.jpg", desc="Diam-ski", link="https://www.youtube.com/shorts/bDCxmfi40ck") }}
 {{ image(path="dtd.jpg", desc="Hand-to-hand", link="https://youtu.be/LV3RCD7S-GE?t=172") }}
 {{ image(path="ddv.jpg", desc="Dolphin dive", link="https://youtu.be/UnSqDsi_6lE?t=405") }}
+{{ image(path="cnb.jpg", desc="Cannonball", link="https://youtu.be/ey00mPkhMCs?t=679") }}
 {{ gallery_end() }}
 
 # **Flips - flyer performs a flip**
