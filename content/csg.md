@@ -7,7 +7,7 @@ categories = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 81 cheer stunting skills.
+Snapshot collection of 88 cheer stunting skills.
 
 <!-- more -->
 
@@ -48,8 +48,8 @@ c) Keep your body straight and above the base.
 {{ image(path="tsp.jpg", desc="Toss platform", link="https://youtu.be/FZ4A0nTEtkc?t=107") }}
 {{ image(path="tsx.jpg", desc="Toss extension", link="https://youtu.be/9LaHx5fUn6s?t=716") }}
 {{ image(path="tsc.jpg", desc="Toss cupie", link="https://youtu.be/0TN-f7vbnTQ?t=579") }}
-{{ image(path="spm.jpg", desc="Superman", link="https://youtu.be/3pC9y3dZVrU?t=716") }}
 {{ image(path="tsv.jpg", desc="Toss reverse", link="https://youtu.be/qjbRUuxKr3Q?t=796") }}
+{{ image(path="ssm.jpg", desc="Side-semi", link="") }}
 {{ image(path="tsr.jpg", desc="Toss chair", link="https://youtu.be/aybcpdbEbNw?t=486") }}
 {{ image(path="tsn.jpg", desc="Toss recliner", link="https://youtu.be/aybcpdbEbNw?t=582") }}
 {{ image(path="dpt.jpg", desc="Drop toss", link="https://youtu.be/7HU_bauP2lI?t=30") }}
@@ -64,9 +64,9 @@ c) Keep your body straight and above the base.
 {{ image(path="gvt.jpg", desc="Gravity", link="https://www.youtube.com/shorts/5PSboWckPbc") }}
 {{ image(path="stg.jpg", desc="Split gravity", link="https://youtu.be/3ju2179PNC8?t=272") }}
 {{ image(path="hcr.jpg", desc="Helicopter", link="https://www.youtube.com/shorts/mC6yrsA0Ixk") }}
-{{ image(path="gsd.jpg", desc="Genie stand", link="https://youtu.be/RLbde7dYHkI?t=167") }}
 {{ image(path="vsr.jpg", desc="Visor", link="https://youtu.be/RLbde7dYHkI?t=235") }}
 {{ image(path="dlv.jpg", desc="Double Visor", link="https://youtu.be/7HU_bauP2lI?t=601") }}
+{{ image(path="gsd.jpg", desc="Genie stand", link="https://youtu.be/RLbde7dYHkI?t=167") }}
 {{ gallery_end() }}
 
 # **Transitions - base moves a flyer**
@@ -77,7 +77,10 @@ c) Keep your body straight and above the base.
 {{ image(path="pps.jpg", desc="Power press", link="https://youtu.be/0TN-f7vbnTQ?t=270") }}
 {{ image(path="ppt.jpg", desc="Pop through", link="https://youtu.be/REmmtNLAF7Q?t=369") }}
 {{ image(path="rpt.jpg", desc="Reverse pop through", link="https://youtu.be/7HU_bauP2lI?t=688") }}
+{{ image(path="spp.jpg", desc="Side pop", link="https://www.youtube.com/shorts/RfXsbmoL3zY") }}
 {{ image(path="tkt.jpg", desc="Tick-tock", link="https://youtu.be/ey00mPkhMCs?t=234") }}
+{{ image(path="lth.jpg", desc="Low-to-high", link="") }}
+{{ image(path="hth.jpg", desc="High-to-high", link="https://youtu.be/FZ4A0nTEtkc?t=109") }}
 {{ gallery_end() }}
 
 # **Start-ups - flyer gets up into a stunt**
@@ -119,26 +122,27 @@ c) Keep your body straight and above the base.
 {{ image(path="rwd.jpg", desc="Rewind", link="https://youtu.be/LV3RCD7S-GE?t=375") }}
 {{ image(path="stn.jpg", desc="Shotgun", link="https://youtu.be/CDZ0CePSQ40?t=261") }}
 {{ image(path="ntn.jpg", desc="One-to-one", link="https://youtu.be/SwaejeJ8kPk?t=477") }}
-{{ image(path="ftk.jpg", desc="Front tuck", link="https://www.youtube.com/shorts/F1Qt8aNaLAU") }}
-{{ image(path="ssm.jpg", desc="Side-semi", link="") }}
+{{ image(path="ftk.jpg", desc="Front tuck", link="https://youtu.be/jb-2RLIiq24?t=313") }}
+{{ image(path="spm.jpg", desc="Superman", link="https://youtu.be/3pC9y3dZVrU?t=716") }}
+{{ image(path="fsd.jpg", desc="Front spread", link="https://www.youtube.com/shorts/RfXsbmoL3zY") }}
 {{ gallery_end() }}
 
 # **Spins - flyer performs a spin**
 
 {{ gallery_start() }}
 {{ image(path="fld.jpg", desc="Full-around", link="https://youtu.be/LV3RCD7S-GE?t=314") }}
-{{ image(path="ftw.jpg", desc="Full twist", link="https://youtu.be/DfFdPsbxVPQ?t=609") }}
 {{ image(path="nnh.jpg", desc="1-and-1/2-around", link="https://youtu.be/u1x7tgvlO3M?t=518") }}
-{{ image(path="rtw.jpg", desc="Around-the-world", link="https://youtu.be/hw7tZkE-dHk?t=354") }}
+{{ image(path="dld.jpg", desc="Double-around", link="") }}
+{{ image(path="ftw.jpg", desc="Full twist", link="https://youtu.be/DfFdPsbxVPQ?t=609") }}
 {{ gallery_end() }}
 
 # **Baskets - two bases and a backspot launch and catch a flyer**
 
 {{ gallery_start() }}
 {{ image(path="std.jpg", desc="Straight Ride", link="https://youtu.be/HMBSWEz2l24?t=140") }}
-{{ image(path="btk.jpg", desc="Back tuck", link="https://youtu.be/HMBSWEz2l24?t=174") }}
 {{ image(path="flt.jpg", desc="Full twist", link="https://youtu.be/HMBSWEz2l24?t=230") }}
 {{ image(path="dlt.jpg", desc="Double twist", link="https://youtu.be/7HU_bauP2lI?t=302") }}
+{{ image(path="btk.jpg", desc="Back tuck", link="https://youtu.be/HMBSWEz2l24?t=174") }}
 {{ image(path="kkf.jpg", desc="Kick-full", link="") }}
 {{ image(path="kkd.jpg", desc="Kick-double", link="") }}
 {{ gallery_end() }}
@@ -149,10 +153,12 @@ c) Keep your body straight and above the base.
 {{ image(path="hvl.jpg", desc="Lib", link="https://youtu.be/3ju2179PNC8?t=132") }}
 {{ image(path="sth.jpg", desc="Stretch", link="https://youtu.be/kOSlKw79qdA?t=728") }}
 {{ image(path="rbq.jpg", desc="Arabesque", link="https://youtu.be/kOSlKw79qdA?t=576") }}
-{{ image(path="scl.jpg", desc="Scale", link="") }}
 {{ image(path="trh.jpg", desc="Torch", link="") }}
-{{ image(path="scn.jpg", desc="Scorpion", link="") }}
+{{ image(path="scl.jpg", desc="Scale", link="") }}
 {{ image(path="bnr.jpg", desc="Bow and arrow", link="https://www.youtube.com/shorts/mC6yrsA0Ixk") }}
+{{ image(path="scn.jpg", desc="Scorpion", link="") }}
+{{ image(path="scn.jpg", desc="Spike", link="") }}
+{{ image(path="trh.jpg", desc="Chin chin", link="") }}
 {{ gallery_end() }}
 
 # **Jumps - flyer hits a pose mid-air**
@@ -169,15 +175,16 @@ c) Keep your body straight and above the base.
 # **Extras - stunts turn extra hard**
 
 {{ gallery_start() }}
-{{ image(path="mdt.jpg", desc="Immediate lib", link="https://youtu.be/HMBSWEz2l24?t=316") }}
 {{ image(path="pts.jpg", desc="Reverse spin", link="https://youtu.be/7HU_bauP2lI?t=451") }}
+{{ image(path="mdt.jpg", desc="Immediate lib", link="https://youtu.be/HMBSWEz2l24?t=316") }}
 {{ image(path="ptl.jpg", desc="Opposite leg", link="https://youtu.be/LV3RCD7S-GE?t=223") }}
 {{ image(path="ldh.jpg", desc="Lend-a-hand", link="https://youtu.be/LV3RCD7S-GE?t=873") }}
 {{ image(path="ddt.jpg", desc="Dead toss", link="https://youtu.be/ApTsZwIDYLU?t=473") }}
-{{ image(path="tst.jpg", desc="Toss fists", link="https://youtu.be/7HU_bauP2lI?t=617") }}
 {{ image(path="msw.jpg", desc="Arm switch", link="https://youtu.be/LV3RCD7S-GE?t=903") }}
+{{ image(path="tst.jpg", desc="Toss fists", link="https://youtu.be/7HU_bauP2lI?t=617") }}
 {{ image(path="nlk.jpg", desc="No-look", link="https://youtu.be/ApTsZwIDYLU?t=421") }}
 {{ image(path="nsp.jpg", desc="No-step", link="https://youtu.be/HMBSWEz2l24?t=382") }}
 {{ image(path="nrm.jpg", desc="One-arm", link="https://youtu.be/REmmtNLAF7Q?t=150") }}
 {{ image(path="nlg.jpg", desc="One-leg", link="https://youtu.be/Pp5O3fj7Pbc?t=763") }}
+{{ image(path="rtw.jpg", desc="Around-the-world", link="https://youtu.be/hw7tZkE-dHk?t=354") }}
 {{ gallery_end() }}
