@@ -182,11 +182,11 @@ c) Keep your body straight and above the base.
 {{ image(path="ldh.jpg", desc="Lend-a-hand", link="https://youtu.be/LV3RCD7S-GE?t=873") }}
 {{ image(path="ddt.jpg", desc="Dead toss", link="https://youtu.be/ApTsZwIDYLU?t=473") }}
 {{ image(path="msw.jpg", desc="Arm switch", link="https://youtu.be/LV3RCD7S-GE?t=903") }}
+{{ image(path="rtw.jpg", desc="Around-the-world", link="https://youtu.be/hw7tZkE-dHk?t=354") }}
+{{ image(path="nrm.jpg", desc="One-arm", link="https://youtu.be/REmmtNLAF7Q?t=150") }}
+{{ image(path="nlg.jpg", desc="One-leg", link="https://youtu.be/Pp5O3fj7Pbc?t=763") }}
 {{ image(path="tst.jpg", desc="Toss fists", link="https://youtu.be/7HU_bauP2lI?t=617") }}
 {{ image(path="nlk.jpg", desc="No-look", link="https://youtu.be/ApTsZwIDYLU?t=421") }}
 {{ image(path="nsp.jpg", desc="No-step", link="https://youtu.be/HMBSWEz2l24?t=382") }}
-{{ image(path="nrm.jpg", desc="One-arm", link="https://youtu.be/REmmtNLAF7Q?t=150") }}
-{{ image(path="nlg.jpg", desc="One-leg", link="https://youtu.be/Pp5O3fj7Pbc?t=763") }}
-{{ image(path="rtw.jpg", desc="Around-the-world", link="https://youtu.be/hw7tZkE-dHk?t=354") }}
 {{ image(path="hts.jpg", desc="High toss", link="") }}
 {{ gallery_end() }}
