@@ -93,8 +93,8 @@ c) Keep your body straight and above the base.
 {{ image(path="stp.jpg", desc="Split-up", link="https://youtu.be/HMBSWEz2l24?t=664") }}
 {{ image(path="wkn.jpg", desc="Walk-in", link="https://youtu.be/Pp5O3fj7Pbc?t=644") }}
 {{ image(path="fhp.jpg", desc="Front-handspring-up", link="https://youtu.be/ebOIvS87YpM?t=621") }}
-{{ image(path="bhp.jpg", desc="Back-handspring-up", link="https://youtu.be/LV3RCD7S-GE?t=455") }}
 {{ image(path="blp.jpg", desc="Ball-up", link="https://youtu.be/KsHd_mN0a84?t=73") }}
+{{ image(path="bhp.jpg", desc="Back-handspring-up", link="https://youtu.be/LV3RCD7S-GE?t=455") }}
 {{ gallery_end() }}
 
 # **Dismounts - flyer gets down from a stunt**
@@ -185,9 +185,9 @@ c) Keep your body straight and above the base.
 {{ image(path="tst.jpg", desc="Toss fists", link="https://youtu.be/7HU_bauP2lI?t=617") }}
 {{ image(path="ddt.jpg", desc="Dead toss", link="https://youtu.be/ApTsZwIDYLU?t=473") }}
 {{ image(path="msw.jpg", desc="Arm switch", link="https://youtu.be/LV3RCD7S-GE?t=903") }}
-{{ image(path="nlg.jpg", desc="One-leg", link="https://youtu.be/Pp5O3fj7Pbc?t=763") }}
-{{ image(path="bdn.jpg", desc="Bondan", link="https://youtu.be/LV3RCD7S-GE?t=873") }}
 {{ image(path="nrm.jpg", desc="One-arm", link="https://youtu.be/REmmtNLAF7Q?t=150") }}
+{{ image(path="bdn.jpg", desc="Bondan", link="https://youtu.be/LV3RCD7S-GE?t=873") }}
+{{ image(path="nlg.jpg", desc="One-leg", link="https://youtu.be/Pp5O3fj7Pbc?t=763") }}
 {{ image(path="ntg.jpg", desc="No-tag", link="https://youtu.be/Be-Sv_3gx5A?t=129") }}
 {{ image(path="nlk.jpg", desc="No-look", link="https://youtu.be/ApTsZwIDYLU?t=421") }}
 {{ image(path="nsp.jpg", desc="No-step", link="https://youtu.be/HMBSWEz2l24?t=382") }}
