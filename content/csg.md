@@ -7,7 +7,7 @@ categories = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 88 cheer stunting skills.
+Snapshot collection of 90 cheer stunting skills.
 
 <!-- more -->
 
@@ -170,14 +170,15 @@ c) Keep your body straight and above the base.
 {{ image(path="tth.jpg", desc="Toe touch", link="") }}
 {{ image(path="dlh.jpg", desc="Double hook", link="") }}
 {{ image(path="sdg.jpg", desc="Spread eagle", link="") }}
+{{ image(path="bft.jpg", desc="Bird Front", link="") }}
 {{ gallery_end() }}
 
 # **Extras - stunts turn extra hard**
 
 {{ gallery_start() }}
 {{ image(path="pts.jpg", desc="Reverse spin", link="https://youtu.be/7HU_bauP2lI?t=451") }}
-{{ image(path="mdt.jpg", desc="Immediate lib", link="https://youtu.be/HMBSWEz2l24?t=316") }}
-{{ image(path="ptl.jpg", desc="Opposite leg", link="https://youtu.be/LV3RCD7S-GE?t=223") }}
+{{ image(path="mdt.jpg", desc="Immediate (lib)", link="https://youtu.be/HMBSWEz2l24?t=316") }}
+{{ image(path="ptl.jpg", desc="Opposite (leg)", link="https://youtu.be/LV3RCD7S-GE?t=223") }}
 {{ image(path="ldh.jpg", desc="Lend-a-hand", link="https://youtu.be/LV3RCD7S-GE?t=873") }}
 {{ image(path="ddt.jpg", desc="Dead toss", link="https://youtu.be/ApTsZwIDYLU?t=473") }}
 {{ image(path="msw.jpg", desc="Arm switch", link="https://youtu.be/LV3RCD7S-GE?t=903") }}
@@ -187,4 +188,5 @@ c) Keep your body straight and above the base.
 {{ image(path="nrm.jpg", desc="One-arm", link="https://youtu.be/REmmtNLAF7Q?t=150") }}
 {{ image(path="nlg.jpg", desc="One-leg", link="https://youtu.be/Pp5O3fj7Pbc?t=763") }}
 {{ image(path="rtw.jpg", desc="Around-the-world", link="https://youtu.be/hw7tZkE-dHk?t=354") }}
+{{ image(path="hts.jpg", desc="High toss", link="") }}
 {{ gallery_end() }}
