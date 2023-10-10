@@ -134,6 +134,7 @@ c) Keep your body straight and above the base.
 {{ image(path="nnh.jpg", desc="1-and-1/2-around", link="https://youtu.be/u1x7tgvlO3M?t=518") }}
 {{ image(path="dld.jpg", desc="Double-around", link="") }}
 {{ image(path="ftw.jpg", desc="Full twist", link="https://youtu.be/DfFdPsbxVPQ?t=609") }}
+{{ image(path="rtw.jpg", desc="Around-the-world", link="https://youtu.be/hw7tZkE-dHk?t=354") }}
 {{ gallery_end() }}
 
 # **Baskets - two bases and a backspot launch and catch a flyer**
@@ -177,7 +178,7 @@ c) Keep your body straight and above the base.
 
 {{ gallery_start() }}
 {{ image(path="mdt.jpg", desc="Immediate (lib)", link="https://youtu.be/HMBSWEz2l24?t=316") }}
-{{ image(path="pts.jpg", desc="Reverse spin", link="https://youtu.be/7HU_bauP2lI?t=451") }}
+{{ image(path="pts.jpg", desc="Reverse (spin)", link="https://youtu.be/7HU_bauP2lI?t=451") }}
 {{ image(path="ptl.jpg", desc="Opposite (leg)", link="https://youtu.be/LV3RCD7S-GE?t=223") }}
 {{ image(path="lts.jpg", desc="Low toss", link="https://youtu.be/CDZ0CePSQ40?t=588") }}
 {{ image(path="hts.jpg", desc="High toss", link="https://youtu.be/vmu1ZInhbjw?t=207") }}
@@ -191,5 +192,4 @@ c) Keep your body straight and above the base.
 {{ image(path="ntg.jpg", desc="No-tag", link="https://youtu.be/Be-Sv_3gx5A?t=129") }}
 {{ image(path="nlk.jpg", desc="No-look", link="https://youtu.be/ApTsZwIDYLU?t=421") }}
 {{ image(path="nsp.jpg", desc="No-step", link="https://youtu.be/HMBSWEz2l24?t=382") }}
-{{ image(path="rtw.jpg", desc="Around-the-world", link="https://youtu.be/hw7tZkE-dHk?t=354") }}
 {{ gallery_end() }}
