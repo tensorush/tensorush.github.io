@@ -5,8 +5,8 @@ date = 2023-09-12
 
 [Software Engineer](https://tensorush.github.io/cv/en.pdf) on the look-out for:
 
+* [Wasm across Platforms](https://webassembly.org)
 * [Zig on the Low Level](https://ziglang.org)
-* [Wasm in the Backend](https://webassembly.org)
 * [Mojo all over AI](https://www.modular.com/mojo)
 
 ## Sports background
