@@ -7,7 +7,7 @@ categories = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 93 cheer stunting skills.
+Snapshot collection of 94 cheer stunting skills.
 
 <!-- more -->
 
@@ -102,6 +102,7 @@ c) Keep your body straight and above the base.
 {{ gallery_start() }}
 {{ image(path="ppf.jpg", desc="Pop off", link="https://youtu.be/HMBSWEz2l24?t=672") }}
 {{ image(path="snf.jpg", desc="Sign off", link="https://youtu.be/LV3RCD7S-GE?t=201") }}
+{{ image(path="sdp.jpg", desc="Spread drop", link="https://www.youtube.com/shorts/kg0WcXz9El8") }}
 {{ image(path="cdl.jpg", desc="Cradle", link="https://youtu.be/kOSlKw79qdA?t=578") }}
 {{ gallery_end() }}
 
