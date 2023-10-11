@@ -11,7 +11,7 @@ Snapshot collection of 108 cheer stunting skills.
 
 <!-- more -->
 
-### **Massive props to:**
+# **Massive props to:**
 
 {{ gallery_start() }}
 {{ image(path="lbl.jpg", desc="Eliza LaBelle", link="https://www.youtube.com/@elizalabelle") }}
@@ -22,7 +22,7 @@ Snapshot collection of 108 cheer stunting skills.
 {{ image(path="skn.jpg", desc="Gauge Stricklin", link="https://www.youtube.com/@Strictlycheer") }}
 {{ gallery_end() }}
 
-### **Advice to bases:**
+# Advice to bases:
 
 a) Always have a spotter.
 
@@ -30,7 +30,7 @@ b) Keep your free hand on your hip.
 
 c) Make sure to switch to the non-dominant arm.
 
-### **Advice to flyers:**
+# Advice to flyers:
 
 a) Stay light and cute.
 
@@ -67,8 +67,8 @@ c) Keep your body straight and above the base.
 {{ image(path="tsp.jpg", desc="Platform", link="https://youtu.be/FZ4A0nTEtkc?t=107") }}
 {{ image(path="tsx.jpg", desc="Extension", link="https://youtu.be/9LaHx5fUn6s?t=716") }}
 {{ image(path="tsc.jpg", desc="Cupie", link="https://youtu.be/0TN-f7vbnTQ?t=579") }}
-{{ image(path="srt.jpg", desc="Shoulder rest", link="https://www.youtube.com/shorts/B5OVmWPtjII") }}
 {{ image(path="hsd.jpg", desc="Handstand", link="https://youtu.be/T2Q9oXWz-gY?t=893") }}
+{{ image(path="srt.jpg", desc="Shoulder rest", link="https://www.youtube.com/shorts/B5OVmWPtjII") }}
 {{ image(path="gvt.jpg", desc="Gravity", link="https://www.youtube.com/shorts/5PSboWckPbc") }}
 {{ image(path="sst.jpg", desc="Shoulder sit", link="https://youtu.be/ApTsZwIDYLU?t=119") }}
 {{ image(path="stg.jpg", desc="Split gravity", link="https://youtu.be/3ju2179PNC8?t=272") }}
