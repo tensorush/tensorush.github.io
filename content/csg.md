@@ -176,8 +176,8 @@ c) Make sure to switch to the non-dominant arm.
 
 {{ gallery_start() }}
 {{ image(path="std.jpg", desc="Straight Ride", link="https://youtu.be/HMBSWEz2l24?t=140") }}
-{{ image(path="flt.jpg", desc="Full twist", link="https://youtu.be/HMBSWEz2l24?t=230") }}
-{{ image(path="dlt.jpg", desc="Double twist", link="https://youtu.be/7HU_bauP2lI?t=302") }}
+{{ image(path="flt.jpg", desc="Full", link="https://youtu.be/HMBSWEz2l24?t=230") }}
+{{ image(path="dlt.jpg", desc="Double full", link="https://youtu.be/7HU_bauP2lI?t=302") }}
 {{ image(path="btk.jpg", desc="Back tuck", link="https://youtu.be/HMBSWEz2l24?t=174") }}
 {{ image(path="kkf.jpg", desc="Kick-full", link="") }}
 {{ image(path="kkd.jpg", desc="Kick-double", link="https://youtu.be/qcQLCrjkxCE?t=608") }}
