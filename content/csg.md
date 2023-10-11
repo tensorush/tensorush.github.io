@@ -175,7 +175,7 @@ c) Make sure to switch to the non-dominant arm.
 # **Baskets - two bases and a backspot launch and catch a flyer**
 
 {{ gallery_start() }}
-{{ image(path="std.jpg", desc="Straight Ride", link="https://youtu.be/HMBSWEz2l24?t=140") }}
+{{ image(path="std.jpg", desc="Straight Ride", link="https://youtu.be/3ju2179PNC8?t=578") }}
 {{ image(path="flt.jpg", desc="Full", link="https://youtu.be/HMBSWEz2l24?t=230") }}
 {{ image(path="dlt.jpg", desc="Double full", link="https://youtu.be/7HU_bauP2lI?t=302") }}
 {{ image(path="btk.jpg", desc="Back tuck", link="https://youtu.be/HMBSWEz2l24?t=174") }}
