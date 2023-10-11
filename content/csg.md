@@ -22,14 +22,6 @@ Snapshot collection of 108 cheer stunting skills.
 {{ image(path="skn.jpg", desc="Gauge Stricklin", link="https://www.youtube.com/@Strictlycheer") }}
 {{ gallery_end() }}
 
-# Advice to bases:
-
-a) Always have a spotter.
-
-b) Keep your free hand on your hip.
-
-c) Make sure to switch to the non-dominant arm.
-
 # Advice to flyers:
 
 a) Stay light and cute.
@@ -38,16 +30,24 @@ b) Keep your chin, chest and toes up.
 
 c) Keep your body straight and above the base.
 
+# Advice to bases:
+
+a) Always have a spotter.
+
+b) Keep your free hand on your hip.
+
+c) Make sure to switch to the non-dominant arm.
+
 ## **Y'all be safe and have fun, happy stuntin'!**
 
-# **Tosses - base throws a flyer**
+# **Tosses - base launches a flyer**
 
 {{ gallery_start() }}
 {{ image(path="tsh.jpg", desc="Toss hands", link="https://youtu.be/1hzO2X9e_CE?t=61") }}
 {{ image(path="tsv.jpg", desc="Toss reverse", link="https://youtu.be/qjbRUuxKr3Q?t=796") }}
 {{ image(path="dpt.jpg", desc="Drop toss", link="https://youtu.be/7HU_bauP2lI?t=30") }}
 {{ image(path="wkn.jpg", desc="Walk-in", link="https://youtu.be/Pp5O3fj7Pbc?t=644") }}
-{{ image(path="slp.jpg", desc="Straddle up", link="") }}
+{{ image(path="slp.jpg", desc="Straddle-up", link="") }}
 {{ image(path="bmr.jpg", desc="Boomerang", link="https://youtu.be/Vsq-m_Rd7Zk?t=767") }}
 {{ image(path="flp.jpg", desc="Full-up", link="https://youtu.be/FZ4A0nTEtkc?t=187") }}
 {{ image(path="dlp.jpg", desc="Double-up", link="https://youtu.be/vUINVgnZBAQ?t=424") }}
@@ -60,7 +60,7 @@ c) Keep your body straight and above the base.
 {{ image(path="bhp.jpg", desc="Back-handspring-up", link="https://youtu.be/LV3RCD7S-GE?t=455") }}
 {{ gallery_end() }}
 
-# **Holds - base catches a flyer**
+# **Grips - base holds a flyer**
 
 {{ gallery_start() }}
 {{ image(path="prp.jpg", desc="Prep", link="https://youtu.be/FZ4A0nTEtkc?t=69") }}
@@ -96,7 +96,7 @@ c) Keep your body straight and above the base.
 {{ image(path="sfh.jpg", desc="Starfish", link="") }}
 {{ gallery_end() }}
 
-# **Dismounts - flyer gets down from a stunt**
+# **Dismounts - flyer comes down from a stunt**
 
 {{ gallery_start() }}
 {{ image(path="ppf.jpg", desc="Pop off", link="https://youtu.be/HMBSWEz2l24?t=672") }}
@@ -122,6 +122,17 @@ c) Keep your body straight and above the base.
 {{ image(path="cnb.jpg", desc="Cannonball", link="https://youtu.be/ey00mPkhMCs?t=679") }}
 {{ gallery_end() }}
 
+# **Spins - flyer performs a spin**
+
+{{ gallery_start() }}
+{{ image(path="fld.jpg", desc="Full-around", link="https://youtu.be/LV3RCD7S-GE?t=314") }}
+{{ image(path="nnh.jpg", desc="1-and-1/2-around", link="https://youtu.be/u1x7tgvlO3M?t=518") }}
+{{ image(path="dld.jpg", desc="Double-around", link="") }}
+{{ image(path="ftw.jpg", desc="Full twist", link="https://youtu.be/DfFdPsbxVPQ?t=609") }}
+{{ image(path="ssm.jpg", desc="Side-semi", link="https://www.youtube.com/shorts/LQlgP1Xcjp4") }}
+{{ image(path="rtw.jpg", desc="Around-the-world", link="https://youtu.be/hw7tZkE-dHk?t=354") }}
+{{ gallery_end() }}
+
 # **Flips - flyer performs a flip**
 
 {{ gallery_start() }}
@@ -133,17 +144,6 @@ c) Keep your body straight and above the base.
 {{ image(path="wht.jpg", desc="Winchester", link="https://www.youtube.com/shorts/5mLWtcbPUwk") }}
 {{ image(path="fsd.jpg", desc="Front spread", link="https://www.youtube.com/shorts/RfXsbmoL3zY") }}
 {{ image(path="bsd.jpg", desc="Back spread", link="") }}
-{{ gallery_end() }}
-
-# **Spins - flyer performs a spin**
-
-{{ gallery_start() }}
-{{ image(path="fld.jpg", desc="Full-around", link="https://youtu.be/LV3RCD7S-GE?t=314") }}
-{{ image(path="nnh.jpg", desc="1-and-1/2-around", link="https://youtu.be/u1x7tgvlO3M?t=518") }}
-{{ image(path="dld.jpg", desc="Double-around", link="") }}
-{{ image(path="ftw.jpg", desc="Full twist", link="https://youtu.be/DfFdPsbxVPQ?t=609") }}
-{{ image(path="ssm.jpg", desc="Side-semi", link="https://www.youtube.com/shorts/LQlgP1Xcjp4") }}
-{{ image(path="rtw.jpg", desc="Around-the-world", link="https://youtu.be/hw7tZkE-dHk?t=354") }}
 {{ gallery_end() }}
 
 # **Baskets - two bases and a backspot launch and catch a flyer**
