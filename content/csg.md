@@ -7,7 +7,7 @@ categories = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 110 cheer stunting skills.
+Snapshot collection of 111 cheer stunting skills.
 
 <!-- more -->
 
@@ -172,6 +172,7 @@ c) Make sure to switch to the non-dominant arm.
 {{ image(path="stt.jpg", desc="Set out", link="https://youtu.be/WBMVkXf3oBU?t=751") }}
 {{ image(path="sdp.jpg", desc="Spread drop", link="https://www.youtube.com/shorts/kg0WcXz9El8") }}
 {{ image(path="crl.jpg", desc="Cradle", link="https://youtu.be/WBMVkXf3oBU?t=726") }}
+{{ image(path="frl.jpg", desc="Forward roll", link="https://www.youtube.com/shorts/cxBuRNT1-Lg") }}
 {{ gallery_end() }}
 
 # **Baskets - two bases and a backspot launch and catch a flyer**

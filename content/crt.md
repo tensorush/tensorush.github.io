@@ -11,9 +11,9 @@ Classification of computer resources I've pulled out of thin air.
 
 <!-- more -->
 
-| Resource Type | Interface Unit |    Example App     |
-|:-------------:|:--------------:|:------------------:|
-|      CPU      |     Thread     | Multimedia player  |
-|     Disk      |      File      |  Antivirus daemon  |
-|    Memory     |   Cache line   |     Video game     |
-|    Network    |     Socket     | Application server |
+| Resource Type | Interface Unit | Resource-intensive App |
+|:-------------:|:--------------:|:----------------------:|
+|      CPU      |     Thread     |   Multimedia player    |
+|     Disk      |      File      |    Antivirus daemon    |
+|    Memory     |   Cache line   |       Video game       |
+|    Network    |     Socket     |   Application server   |
