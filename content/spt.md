@@ -1,6 +1,6 @@
 +++
 title = "Software Product Types"
-date = 2023-09-23
+date = 2023-09-22
 
 [taxonomies]
 categories = ["blog"]
