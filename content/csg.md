@@ -7,7 +7,7 @@ categories = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 111 cheer stunting skills (15 missing).
+Snapshot collection of 112 cheer stunting skills (15 still missing).
 
 <!-- more -->
 
@@ -38,7 +38,7 @@ b) Keep your free hand on your hip.
 
 c) Make sure to switch to the non-dominant arm.
 
-## **Y'all be safe and have fun, happy stuntin'!**
+## **Y'all be safe and have fun, happy stunting!**
 
 # **Grips - base catches a flyer**
 
@@ -47,14 +47,15 @@ c) Make sure to switch to the non-dominant arm.
 {{ image(path="tsp.jpg", desc="Platform", link="https://youtu.be/FZ4A0nTEtkc?t=107") }}
 {{ image(path="tsx.jpg", desc="Extension", link="https://youtu.be/9LaHx5fUn6s?t=716") }}
 {{ image(path="tsc.jpg", desc="Cupie", link="https://youtu.be/0TN-f7vbnTQ?t=579") }}
-{{ image(path="hsd.jpg", desc="Handstand", link="https://youtu.be/T2Q9oXWz-gY?t=893") }}
-{{ image(path="srt.jpg", desc="Shoulder rest", link="https://www.youtube.com/shorts/B5OVmWPtjII") }}
-{{ image(path="gvt.jpg", desc="Gravity", link="https://www.youtube.com/shorts/5PSboWckPbc") }}
+{{ image(path="hsd.jpg", desc="Handstand", link="https://youtu.be/DfFdPsbxVPQ?t=475") }}
+{{ image(path="chv.jpg", desc="Catch reverse", link="https://youtu.be/qjbRUuxKr3Q?t=796") }}
 {{ image(path="sst.jpg", desc="Shoulder sit", link="https://youtu.be/ApTsZwIDYLU?t=119") }}
 {{ image(path="stg.jpg", desc="Split gravity", link="https://youtu.be/3ju2179PNC8?t=272") }}
-{{ image(path="ssd.jpg", desc="Shoulder stand", link="https://youtu.be/SonOnjYRtHU?t=281") }}
+{{ image(path="gvt.jpg", desc="Gravity", link="https://www.youtube.com/shorts/5PSboWckPbc") }}
+{{ image(path="srt.jpg", desc="Shoulder rest", link="https://www.youtube.com/shorts/B5OVmWPtjII") }}
 {{ image(path="gst.jpg", desc="Genie sit", link="https://www.youtube.com/shorts/CMK7YeHJ8Mw") }}
 {{ image(path="gsd.jpg", desc="Genie stand", link="https://youtu.be/RLbde7dYHkI?t=167") }}
+{{ image(path="ssd.jpg", desc="Shoulder stand", link="https://youtu.be/SonOnjYRtHU?t=281") }}
 {{ image(path="vsr.jpg", desc="Visor", link="https://youtu.be/RLbde7dYHkI?t=235") }}
 {{ image(path="dlv.jpg", desc="Double visor", link="https://youtu.be/7HU_bauP2lI?t=601") }}
 {{ gallery_end() }}
@@ -63,7 +64,7 @@ c) Make sure to switch to the non-dominant arm.
 
 {{ gallery_start() }}
 {{ image(path="tsh.jpg", desc="Toss hands", link="https://youtu.be/1hzO2X9e_CE?t=61") }}
-{{ image(path="tsv.jpg", desc="Toss reverse", link="https://youtu.be/qjbRUuxKr3Q?t=796") }}
+{{ image(path="tsv.jpg", desc="Toss reverse", link="https://youtu.be/WBMVkXf3oBU?t=769") }}
 {{ image(path="dpt.jpg", desc="Drop toss", link="https://youtu.be/7HU_bauP2lI?t=30") }}
 {{ image(path="wkn.jpg", desc="Walk-in", link="https://youtu.be/Pp5O3fj7Pbc?t=644") }}
 {{ image(path="slp.jpg", desc="Straddle up", link="") }}
