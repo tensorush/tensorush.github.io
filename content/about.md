@@ -3,7 +3,7 @@ title = "About"
 date = 2023-09-12
 +++
 
-[Software Engineer](https://tensorush.github.io/cv/en.pdf) on the look-out for:
+[Software Engineer](https://tensorush.github.io/cv/en.pdf) hyped up about:
 
 {{ gallery_start() }}
 {{ image(path="zgl.jpg", desc="Zig", link="https://ziglang.org") }}
