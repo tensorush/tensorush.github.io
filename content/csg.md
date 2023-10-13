@@ -66,21 +66,21 @@ c) Make sure to switch to the non-dominant arm.
 {{ image(path="tsh.jpg", desc="Toss hands", link="https://youtu.be/1hzO2X9e_CE?t=61") }}
 {{ image(path="tsv.jpg", desc="Toss reverse", link="https://youtu.be/WBMVkXf3oBU?t=769") }}
 {{ image(path="dpt.jpg", desc="Drop toss", link="https://youtu.be/7HU_bauP2lI?t=30") }}
+{{ image(path="tsr.jpg", desc="Toss chair", link="https://youtu.be/aybcpdbEbNw?t=486") }}
+{{ image(path="sts.jpg", desc="Stretch toss", link="https://www.youtube.com/shorts/PkMPp2MzDfU") }}
+{{ image(path="tsn.jpg", desc="Toss recliner", link="https://youtu.be/aybcpdbEbNw?t=617") }}
 {{ image(path="wkn.jpg", desc="Walk-in", link="https://youtu.be/Pp5O3fj7Pbc?t=644") }}
 {{ image(path="slp.jpg", desc="Straddle up", link="") }}
 {{ image(path="bmr.jpg", desc="Boomerang", link="https://youtu.be/Vsq-m_Rd7Zk?t=767") }}
 {{ image(path="flp.jpg", desc="Full up", link="https://youtu.be/FZ4A0nTEtkc?t=187") }}
 {{ image(path="dlp.jpg", desc="Double up", link="https://youtu.be/vUINVgnZBAQ?t=424") }}
 {{ image(path="tpp.jpg", desc="Triple up", link="https://www.youtube.com/shorts/UeR4EAB5H9Y") }}
-{{ image(path="tsr.jpg", desc="Toss chair", link="https://youtu.be/aybcpdbEbNw?t=486") }}
-{{ image(path="sts.jpg", desc="Stretch toss", link="https://www.youtube.com/shorts/PkMPp2MzDfU") }}
-{{ image(path="tsn.jpg", desc="Toss recliner", link="https://youtu.be/aybcpdbEbNw?t=582") }}
 {{ image(path="fhp.jpg", desc="Front handspring up", link="https://youtu.be/ebOIvS87YpM?t=621") }}
 {{ image(path="blp.jpg", desc="Ball up", link="https://youtu.be/KsHd_mN0a84?t=73") }}
 {{ image(path="bhp.jpg", desc="Back handspring up", link="https://youtu.be/LV3RCD7S-GE?t=455") }}
 {{ gallery_end() }}
 
-# **Moves - base transitions a flyer from one grip to another**
+# **Transitions - base moves a flyer from one grip to another**
 
 {{ gallery_start() }}
 {{ image(path="ppv.jpg", desc="Pop over", link="https://youtu.be/UnSqDsi_6lE?t=148") }}
@@ -130,7 +130,7 @@ c) Make sure to switch to the non-dominant arm.
 {{ image(path="nnh.jpg", desc="1 and 1/2 around", link="https://youtu.be/u1x7tgvlO3M?t=518") }}
 {{ image(path="dld.jpg", desc="Double around", link="") }}
 {{ image(path="ftw.jpg", desc="Full twist", link="https://youtu.be/DfFdPsbxVPQ?t=609") }}
-{{ image(path="ssm.jpg", desc="Side semi", link="https://www.youtube.com/shorts/LQlgP1Xcjp4") }}
+{{ image(path="ssm.jpg", desc="Side semi", link="https://www.youtube.com/shorts/p2XVKhJH3Aw") }}
 {{ image(path="rtw.jpg", desc="Around the world", link="https://youtu.be/hw7tZkE-dHk?t=354") }}
 {{ gallery_end() }}
 
@@ -147,7 +147,7 @@ c) Make sure to switch to the non-dominant arm.
 {{ image(path="bsd.jpg", desc="Back spread", link="") }}
 {{ gallery_end() }}
 
-# **Handstands - flyer gets up into a handstand**
+# **Handstands - flyer kicks up into a handstand**
 
 {{ gallery_start() }}
 {{ image(path="dmd.jpg", desc="Diamidov", link="https://youtu.be/7HU_bauP2lI?t=302") }}
@@ -161,7 +161,7 @@ c) Make sure to switch to the non-dominant arm.
 {{ image(path="cnb.jpg", desc="Cannonball", link="https://youtu.be/ey00mPkhMCs?t=679") }}
 {{ gallery_end() }}
 
-# **Dismounts - flyer gets down from a stunt**
+# **Dismounts - flyer comes down from a stunt**
 
 {{ gallery_start() }}
 {{ image(path="ppf.jpg", desc="Pop off", link="https://youtu.be/HMBSWEz2l24?t=672") }}
