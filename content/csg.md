@@ -1,13 +1,13 @@
 +++
 title = "Cheer Stunting Gallery"
-date = 2023-10-03
+date = 2023-10-15
 
 [taxonomies]
 categories = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 117 cheer stunting skills (15 still missing).
+Snapshot collection of 118 cheer stunting skills (15 still missing).
 
 <!-- more -->
 
@@ -203,11 +203,12 @@ c) Keep your body straight and in line with the base.
 {{ image(path="lts.jpg", desc="Low toss", link="https://youtu.be/CDZ0CePSQ40?t=588") }}
 {{ image(path="hts.jpg", desc="High toss", link="https://youtu.be/vmu1ZInhbjw?t=207") }}
 {{ image(path="vts.jpg", desc="Hover toss", link="https://youtu.be/SonOnjYRtHU?t=1135") }}
-{{ image(path="nrm.jpg", desc="One arm", link="https://youtu.be/REmmtNLAF7Q?t=150") }}
-{{ image(path="ddt.jpg", desc="Dead toss", link="https://youtu.be/ApTsZwIDYLU?t=473") }}
-{{ image(path="nlg.jpg", desc="One leg", link="https://youtu.be/Pp5O3fj7Pbc?t=763") }}
 {{ image(path="ntg.jpg", desc="No tag", link="https://youtu.be/Be-Sv_3gx5A?t=129") }}
 {{ image(path="nlk.jpg", desc="No look", link="https://youtu.be/ApTsZwIDYLU?t=421") }}
 {{ image(path="nsp.jpg", desc="No step", link="https://youtu.be/HMBSWEz2l24?t=382") }}
+{{ image(path="nrm.jpg", desc="One arm", link="https://youtu.be/REmmtNLAF7Q?t=150") }}
+{{ image(path="ddt.jpg", desc="Dead toss", link="https://youtu.be/ApTsZwIDYLU?t=473") }}
+{{ image(path="nlg.jpg", desc="One leg", link="https://youtu.be/Pp5O3fj7Pbc?t=763") }}
 {{ image(path="tst.jpg", desc="Toss fists", link="https://youtu.be/7HU_bauP2lI?t=617") }}
+{{ image(path="bvb.jpg", desc="Above brows", link="https://youtu.be/Be-Sv_3gx5A?t=894") }}
 {{ gallery_end() }}
