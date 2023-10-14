@@ -48,7 +48,7 @@ c) Keep your body straight and in line with the base.
 {{ image(path="tsx.jpg", desc="Extension", link="https://youtu.be/9LaHx5fUn6s?t=716") }}
 {{ image(path="tsc.jpg", desc="Cupie", link="https://youtu.be/0TN-f7vbnTQ?t=579") }}
 {{ image(path="hsd.jpg", desc="Handstand", link="https://youtu.be/DfFdPsbxVPQ?t=475") }}
-{{ image(path="chv.jpg", desc="Catch reverse", link="https://youtu.be/qjbRUuxKr3Q?t=796") }}
+{{ image(path="rvp.jpg", desc="Reverse grip", link="https://youtu.be/qjbRUuxKr3Q?t=796") }}
 {{ image(path="gvt.jpg", desc="Gravity", link="https://www.youtube.com/shorts/5PSboWckPbc") }}
 {{ image(path="rvg.jpg", desc="Reverse gravity", link="https://youtu.be/3ju2179PNC8?t=272") }}
 {{ image(path="sst.jpg", desc="Shoulder sit", link="https://youtu.be/ApTsZwIDYLU?t=119") }}
@@ -64,7 +64,7 @@ c) Keep your body straight and in line with the base.
 
 {{ gallery_start() }}
 {{ image(path="tsh.jpg", desc="Toss hands", link="https://youtu.be/1hzO2X9e_CE?t=61") }}
-{{ image(path="tsv.jpg", desc="Toss reverse", link="https://youtu.be/WBMVkXf3oBU?t=769") }}
+{{ image(path="rvt.jpg", desc="Reverse toss", link="https://youtu.be/WBMVkXf3oBU?t=769") }}
 {{ image(path="dpt.jpg", desc="Drop toss", link="https://youtu.be/7HU_bauP2lI?t=30") }}
 {{ image(path="tsr.jpg", desc="Toss chair", link="https://youtu.be/aybcpdbEbNw?t=486") }}
 {{ image(path="sts.jpg", desc="Stretch toss", link="https://www.youtube.com/shorts/PkMPp2MzDfU") }}
@@ -135,7 +135,7 @@ c) Keep your body straight and in line with the base.
 {{ image(path="dlh.jpg", desc="Double hook", link="") }}
 {{ image(path="tth.jpg", desc="Toe touch", link="") }}
 {{ image(path="sdg.jpg", desc="Spread eagle", link="") }}
-{{ image(path="bft.jpg", desc="Bird Front", link="https://www.youtube.com/shorts/6avCjWkWyjI") }}
+{{ image(path="bft.jpg", desc="Bird front", link="https://www.youtube.com/shorts/6avCjWkWyjI") }}
 {{ gallery_end() }}
 
 # **Spins - flyer performs a spin**
@@ -183,7 +183,7 @@ c) Keep your body straight and in line with the base.
 # **Baskets - two bases and a backspot launch and catch a flyer**
 
 {{ gallery_start() }}
-{{ image(path="std.jpg", desc="Straight Ride", link="https://youtu.be/3ju2179PNC8?t=578") }}
+{{ image(path="std.jpg", desc="Straight ride", link="https://youtu.be/3ju2179PNC8?t=578") }}
 {{ image(path="flt.jpg", desc="Full", link="https://youtu.be/HMBSWEz2l24?t=230") }}
 {{ image(path="dlt.jpg", desc="Double full", link="https://youtu.be/7HU_bauP2lI?t=302") }}
 {{ image(path="btk.jpg", desc="Back tuck", link="https://youtu.be/HMBSWEz2l24?t=174") }}
