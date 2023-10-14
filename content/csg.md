@@ -7,7 +7,7 @@ categories = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 116 cheer stunting skills (15 still missing).
+Snapshot collection of 117 cheer stunting skills (15 still missing).
 
 <!-- more -->
 
@@ -22,21 +22,21 @@ Snapshot collection of 116 cheer stunting skills (15 still missing).
 {{ image(path="skn.jpg", desc="Gauge Stricklin", link="https://www.youtube.com/@Strictlycheer") }}
 {{ gallery_end() }}
 
-# Advice to flyers:
-
-a) Stay light and cute.
-
-b) Keep your chin, chest and toes up.
-
-c) Keep your body straight and above the base.
-
-# Advice to bases:
+# Note to bases:
 
 a) Always have a spotter.
 
 b) Keep your free hand on your hip.
 
 c) Make sure to switch to the non-dominant arm.
+
+# Note to flyers:
+
+a) Stay light and cute.
+
+b) Keep your chin, chest and toes up.
+
+c) Keep your body straight and in line with the base.
 
 ## **Y'all be safe and have fun, happy stunting!**
 
@@ -49,15 +49,15 @@ c) Make sure to switch to the non-dominant arm.
 {{ image(path="tsc.jpg", desc="Cupie", link="https://youtu.be/0TN-f7vbnTQ?t=579") }}
 {{ image(path="hsd.jpg", desc="Handstand", link="https://youtu.be/DfFdPsbxVPQ?t=475") }}
 {{ image(path="chv.jpg", desc="Catch reverse", link="https://youtu.be/qjbRUuxKr3Q?t=796") }}
-{{ image(path="sst.jpg", desc="Shoulder sit", link="https://youtu.be/ApTsZwIDYLU?t=119") }}
-{{ image(path="stg.jpg", desc="Split gravity", link="https://youtu.be/3ju2179PNC8?t=272") }}
 {{ image(path="gvt.jpg", desc="Gravity", link="https://www.youtube.com/shorts/5PSboWckPbc") }}
-{{ image(path="srt.jpg", desc="Shoulder rest", link="https://www.youtube.com/shorts/B5OVmWPtjII") }}
-{{ image(path="gst.jpg", desc="Genie sit", link="https://www.youtube.com/shorts/CMK7YeHJ8Mw") }}
+{{ image(path="rvg.jpg", desc="Reverse gravity", link="https://youtu.be/3ju2179PNC8?t=272") }}
+{{ image(path="sst.jpg", desc="Shoulder sit", link="https://youtu.be/ApTsZwIDYLU?t=119") }}
 {{ image(path="gsd.jpg", desc="Genie stand", link="https://youtu.be/RLbde7dYHkI?t=167") }}
-{{ image(path="ssd.jpg", desc="Shoulder stand", link="https://youtu.be/SonOnjYRtHU?t=281") }}
+{{ image(path="gst.jpg", desc="Genie sit", link="https://www.youtube.com/shorts/CMK7YeHJ8Mw") }}
+{{ image(path="srt.jpg", desc="Shoulder rest", link="https://www.youtube.com/shorts/B5OVmWPtjII") }}
 {{ image(path="vsr.jpg", desc="Visor", link="https://youtu.be/RLbde7dYHkI?t=235") }}
 {{ image(path="dlv.jpg", desc="Double visor", link="https://youtu.be/7HU_bauP2lI?t=601") }}
+{{ image(path="ssd.jpg", desc="Shoulder stand", link="https://youtu.be/SonOnjYRtHU?t=281") }}
 {{ gallery_end() }}
 
 # **Tosses - base throws a flyer**
@@ -80,7 +80,20 @@ c) Make sure to switch to the non-dominant arm.
 {{ image(path="bhp.jpg", desc="Back handspring up", link="https://youtu.be/LV3RCD7S-GE?t=455") }}
 {{ gallery_end() }}
 
-# **Transitions - base moves a flyer from one grip to another**
+# **Handstands - flyer gets up into a handstand**
+
+{{ gallery_start() }}
+{{ image(path="dmd.jpg", desc="Diamidov", link="https://youtu.be/7HU_bauP2lI?t=302") }}
+{{ image(path="hsk.jpg", desc="Handski", link="https://youtu.be/_qJulETphrI?t=729") }}
+{{ image(path="dsk.jpg", desc="Diamski", link="https://www.youtube.com/shorts/bDCxmfi40ck") }}
+{{ image(path="dtd.jpg", desc="Hand to hand", link="https://youtu.be/LV3RCD7S-GE?t=172") }}
+{{ image(path="stp.jpg", desc="Split", link="https://youtu.be/HMBSWEz2l24?t=664") }}
+{{ image(path="cnb.jpg", desc="Cannonball", link="https://youtu.be/ey00mPkhMCs?t=679") }}
+{{ image(path="swp.jpg", desc="Swing", link="https://youtu.be/_qJulETphrI?t=174") }}
+{{ image(path="rst.jpg", desc="Reverse split", link="https://www.youtube.com/shorts/8dl1v6_4Vio") }}
+{{ gallery_end() }}
+
+# **Transitions - flyer moves from one grip to another**
 
 {{ gallery_start() }}
 {{ image(path="ppv.jpg", desc="Pop over", link="https://youtu.be/UnSqDsi_6lE?t=148") }}
@@ -92,6 +105,8 @@ c) Make sure to switch to the non-dominant arm.
 {{ image(path="pph.jpg", desc="Pop through", link="https://youtu.be/REmmtNLAF7Q?t=369") }}
 {{ image(path="rpt.jpg", desc="Reverse pop through", link="https://youtu.be/7HU_bauP2lI?t=688") }}
 {{ image(path="tpt.jpg", desc="Twist pop through", link="https://www.youtube.com/shorts/qLsIQM8KoOQ") }}
+{{ image(path="ddv.jpg", desc="Dolphin dive", link="https://youtu.be/UnSqDsi_6lE?t=405") }}
+{{ image(path="ppt.jpg", desc="Pop tart", link="https://www.youtube.com/shorts/enKAPA7lPYw") }}
 {{ image(path="spp.jpg", desc="Side pop", link="https://www.youtube.com/shorts/RfXsbmoL3zY") }}
 {{ image(path="hcr.jpg", desc="Helicopter", link="https://www.youtube.com/shorts/mC6yrsA0Ixk") }}
 {{ image(path="sfh.jpg", desc="Starfish", link="") }}
@@ -127,7 +142,7 @@ c) Make sure to switch to the non-dominant arm.
 
 {{ gallery_start() }}
 {{ image(path="fld.jpg", desc="Full around", link="https://youtu.be/LV3RCD7S-GE?t=314") }}
-{{ image(path="nnh.jpg", desc="1 and 1/2 around", link="https://youtu.be/u1x7tgvlO3M?t=518") }}
+{{ image(path="nnh.jpg", desc="1 and 1/2 around", link="https://youtu.be/u1x7tgvlO3M?t=523") }}
 {{ image(path="dld.jpg", desc="Double around", link="") }}
 {{ image(path="ftw.jpg", desc="Full twist", link="https://youtu.be/DfFdPsbxVPQ?t=609") }}
 {{ image(path="ssm.jpg", desc="Side semi", link="https://www.youtube.com/shorts/p2XVKhJH3Aw") }}
@@ -142,37 +157,23 @@ c) Make sure to switch to the non-dominant arm.
 {{ image(path="ntn.jpg", desc="One to one", link="https://youtu.be/SwaejeJ8kPk?t=477") }}
 {{ image(path="rwd.jpg", desc="Rewind", link="https://youtu.be/LV3RCD7S-GE?t=375") }}
 {{ image(path="stn.jpg", desc="Shotgun", link="https://youtu.be/CDZ0CePSQ40?t=261") }}
-{{ image(path="wht.jpg", desc="Winchester", link="https://www.youtube.com/shorts/5mLWtcbPUwk") }}
-{{ gallery_end() }}
-
-# **Handstands - flyer kicks up into a handstand**
-
-{{ gallery_start() }}
-{{ image(path="dmd.jpg", desc="Diamidov", link="https://youtu.be/7HU_bauP2lI?t=302") }}
-{{ image(path="hsk.jpg", desc="Handski", link="https://youtu.be/_qJulETphrI?t=729") }}
-{{ image(path="dsk.jpg", desc="Diamski", link="https://www.youtube.com/shorts/bDCxmfi40ck") }}
-{{ image(path="ddv.jpg", desc="Dolphin dive", link="https://youtu.be/UnSqDsi_6lE?t=405") }}
-{{ image(path="stp.jpg", desc="Split", link="https://youtu.be/HMBSWEz2l24?t=664") }}
-{{ image(path="dtd.jpg", desc="Hand to hand", link="https://youtu.be/LV3RCD7S-GE?t=172") }}
-{{ image(path="swp.jpg", desc="Swing", link="https://youtu.be/_qJulETphrI?t=174") }}
-{{ image(path="rst.jpg", desc="Reverse split", link="https://www.youtube.com/shorts/8dl1v6_4Vio") }}
-{{ image(path="cnb.jpg", desc="Cannonball", link="https://youtu.be/ey00mPkhMCs?t=679") }}
+{{ image(path="rvr.jpg", desc="Reverse rewind", link="https://youtu.be/u1x7tgvlO3M?t=518") }}
 {{ image(path="fsd.jpg", desc="Front spread", link="https://www.youtube.com/shorts/RfXsbmoL3zY") }}
-{{ image(path="ppt.jpg", desc="Pop tart", link="https://www.youtube.com/shorts/enKAPA7lPYw") }}
+{{ image(path="wht.jpg", desc="Winchester", link="https://www.youtube.com/shorts/5mLWtcbPUwk") }}
 {{ image(path="bsd.jpg", desc="Back spread", link="") }}
 {{ gallery_end() }}
 
-# **Dismounts - flyer comes down from a stunt**
+# **Dismounts - flyer gets down from a stunt**
 
 {{ gallery_start() }}
 {{ image(path="ppf.jpg", desc="Pop off", link="https://youtu.be/HMBSWEz2l24?t=672") }}
 {{ image(path="spf.jpg", desc="Spin off", link="https://www.youtube.com/shorts/cxBuRNT1-Lg") }}
 {{ image(path="ppr.jpg", desc="Reverse pop off", link="https://youtu.be/LV3RCD7S-GE?t=30") }}
 {{ image(path="snf.jpg", desc="Sign off", link="https://youtu.be/LV3RCD7S-GE?t=201") }}
-{{ image(path="frl.jpg", desc="Forward roll", link="https://www.youtube.com/shorts/cxBuRNT1-Lg") }}
+{{ image(path="sdp.jpg", desc="Spread drop", link="https://www.youtube.com/shorts/kg0WcXz9El8") }}
 {{ image(path="wkt.jpg", desc="Walk out", link="https://youtu.be/LV3RCD7S-GE?t=24") }}
 {{ image(path="stt.jpg", desc="Set out", link="https://youtu.be/WBMVkXf3oBU?t=751") }}
-{{ image(path="sdp.jpg", desc="Spread drop", link="https://www.youtube.com/shorts/kg0WcXz9El8") }}
+{{ image(path="frl.jpg", desc="Forward roll", link="https://www.youtube.com/shorts/cxBuRNT1-Lg") }}
 {{ image(path="crl.jpg", desc="Cradle", link="https://youtu.be/WBMVkXf3oBU?t=726") }}
 {{ image(path="fdn.jpg", desc="Full down", link="") }}
 {{ image(path="tdn.jpg", desc="Twist down", link="https://www.youtube.com/shorts/B5OVmWPtjII") }}
@@ -193,9 +194,9 @@ c) Make sure to switch to the non-dominant arm.
 # **Extras - stunts turn extra hard**
 
 {{ gallery_start() }}
-{{ image(path="mdt.jpg", desc="Immediate (lib)", link="https://youtu.be/HMBSWEz2l24?t=316") }}
-{{ image(path="pts.jpg", desc="Reverse (spin)", link="https://youtu.be/7HU_bauP2lI?t=451") }}
-{{ image(path="ptl.jpg", desc="Opposite (leg)", link="https://youtu.be/LV3RCD7S-GE?t=223") }}
+{{ image(path="mdt.jpg", desc="Immediate lib", link="https://youtu.be/HMBSWEz2l24?t=316") }}
+{{ image(path="pts.jpg", desc="Reverse spin", link="https://youtu.be/7HU_bauP2lI?t=451") }}
+{{ image(path="ptl.jpg", desc="Opposite leg", link="https://youtu.be/LV3RCD7S-GE?t=223") }}
 {{ image(path="msw.jpg", desc="Arm switch", link="https://youtu.be/LV3RCD7S-GE?t=903") }}
 {{ image(path="bdn.jpg", desc="Bondan", link="https://youtu.be/LV3RCD7S-GE?t=873") }}
 {{ image(path="rhp.jpg", desc="Air handspring up", link="https://www.youtube.com/shorts/EHGxbOI7mZQ") }}
