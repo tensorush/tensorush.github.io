@@ -123,7 +123,7 @@ c) Keep your body straight and in line with the base.
 {{ image(path="scl.jpg", desc="Scale", link="https://www.youtube.com/shorts/UyUDK7X_tRo") }}
 {{ image(path="scn.jpg", desc="Scorpion", link="") }}
 {{ image(path="hhn.jpg", desc="Chin chin", link="") }}
-{{ image(path="spk.jpg", desc="Spike", link="") }}
+{{ image(path="ndl.jpg", desc="Needle", link="") }}
 {{ gallery_end() }}
 
 # **Jumps - flyer hits a pose mid-air**
