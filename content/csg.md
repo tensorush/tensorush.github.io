@@ -7,7 +7,7 @@ categories = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 118 cheer stunting skills (15 still missing).
+Snapshot collection of 118 cheer stunting skills (14 still missing).
 
 <!-- more -->
 
@@ -160,7 +160,7 @@ c) Keep your body straight and in line with the base.
 {{ image(path="rvr.jpg", desc="Reverse rewind", link="https://youtu.be/u1x7tgvlO3M?t=518") }}
 {{ image(path="fsd.jpg", desc="Front spread", link="https://www.youtube.com/shorts/RfXsbmoL3zY") }}
 {{ image(path="wht.jpg", desc="Winchester", link="https://www.youtube.com/shorts/5mLWtcbPUwk") }}
-{{ image(path="bsd.jpg", desc="Back spread", link="") }}
+{{ image(path="bsd.jpg", desc="Back spread", link="https://www.youtube.com/shorts/CbazH3PF1MU") }}
 {{ gallery_end() }}
 
 # **Dismounts - flyer gets down from a stunt**
@@ -207,8 +207,8 @@ c) Keep your body straight and in line with the base.
 {{ image(path="nlk.jpg", desc="No look", link="https://youtu.be/ApTsZwIDYLU?t=421") }}
 {{ image(path="nsp.jpg", desc="No step", link="https://youtu.be/HMBSWEz2l24?t=382") }}
 {{ image(path="nrm.jpg", desc="One arm", link="https://youtu.be/REmmtNLAF7Q?t=150") }}
-{{ image(path="ddt.jpg", desc="Dead toss", link="https://youtu.be/ApTsZwIDYLU?t=473") }}
+{{ image(path="btb.jpg", desc="Above the brows", link="https://youtu.be/Be-Sv_3gx5A?t=894") }}
 {{ image(path="nlg.jpg", desc="One leg", link="https://youtu.be/Pp5O3fj7Pbc?t=763") }}
 {{ image(path="tst.jpg", desc="Toss fists", link="https://youtu.be/7HU_bauP2lI?t=617") }}
-{{ image(path="bvb.jpg", desc="Above brows", link="https://youtu.be/Be-Sv_3gx5A?t=894") }}
+{{ image(path="ddt.jpg", desc="Dead toss", link="https://youtu.be/ApTsZwIDYLU?t=473") }}
 {{ gallery_end() }}
