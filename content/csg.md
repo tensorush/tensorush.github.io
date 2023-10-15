@@ -48,7 +48,7 @@ c) Keep your body straight and in line with the base.
 {{ image(path="tsx.jpg", desc="Extension", link="https://youtu.be/9LaHx5fUn6s?t=716") }}
 {{ image(path="tsc.jpg", desc="Cupie", link="https://youtu.be/0TN-f7vbnTQ?t=579") }}
 {{ image(path="hsd.jpg", desc="Handstand", link="https://youtu.be/DfFdPsbxVPQ?t=475") }}
-{{ image(path="rvp.jpg", desc="Reverse grip", link="https://youtu.be/qjbRUuxKr3Q?t=796") }}
+{{ image(path="rvc.jpg", desc="Reverse catch", link="https://youtu.be/qjbRUuxKr3Q?t=796") }}
 {{ image(path="gvt.jpg", desc="Gravity", link="https://www.youtube.com/shorts/5PSboWckPbc") }}
 {{ image(path="rvg.jpg", desc="Reverse gravity", link="https://youtu.be/3ju2179PNC8?t=272") }}
 {{ image(path="sst.jpg", desc="Shoulder sit", link="https://youtu.be/ApTsZwIDYLU?t=119") }}
