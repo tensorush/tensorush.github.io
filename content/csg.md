@@ -142,11 +142,11 @@ c) Keep your body straight and in line with the base.
 {{ image(path="fld.jpg", desc="Full around", link="https://youtu.be/LV3RCD7S-GE?t=314") }}
 {{ image(path="nnh.jpg", desc="1 and 1/2 around", link="https://youtu.be/u1x7tgvlO3M?t=523") }}
 {{ image(path="dld.jpg", desc="Double around", link="") }}
-{{ image(path="ftw.jpg", desc="Full twist", link="https://youtu.be/DfFdPsbxVPQ?t=609") }}
-{{ image(path="hdd.jpg", desc="Handski around", link="https://www.youtube.com/shorts/4sAQu4PxQOA") }}
-{{ image(path="ssm.jpg", desc="Side semi", link="https://www.youtube.com/shorts/p2XVKhJH3Aw") }}
 {{ image(path="hcr.jpg", desc="Helicopter", link="https://www.youtube.com/shorts/mC6yrsA0Ixk") }}
 {{ image(path="sfh.jpg", desc="Starfish", link="https://www.youtube.com/shorts/8ufJn_pcaUw") }}
+{{ image(path="ssm.jpg", desc="Side semi", link="https://www.youtube.com/shorts/p2XVKhJH3Aw") }}
+{{ image(path="ftw.jpg", desc="Full twist", link="https://youtu.be/DfFdPsbxVPQ?t=609") }}
+{{ image(path="hdd.jpg", desc="Handski around", link="https://www.youtube.com/shorts/4sAQu4PxQOA") }}
 {{ image(path="rtw.jpg", desc="Around the world", link="https://youtu.be/hw7tZkE-dHk?t=354") }}
 {{ gallery_end() }}
 
