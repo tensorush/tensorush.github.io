@@ -7,7 +7,7 @@ categories = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 118 cheer stunting skills (14 still missing).
+Snapshot collection of 120 cheer stunting skills (13 still missing).
 
 <!-- more -->
 
@@ -108,8 +108,6 @@ c) Keep your body straight and in line with the base.
 {{ image(path="ddv.jpg", desc="Dolphin dive", link="https://youtu.be/UnSqDsi_6lE?t=405") }}
 {{ image(path="ppt.jpg", desc="Pop tart", link="https://www.youtube.com/shorts/enKAPA7lPYw") }}
 {{ image(path="spp.jpg", desc="Side pop", link="https://www.youtube.com/shorts/RfXsbmoL3zY") }}
-{{ image(path="hcr.jpg", desc="Helicopter", link="https://www.youtube.com/shorts/mC6yrsA0Ixk") }}
-{{ image(path="sfh.jpg", desc="Starfish", link="") }}
 {{ gallery_end() }}
 
 # **Poses - flyer hits a pose at the top**
@@ -145,7 +143,10 @@ c) Keep your body straight and in line with the base.
 {{ image(path="nnh.jpg", desc="1 and 1/2 around", link="https://youtu.be/u1x7tgvlO3M?t=523") }}
 {{ image(path="dld.jpg", desc="Double around", link="") }}
 {{ image(path="ftw.jpg", desc="Full twist", link="https://youtu.be/DfFdPsbxVPQ?t=609") }}
+{{ image(path="hdd.jpg", desc="Handski around", link="https://www.youtube.com/shorts/4sAQu4PxQOA") }}
 {{ image(path="ssm.jpg", desc="Side semi", link="https://www.youtube.com/shorts/p2XVKhJH3Aw") }}
+{{ image(path="hcr.jpg", desc="Helicopter", link="https://www.youtube.com/shorts/mC6yrsA0Ixk") }}
+{{ image(path="sfh.jpg", desc="Starfish", link="https://www.youtube.com/shorts/8ufJn_pcaUw") }}
 {{ image(path="rtw.jpg", desc="Around the world", link="https://youtu.be/hw7tZkE-dHk?t=354") }}
 {{ gallery_end() }}
 
@@ -170,14 +171,15 @@ c) Keep your body straight and in line with the base.
 {{ image(path="spf.jpg", desc="Spin off", link="https://www.youtube.com/shorts/cxBuRNT1-Lg") }}
 {{ image(path="ppr.jpg", desc="Reverse pop off", link="https://youtu.be/LV3RCD7S-GE?t=30") }}
 {{ image(path="snf.jpg", desc="Sign off", link="https://youtu.be/LV3RCD7S-GE?t=201") }}
-{{ image(path="sdp.jpg", desc="Spread drop", link="https://www.youtube.com/shorts/kg0WcXz9El8") }}
+{{ image(path="fsp.jpg", desc="Front spread drop", link="https://www.youtube.com/shorts/kg0WcXz9El8") }}
 {{ image(path="wkt.jpg", desc="Walk out", link="https://youtu.be/LV3RCD7S-GE?t=24") }}
 {{ image(path="stt.jpg", desc="Set out", link="https://youtu.be/WBMVkXf3oBU?t=751") }}
-{{ image(path="frl.jpg", desc="Forward roll", link="https://www.youtube.com/shorts/cxBuRNT1-Lg") }}
+{{ image(path="bsp.jpg", desc="Back spread drop", link="https://www.youtube.com/shorts/a0-mRBEEBXk") }}
 {{ image(path="crl.jpg", desc="Cradle", link="https://youtu.be/WBMVkXf3oBU?t=726") }}
 {{ image(path="fdn.jpg", desc="Full down", link="") }}
 {{ image(path="tdn.jpg", desc="Twist down", link="https://www.youtube.com/shorts/B5OVmWPtjII") }}
 {{ image(path="ddn.jpg", desc="Double down", link="https://youtu.be/kOSlKw79qdA?t=578") }}
+{{ image(path="frl.jpg", desc="Forward roll", link="https://www.youtube.com/shorts/cxBuRNT1-Lg") }}
 {{ gallery_end() }}
 
 # **Baskets - two bases and a backspot launch and catch a flyer**
