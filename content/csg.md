@@ -7,7 +7,7 @@ categories = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 120 cheer stunting skills (13 still missing).
+Snapshot collection of 121 cheer stunting skills (13 still missing).
 
 <!-- more -->
 
@@ -91,6 +91,7 @@ c) Keep your body straight and in line with the base.
 {{ image(path="cnb.jpg", desc="Cannonball", link="https://youtu.be/ey00mPkhMCs?t=679") }}
 {{ image(path="swp.jpg", desc="Swing", link="https://youtu.be/_qJulETphrI?t=174") }}
 {{ image(path="rst.jpg", desc="Reverse split", link="https://www.youtube.com/shorts/8dl1v6_4Vio") }}
+{{ image(path="rbw.jpg", desc="Rainbow", link="https://youtu.be/A1tjmd6sBxU?t=617") }}
 {{ gallery_end() }}
 
 # **Transitions - flyer moves from one grip to another**
