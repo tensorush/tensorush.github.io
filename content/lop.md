@@ -7,7 +7,7 @@ categories = ["blog"]
 tags = ["future"]
 +++
 
-Professions that will survive the longest.
+Professions that are bound to last the longest.
 
 <!-- more -->
 
