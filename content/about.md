@@ -17,6 +17,6 @@ date = 2023-08-12
 
 First, I did swimming for 4 years, played tennis for another 4, then stuck with weight-lifting for 8 more. For the past 4 years I've been going cardio-only.
 
-Lately, I got into cheer stunting. Only brushing up on my theory for now and dreaming of stunting with [these elite folks](@/csg.md)!
+Lately, I got into cheer stunting. Just brushing up on my theory for now and dreaming of stunting with [these elite folks](@/csg.md)!
 
 {{ single_image(path="stt.jpg", desc="Me at 18 low-key tryna stunt", link="https://tensorush.github.io/csg/") }}
