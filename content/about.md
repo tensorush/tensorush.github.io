@@ -10,7 +10,7 @@ date = 2023-08-12
 {{ image(path="nxl.jpg", desc="Nix", link="https://nixos.org") }}
 {{ image(path="rcl.jpg", desc="Roc", link="https://www.roc-lang.org") }}
 {{ image(path="mjl.jpg", desc="Mojo", link="https://www.modular.com/mojo") }}
-{{ image(path="wsm.jpg", desc="WebAssembly", link="https://webassembly.org") }}
+{{ image(path="wsm.jpg", desc="Wasm", link="https://webassembly.org") }}
 {{ gallery_end() }}
 
 ## Sports background

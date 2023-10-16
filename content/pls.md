@@ -11,6 +11,8 @@ Domain-wide shift of the programming language landscape.
 
 <!-- more -->
 
+- Typesetting: TeX => Typst
+
 - Systems: C/C++ => Zig/Rust
 
 - AI: C/C++/CUDA/Python => Mojo
