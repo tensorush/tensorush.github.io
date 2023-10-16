@@ -7,7 +7,7 @@ categories = ["blog"]
 tags = ["swe", "zig"]
 +++
 
-The shift in programming language stacks across domains.
+Shift in programming language stacks across domains.
 
 <!-- more -->
 
