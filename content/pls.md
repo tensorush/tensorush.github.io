@@ -1,5 +1,5 @@
 +++
-title = "Programming Language Shift"
+title = "Programming Language Landscape"
 date = 2023-08-27
 
 [taxonomies]
@@ -7,7 +7,7 @@ categories = ["blog"]
 tags = ["software", "future"]
 +++
 
-Shift in programming language stacks across domains.
+Domain-wide shift of the programming language landscape.
 
 <!-- more -->
 
@@ -15,10 +15,10 @@ Shift in programming language stacks across domains.
 
 - AI: C/C++/CUDA/Python => Mojo
 
-- Web: JavaScript => WebAssembly
-
 - GFX: C/C++ => Zig/Rust/Odin/Jai
+
+- SciComp: Fortran/MATLAB => Julia
 
 - Mobile: Objective-C/Java => Swift/Kotlin
 
-- Scientific Computing: Fortran/MATLAB => Julia
+- Web: JavaScript/Ruby/C#/Java/Scala/Haskell => TypeScript/Go/Rust/Zig/Roc
