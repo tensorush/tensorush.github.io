@@ -7,7 +7,7 @@ categories = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 121 cheer stunting skills (13 still missing).
+Snapshot collection of 138 cheer stunting skills (30 still missing).
 
 <!-- more -->
 
@@ -75,12 +75,10 @@ c) Keep your body straight and in line with the base.
 {{ image(path="flp.jpg", desc="Full up", link="https://youtu.be/FZ4A0nTEtkc?t=187") }}
 {{ image(path="dlp.jpg", desc="Double up", link="https://youtu.be/vUINVgnZBAQ?t=424") }}
 {{ image(path="tpp.jpg", desc="Triple up", link="https://www.youtube.com/shorts/UeR4EAB5H9Y") }}
-{{ image(path="fhp.jpg", desc="Front handspring up", link="https://youtu.be/ebOIvS87YpM?t=621") }}
 {{ image(path="blp.jpg", desc="Ball up", link="https://youtu.be/KsHd_mN0a84?t=73") }}
-{{ image(path="bhp.jpg", desc="Back handspring up", link="https://youtu.be/LV3RCD7S-GE?t=455") }}
 {{ gallery_end() }}
 
-# **Handstands - flyer gets up into a handstand**
+# **Handstands - flyer kicks up into a handstand**
 
 {{ gallery_start() }}
 {{ image(path="dmd.jpg", desc="Diamidov", link="https://youtu.be/7HU_bauP2lI?t=302") }}
@@ -165,7 +163,7 @@ c) Keep your body straight and in line with the base.
 {{ image(path="bsd.jpg", desc="Back spread", link="https://www.youtube.com/shorts/CbazH3PF1MU") }}
 {{ gallery_end() }}
 
-# **Dismounts - flyer gets down from a stunt**
+# **Dismounts - flyer comes down from a stunt**
 
 {{ gallery_start() }}
 {{ image(path="ppf.jpg", desc="Pop off", link="https://youtu.be/HMBSWEz2l24?t=672") }}
@@ -180,7 +178,6 @@ c) Keep your body straight and in line with the base.
 {{ image(path="fdn.jpg", desc="Full down", link="") }}
 {{ image(path="tdn.jpg", desc="Twist down", link="https://www.youtube.com/shorts/B5OVmWPtjII") }}
 {{ image(path="ddn.jpg", desc="Double down", link="https://youtu.be/kOSlKw79qdA?t=578") }}
-{{ image(path="frl.jpg", desc="Forward roll", link="https://www.youtube.com/shorts/cxBuRNT1-Lg") }}
 {{ gallery_end() }}
 
 # **Baskets - two bases and a backspot launch and catch a flyer**
@@ -194,6 +191,31 @@ c) Keep your body straight and in line with the base.
 {{ image(path="kkd.jpg", desc="Kick double", link="https://youtu.be/qcQLCrjkxCE?t=608") }}
 {{ gallery_end() }}
 
+# **Tumbles - flyer enters or exits a stunt**
+
+{{ gallery_start() }}
+{{ image(path="whp.jpg", desc="Whip", link="") }}
+{{ image(path="flk.jpg", desc="Flick", link="") }}
+{{ image(path="rpp.jpg", desc="Ramp up", link="") }}
+{{ image(path="fll.jpg", desc="Full", link="") }}
+{{ image(path="dbl.jpg", desc="Double", link="") }}
+{{ image(path="tpl.jpg", desc="Triple", link="") }}
+{{ image(path="fts.jpg", desc="Full twist", link="") }}
+{{ image(path="dts.jpg", desc="Double twist", link="") }}
+{{ image(path="tts.jpg", desc="Triple twist", link="") }}
+{{ image(path="phf.jpg", desc="Punch front", link="") }}
+{{ image(path="cwl.jpg", desc="Cartwheel", link="") }}
+{{ image(path="phb.jpg", desc="Punch back", link="") }}
+{{ image(path="fwv.jpg", desc="Front walkover", link="") }}
+{{ image(path="rdf.jpg", desc="Round off", link="") }}
+{{ image(path="bwv.jpg", desc="Back walkover", link="") }}
+{{ image(path="fhs.jpg", desc="Front handspring", link="https://youtu.be/ebOIvS87YpM?t=621") }}
+{{ image(path="fdl.jpg", desc="Forward roll", link="https://www.youtube.com/shorts/cxBuRNT1-Lg") }}
+{{ image(path="bhs.jpg", desc="Back handspring", link="https://youtu.be/LV3RCD7S-GE?t=455") }}
+{{ image(path="frl.jpg", desc="Front aerial", link="") }}
+{{ image(path="srl.jpg", desc="Side aerial", link="") }}
+{{ gallery_end() }}
+
 # **Extras - stunts turn extra hard**
 
 {{ gallery_start() }}
@@ -202,7 +224,7 @@ c) Keep your body straight and in line with the base.
 {{ image(path="ptl.jpg", desc="Opposite leg", link="https://youtu.be/LV3RCD7S-GE?t=223") }}
 {{ image(path="msw.jpg", desc="Arm switch", link="https://youtu.be/LV3RCD7S-GE?t=903") }}
 {{ image(path="bdn.jpg", desc="Bondan", link="https://youtu.be/LV3RCD7S-GE?t=873") }}
-{{ image(path="rhp.jpg", desc="Air handspring up", link="https://www.youtube.com/shorts/EHGxbOI7mZQ") }}
+{{ image(path="nhp.jpg", desc="No handspring up", link="https://www.youtube.com/shorts/EHGxbOI7mZQ") }}
 {{ image(path="lts.jpg", desc="Low toss", link="https://youtu.be/CDZ0CePSQ40?t=588") }}
 {{ image(path="hts.jpg", desc="High toss", link="https://youtu.be/vmu1ZInhbjw?t=207") }}
 {{ image(path="vts.jpg", desc="Hover toss", link="https://youtu.be/SonOnjYRtHU?t=1135") }}

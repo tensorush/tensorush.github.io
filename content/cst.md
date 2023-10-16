@@ -11,11 +11,11 @@ Classification of cloud services I've pulled out of thin air.
 
 <!-- more -->
 
-|        Service Type         |        Use Case        |      Provisioned Resource       |
-|:---------------------------:|:----------------------:|:-------------------------------:|
-|    Hardware as a Service    |     IoT appliance      |    Physical hardware device     |
-| Infrastructure as a Service |    Workload scaling    |   Virtualised hardware device   |
-|   Container as a Service    |  Long-lived workload   |    Managed container runtime    |
-|    Platform as a Service    | Workload orchestration | Scalable deployment environment |
-|    Function as a Service    |  Short-lived workload  |  Serverless function execution  |
-|    Software as a Service    |    End-user product    |  User-friendly software suite   |
+| Service Type |        Use Case        |      Provisioned Resource       |
+|:------------:|:----------------------:|:-------------------------------:|
+|     HaaS     |     IoT appliance      |    Physical hardware device     |
+|     IaaS     |    Workload scaling    |   Virtualised hardware device   |
+|     CaaS     |  Long-lived workload   |    Managed container runtime    |
+|     PaaS     | Workload orchestration | Scalable deployment environment |
+|     FaaS     |  Short-lived workload  |  Serverless function execution  |
+|     SaaS     |    End-user product    |  User-friendly software suite   |

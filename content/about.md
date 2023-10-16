@@ -1,6 +1,6 @@
 +++
 title = "About"
-date = 2023-09-12
+date = 2023-08-12
 +++
 
 [Software Engineer](https://tensorush.github.io/cv/en.pdf) hyped up about:

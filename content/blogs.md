@@ -1,6 +1,6 @@
 +++
 title = "Blogs"
-date = 2023-09-13
+date = 2023-08-13
 +++
 
 |                          Programmers                          |                             Scientists                              |                          Creatives                           |
