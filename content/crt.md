@@ -7,7 +7,7 @@ categories = ["blog"]
 tags = ["swe"]
 +++
 
-Classification of computer resources I've pulled out of thin air.
+Classification of computer resources.
 
 <!-- more -->
 

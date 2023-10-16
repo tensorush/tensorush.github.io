@@ -4,7 +4,7 @@ date = 2023-08-27
 
 [taxonomies]
 categories = ["blog"]
-tags = ["swe", "zig"]
+tags = ["swe", "ftr"]
 +++
 
 Shift in programming language stacks across domains.

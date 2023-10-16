@@ -7,7 +7,7 @@ categories = ["blog"]
 tags = ["swe"]
 +++
 
-Classification of software products I've pulled out of thin air.
+Classification of software products.
 
 <!-- more -->
 

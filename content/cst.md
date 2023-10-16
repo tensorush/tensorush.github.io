@@ -7,7 +7,7 @@ categories = ["blog"]
 tags = ["swe"]
 +++
 
-Classification of cloud services I've pulled out of thin air.
+Classification of cloud services.
 
 <!-- more -->
 
