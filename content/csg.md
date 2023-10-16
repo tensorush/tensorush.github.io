@@ -66,16 +66,16 @@ c) Keep your body straight and in line with the base.
 {{ image(path="tsh.jpg", desc="Toss hands", link="https://youtu.be/1hzO2X9e_CE?t=61") }}
 {{ image(path="rvt.jpg", desc="Reverse toss", link="https://youtu.be/WBMVkXf3oBU?t=769") }}
 {{ image(path="dpt.jpg", desc="Drop toss", link="https://youtu.be/7HU_bauP2lI?t=30") }}
-{{ image(path="tsr.jpg", desc="Toss chair", link="https://youtu.be/aybcpdbEbNw?t=486") }}
-{{ image(path="sts.jpg", desc="Stretch toss", link="https://www.youtube.com/shorts/PkMPp2MzDfU") }}
-{{ image(path="tsn.jpg", desc="Toss recliner", link="https://youtu.be/aybcpdbEbNw?t=617") }}
-{{ image(path="wkn.jpg", desc="Walk in", link="https://youtu.be/Pp5O3fj7Pbc?t=644") }}
-{{ image(path="slp.jpg", desc="Straddle up", link="") }}
-{{ image(path="bmr.jpg", desc="Boomerang", link="https://youtu.be/Vsq-m_Rd7Zk?t=767") }}
 {{ image(path="flp.jpg", desc="Full up", link="https://youtu.be/FZ4A0nTEtkc?t=187") }}
 {{ image(path="dlp.jpg", desc="Double up", link="https://youtu.be/vUINVgnZBAQ?t=424") }}
 {{ image(path="tpp.jpg", desc="Triple up", link="https://www.youtube.com/shorts/UeR4EAB5H9Y") }}
+{{ image(path="wkn.jpg", desc="Walk in", link="https://youtu.be/Pp5O3fj7Pbc?t=644") }}
 {{ image(path="blp.jpg", desc="Ball up", link="https://youtu.be/KsHd_mN0a84?t=73") }}
+{{ image(path="bmr.jpg", desc="Boomerang", link="https://youtu.be/Vsq-m_Rd7Zk?t=767") }}
+{{ image(path="tsr.jpg", desc="Toss chair", link="https://youtu.be/aybcpdbEbNw?t=486") }}
+{{ image(path="sts.jpg", desc="Stretch toss", link="https://www.youtube.com/shorts/PkMPp2MzDfU") }}
+{{ image(path="tsn.jpg", desc="Toss recliner", link="https://youtu.be/aybcpdbEbNw?t=617") }}
+{{ image(path="slp.jpg", desc="Straddle up", link="") }}
 {{ gallery_end() }}
 
 # **Handstands - flyer kicks up into a handstand**
@@ -107,6 +107,48 @@ c) Keep your body straight and in line with the base.
 {{ image(path="ddv.jpg", desc="Dolphin dive", link="https://youtu.be/UnSqDsi_6lE?t=405") }}
 {{ image(path="ppt.jpg", desc="Pop tart", link="https://www.youtube.com/shorts/enKAPA7lPYw") }}
 {{ image(path="spp.jpg", desc="Side pop", link="https://www.youtube.com/shorts/RfXsbmoL3zY") }}
+{{ gallery_end() }}
+
+# **Dismounts - flyer comes down from a stunt**
+
+{{ gallery_start() }}
+{{ image(path="ppf.jpg", desc="Pop off", link="https://youtu.be/HMBSWEz2l24?t=672") }}
+{{ image(path="spf.jpg", desc="Spin off", link="https://www.youtube.com/shorts/cxBuRNT1-Lg") }}
+{{ image(path="ppr.jpg", desc="Reverse pop off", link="https://youtu.be/LV3RCD7S-GE?t=30") }}
+{{ image(path="snf.jpg", desc="Sign off", link="https://youtu.be/LV3RCD7S-GE?t=201") }}
+{{ image(path="fsp.jpg", desc="Front spread drop", link="https://www.youtube.com/shorts/kg0WcXz9El8") }}
+{{ image(path="wkt.jpg", desc="Walk out", link="https://youtu.be/LV3RCD7S-GE?t=24") }}
+{{ image(path="stt.jpg", desc="Set out", link="https://youtu.be/WBMVkXf3oBU?t=751") }}
+{{ image(path="bsp.jpg", desc="Back spread drop", link="https://www.youtube.com/shorts/a0-mRBEEBXk") }}
+{{ image(path="crl.jpg", desc="Cradle", link="https://youtu.be/WBMVkXf3oBU?t=726") }}
+{{ image(path="fdn.jpg", desc="Full down", link="") }}
+{{ image(path="tdn.jpg", desc="Twist down", link="https://www.youtube.com/shorts/B5OVmWPtjII") }}
+{{ image(path="ddn.jpg", desc="Double down", link="https://youtu.be/kOSlKw79qdA?t=578") }}
+{{ gallery_end() }}
+
+# **Tumbles - flyer enters or exits a stunt**
+
+{{ gallery_start() }}
+{{ image(path="flk.jpg", desc="Flick", link="") }}
+{{ image(path="rpp.jpg", desc="Ramp up", link="") }}
+{{ image(path="whp.jpg", desc="Whip", link="") }}
+{{ image(path="phf.jpg", desc="Punch front", link="") }}
+{{ image(path="cwl.jpg", desc="Cartwheel", link="") }}
+{{ image(path="phb.jpg", desc="Punch back", link="") }}
+{{ image(path="fwv.jpg", desc="Front walkover", link="") }}
+{{ image(path="rdf.jpg", desc="Round off", link="") }}
+{{ image(path="bwv.jpg", desc="Back walkover", link="") }}
+{{ image(path="fll.jpg", desc="Full", link="") }}
+{{ image(path="dbl.jpg", desc="Double", link="") }}
+{{ image(path="tpl.jpg", desc="Triple", link="") }}
+{{ image(path="fts.jpg", desc="Full twist", link="") }}
+{{ image(path="dts.jpg", desc="Double twist", link="") }}
+{{ image(path="tts.jpg", desc="Triple twist", link="") }}
+{{ image(path="fhs.jpg", desc="Front handspring", link="https://youtu.be/ebOIvS87YpM?t=621") }}
+{{ image(path="fdl.jpg", desc="Forward roll", link="https://www.youtube.com/shorts/cxBuRNT1-Lg") }}
+{{ image(path="bhs.jpg", desc="Back handspring", link="https://youtu.be/LV3RCD7S-GE?t=455") }}
+{{ image(path="frl.jpg", desc="Front aerial", link="") }}
+{{ image(path="srl.jpg", desc="Side aerial", link="") }}
 {{ gallery_end() }}
 
 # **Poses - flyer hits a pose at the top**
@@ -163,23 +205,6 @@ c) Keep your body straight and in line with the base.
 {{ image(path="bsd.jpg", desc="Back spread", link="https://www.youtube.com/shorts/CbazH3PF1MU") }}
 {{ gallery_end() }}
 
-# **Dismounts - flyer comes down from a stunt**
-
-{{ gallery_start() }}
-{{ image(path="ppf.jpg", desc="Pop off", link="https://youtu.be/HMBSWEz2l24?t=672") }}
-{{ image(path="spf.jpg", desc="Spin off", link="https://www.youtube.com/shorts/cxBuRNT1-Lg") }}
-{{ image(path="ppr.jpg", desc="Reverse pop off", link="https://youtu.be/LV3RCD7S-GE?t=30") }}
-{{ image(path="snf.jpg", desc="Sign off", link="https://youtu.be/LV3RCD7S-GE?t=201") }}
-{{ image(path="fsp.jpg", desc="Front spread drop", link="https://www.youtube.com/shorts/kg0WcXz9El8") }}
-{{ image(path="wkt.jpg", desc="Walk out", link="https://youtu.be/LV3RCD7S-GE?t=24") }}
-{{ image(path="stt.jpg", desc="Set out", link="https://youtu.be/WBMVkXf3oBU?t=751") }}
-{{ image(path="bsp.jpg", desc="Back spread drop", link="https://www.youtube.com/shorts/a0-mRBEEBXk") }}
-{{ image(path="crl.jpg", desc="Cradle", link="https://youtu.be/WBMVkXf3oBU?t=726") }}
-{{ image(path="fdn.jpg", desc="Full down", link="") }}
-{{ image(path="tdn.jpg", desc="Twist down", link="https://www.youtube.com/shorts/B5OVmWPtjII") }}
-{{ image(path="ddn.jpg", desc="Double down", link="https://youtu.be/kOSlKw79qdA?t=578") }}
-{{ gallery_end() }}
-
 # **Baskets - two bases and a backspot launch and catch a flyer**
 
 {{ gallery_start() }}
@@ -189,31 +214,6 @@ c) Keep your body straight and in line with the base.
 {{ image(path="btk.jpg", desc="Back tuck", link="https://youtu.be/HMBSWEz2l24?t=174") }}
 {{ image(path="kkf.jpg", desc="Kick full", link="") }}
 {{ image(path="kkd.jpg", desc="Kick double", link="https://youtu.be/qcQLCrjkxCE?t=608") }}
-{{ gallery_end() }}
-
-# **Tumbles - flyer enters or exits a stunt**
-
-{{ gallery_start() }}
-{{ image(path="whp.jpg", desc="Whip", link="") }}
-{{ image(path="flk.jpg", desc="Flick", link="") }}
-{{ image(path="rpp.jpg", desc="Ramp up", link="") }}
-{{ image(path="fll.jpg", desc="Full", link="") }}
-{{ image(path="dbl.jpg", desc="Double", link="") }}
-{{ image(path="tpl.jpg", desc="Triple", link="") }}
-{{ image(path="fts.jpg", desc="Full twist", link="") }}
-{{ image(path="dts.jpg", desc="Double twist", link="") }}
-{{ image(path="tts.jpg", desc="Triple twist", link="") }}
-{{ image(path="phf.jpg", desc="Punch front", link="") }}
-{{ image(path="cwl.jpg", desc="Cartwheel", link="") }}
-{{ image(path="phb.jpg", desc="Punch back", link="") }}
-{{ image(path="fwv.jpg", desc="Front walkover", link="") }}
-{{ image(path="rdf.jpg", desc="Round off", link="") }}
-{{ image(path="bwv.jpg", desc="Back walkover", link="") }}
-{{ image(path="fhs.jpg", desc="Front handspring", link="https://youtu.be/ebOIvS87YpM?t=621") }}
-{{ image(path="fdl.jpg", desc="Forward roll", link="https://www.youtube.com/shorts/cxBuRNT1-Lg") }}
-{{ image(path="bhs.jpg", desc="Back handspring", link="https://youtu.be/LV3RCD7S-GE?t=455") }}
-{{ image(path="frl.jpg", desc="Front aerial", link="") }}
-{{ image(path="srl.jpg", desc="Side aerial", link="") }}
 {{ gallery_end() }}
 
 # **Extras - stunts turn extra hard**

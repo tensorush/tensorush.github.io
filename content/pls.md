@@ -17,8 +17,8 @@ The shift in programming language stacks across domains.
 
 - Web: JavaScript => WebAssembly
 
-- Scientific Computing: MATLAB => Julia
+- GFX: C/C++ => Zig/Rust/Odin/Jai
 
 - Mobile: Objective-C/Java => Swift/Kotlin
 
-- GFX & GameDev: C/C++ => Zig/Rust/Odin/Jai
+- Scientific Computing: Fortran/MATLAB => Julia
