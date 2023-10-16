@@ -4,7 +4,7 @@ date = 2023-09-14
 
 [taxonomies]
 categories = ["blog"]
-tags = ["zig", "swe"]
+tags = ["ziglang", "software"]
 +++
 
 Patterns I've seen in the Zig standard library and on the Zig News forum.

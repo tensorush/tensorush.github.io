@@ -4,7 +4,7 @@ date = 2023-09-22
 
 [taxonomies]
 categories = ["blog"]
-tags = ["swe"]
+tags = ["software"]
 +++
 
 Classification of cloud services.

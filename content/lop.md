@@ -4,7 +4,7 @@ date = 2023-10-07
 
 [taxonomies]
 categories = ["blog"]
-tags = ["ftr"]
+tags = ["future"]
 +++
 
 Professions that will survive the longest.
