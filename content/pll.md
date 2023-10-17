@@ -7,7 +7,7 @@ categories = ["blog"]
 tags = ["software", "future"]
 +++
 
-Domain-wide shift of the programming language landscape.
+Domain-wide shifts of the programming language landscape.
 
 <!-- more -->
 
