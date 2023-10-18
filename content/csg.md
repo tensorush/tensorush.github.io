@@ -7,7 +7,7 @@ categories = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 136 cheer stunting skills (26 still missing).
+Snapshot collection of 137 cheer stunting skills (26 still missing).
 
 <!-- more -->
 
@@ -93,6 +93,7 @@ c) Keep your body straight and in line with the base.
 {{ image(path="ddv.jpg", desc="Dolphin dive", link="https://youtu.be/UnSqDsi_6lE?t=405") }}
 {{ image(path="ppt.jpg", desc="Pop tart", link="https://www.youtube.com/shorts/enKAPA7lPYw") }}
 {{ image(path="spp.jpg", desc="Side pop", link="https://www.youtube.com/shorts/RfXsbmoL3zY") }}
+{{ image(path="hsv.jpg", desc="Handski over", link="https://youtu.be/SwaejeJ8kPk?t=941") }}
 {{ gallery_end() }}
 
 # **Handstands - flyer kicks up into a handstand**
