@@ -7,11 +7,11 @@ categories = ["blog"]
 tags = ["future", "software"]
 +++
 
-Key disruptive technologies that will shape the computational future of social order.
+Disruptive tech that will shape the computational future of social order.
 
 <!-- more -->
 
-a) Blockchain
+## 1) Blockchain
 
 In essence, blockchain has the potential to eliminate all mediation in society enacted by centrally-governed, trust-establishing third parties, namely: social, financial, judicial, academic and political institutions.
 
@@ -19,10 +19,10 @@ In general, blockchain technology renders redundant the social contract, which i
 
 In other words, a blockchain network establishes trust between parties as well as enables protection from bad actors by way of forcing all participants to communicate according to its underlying consensus mechanism, preferably the one that is fair and green like Proof-of-Stake.
 
-b) Artificial Intelligence
+## 2) Artificial Intelligence
 
 Apart from becoming a useful tool in any profession, AI has the potential to eliminate all menial work, meaning both unskilled and specialised, largely physical and superficially intellectual.
 
-c) Quantum Computing
+## 3) Quantum Computing
 
 Crucially, quantum computing has the potential to render obsolete fundamental classical algorithms that almost every digital system is heavily relying on.

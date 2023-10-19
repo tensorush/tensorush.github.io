@@ -24,19 +24,19 @@ Snapshot collection of 137 cheer stunting skills (26 still missing).
 
 # Note to bases:
 
-a) Always have a spotter.
+## 1) Always have a spotter.
 
-b) Keep your free hand on your hip.
+## 2) Keep your free hand on your hip.
 
-c) Make sure to switch to the non-dominant arm.
+## 3) Make sure to switch to the non-dominant arm.
 
 # Note to flyers:
 
-a) Stay light and cute.
+## 1) Stay light and cute.
 
-b) Keep your chin, chest and toes up.
+## 2) Keep your chin, chest and toes up.
 
-c) Keep your body straight and in line with the base.
+## 3) Keep your body straight and in line with the base.
 
 ## **Y'all be safe and have fun, happy stunting!**
 
