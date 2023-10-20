@@ -3,7 +3,7 @@ title = "Programming Language Landscape"
 date = 2023-08-27
 
 [taxonomies]
-categories = ["blog"]
+categories = ["list"]
 tags = ["software", "future"]
 +++
 

@@ -1,9 +1,9 @@
 +++
 title = "Cloud Service Types"
-date = 2023-09-22
+date = 2023-09-21
 
 [taxonomies]
-categories = ["blog"]
+categories = ["table"]
 tags = ["software"]
 +++
 

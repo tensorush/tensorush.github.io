@@ -3,7 +3,7 @@ title = "Software Product Types"
 date = 2023-09-23
 
 [taxonomies]
-categories = ["blog"]
+categories = ["table"]
 tags = ["software"]
 +++
 

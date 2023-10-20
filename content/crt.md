@@ -3,7 +3,7 @@ title = "Computer Resource Types"
 date = 2023-09-24
 
 [taxonomies]
-categories = ["blog"]
+categories = ["table"]
 tags = ["software"]
 +++
 

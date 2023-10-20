@@ -3,7 +3,7 @@ title = "Lasting Occupational Pursuits"
 date = 2023-10-07
 
 [taxonomies]
-categories = ["blog"]
+categories = ["list"]
 tags = ["future"]
 +++
 
