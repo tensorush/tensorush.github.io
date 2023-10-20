@@ -20,4 +20,4 @@ First, I did swimming for 4 years, played tennis for another 4, then stuck with 
 
 Lately, I got into cheer stunting. Just brushing up on my theory for now and dreaming of stunting with [these elite folks](@/csg.md)!
 
-{{ single_image(path="stt.jpg", desc="Me at 18 low-key tryna stunt", link="https://tensorush.github.io/csg/") }}
+{{ single_image(path="stt.jpg", desc="Me at 18 low-key tryna stunt", link="https://tensorush.github.io/about/stt.jpg") }}
