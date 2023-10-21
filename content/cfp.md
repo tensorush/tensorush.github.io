@@ -7,13 +7,13 @@ categories = ["devlog"]
 tags = ["fundu"]
 +++
 
-Fundu devlog 1.
+Fundu devlog #1.
 
 <!-- more -->
 
 Features:
 
-- Zero cuts: receive revenue in full by default and feel free to donate to the platform
+- Zero cuts: receive revenue in full and optionally donate back to the platform
 
 - Focused design: no messages, likes, or comments, only tiers, goals, and posts
 
@@ -21,11 +21,11 @@ Features:
 
 Components:
 
-- Backend: [Zap](https://github.com/zigzap/zap)
+- Frontend: [Umbrella Wasm API](https://github.com/thi-ng/umbrella/tree/develop/packages/wasm-api)
 
 - Database: [TigerBeetle](https://github.com/tigerbeetle/tigerbeetle)
 
-- Frontend: [Umbrella Wasm API](https://github.com/thi-ng/umbrella/tree/develop/packages/wasm-api)
+- Backend: [Zap](https://github.com/zigzap/zap)
 
 Competitors:
 
