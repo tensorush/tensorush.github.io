@@ -29,6 +29,8 @@ Components:
 
 Competitors:
 
+- [Liberapay](https://liberapay.com)
+
 - [Patreon](https://patreon.com)
 
 - [Boosty](https://boosty.to)

@@ -25,6 +25,8 @@ Programming patterns from the Zig standard library.
 
 - [Custom type format](https://github.com/ziglang/zig/blob/0.11.0/lib/std/Uri.zig#L209)
 
+- [Field parent pointer](https://github.com/ziglang/zig/blob/0.11.0/lib/std/Thread/Futex.zig#L640)
+
 - [WaitGroup + ThreadPool](https://github.com/ziglang/zig/blob/0.11.0/lib/build_runner.zig#L772)
 
 - [Anonymous struct coercions](https://zig.news/xq/cool-zig-patterns-305o)
