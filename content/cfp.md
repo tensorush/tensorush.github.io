@@ -11,7 +11,7 @@ Fundu devlog #1.
 
 <!-- more -->
 
-Features:
+## Features:
 
 - Zero cuts: receive revenue in full and optionally donate back to the platform
 
@@ -19,7 +19,7 @@ Features:
 
 - Per post payments: set a price for every post
 
-Components:
+## Components:
 
 - Frontend: [Umbrella Wasm API](https://github.com/thi-ng/umbrella/tree/develop/packages/wasm-api)
 
@@ -27,7 +27,7 @@ Components:
 
 - Backend: [Zap](https://github.com/zigzap/zap)
 
-Competitors:
+## Competitors:
 
 - [Liberapay](https://liberapay.com)
 
