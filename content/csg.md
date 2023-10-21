@@ -32,7 +32,7 @@ Snapshot collection of 137 cheer stunting skills (26 still missing).
 
 # Note to flyers:
 
-## 1) Stay light and cute.
+## 1) Stay fit and cute.
 
 ## 2) Keep your chin, chest and toes up.
 
