@@ -103,10 +103,10 @@ Snapshot collection of 137 cheer stunting skills (26 still missing).
 {{ image(path="hsk.jpg", desc="Handski", link="https://youtu.be/_qJulETphrI?t=729") }}
 {{ image(path="dsk.jpg", desc="Diamski", link="https://www.youtube.com/shorts/bDCxmfi40ck") }}
 {{ image(path="dtd.jpg", desc="Hand to hand", link="https://youtu.be/LV3RCD7S-GE?t=172") }}
-{{ image(path="stp.jpg", desc="Split", link="https://youtu.be/HMBSWEz2l24?t=664") }}
+{{ image(path="stp.jpg", desc="Split up", link="https://youtu.be/HMBSWEz2l24?t=664") }}
 {{ image(path="cnb.jpg", desc="Cannonball", link="https://youtu.be/ey00mPkhMCs?t=679") }}
-{{ image(path="swp.jpg", desc="Swing", link="https://youtu.be/_qJulETphrI?t=174") }}
-{{ image(path="rst.jpg", desc="Reverse split", link="https://www.youtube.com/shorts/8dl1v6_4Vio") }}
+{{ image(path="swp.jpg", desc="Swing up", link="https://youtu.be/_qJulETphrI?t=174") }}
+{{ image(path="rst.jpg", desc="Reverse split up", link="https://www.youtube.com/shorts/8dl1v6_4Vio") }}
 {{ image(path="rbw.jpg", desc="Rainbow", link="https://youtu.be/A1tjmd6sBxU?t=617") }}
 {{ gallery_end() }}
 
@@ -152,6 +152,7 @@ Snapshot collection of 137 cheer stunting skills (26 still missing).
 {{ image(path="shd.jpg", desc="Side hurdler", link="") }}
 {{ image(path="tth.jpg", desc="Toe touch", link="https://youtu.be/yCkaHsti5XI?t=5") }}
 {{ image(path="sdg.jpg", desc="Spread eagle", link="") }}
+{{ image(path="spt.jpg", desc="Split", link="https://www.youtube.com/shorts/cxBuRNT1-Lg") }}
 {{ image(path="bft.jpg", desc="Bird front", link="https://www.youtube.com/shorts/6avCjWkWyjI") }}
 {{ gallery_end() }}
 
