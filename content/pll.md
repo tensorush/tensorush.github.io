@@ -11,16 +11,28 @@ Domain-wide shifts of the programming language landscape.
 
 <!-- more -->
 
-- Typesetting: TeX => Typst
+- Web: JavaScript/Ruby/PHP/Python/Java/C# => TypeScript/Go/Rust/Zig/Roc/Crystal
 
-- Systems: C/C++ => Zig/Rust
+- Functional: Haskell/OCaml/Erlang/Scala/Clojure/F# => Roc/Elixir/Gleam/Elm
+
+- Verification: Agda/Isabelle/Dafny => TLA+/Coq/Lean/Idris/F*
+
+- Scripting: Python/Lua/Perl/Groovy => Go/Roc/Crystal/Zig
+
+- Shells: Sh/Bash/CMD => Nushell/Zsh/PowerShell
+
+- Mobile: Objective-C/Java => Zig/Swift/Kotlin
+
+- Graphics: C/C++/CUDA => Zig/Rust/Odin/Jai
+
+- Arrays: Fortran/MATLAB => Julia/Futhark
+
+- Systems: C/C++/COBOL => Zig/Rust/Nim
+
+- Statistics: Stata/R/VBA => Python
+
+- Logic: Prolog/Scheme => Racket
 
 - AI: C/C++/CUDA/Python => Mojo
 
-- GFX: C/C++ => Zig/Rust/Odin/Jai
-
-- SciComp: Fortran/MATLAB => Julia
-
-- Mobile: Objective-C/Java => Swift/Kotlin
-
-- Web: JavaScript/Ruby/C#/Java/Scala/Haskell => TypeScript/Go/Rust/Zig/Roc
+- Typesetting: TeX => Typst

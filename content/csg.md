@@ -7,7 +7,7 @@ categories = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 137 cheer stunting skills (26 still missing).
+Snapshot collection of 138 cheer stunting skills (26 still missing).
 
 <!-- more -->
 
