@@ -220,7 +220,7 @@ Snapshot collection of 138 cheer stunting skills (26 still missing).
 
 {{ gallery_start() }}
 {{ image(path="ptl.jpg", desc="Opposite leg", link="https://youtu.be/LV3RCD7S-GE?t=223") }}
-{{ image(path="pts.jpg", desc="Reverse spin", link="https://youtu.be/7HU_bauP2lI?t=451") }}
+{{ image(path="pts.jpg", desc="Opposite spin", link="https://youtu.be/7HU_bauP2lI?t=451") }}
 {{ image(path="mtl.jpg", desc="Immediate lib", link="https://youtu.be/HMBSWEz2l24?t=316") }}
 {{ image(path="msw.jpg", desc="Arm switch", link="https://youtu.be/LV3RCD7S-GE?t=903") }}
 {{ image(path="bdn.jpg", desc="Bondan", link="https://youtu.be/LV3RCD7S-GE?t=873") }}
