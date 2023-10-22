@@ -19,20 +19,22 @@ Domain-wide shifts of the programming language landscape.
 
 - Scripting: Python/Lua/Perl/Groovy => Go/Roc/Crystal/Zig
 
-- Shells: Sh/Bash/CMD => Nushell/Zsh/PowerShell
+- Shells: Sh/Bash/CMD => Nushell/Fish/Zsh/PowerShell
 
 - Mobile: Objective-C/Java => Zig/Swift/Kotlin
 
 - Graphics: C/C++/CUDA => Zig/Rust/Odin/Jai
 
-- Arrays: Fortran/MATLAB => Julia/Futhark
+- SciComp: Fortran/MATLAB => Julia/Futhark
+
+- Logic: Prolog/Scheme => Racket/Wolfram
 
 - Systems: C/C++/COBOL => Zig/Rust/Nim
 
 - Statistics: Stata/R/VBA => Python
 
-- Logic: Prolog/Scheme => Racket
-
 - AI: C/C++/CUDA/Python => Mojo
 
 - Typesetting: TeX => Typst
+
+- Array: APL/BQN/J => Uiua
