@@ -21,7 +21,7 @@ Domain-wide shifts of the programming language landscape.
 
 - Shells: Sh/Bash/CMD => Nushell/Fish/Zsh/PowerShell
 
-- Mobile: Objective-C/Java => Zig/Swift/Kotlin
+- Mobile: Objective-C/Java => Swift/Kotlin/Zig
 
 - Graphics: C/C++/CUDA => Zig/Rust/Odin/Jai
 
@@ -38,3 +38,5 @@ Domain-wide shifts of the programming language landscape.
 - Typesetting: TeX => Typst
 
 - Array: APL/BQN/J => Uiua
+
+- Stack: Forth => Factor
