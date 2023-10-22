@@ -7,7 +7,7 @@ categories = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 138 cheer stunting skills (26 still missing).
+Snapshot collection of 140 cheer stunting skills (27 still missing).
 
 <!-- more -->
 
@@ -88,7 +88,7 @@ Snapshot collection of 138 cheer stunting skills (26 still missing).
 {{ image(path="lth.jpg", desc="Low to high", link="https://youtu.be/RLbde7dYHkI?t=258") }}
 {{ image(path="hth.jpg", desc="High to high", link="https://youtu.be/FZ4A0nTEtkc?t=109") }}
 {{ image(path="pph.jpg", desc="Pop through", link="https://youtu.be/REmmtNLAF7Q?t=369") }}
-{{ image(path="rpt.jpg", desc="Reverse pop through", link="https://youtu.be/7HU_bauP2lI?t=688") }}
+{{ image(path="rpt.jpg", desc="Front pop through", link="https://youtu.be/7HU_bauP2lI?t=699") }}
 {{ image(path="tpt.jpg", desc="Twist pop through", link="https://www.youtube.com/shorts/qLsIQM8KoOQ") }}
 {{ image(path="ddv.jpg", desc="Dolphin dive", link="https://youtu.be/UnSqDsi_6lE?t=405") }}
 {{ image(path="ppt.jpg", desc="Pop tart", link="https://www.youtube.com/shorts/enKAPA7lPYw") }}
@@ -161,7 +161,7 @@ Snapshot collection of 138 cheer stunting skills (26 still missing).
 {{ gallery_start() }}
 {{ image(path="fld.jpg", desc="Full around", link="https://youtu.be/LV3RCD7S-GE?t=314") }}
 {{ image(path="nnh.jpg", desc="1 and 1/2 around", link="https://youtu.be/u1x7tgvlO3M?t=523") }}
-{{ image(path="dld.jpg", desc="Double around", link="") }}
+{{ image(path="dld.jpg", desc="Double around", link="https://youtu.be/emFxJWjvFGQ?t=648") }}
 {{ image(path="hcr.jpg", desc="Helicopter", link="https://www.youtube.com/shorts/mC6yrsA0Ixk") }}
 {{ image(path="sfh.jpg", desc="Starfish", link="https://www.youtube.com/shorts/8ufJn_pcaUw") }}
 {{ image(path="ssm.jpg", desc="Side semi", link="https://www.youtube.com/shorts/p2XVKhJH3Aw") }}
@@ -197,12 +197,14 @@ Snapshot collection of 138 cheer stunting skills (26 still missing).
 {{ image(path="srl.jpg", desc="Side aerial", link="") }}
 {{ image(path="phb.jpg", desc="Punch back", link="") }}
 {{ image(path="fwv.jpg", desc="Front walkover", link="") }}
-{{ image(path="fts.jpg", desc="Full", link="") }}
+{{ image(path="rbn.jpg", desc="Arabian", link="") }}
 {{ image(path="bwv.jpg", desc="Back walkover", link="") }}
 {{ image(path="fhs.jpg", desc="Front handspring", link="https://youtu.be/ebOIvS87YpM?t=621") }}
-{{ image(path="dts.jpg", desc="Double full", link="") }}
+{{ image(path="fts.jpg", desc="Full", link="") }}
 {{ image(path="bhs.jpg", desc="Back handspring", link="https://youtu.be/LV3RCD7S-GE?t=455") }}
 {{ image(path="fdl.jpg", desc="Forward roll", link="https://www.youtube.com/shorts/cxBuRNT1-Lg") }}
+{{ image(path="dts.jpg", desc="Double full", link="") }}
+{{ image(path="dvl.jpg", desc="Dive roll", link="") }}
 {{ gallery_end() }}
 
 # **Baskets - two bases and a backspot launch and catch a flyer**
