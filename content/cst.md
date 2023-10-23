@@ -13,7 +13,7 @@ Classification of cloud services.
 
 | Service Type |        Use Case        |      Provisioned Resource       |
 |:------------:|:----------------------:|:-------------------------------:|
-|     HaaS     |     IoT appliance      |    Physical hardware device     |
+|     HaaS     |     Edge appliance     |    Physical hardware device     |
 |     IaaS     |    Workload scaling    |   Virtualised hardware device   |
 |     CaaS     |  Long-lived workload   |    Managed container runtime    |
 |     PaaS     | Workload orchestration | Scalable deployment environment |
