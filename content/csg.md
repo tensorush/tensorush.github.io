@@ -50,7 +50,7 @@ Snapshot collection of 140 cheer stunting skills (27 still missing).
 {{ image(path="hsd.jpg", desc="Handstand", link="https://youtu.be/DfFdPsbxVPQ?t=475") }}
 {{ image(path="rvc.jpg", desc="Reverse catch", link="https://youtu.be/qjbRUuxKr3Q?t=796") }}
 {{ image(path="gvt.jpg", desc="Gravity", link="https://www.youtube.com/shorts/5PSboWckPbc") }}
-{{ image(path="rvg.jpg", desc="Reverse gravity", link="https://youtu.be/3ju2179PNC8?t=272") }}
+{{ image(path="rvg.jpg", desc="Front gravity", link="https://youtu.be/3ju2179PNC8?t=272") }}
 {{ image(path="sst.jpg", desc="Shoulder sit", link="https://youtu.be/ApTsZwIDYLU?t=119") }}
 {{ image(path="gsd.jpg", desc="Genie stand", link="https://youtu.be/RLbde7dYHkI?t=167") }}
 {{ image(path="gst.jpg", desc="Genie sit", link="https://www.youtube.com/shorts/CMK7YeHJ8Mw") }}
@@ -60,7 +60,7 @@ Snapshot collection of 140 cheer stunting skills (27 still missing).
 {{ image(path="ssd.jpg", desc="Shoulder stand", link="https://youtu.be/SonOnjYRtHU?t=281") }}
 {{ gallery_end() }}
 
-# **Tosses - base throws a flyer**
+# **Tosses - base throws a flyer to a grip**
 
 {{ gallery_start() }}
 {{ image(path="tsh.jpg", desc="Toss hands", link="https://youtu.be/1hzO2X9e_CE?t=61") }}
@@ -78,7 +78,7 @@ Snapshot collection of 140 cheer stunting skills (27 still missing).
 {{ image(path="slp.jpg", desc="Straddle up", link="") }}
 {{ gallery_end() }}
 
-# **Transitions - flyer moves from one grip to another**
+# **Transitions - base moves a flyer from one grip to another**
 
 {{ gallery_start() }}
 {{ image(path="ppv.jpg", desc="Pop over", link="https://youtu.be/UnSqDsi_6lE?t=148") }}
@@ -96,7 +96,7 @@ Snapshot collection of 140 cheer stunting skills (27 still missing).
 {{ image(path="hpv.jpg", desc="Handski pop over", link="https://youtu.be/SwaejeJ8kPk?t=941") }}
 {{ gallery_end() }}
 
-# **Handstands - flyer kicks up into a handstand**
+# **Handstands - base throws a flyer to a handstand grip**
 
 {{ gallery_start() }}
 {{ image(path="dmd.jpg", desc="Diamidov", link="https://youtu.be/7HU_bauP2lI?t=302") }}
