@@ -225,22 +225,22 @@ Snapshot collection of 145 cheer stunting skills (28 still missing).
 {{ image(path="tbk.jpg", desc="Buyeske", link="https://youtu.be/vmu1ZInhbjw?t=207") }}
 {{ image(path="bdn.jpg", desc="Bondan", link="https://youtu.be/LV3RCD7S-GE?t=873") }}
 {{ image(path="tjn.jpg", desc="Johnson", link="https://youtu.be/vUINVgnZBAQ?t=851") }}
-{{ image(path="pts.jpg", desc="Opposite spin", link="https://youtu.be/7HU_bauP2lI?t=451") }}
-{{ image(path="msw.jpg", desc="Opposite arm", link="https://youtu.be/LV3RCD7S-GE?t=903") }}
-{{ image(path="ptl.jpg", desc="Opposite leg", link="https://youtu.be/LV3RCD7S-GE?t=223") }}
 {{ image(path="mtl.jpg", desc="Immediate lib", link="https://youtu.be/HMBSWEz2l24?t=316") }}
 {{ image(path="bcp.jpg", desc="Back clap", link="https://youtu.be/vUINVgnZBAQ?t=591") }}
 {{ image(path="mts.jpg", desc="Immediate stretch", link="https://youtu.be/cyGMvoUV01Y?t=1295") }}
+{{ image(path="pts.jpg", desc="Opposite spin", link="https://youtu.be/7HU_bauP2lI?t=451") }}
+{{ image(path="msw.jpg", desc="Opposite arm", link="https://youtu.be/LV3RCD7S-GE?t=903") }}
+{{ image(path="ptl.jpg", desc="Opposite leg", link="https://youtu.be/LV3RCD7S-GE?t=223") }}
 {{ image(path="lts.jpg", desc="Low toss", link="https://youtu.be/CDZ0CePSQ40?t=588") }}
 {{ image(path="vts.jpg", desc="Hover toss", link="https://youtu.be/SonOnjYRtHU?t=1135") }}
 {{ image(path="hts.jpg", desc="High toss", link="https://youtu.be/vUINVgnZBAQ?t=557") }}
 {{ image(path="tfs.jpg", desc="Toss fists", link="https://youtu.be/7HU_bauP2lI?t=617") }}
 {{ image(path="btb.jpg", desc="Above the brows", link="https://youtu.be/Be-Sv_3gx5A?t=894") }}
 {{ image(path="tft.jpg", desc="Toss fist", link="https://youtu.be/9LaHx5fUn6s?t=374") }}
-{{ image(path="nrm.jpg", desc="One arm", link="https://youtu.be/REmmtNLAF7Q?t=150") }}
-{{ image(path="ddt.jpg", desc="Dead toss", link="https://youtu.be/ApTsZwIDYLU?t=473") }}
-{{ image(path="nlg.jpg", desc="One leg", link="https://youtu.be/Pp5O3fj7Pbc?t=763") }}
 {{ image(path="ntg.jpg", desc="No tag", link="https://youtu.be/Be-Sv_3gx5A?t=129") }}
 {{ image(path="nlk.jpg", desc="No look", link="https://youtu.be/ApTsZwIDYLU?t=421") }}
 {{ image(path="nsp.jpg", desc="No step", link="https://youtu.be/HMBSWEz2l24?t=382") }}
+{{ image(path="nrm.jpg", desc="One arm", link="https://youtu.be/REmmtNLAF7Q?t=150") }}
+{{ image(path="ddt.jpg", desc="Dead toss", link="https://youtu.be/ApTsZwIDYLU?t=473") }}
+{{ image(path="nlg.jpg", desc="One leg", link="https://youtu.be/Pp5O3fj7Pbc?t=763") }}
 {{ gallery_end() }}
