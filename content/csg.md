@@ -7,7 +7,7 @@ categories = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 140 cheer stunting skills (27 still missing).
+Snapshot collection of 145 cheer stunting skills (28 still missing).
 
 <!-- more -->
 
@@ -78,6 +78,20 @@ Snapshot collection of 140 cheer stunting skills (27 still missing).
 {{ image(path="slp.jpg", desc="Straddle up", link="") }}
 {{ gallery_end() }}
 
+# **Handstands - base throws a flyer to a handstand grip**
+
+{{ gallery_start() }}
+{{ image(path="dmd.jpg", desc="Diamidov", link="https://youtu.be/7HU_bauP2lI?t=302") }}
+{{ image(path="hsk.jpg", desc="Handski", link="https://youtu.be/_qJulETphrI?t=729") }}
+{{ image(path="dsk.jpg", desc="Diamski", link="https://www.youtube.com/shorts/bDCxmfi40ck") }}
+{{ image(path="dtd.jpg", desc="Hand to hand", link="https://youtu.be/LV3RCD7S-GE?t=172") }}
+{{ image(path="stp.jpg", desc="Split up", link="https://youtu.be/HMBSWEz2l24?t=664") }}
+{{ image(path="cnb.jpg", desc="Cannonball", link="https://youtu.be/ey00mPkhMCs?t=679") }}
+{{ image(path="swp.jpg", desc="Swing up", link="https://youtu.be/_qJulETphrI?t=174") }}
+{{ image(path="rst.jpg", desc="Reverse split up", link="https://www.youtube.com/shorts/8dl1v6_4Vio") }}
+{{ image(path="rbw.jpg", desc="Rainbow", link="https://youtu.be/A1tjmd6sBxU?t=617") }}
+{{ gallery_end() }}
+
 # **Transitions - base moves a flyer from one grip to another**
 
 {{ gallery_start() }}
@@ -94,20 +108,6 @@ Snapshot collection of 140 cheer stunting skills (27 still missing).
 {{ image(path="ppt.jpg", desc="Pop tart", link="https://www.youtube.com/shorts/enKAPA7lPYw") }}
 {{ image(path="spp.jpg", desc="Side pop", link="https://www.youtube.com/shorts/RfXsbmoL3zY") }}
 {{ image(path="hpv.jpg", desc="Handski pop over", link="https://youtu.be/SwaejeJ8kPk?t=941") }}
-{{ gallery_end() }}
-
-# **Handstands - base throws a flyer to a handstand grip**
-
-{{ gallery_start() }}
-{{ image(path="dmd.jpg", desc="Diamidov", link="https://youtu.be/7HU_bauP2lI?t=302") }}
-{{ image(path="hsk.jpg", desc="Handski", link="https://youtu.be/_qJulETphrI?t=729") }}
-{{ image(path="dsk.jpg", desc="Diamski", link="https://www.youtube.com/shorts/bDCxmfi40ck") }}
-{{ image(path="dtd.jpg", desc="Hand to hand", link="https://youtu.be/LV3RCD7S-GE?t=172") }}
-{{ image(path="stp.jpg", desc="Split up", link="https://youtu.be/HMBSWEz2l24?t=664") }}
-{{ image(path="cnb.jpg", desc="Cannonball", link="https://youtu.be/ey00mPkhMCs?t=679") }}
-{{ image(path="swp.jpg", desc="Swing up", link="https://youtu.be/_qJulETphrI?t=174") }}
-{{ image(path="rst.jpg", desc="Reverse split up", link="https://www.youtube.com/shorts/8dl1v6_4Vio") }}
-{{ image(path="rbw.jpg", desc="Rainbow", link="https://youtu.be/A1tjmd6sBxU?t=617") }}
 {{ gallery_end() }}
 
 # **Dismounts - flyer comes down from a stunt**
@@ -144,11 +144,12 @@ Snapshot collection of 140 cheer stunting skills (27 still missing).
 # **Jumps - flyer hits a pose in the air**
 
 {{ gallery_start() }}
+{{ image(path="str.jpg", desc="Straight", link="") }}
 {{ image(path="tck.jpg", desc="Tuck", link="") }}
 {{ image(path="hkj.jpg", desc="Herkey", link="") }}
-{{ image(path="pkj.jpg", desc="Pike", link="") }}
-{{ image(path="fhd.jpg", desc="Front hurdler", link="") }}
 {{ image(path="dlh.jpg", desc="Double hook", link="") }}
+{{ image(path="fhd.jpg", desc="Front hurdler", link="") }}
+{{ image(path="pkj.jpg", desc="Pike", link="") }}
 {{ image(path="shd.jpg", desc="Side hurdler", link="") }}
 {{ image(path="tth.jpg", desc="Toe touch", link="https://youtu.be/yCkaHsti5XI?t=5") }}
 {{ image(path="sdg.jpg", desc="Spread eagle", link="") }}
@@ -221,21 +222,25 @@ Snapshot collection of 140 cheer stunting skills (27 still missing).
 # **Extras - stunts turn extra hard**
 
 {{ gallery_start() }}
+{{ image(path="tbk.jpg", desc="Buyeske", link="https://youtu.be/vmu1ZInhbjw?t=207") }}
+{{ image(path="bdn.jpg", desc="Bondan", link="https://youtu.be/LV3RCD7S-GE?t=873") }}
+{{ image(path="tjn.jpg", desc="Johnson", link="https://youtu.be/vUINVgnZBAQ?t=851") }}
 {{ image(path="ptl.jpg", desc="Opposite leg", link="https://youtu.be/LV3RCD7S-GE?t=223") }}
 {{ image(path="pts.jpg", desc="Opposite spin", link="https://youtu.be/7HU_bauP2lI?t=451") }}
 {{ image(path="mtl.jpg", desc="Immediate lib", link="https://youtu.be/HMBSWEz2l24?t=316") }}
 {{ image(path="msw.jpg", desc="Arm switch", link="https://youtu.be/LV3RCD7S-GE?t=903") }}
-{{ image(path="bdn.jpg", desc="Bondan", link="https://youtu.be/LV3RCD7S-GE?t=873") }}
+{{ image(path="btb.jpg", desc="Above the brows", link="https://youtu.be/Be-Sv_3gx5A?t=894") }}
 {{ image(path="mts.jpg", desc="Immediate stretch", link="https://youtu.be/cyGMvoUV01Y?t=1295") }}
 {{ image(path="lts.jpg", desc="Low toss", link="https://youtu.be/CDZ0CePSQ40?t=588") }}
-{{ image(path="hts.jpg", desc="High toss", link="https://youtu.be/vmu1ZInhbjw?t=207") }}
 {{ image(path="vts.jpg", desc="Hover toss", link="https://youtu.be/SonOnjYRtHU?t=1135") }}
+{{ image(path="hts.jpg", desc="High toss", link="https://youtu.be/vUINVgnZBAQ?t=557") }}
+{{ image(path="nrm.jpg", desc="One arm", link="https://youtu.be/REmmtNLAF7Q?t=150") }}
+{{ image(path="ddt.jpg", desc="Dead toss", link="https://youtu.be/ApTsZwIDYLU?t=473") }}
+{{ image(path="nlg.jpg", desc="One leg", link="https://youtu.be/Pp5O3fj7Pbc?t=763") }}
+{{ image(path="bcp.jpg", desc="Back clap", link="https://youtu.be/vUINVgnZBAQ?t=591") }}
+{{ image(path="tfs.jpg", desc="Toss fists", link="https://youtu.be/7HU_bauP2lI?t=617") }}
+{{ image(path="tft.jpg", desc="Toss fist", link="https://youtu.be/9LaHx5fUn6s?t=374") }}
 {{ image(path="ntg.jpg", desc="No tag", link="https://youtu.be/Be-Sv_3gx5A?t=129") }}
 {{ image(path="nlk.jpg", desc="No look", link="https://youtu.be/ApTsZwIDYLU?t=421") }}
 {{ image(path="nsp.jpg", desc="No step", link="https://youtu.be/HMBSWEz2l24?t=382") }}
-{{ image(path="nrm.jpg", desc="One arm", link="https://youtu.be/REmmtNLAF7Q?t=150") }}
-{{ image(path="btb.jpg", desc="Above the brows", link="https://youtu.be/Be-Sv_3gx5A?t=894") }}
-{{ image(path="nlg.jpg", desc="One leg", link="https://youtu.be/Pp5O3fj7Pbc?t=763") }}
-{{ image(path="tst.jpg", desc="Toss fists", link="https://youtu.be/7HU_bauP2lI?t=617") }}
-{{ image(path="ddt.jpg", desc="Dead toss", link="https://youtu.be/ApTsZwIDYLU?t=473") }}
 {{ gallery_end() }}
