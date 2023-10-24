@@ -127,14 +127,12 @@ article [itemprop="summary"] p {
     grid-template-columns: 280px 280px 280px;
 }
 
-.image {
-    width: 45%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+.center-image {
+    display: inline-block;
+    width: 100%;
 }
 
-.image-caption {
+.center-image-caption {
     text-align: center;
     margin: 10px;
 }
