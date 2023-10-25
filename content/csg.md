@@ -7,7 +7,7 @@ categories = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 147 cheer stunting skills (30 still missing).
+Snapshot collection of 149 cheer stunting skills (31 still missing).
 
 <!-- more -->
 
@@ -106,9 +106,10 @@ Snapshot collection of 147 cheer stunting skills (30 still missing).
 {{ image(path="rpt.webp", desc="Front pop through", link="https://youtu.be/7HU_bauP2lI?t=699") }}
 {{ image(path="tpt.webp", desc="Twist pop through", link="https://www.youtube.com/shorts/qLsIQM8KoOQ") }}
 {{ image(path="ddv.webp", desc="Dolphin dive", link="https://youtu.be/UnSqDsi_6lE?t=405") }}
+{{ image(path="hpv.webp", desc="Handski pop over", link="https://youtu.be/SwaejeJ8kPk?t=941") }}
 {{ image(path="ppt.webp", desc="Pop tart", link="https://www.youtube.com/shorts/enKAPA7lPYw") }}
 {{ image(path="spp.webp", desc="Side pop", link="https://www.youtube.com/shorts/RfXsbmoL3zY") }}
-{{ image(path="hpv.webp", desc="Handski pop over", link="https://youtu.be/SwaejeJ8kPk?t=941") }}
+{{ image(path="fls.webp", desc="Full side pop", link="https://www.youtube.com/shorts/MPkcfX0Rk3U") }}
 {{ gallery_end() }}
 
 # **Dismounts - flyer comes down from a stunt**
@@ -207,6 +208,7 @@ Snapshot collection of 147 cheer stunting skills (30 still missing).
 {{ image(path="bhs.webp", desc="Back handspring", link="https://youtu.be/LV3RCD7S-GE?t=455") }}
 {{ image(path="fdl.webp", desc="Forward roll", link="https://www.youtube.com/shorts/cxBuRNT1-Lg") }}
 {{ image(path="dts.webp", desc="Double full", link="") }}
+{{ image(path="bdl.webp", desc="Backward roll", link="") }}
 {{ image(path="dvl.webp", desc="Dive roll", link="") }}
 {{ gallery_end() }}
 
