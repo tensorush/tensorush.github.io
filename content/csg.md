@@ -7,7 +7,7 @@ categories = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 145 cheer stunting skills (28 still missing).
+Snapshot collection of 147 cheer stunting skills (30 still missing).
 
 <!-- more -->
 
@@ -32,7 +32,7 @@ Snapshot collection of 145 cheer stunting skills (28 still missing).
 
 # Note to flyers:
 
-## 1) Stay fit and cute.
+## 1) Stay fit and fine.
 
 ## 2) Keep your chin, chest and toes up.
 
@@ -75,6 +75,7 @@ Snapshot collection of 145 cheer stunting skills (28 still missing).
 {{ image(path="tsr.webp", desc="Toss chair", link="https://youtu.be/aybcpdbEbNw?t=486") }}
 {{ image(path="sts.webp", desc="Stretch toss", link="https://www.youtube.com/shorts/PkMPp2MzDfU") }}
 {{ image(path="tsn.webp", desc="Toss recliner", link="https://youtu.be/aybcpdbEbNw?t=617") }}
+{{ image(path="tsf.webp", desc="Toss half", link="") }}
 {{ image(path="slp.webp", desc="Straddle up", link="") }}
 {{ gallery_end() }}
 
@@ -153,8 +154,9 @@ Snapshot collection of 145 cheer stunting skills (28 still missing).
 {{ image(path="pkj.webp", desc="Pike", link="") }}
 {{ image(path="tth.webp", desc="Toe touch", link="https://youtu.be/yCkaHsti5XI?t=5") }}
 {{ image(path="sdg.webp", desc="Spread eagle", link="") }}
-{{ image(path="spt.webp", desc="Split", link="https://www.youtube.com/shorts/cxBuRNT1-Lg") }}
+{{ image(path="spt.webp", desc="Split", link="") }}
 {{ image(path="bft.webp", desc="Bird front", link="https://www.youtube.com/shorts/6avCjWkWyjI") }}
+{{ image(path="rvs.webp", desc="Reverse split", link="https://www.youtube.com/shorts/cxBuRNT1-Lg") }}
 {{ gallery_end() }}
 
 # **Spins - flyer performs a spin in the air**
@@ -179,7 +181,7 @@ Snapshot collection of 145 cheer stunting skills (28 still missing).
 {{ image(path="ntn.webp", desc="One to one", link="https://youtu.be/SwaejeJ8kPk?t=477") }}
 {{ image(path="rwd.webp", desc="Rewind", link="https://youtu.be/LV3RCD7S-GE?t=375") }}
 {{ image(path="stn.webp", desc="Shotgun", link="https://youtu.be/CDZ0CePSQ40?t=261") }}
-{{ image(path="rvr.webp", desc="Reverse rewind", link="https://youtu.be/u1x7tgvlO3M?t=518") }}
+{{ image(path="ftf.webp", desc="Fast forward", link="https://youtu.be/u1x7tgvlO3M?t=518") }}
 {{ image(path="fsd.webp", desc="Front spread", link="https://www.youtube.com/shorts/RfXsbmoL3zY") }}
 {{ image(path="wht.webp", desc="Winchester", link="https://www.youtube.com/shorts/5mLWtcbPUwk") }}
 {{ image(path="bsd.webp", desc="Back spread", link="https://www.youtube.com/shorts/CbazH3PF1MU") }}
