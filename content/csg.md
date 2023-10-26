@@ -7,7 +7,7 @@ categories = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 149 cheer stunting skills (31 still missing).
+Snapshot collection of 150 cheer stunting skills (30 still missing).
 
 <!-- more -->
 
@@ -22,6 +22,14 @@ Snapshot collection of 149 cheer stunting skills (31 still missing).
 {{ image(path="skn.webp", desc="Gauge Stricklin", link="https://www.youtube.com/@Strictlycheer") }}
 {{ gallery_end() }}
 
+# Note to flyers:
+
+## 1) Stay fit and healthy.
+
+## 2) Keep your chin, chest and toes up.
+
+## 3) Keep your body straight and in line with the base.
+
 # Note to bases:
 
 ## 1) Always have a spotter.
@@ -29,14 +37,6 @@ Snapshot collection of 149 cheer stunting skills (31 still missing).
 ## 2) Keep your free hand on your hip.
 
 ## 3) Make sure to switch to the non-dominant arm.
-
-# Note to flyers:
-
-## 1) Stay fit and fine.
-
-## 2) Keep your chin, chest and toes up.
-
-## 3) Keep your body straight and in line with the base.
 
 ## **Y'all be safe and have fun, happy stunting!**
 
@@ -63,19 +63,19 @@ Snapshot collection of 149 cheer stunting skills (31 still missing).
 # **Tosses - base throws a flyer to a grip**
 
 {{ gallery_start() }}
-{{ image(path="tsh.webp", desc="Toss hands", link="https://youtu.be/1hzO2X9e_CE?t=61") }}
-{{ image(path="rvt.webp", desc="Reverse toss", link="https://youtu.be/WBMVkXf3oBU?t=769") }}
-{{ image(path="dpt.webp", desc="Drop toss", link="https://youtu.be/7HU_bauP2lI?t=30") }}
 {{ image(path="flp.webp", desc="Full up", link="https://youtu.be/FZ4A0nTEtkc?t=187") }}
 {{ image(path="dlp.webp", desc="Double up", link="https://youtu.be/vUINVgnZBAQ?t=424") }}
 {{ image(path="tpp.webp", desc="Triple up", link="https://www.youtube.com/shorts/UeR4EAB5H9Y") }}
-{{ image(path="wkn.webp", desc="Walk in", link="https://youtu.be/Pp5O3fj7Pbc?t=644") }}
-{{ image(path="blp.webp", desc="Ball up", link="https://youtu.be/KsHd_mN0a84?t=73") }}
+{{ image(path="tsh.webp", desc="Toss hands", link="https://youtu.be/1hzO2X9e_CE?t=61") }}
+{{ image(path="tsf.webp", desc="Toss half", link="https://youtu.be/LV3RCD7S-GE?t=807") }}
 {{ image(path="bmr.webp", desc="Boomerang", link="https://youtu.be/Vsq-m_Rd7Zk?t=767") }}
 {{ image(path="tsr.webp", desc="Toss chair", link="https://youtu.be/aybcpdbEbNw?t=486") }}
 {{ image(path="sts.webp", desc="Stretch toss", link="https://www.youtube.com/shorts/PkMPp2MzDfU") }}
 {{ image(path="tsn.webp", desc="Toss recliner", link="https://youtu.be/aybcpdbEbNw?t=617") }}
-{{ image(path="tsf.webp", desc="Toss half", link="") }}
+{{ image(path="wkn.webp", desc="Walk in", link="https://youtu.be/7HU_bauP2lI?t=69") }}
+{{ image(path="rvt.webp", desc="Reverse toss", link="https://youtu.be/WBMVkXf3oBU?t=769") }}
+{{ image(path="dpt.webp", desc="Drop toss", link="https://youtu.be/7HU_bauP2lI?t=30") }}
+{{ image(path="blp.webp", desc="Ball up", link="https://youtu.be/KsHd_mN0a84?t=73") }}
 {{ image(path="slp.webp", desc="Straddle up", link="") }}
 {{ gallery_end() }}
 
@@ -116,7 +116,7 @@ Snapshot collection of 149 cheer stunting skills (31 still missing).
 
 {{ gallery_start() }}
 {{ image(path="ppf.webp", desc="Pop off", link="https://youtu.be/HMBSWEz2l24?t=672") }}
-{{ image(path="spf.webp", desc="Spin off", link="https://www.youtube.com/shorts/cxBuRNT1-Lg") }}
+{{ image(path="csw.webp", desc="Corkscrew", link="https://www.youtube.com/shorts/cxBuRNT1-Lg") }}
 {{ image(path="ppr.webp", desc="Reverse pop off", link="https://youtu.be/LV3RCD7S-GE?t=30") }}
 {{ image(path="snf.webp", desc="Sign off", link="https://youtu.be/LV3RCD7S-GE?t=201") }}
 {{ image(path="fsp.webp", desc="Front spread drop", link="https://www.youtube.com/shorts/kg0WcXz9El8") }}
@@ -127,6 +127,7 @@ Snapshot collection of 149 cheer stunting skills (31 still missing).
 {{ image(path="fdn.webp", desc="Full down", link="") }}
 {{ image(path="tdn.webp", desc="Twist down", link="https://www.youtube.com/shorts/B5OVmWPtjII") }}
 {{ image(path="ddn.webp", desc="Double down", link="https://youtu.be/kOSlKw79qdA?t=578") }}
+{{ image(path="wfl.webp", desc="Waterfall", link="") }}
 {{ gallery_end() }}
 
 # **Poses - flyer hits a pose at the top**
@@ -147,7 +148,7 @@ Snapshot collection of 149 cheer stunting skills (31 still missing).
 
 {{ gallery_start() }}
 {{ image(path="str.webp", desc="Straight", link="") }}
-{{ image(path="tck.webp", desc="Tuck", link="") }}
+{{ image(path="tck.webp", desc="Tuck", link="https://youtu.be/5Fim2JF7-FQ?t=217") }}
 {{ image(path="hkj.webp", desc="Herkey", link="") }}
 {{ image(path="fhd.webp", desc="Front hurdler", link="") }}
 {{ image(path="dlh.webp", desc="Double hook", link="") }}
@@ -206,13 +207,13 @@ Snapshot collection of 149 cheer stunting skills (31 still missing).
 {{ image(path="fhs.webp", desc="Front handspring", link="https://youtu.be/ebOIvS87YpM?t=621") }}
 {{ image(path="fts.webp", desc="Full", link="") }}
 {{ image(path="bhs.webp", desc="Back handspring", link="https://youtu.be/LV3RCD7S-GE?t=455") }}
-{{ image(path="fdl.webp", desc="Forward roll", link="https://www.youtube.com/shorts/cxBuRNT1-Lg") }}
+{{ image(path="fdl.webp", desc="Forward roll", link="") }}
 {{ image(path="dts.webp", desc="Double full", link="") }}
 {{ image(path="bdl.webp", desc="Backward roll", link="") }}
-{{ image(path="dvl.webp", desc="Dive roll", link="") }}
+{{ image(path="dvl.webp", desc="Dive roll", link="https://www.youtube.com/shorts/cxBuRNT1-Lg") }}
 {{ gallery_end() }}
 
-# **Baskets - two bases and a backspot launch and catch a flyer**
+# **Baskets - two bases and a backspot rocket and cradle a flyer**
 
 {{ gallery_start() }}
 {{ image(path="std.webp", desc="Straight ride", link="https://youtu.be/3ju2179PNC8?t=578") }}
