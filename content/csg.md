@@ -93,7 +93,7 @@ Snapshot collection of 150 cheer stunting skills (30 still missing).
 {{ image(path="rbw.webp", desc="Rainbow", link="https://youtu.be/A1tjmd6sBxU?t=617") }}
 {{ gallery_end() }}
 
-# **Transitions - base moves a flyer from one grip to another**
+# **Transitions - flyer moves from one grip to another**
 
 {{ gallery_start() }}
 {{ image(path="ppv.webp", desc="Pop over", link="https://youtu.be/UnSqDsi_6lE?t=148") }}
