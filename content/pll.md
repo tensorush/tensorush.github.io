@@ -29,6 +29,8 @@ Domain-wide shifts of the programming language landscape.
 
 - Logic: Prolog/Scheme => Racket/Wolfram
 
+- Concatenative: Forth => Factor/Joy/Dt
+
 - Systems: C/C++/COBOL => Zig/Rust/Nim
 
 - Statistics: Stata/R/VBA => Python
@@ -38,5 +40,3 @@ Domain-wide shifts of the programming language landscape.
 - Typesetting: TeX => Typst
 
 - Array: APL/BQN/J => Uiua
-
-- Stack: Forth => Factor
