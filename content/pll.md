@@ -15,7 +15,7 @@ Domain-wide shifts of the programming language landscape.
 
 - Functional: Haskell/OCaml/Erlang/Scala/Clojure/F# => Roc/Elixir/Gleam/Elm
 
-- Verification: Agda/Isabelle/Dafny => TLA+/Coq/Lean/Idris/F*
+- Verification: Agda/Isabelle/Dafny => Coq/Lean/Idris/TLA+/F*
 
 - Scripting: Python/Lua/Perl/Groovy => Go/Roc/Crystal/Zig
 
