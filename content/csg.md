@@ -7,7 +7,7 @@ categories = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 150 cheer stunting skills (30 still missing).
+Snapshot collection of 152 cheer stunting skills (31 still missing).
 
 <!-- more -->
 
@@ -60,7 +60,7 @@ Snapshot collection of 150 cheer stunting skills (30 still missing).
 {{ image(path="ssd.webp", desc="Shoulder stand", link="https://youtu.be/SonOnjYRtHU?t=281") }}
 {{ gallery_end() }}
 
-# **Tosses - base throws a flyer to a grip**
+# **Tosses - base throws a flyer to a foot grip**
 
 {{ gallery_start() }}
 {{ image(path="flp.webp", desc="Full up", link="https://youtu.be/FZ4A0nTEtkc?t=187") }}
@@ -75,11 +75,12 @@ Snapshot collection of 150 cheer stunting skills (30 still missing).
 {{ image(path="wkn.webp", desc="Walk in", link="https://youtu.be/7HU_bauP2lI?t=69") }}
 {{ image(path="rvt.webp", desc="Reverse toss", link="https://youtu.be/WBMVkXf3oBU?t=769") }}
 {{ image(path="dpt.webp", desc="Drop toss", link="https://youtu.be/7HU_bauP2lI?t=30") }}
-{{ image(path="blp.webp", desc="Ball up", link="https://youtu.be/KsHd_mN0a84?t=73") }}
+{{ image(path="hnh.webp", desc="Hand in hand", link="https://youtu.be/c34iMh-nryw?t=602") }}
 {{ image(path="slp.webp", desc="Straddle up", link="") }}
+{{ image(path="blp.webp", desc="Ball up", link="https://youtu.be/KsHd_mN0a84?t=73") }}
 {{ gallery_end() }}
 
-# **Handstands - base throws a flyer to a handstand grip**
+# **Handstands - base throws a flyer to a hand grip**
 
 {{ gallery_start() }}
 {{ image(path="dmd.webp", desc="Diamidov", link="https://youtu.be/7HU_bauP2lI?t=302") }}
@@ -202,7 +203,7 @@ Snapshot collection of 150 cheer stunting skills (30 still missing).
 {{ image(path="srl.webp", desc="Side aerial", link="") }}
 {{ image(path="phb.webp", desc="Punch back", link="") }}
 {{ image(path="fwv.webp", desc="Front walkover", link="") }}
-{{ image(path="rbn.webp", desc="Arabian", link="") }}
+{{ image(path="ltt.webp", desc="Layout", link="") }}
 {{ image(path="bwv.webp", desc="Back walkover", link="") }}
 {{ image(path="fhs.webp", desc="Front handspring", link="https://youtu.be/ebOIvS87YpM?t=621") }}
 {{ image(path="fts.webp", desc="Full", link="") }}
@@ -211,9 +212,10 @@ Snapshot collection of 150 cheer stunting skills (30 still missing).
 {{ image(path="dts.webp", desc="Double full", link="") }}
 {{ image(path="bdl.webp", desc="Backward roll", link="") }}
 {{ image(path="dvl.webp", desc="Dive roll", link="https://www.youtube.com/shorts/cxBuRNT1-Lg") }}
+{{ image(path="rbn.webp", desc="Arabian", link="") }}
 {{ gallery_end() }}
 
-# **Baskets - two bases and a backspot rocket and cradle a flyer**
+# **Baskets - two bases and a backspot launch and catch a flyer**
 
 {{ gallery_start() }}
 {{ image(path="std.webp", desc="Straight ride", link="https://youtu.be/3ju2179PNC8?t=578") }}
