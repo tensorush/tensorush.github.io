@@ -11,13 +11,15 @@ Programming patterns from the Zig standard library.
 
 <!-- more -->
 
-- [Traits](https://github.com/ziglang/zig/blob/0.11.0/lib/std/meta/trait.zig#L10)
+- [Trait](https://github.com/ziglang/zig/blob/0.11.0/lib/std/meta/trait.zig#L10)
 
 - [Closure](https://github.com/ziglang/zig/blob/0.11.0/lib/std/Thread/Pool.zig#L86)
 
 - [Context](https://github.com/ziglang/zig/blob/0.11.0/lib/std/hash_map.zig#L133)
 
 - [Decorator](https://zig.news/xq/cool-zig-patterns-configuration-parameters-591a)
+
+- [Generic type](https://github.com/ziglang/zig/blob/0.11.0/lib/std/hash_map.zig#L370)
 
 - [Arena allocator](https://github.com/ziglang/zig/blob/0.11.0/lib/std/heap/arena_allocator.zig#L8)
 
@@ -29,9 +31,11 @@ Programming patterns from the Zig standard library.
 
 - [WaitGroup + ThreadPool](https://github.com/ziglang/zig/blob/0.11.0/lib/build_runner.zig#L772)
 
-- [Anonymous struct coercions](https://zig.news/xq/cool-zig-patterns-305o)
+- [File container reference](https://github.com/ziglang/zig/blob/0.11.0/lib/std/Thread.zig#L24)
 
-- [Named (optional) arguments](https://github.com/ziglang/zig/blob/0.11.0/lib/std/fmt.zig#L22)
+- [Named (optional) argument](https://github.com/ziglang/zig/blob/0.11.0/lib/std/fmt.zig#L22)
+
+- [Anonymous struct coercions](https://zig.news/xq/cool-zig-patterns-305o)
 
 - [Comptime string intern pool](https://zig.news/xq/cool-zig-patterns-comptime-string-interning-3558)
 
