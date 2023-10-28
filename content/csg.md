@@ -82,6 +82,7 @@ Snapshot collection of 157 cheer stunting skills (32 still missing).
 
 {{ gallery_start() }}
 {{ image(path="dmd.webp", desc="Diamidov", link="https://youtu.be/7HU_bauP2lI?t=302") }}
+{{ image(path="cwp.webp", desc="Corkscrew up", link="") }}
 {{ image(path="dsk.webp", desc="Diamski", link="https://www.youtube.com/shorts/bDCxmfi40ck") }}
 {{ image(path="dtd.webp", desc="Hand to hand", link="https://youtu.be/LV3RCD7S-GE?t=172") }}
 {{ image(path="stp.webp", desc="Split up", link="https://youtu.be/HMBSWEz2l24?t=664") }}
@@ -170,7 +171,6 @@ Snapshot collection of 157 cheer stunting skills (32 still missing).
 {{ image(path="hcr.webp", desc="Helicopter", link="https://www.youtube.com/shorts/mC6yrsA0Ixk") }}
 {{ image(path="sfh.webp", desc="Starfish", link="https://www.youtube.com/shorts/8ufJn_pcaUw") }}
 {{ image(path="ssm.webp", desc="Side semi", link="https://www.youtube.com/shorts/p2XVKhJH3Aw") }}
-{{ image(path="cwp.webp", desc="Corkscrew up", link="") }}
 {{ image(path="hdd.webp", desc="Handski around", link="https://www.youtube.com/shorts/4sAQu4PxQOA") }}
 {{ image(path="rtw.webp", desc="Around the world", link="https://youtu.be/hw7tZkE-dHk?t=354") }}
 {{ gallery_end() }}
