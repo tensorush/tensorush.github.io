@@ -7,7 +7,7 @@ categories = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 156 cheer stunting skills (32 still missing).
+Snapshot collection of 157 cheer stunting skills (32 still missing).
 
 <!-- more -->
 
@@ -48,7 +48,7 @@ Snapshot collection of 156 cheer stunting skills (32 still missing).
 {{ image(path="tsx.webp", desc="Extension", link="https://youtu.be/9LaHx5fUn6s?t=716") }}
 {{ image(path="tsc.webp", desc="Cupie", link="https://youtu.be/0TN-f7vbnTQ?t=579") }}
 {{ image(path="hsd.webp", desc="Handstand", link="https://youtu.be/DfFdPsbxVPQ?t=475") }}
-{{ image(path="rvc.webp", desc="Reverse catch", link="https://youtu.be/qjbRUuxKr3Q?t=796") }}
+{{ image(path="hsk.webp", desc="Handski", link="https://youtu.be/_qJulETphrI?t=729") }}
 {{ image(path="gvt.webp", desc="Gravity", link="https://www.youtube.com/shorts/5PSboWckPbc") }}
 {{ image(path="rvg.webp", desc="Front gravity", link="https://youtu.be/3ju2179PNC8?t=272") }}
 {{ image(path="sst.webp", desc="Shoulder sit", link="https://youtu.be/ApTsZwIDYLU?t=119") }}
@@ -58,6 +58,7 @@ Snapshot collection of 156 cheer stunting skills (32 still missing).
 {{ image(path="vsr.webp", desc="Visor", link="https://youtu.be/RLbde7dYHkI?t=235") }}
 {{ image(path="dlv.webp", desc="Double visor", link="https://youtu.be/7HU_bauP2lI?t=601") }}
 {{ image(path="ssd.webp", desc="Shoulder stand", link="https://youtu.be/SonOnjYRtHU?t=281") }}
+{{ image(path="rvc.webp", desc="Reverse catch", link="https://youtu.be/qjbRUuxKr3Q?t=796") }}
 {{ gallery_end() }}
 
 # **Tosses - base throws a flyer to a foot grip**
@@ -81,7 +82,6 @@ Snapshot collection of 156 cheer stunting skills (32 still missing).
 
 {{ gallery_start() }}
 {{ image(path="dmd.webp", desc="Diamidov", link="https://youtu.be/7HU_bauP2lI?t=302") }}
-{{ image(path="hsk.webp", desc="Handski", link="https://youtu.be/_qJulETphrI?t=729") }}
 {{ image(path="dsk.webp", desc="Diamski", link="https://www.youtube.com/shorts/bDCxmfi40ck") }}
 {{ image(path="dtd.webp", desc="Hand to hand", link="https://youtu.be/LV3RCD7S-GE?t=172") }}
 {{ image(path="stp.webp", desc="Split up", link="https://youtu.be/HMBSWEz2l24?t=664") }}
@@ -97,12 +97,12 @@ Snapshot collection of 156 cheer stunting skills (32 still missing).
 {{ image(path="ppv.webp", desc="Pop over", link="https://youtu.be/UnSqDsi_6lE?t=148") }}
 {{ image(path="flv.webp", desc="Full over", link="https://youtu.be/7HU_bauP2lI?t=433") }}
 {{ image(path="pps.webp", desc="Power press", link="https://youtu.be/0TN-f7vbnTQ?t=270") }}
+{{ image(path="pph.webp", desc="Pop through", link="https://youtu.be/REmmtNLAF7Q?t=369") }}
+{{ image(path="rpt.webp", desc="Front pop through", link="https://youtu.be/7HU_bauP2lI?t=699") }}
+{{ image(path="tpt.webp", desc="Twist pop through", link="https://www.tiktok.com/@eliza.labelle/video/7094666681926028587") }}
 {{ image(path="tkt.webp", desc="Tick tock", link="https://youtu.be/ey00mPkhMCs?t=234") }}
 {{ image(path="lth.webp", desc="Low to high", link="https://youtu.be/RLbde7dYHkI?t=258") }}
 {{ image(path="hth.webp", desc="High to high", link="https://youtu.be/FZ4A0nTEtkc?t=109") }}
-{{ image(path="pph.webp", desc="Pop through", link="https://youtu.be/REmmtNLAF7Q?t=369") }}
-{{ image(path="tpt.webp", desc="Twist pop through", link="https://www.tiktok.com/@eliza.labelle/video/7094666681926028587") }}
-{{ image(path="rpt.webp", desc="Front pop through", link="https://youtu.be/7HU_bauP2lI?t=699") }}
 {{ image(path="ddv.webp", desc="Dolphin dive", link="https://youtu.be/UnSqDsi_6lE?t=405") }}
 {{ image(path="ppt.webp", desc="Pop tart", link="https://www.youtube.com/shorts/enKAPA7lPYw") }}
 {{ image(path="spp.webp", desc="Side pop", link="https://www.youtube.com/shorts/RfXsbmoL3zY") }}
@@ -236,22 +236,23 @@ Snapshot collection of 156 cheer stunting skills (32 still missing).
 {{ image(path="tbk.webp", desc="Buyeske", link="https://youtu.be/vmu1ZInhbjw?t=207") }}
 {{ image(path="bdn.webp", desc="Bondan", link="https://youtu.be/LV3RCD7S-GE?t=873") }}
 {{ image(path="tjn.webp", desc="Johnson", link="https://youtu.be/vUINVgnZBAQ?t=851") }}
-{{ image(path="mtl.webp", desc="Immediate lib", link="https://youtu.be/HMBSWEz2l24?t=316") }}
-{{ image(path="bcp.webp", desc="Back clap", link="https://youtu.be/vUINVgnZBAQ?t=591") }}
-{{ image(path="mts.webp", desc="Immediate stretch", link="https://youtu.be/cyGMvoUV01Y?t=1295") }}
 {{ image(path="pts.webp", desc="Opposite spin", link="https://youtu.be/7HU_bauP2lI?t=451") }}
 {{ image(path="msw.webp", desc="Opposite arm", link="https://youtu.be/LV3RCD7S-GE?t=903") }}
 {{ image(path="ptl.webp", desc="Opposite leg", link="https://youtu.be/LV3RCD7S-GE?t=223") }}
+{{ image(path="mtl.webp", desc="Immediate lib", link="https://youtu.be/HMBSWEz2l24?t=316") }}
+{{ image(path="bcp.webp", desc="Back clap", link="https://youtu.be/vUINVgnZBAQ?t=591") }}
+{{ image(path="mts.webp", desc="Immediate stretch", link="https://youtu.be/cyGMvoUV01Y?t=1295") }}
 {{ image(path="lts.webp", desc="Low toss", link="https://youtu.be/CDZ0CePSQ40?t=588") }}
 {{ image(path="vts.webp", desc="Hover toss", link="https://youtu.be/SonOnjYRtHU?t=1135") }}
 {{ image(path="hts.webp", desc="High toss", link="https://youtu.be/vUINVgnZBAQ?t=557") }}
+{{ image(path="bts.webp", desc="Base toss", link="https://youtu.be/UnSqDsi_6lE?t=657") }}
 {{ image(path="tfs.webp", desc="Toss fists", link="https://youtu.be/7HU_bauP2lI?t=617") }}
-{{ image(path="btb.webp", desc="Above the brows", link="https://youtu.be/Be-Sv_3gx5A?t=894") }}
-{{ image(path="tft.webp", desc="Toss fist", link="https://youtu.be/9LaHx5fUn6s?t=374") }}
+{{ image(path="rts.webp", desc="Rocket toss", link="https://youtu.be/u1x7tgvlO3M?t=801") }}
 {{ image(path="ntg.webp", desc="No tag", link="https://youtu.be/Be-Sv_3gx5A?t=129") }}
 {{ image(path="nlk.webp", desc="No look", link="https://youtu.be/ApTsZwIDYLU?t=421") }}
 {{ image(path="nsp.webp", desc="No step", link="https://youtu.be/HMBSWEz2l24?t=382") }}
 {{ image(path="nrm.webp", desc="One arm", link="https://youtu.be/REmmtNLAF7Q?t=150") }}
 {{ image(path="ddt.webp", desc="Dead toss", link="https://youtu.be/ApTsZwIDYLU?t=473") }}
 {{ image(path="nlg.webp", desc="One leg", link="https://youtu.be/Pp5O3fj7Pbc?t=763") }}
+{{ image(path="btb.webp", desc="Above the brows", link="https://youtu.be/Be-Sv_3gx5A?t=894") }}
 {{ gallery_end() }}
