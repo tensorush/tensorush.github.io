@@ -7,7 +7,7 @@ categories = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 157 cheer stunting skills (32 still missing).
+Snapshot collection of 158 cheer stunting skills (32 still missing).
 
 <!-- more -->
 
@@ -70,7 +70,7 @@ Snapshot collection of 157 cheer stunting skills (32 still missing).
 {{ image(path="tsr.webp", desc="Toss chair", link="https://youtu.be/aybcpdbEbNw?t=486") }}
 {{ image(path="sts.webp", desc="Stretch toss", link="https://www.youtube.com/shorts/PkMPp2MzDfU") }}
 {{ image(path="tsn.webp", desc="Toss recliner", link="https://youtu.be/aybcpdbEbNw?t=617") }}
-{{ image(path="wkn.webp", desc="Walk in", link="https://youtu.be/7HU_bauP2lI?t=69") }}
+{{ image(path="wkn.webp", desc="Walk-in", link="https://youtu.be/7HU_bauP2lI?t=69") }}
 {{ image(path="rvt.webp", desc="Reverse toss", link="https://youtu.be/WBMVkXf3oBU?t=769") }}
 {{ image(path="dpt.webp", desc="Drop toss", link="https://youtu.be/7HU_bauP2lI?t=30") }}
 {{ image(path="hnh.webp", desc="Hand in hand", link="https://youtu.be/c34iMh-nryw?t=602") }}
@@ -118,7 +118,7 @@ Snapshot collection of 157 cheer stunting skills (32 still missing).
 {{ image(path="ppr.webp", desc="Reverse pop off", link="https://youtu.be/LV3RCD7S-GE?t=30") }}
 {{ image(path="snf.webp", desc="Sign off", link="https://youtu.be/LV3RCD7S-GE?t=201") }}
 {{ image(path="fsp.webp", desc="Front spread drop", link="https://www.youtube.com/shorts/kg0WcXz9El8") }}
-{{ image(path="wkt.webp", desc="Walk out", link="https://youtu.be/LV3RCD7S-GE?t=24") }}
+{{ image(path="wkt.webp", desc="Walk-out", link="https://youtu.be/LV3RCD7S-GE?t=24") }}
 {{ image(path="stt.webp", desc="Set out", link="https://youtu.be/WBMVkXf3oBU?t=751") }}
 {{ image(path="bsp.webp", desc="Back spread drop", link="https://www.youtube.com/shorts/a0-mRBEEBXk") }}
 {{ image(path="crl.webp", desc="Cradle", link="https://youtu.be/WBMVkXf3oBU?t=726") }}
@@ -189,7 +189,7 @@ Snapshot collection of 157 cheer stunting skills (32 still missing).
 {{ image(path="bsd.webp", desc="Back spread", link="https://www.youtube.com/shorts/CbazH3PF1MU") }}
 {{ image(path="ftw.webp", desc="Full twist", link="https://youtu.be/DfFdPsbxVPQ?t=609") }}
 {{ image(path="tst.webp", desc="Twist shotgun", link="") }}
-{{ image(path="tsm.webp", desc="Twist walk in", link="") }}
+{{ image(path="tsm.webp", desc="Twist walk-in", link="") }}
 {{ image(path="drd.webp", desc="Double rewind", link="") }}
 {{ image(path="tsm.webp", desc="Twist superman", link="") }}
 {{ gallery_end() }}
@@ -234,14 +234,14 @@ Snapshot collection of 157 cheer stunting skills (32 still missing).
 
 {{ gallery_start() }}
 {{ image(path="tbk.webp", desc="Buyeske", link="https://youtu.be/vmu1ZInhbjw?t=207") }}
-{{ image(path="bdn.webp", desc="Bondan", link="https://youtu.be/LV3RCD7S-GE?t=873") }}
+{{ image(path="bdn.webp", desc="Bondan", link="https://youtu.be/qjbRUuxKr3Q?t=552") }}
 {{ image(path="tjn.webp", desc="Johnson", link="https://youtu.be/vUINVgnZBAQ?t=851") }}
+{{ image(path="mtl.webp", desc="Immediate lib", link="https://youtu.be/HMBSWEz2l24?t=316") }}
+{{ image(path="mgr.webp", desc="Merry-go-round", link="https://youtu.be/eVhUyqQIjbY?t=1212") }}
+{{ image(path="mts.webp", desc="Immediate stretch", link="https://youtu.be/cyGMvoUV01Y?t=1295") }}
 {{ image(path="pts.webp", desc="Opposite spin", link="https://youtu.be/7HU_bauP2lI?t=451") }}
 {{ image(path="msw.webp", desc="Opposite arm", link="https://youtu.be/LV3RCD7S-GE?t=903") }}
 {{ image(path="ptl.webp", desc="Opposite leg", link="https://youtu.be/LV3RCD7S-GE?t=223") }}
-{{ image(path="mtl.webp", desc="Immediate lib", link="https://youtu.be/HMBSWEz2l24?t=316") }}
-{{ image(path="bcp.webp", desc="Back clap", link="https://youtu.be/vUINVgnZBAQ?t=591") }}
-{{ image(path="mts.webp", desc="Immediate stretch", link="https://youtu.be/cyGMvoUV01Y?t=1295") }}
 {{ image(path="lts.webp", desc="Low toss", link="https://youtu.be/CDZ0CePSQ40?t=588") }}
 {{ image(path="vts.webp", desc="Hover toss", link="https://youtu.be/SonOnjYRtHU?t=1135") }}
 {{ image(path="hts.webp", desc="High toss", link="https://youtu.be/vUINVgnZBAQ?t=557") }}
@@ -254,5 +254,6 @@ Snapshot collection of 157 cheer stunting skills (32 still missing).
 {{ image(path="nrm.webp", desc="One arm", link="https://youtu.be/REmmtNLAF7Q?t=150") }}
 {{ image(path="ddt.webp", desc="Dead toss", link="https://youtu.be/ApTsZwIDYLU?t=473") }}
 {{ image(path="nlg.webp", desc="One leg", link="https://youtu.be/Pp5O3fj7Pbc?t=763") }}
+{{ image(path="bcp.webp", desc="Back clap", link="https://youtu.be/vUINVgnZBAQ?t=591") }}
 {{ image(path="btb.webp", desc="Above the brows", link="https://youtu.be/Be-Sv_3gx5A?t=894") }}
 {{ gallery_end() }}
