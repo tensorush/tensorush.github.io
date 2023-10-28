@@ -7,7 +7,7 @@ categories = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 152 cheer stunting skills (30 still missing).
+Snapshot collection of 156 cheer stunting skills (32 still missing).
 
 <!-- more -->
 
@@ -63,9 +63,6 @@ Snapshot collection of 152 cheer stunting skills (30 still missing).
 # **Tosses - base throws a flyer to a foot grip**
 
 {{ gallery_start() }}
-{{ image(path="flp.webp", desc="Full up", link="https://youtu.be/FZ4A0nTEtkc?t=187") }}
-{{ image(path="dlp.webp", desc="Double up", link="https://youtu.be/vUINVgnZBAQ?t=424") }}
-{{ image(path="tpp.webp", desc="Triple up", link="https://www.youtube.com/shorts/UeR4EAB5H9Y") }}
 {{ image(path="tsh.webp", desc="Toss hands", link="https://youtu.be/1hzO2X9e_CE?t=61") }}
 {{ image(path="tsf.webp", desc="Toss half", link="https://youtu.be/LV3RCD7S-GE?t=807") }}
 {{ image(path="bmr.webp", desc="Boomerang", link="https://youtu.be/Vsq-m_Rd7Zk?t=767") }}
@@ -104,13 +101,12 @@ Snapshot collection of 152 cheer stunting skills (30 still missing).
 {{ image(path="lth.webp", desc="Low to high", link="https://youtu.be/RLbde7dYHkI?t=258") }}
 {{ image(path="hth.webp", desc="High to high", link="https://youtu.be/FZ4A0nTEtkc?t=109") }}
 {{ image(path="pph.webp", desc="Pop through", link="https://youtu.be/REmmtNLAF7Q?t=369") }}
+{{ image(path="tpt.webp", desc="Twist pop through", link="https://www.tiktok.com/@eliza.labelle/video/7094666681926028587") }}
 {{ image(path="rpt.webp", desc="Front pop through", link="https://youtu.be/7HU_bauP2lI?t=699") }}
-{{ image(path="tpt.webp", desc="Twist pop through", link="https://www.youtube.com/shorts/qLsIQM8KoOQ") }}
 {{ image(path="ddv.webp", desc="Dolphin dive", link="https://youtu.be/UnSqDsi_6lE?t=405") }}
-{{ image(path="hpv.webp", desc="Handski pop over", link="https://youtu.be/SwaejeJ8kPk?t=941") }}
 {{ image(path="ppt.webp", desc="Pop tart", link="https://www.youtube.com/shorts/enKAPA7lPYw") }}
 {{ image(path="spp.webp", desc="Side pop", link="https://www.youtube.com/shorts/RfXsbmoL3zY") }}
-{{ image(path="fls.webp", desc="Full side pop", link="https://www.youtube.com/shorts/MPkcfX0Rk3U") }}
+{{ image(path="hpv.webp", desc="Handski pop over", link="https://youtu.be/SwaejeJ8kPk?t=941") }}
 {{ gallery_end() }}
 
 # **Dismounts - flyer comes down from a stunt**
@@ -165,13 +161,16 @@ Snapshot collection of 152 cheer stunting skills (30 still missing).
 # **Spins - flyer performs a spin in the air**
 
 {{ gallery_start() }}
+{{ image(path="flp.webp", desc="Full up", link="https://youtu.be/FZ4A0nTEtkc?t=187") }}
+{{ image(path="dlp.webp", desc="Double up", link="https://youtu.be/vUINVgnZBAQ?t=424") }}
+{{ image(path="tpp.webp", desc="Triple up", link="https://www.youtube.com/shorts/UeR4EAB5H9Y") }}
 {{ image(path="fld.webp", desc="Full around", link="https://youtu.be/LV3RCD7S-GE?t=314") }}
 {{ image(path="nnh.webp", desc="1 and 1/2 around", link="https://youtu.be/u1x7tgvlO3M?t=523") }}
 {{ image(path="dld.webp", desc="Double around", link="https://youtu.be/emFxJWjvFGQ?t=648") }}
 {{ image(path="hcr.webp", desc="Helicopter", link="https://www.youtube.com/shorts/mC6yrsA0Ixk") }}
 {{ image(path="sfh.webp", desc="Starfish", link="https://www.youtube.com/shorts/8ufJn_pcaUw") }}
 {{ image(path="ssm.webp", desc="Side semi", link="https://www.youtube.com/shorts/p2XVKhJH3Aw") }}
-{{ image(path="ftw.webp", desc="Full twist", link="https://youtu.be/DfFdPsbxVPQ?t=609") }}
+{{ image(path="cwp.webp", desc="Corkscrew up", link="") }}
 {{ image(path="hdd.webp", desc="Handski around", link="https://www.youtube.com/shorts/4sAQu4PxQOA") }}
 {{ image(path="rtw.webp", desc="Around the world", link="https://youtu.be/hw7tZkE-dHk?t=354") }}
 {{ gallery_end() }}
@@ -188,31 +187,36 @@ Snapshot collection of 152 cheer stunting skills (30 still missing).
 {{ image(path="fsd.webp", desc="Front spread", link="https://www.youtube.com/shorts/RfXsbmoL3zY") }}
 {{ image(path="wht.webp", desc="Winchester", link="https://www.youtube.com/shorts/5mLWtcbPUwk") }}
 {{ image(path="bsd.webp", desc="Back spread", link="https://www.youtube.com/shorts/CbazH3PF1MU") }}
+{{ image(path="ftw.webp", desc="Full twist", link="https://youtu.be/DfFdPsbxVPQ?t=609") }}
+{{ image(path="tst.webp", desc="Twist shotgun", link="") }}
+{{ image(path="tsm.webp", desc="Twist walk in", link="") }}
+{{ image(path="drd.webp", desc="Double rewind", link="") }}
+{{ image(path="tsm.webp", desc="Twist superman", link="") }}
 {{ gallery_end() }}
 
 # **Tumbles - flyer performs a flip on the ground**
 
 {{ gallery_start() }}
-{{ image(path="rpp.webp", desc="Ramp up", link="") }}
+{{ image(path="rpp.webp", desc="Ramp up", link="https://www.tiktok.com/@eliza.labelle/video/7119831283844435246") }}
 {{ image(path="rdf.webp", desc="Round off", link="") }}
 {{ image(path="cwl.webp", desc="Cartwheel", link="https://www.youtube.com/shorts/mC6yrsA0Ixk") }}
-{{ image(path="fwp.webp", desc="Front whip", link="") }}
+{{ image(path="fdl.webp", desc="Forward roll", link="") }}
+{{ image(path="dvl.webp", desc="Dive roll", link="https://www.youtube.com/shorts/cxBuRNT1-Lg") }}
+{{ image(path="bdl.webp", desc="Backward roll", link="https://www.tiktok.com/@eliza.labelle/video/7117267996535557422") }}
+{{ image(path="fwv.webp", desc="Front walkover", link="https://www.tiktok.com/@eliza.labelle/video/7110741656411868462") }}
 {{ image(path="frl.webp", desc="Front aerial", link="") }}
-{{ image(path="bwp.webp", desc="Back whip", link="https://www.youtube.com/shorts/EHGxbOI7mZQ") }}
-{{ image(path="phf.webp", desc="Punch front", link="") }}
-{{ image(path="srl.webp", desc="Side aerial", link="") }}
-{{ image(path="phb.webp", desc="Punch back", link="") }}
-{{ image(path="fwv.webp", desc="Front walkover", link="") }}
-{{ image(path="ltt.webp", desc="Layout", link="") }}
 {{ image(path="bwv.webp", desc="Back walkover", link="") }}
 {{ image(path="fhs.webp", desc="Front handspring", link="https://youtu.be/ebOIvS87YpM?t=621") }}
-{{ image(path="fts.webp", desc="Full", link="") }}
+{{ image(path="srl.webp", desc="Side aerial", link="") }}
 {{ image(path="bhs.webp", desc="Back handspring", link="https://youtu.be/LV3RCD7S-GE?t=455") }}
-{{ image(path="fdl.webp", desc="Forward roll", link="") }}
-{{ image(path="dts.webp", desc="Double full", link="") }}
-{{ image(path="bdl.webp", desc="Backward roll", link="") }}
-{{ image(path="dvl.webp", desc="Dive roll", link="https://www.youtube.com/shorts/cxBuRNT1-Lg") }}
+{{ image(path="fwp.webp", desc="Front whip", link="") }}
+{{ image(path="ltt.webp", desc="Layout", link="") }}
+{{ image(path="bwp.webp", desc="Back whip", link="https://www.youtube.com/shorts/EHGxbOI7mZQ") }}
+{{ image(path="phf.webp", desc="Punch front", link="") }}
 {{ image(path="rbn.webp", desc="Arabian", link="") }}
+{{ image(path="phb.webp", desc="Punch back", link="") }}
+{{ image(path="fts.webp", desc="Full", link="") }}
+{{ image(path="dts.webp", desc="Double full", link="") }}
 {{ gallery_end() }}
 
 # **Baskets - two bases and a backspot launch and catch a flyer**
