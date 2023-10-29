@@ -7,7 +7,7 @@ categories = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 158 cheer stunting skills (30 still missing).
+Snapshot collection of 159 cheer stunting skills (31 still missing).
 
 <!-- more -->
 
@@ -95,9 +95,9 @@ Snapshot collection of 158 cheer stunting skills (30 still missing).
 # **Transitions - flyer moves from one grip to another**
 
 {{ gallery_start() }}
+{{ image(path="fpv.webp", desc="Half pop over", link="https://youtu.be/Be-Sv_3gx5A?t=963") }}
 {{ image(path="ppv.webp", desc="Pop over", link="https://youtu.be/UnSqDsi_6lE?t=148") }}
 {{ image(path="flv.webp", desc="Full over", link="https://youtu.be/7HU_bauP2lI?t=433") }}
-{{ image(path="pps.webp", desc="Power press", link="https://youtu.be/0TN-f7vbnTQ?t=270") }}
 {{ image(path="pph.webp", desc="Pop through", link="https://youtu.be/REmmtNLAF7Q?t=369") }}
 {{ image(path="rpt.webp", desc="Front pop through", link="https://youtu.be/7HU_bauP2lI?t=699") }}
 {{ image(path="tpt.webp", desc="Twisting pop through", link="https://www.tiktok.com/@eliza.labelle/video/7094666681926028587") }}
@@ -105,9 +105,10 @@ Snapshot collection of 158 cheer stunting skills (30 still missing).
 {{ image(path="lth.webp", desc="Low to high", link="https://youtu.be/RLbde7dYHkI?t=258") }}
 {{ image(path="hth.webp", desc="High to high", link="https://youtu.be/FZ4A0nTEtkc?t=109") }}
 {{ image(path="ddv.webp", desc="Dolphin dive", link="https://youtu.be/UnSqDsi_6lE?t=405") }}
+{{ image(path="hpv.webp", desc="Handski pop over", link="https://youtu.be/SwaejeJ8kPk?t=941") }}
+{{ image(path="pps.webp", desc="Power press", link="https://youtu.be/0TN-f7vbnTQ?t=270") }}
 {{ image(path="ppt.webp", desc="Pop tart", link="https://www.youtube.com/shorts/enKAPA7lPYw") }}
 {{ image(path="spp.webp", desc="Side pop", link="https://www.youtube.com/shorts/RfXsbmoL3zY") }}
-{{ image(path="hpv.webp", desc="Handski pop over", link="https://youtu.be/SwaejeJ8kPk?t=941") }}
 {{ gallery_end() }}
 
 # **Dismounts - flyer comes down from a stunt**
@@ -164,7 +165,7 @@ Snapshot collection of 158 cheer stunting skills (30 still missing).
 {{ image(path="flp.webp", desc="Full up", link="https://youtu.be/FZ4A0nTEtkc?t=187") }}
 {{ image(path="dlp.webp", desc="Double up", link="https://youtu.be/vUINVgnZBAQ?t=424") }}
 {{ image(path="tpp.webp", desc="Triple up", link="https://www.youtube.com/shorts/UeR4EAB5H9Y") }}
-{{ image(path="hfd.webp", desc="Half around", link="https://youtu.be/Be-Sv_3gx5A?t=963") }}
+{{ image(path="hfd.webp", desc="Half around", link="") }}
 {{ image(path="fld.webp", desc="Full around", link="https://youtu.be/LV3RCD7S-GE?t=314") }}
 {{ image(path="nnh.webp", desc="1 and 1/2 around", link="https://youtu.be/u1x7tgvlO3M?t=523") }}
 {{ image(path="dld.webp", desc="Double around", link="https://youtu.be/emFxJWjvFGQ?t=648") }}
