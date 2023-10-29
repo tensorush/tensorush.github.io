@@ -7,7 +7,7 @@ categories = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 158 cheer stunting skills (32 still missing).
+Snapshot collection of 158 cheer stunting skills (30 still missing).
 
 <!-- more -->
 
@@ -65,17 +65,17 @@ Snapshot collection of 158 cheer stunting skills (32 still missing).
 
 {{ gallery_start() }}
 {{ image(path="tsh.webp", desc="Toss hands", link="https://youtu.be/1hzO2X9e_CE?t=61") }}
-{{ image(path="tsf.webp", desc="Toss half", link="https://youtu.be/LV3RCD7S-GE?t=807") }}
+{{ image(path="tsf.webp", desc="Toss half", link="https://youtu.be/LV3RCD7S-GE?t=784") }}
 {{ image(path="bmr.webp", desc="Boomerang", link="https://youtu.be/Vsq-m_Rd7Zk?t=767") }}
 {{ image(path="tsr.webp", desc="Toss chair", link="https://youtu.be/aybcpdbEbNw?t=486") }}
 {{ image(path="sts.webp", desc="Stretch toss", link="https://www.youtube.com/shorts/PkMPp2MzDfU") }}
 {{ image(path="tsn.webp", desc="Toss recliner", link="https://youtu.be/aybcpdbEbNw?t=617") }}
+{{ image(path="hnh.webp", desc="Hand in hand", link="https://youtu.be/c34iMh-nryw?t=602") }}
+{{ image(path="slp.webp", desc="Straddle up", link="https://youtu.be/04Wp0TIXF7A?t=604") }}
+{{ image(path="blp.webp", desc="Ball up", link="https://youtu.be/KsHd_mN0a84?t=73") }}
 {{ image(path="wkn.webp", desc="Walk-in", link="https://youtu.be/7HU_bauP2lI?t=69") }}
 {{ image(path="rvt.webp", desc="Reverse toss", link="https://youtu.be/WBMVkXf3oBU?t=769") }}
 {{ image(path="dpt.webp", desc="Drop toss", link="https://youtu.be/7HU_bauP2lI?t=30") }}
-{{ image(path="hnh.webp", desc="Hand in hand", link="https://youtu.be/c34iMh-nryw?t=602") }}
-{{ image(path="slp.webp", desc="Straddle up", link="") }}
-{{ image(path="blp.webp", desc="Ball up", link="https://youtu.be/KsHd_mN0a84?t=73") }}
 {{ gallery_end() }}
 
 # **Handstands - base throws a flyer to a hand grip**
@@ -100,7 +100,7 @@ Snapshot collection of 158 cheer stunting skills (32 still missing).
 {{ image(path="pps.webp", desc="Power press", link="https://youtu.be/0TN-f7vbnTQ?t=270") }}
 {{ image(path="pph.webp", desc="Pop through", link="https://youtu.be/REmmtNLAF7Q?t=369") }}
 {{ image(path="rpt.webp", desc="Front pop through", link="https://youtu.be/7HU_bauP2lI?t=699") }}
-{{ image(path="tpt.webp", desc="Twist pop through", link="https://www.tiktok.com/@eliza.labelle/video/7094666681926028587") }}
+{{ image(path="tpt.webp", desc="Twisting pop through", link="https://www.tiktok.com/@eliza.labelle/video/7094666681926028587") }}
 {{ image(path="tkt.webp", desc="Tick tock", link="https://youtu.be/ey00mPkhMCs?t=234") }}
 {{ image(path="lth.webp", desc="Low to high", link="https://youtu.be/RLbde7dYHkI?t=258") }}
 {{ image(path="hth.webp", desc="High to high", link="https://youtu.be/FZ4A0nTEtkc?t=109") }}
@@ -125,7 +125,6 @@ Snapshot collection of 158 cheer stunting skills (32 still missing).
 {{ image(path="fdn.webp", desc="Full down", link="") }}
 {{ image(path="tdn.webp", desc="Twist down", link="https://www.youtube.com/shorts/B5OVmWPtjII") }}
 {{ image(path="ddn.webp", desc="Double down", link="https://youtu.be/kOSlKw79qdA?t=578") }}
-{{ image(path="wfl.webp", desc="Waterfall", link="") }}
 {{ gallery_end() }}
 
 # **Poses - flyer hits a pose at the top**
@@ -165,14 +164,15 @@ Snapshot collection of 158 cheer stunting skills (32 still missing).
 {{ image(path="flp.webp", desc="Full up", link="https://youtu.be/FZ4A0nTEtkc?t=187") }}
 {{ image(path="dlp.webp", desc="Double up", link="https://youtu.be/vUINVgnZBAQ?t=424") }}
 {{ image(path="tpp.webp", desc="Triple up", link="https://www.youtube.com/shorts/UeR4EAB5H9Y") }}
+{{ image(path="hfd.webp", desc="Half around", link="https://youtu.be/Be-Sv_3gx5A?t=963") }}
 {{ image(path="fld.webp", desc="Full around", link="https://youtu.be/LV3RCD7S-GE?t=314") }}
 {{ image(path="nnh.webp", desc="1 and 1/2 around", link="https://youtu.be/u1x7tgvlO3M?t=523") }}
 {{ image(path="dld.webp", desc="Double around", link="https://youtu.be/emFxJWjvFGQ?t=648") }}
+{{ image(path="hdd.webp", desc="Handski around", link="https://www.youtube.com/shorts/4sAQu4PxQOA") }}
+{{ image(path="rtw.webp", desc="Around the world", link="https://youtu.be/hw7tZkE-dHk?t=354") }}
 {{ image(path="hcr.webp", desc="Helicopter", link="https://www.youtube.com/shorts/mC6yrsA0Ixk") }}
 {{ image(path="sfh.webp", desc="Starfish", link="https://www.youtube.com/shorts/8ufJn_pcaUw") }}
 {{ image(path="ssm.webp", desc="Side semi", link="https://www.youtube.com/shorts/p2XVKhJH3Aw") }}
-{{ image(path="hdd.webp", desc="Handski around", link="https://www.youtube.com/shorts/4sAQu4PxQOA") }}
-{{ image(path="rtw.webp", desc="Around the world", link="https://youtu.be/hw7tZkE-dHk?t=354") }}
 {{ gallery_end() }}
 
 # **Flips - flyer performs a flip in the air**
@@ -188,10 +188,10 @@ Snapshot collection of 158 cheer stunting skills (32 still missing).
 {{ image(path="wht.webp", desc="Winchester", link="https://www.youtube.com/shorts/5mLWtcbPUwk") }}
 {{ image(path="bsd.webp", desc="Back spread", link="https://www.youtube.com/shorts/CbazH3PF1MU") }}
 {{ image(path="ftw.webp", desc="Full twist", link="https://youtu.be/DfFdPsbxVPQ?t=609") }}
-{{ image(path="tst.webp", desc="Twist shotgun", link="") }}
-{{ image(path="tsm.webp", desc="Twist walk-in", link="") }}
+{{ image(path="tst.webp", desc="Twisting shotgun", link="") }}
+{{ image(path="tsm.webp", desc="Twisting walk-in", link="") }}
 {{ image(path="drd.webp", desc="Double rewind", link="") }}
-{{ image(path="tsm.webp", desc="Twist superman", link="") }}
+{{ image(path="tsm.webp", desc="Twisting superman", link="") }}
 {{ gallery_end() }}
 
 # **Tumbles - flyer performs a flip on the ground**
