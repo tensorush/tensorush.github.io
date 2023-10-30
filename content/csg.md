@@ -203,19 +203,19 @@ Snapshot collection of 169 cheer stunting skills (34 still missing).
 
 {{ gallery_start() }}
 {{ image(path="ftk.webp", desc="Front tuck", link="https://youtu.be/jb-2RLIiq24?t=313") }}
-{{ image(path="spm.webp", desc="Superman", link="https://youtu.be/3pC9y3dZVrU?t=716") }}
+{{ image(path="stn.webp", desc="Shotgun", link="https://youtu.be/CDZ0CePSQ40?t=261") }}
 {{ image(path="ntn.webp", desc="One to one", link="https://youtu.be/SwaejeJ8kPk?t=477") }}
 {{ image(path="rwd.webp", desc="Rewind", link="https://youtu.be/LV3RCD7S-GE?t=375") }}
-{{ image(path="stn.webp", desc="Shotgun", link="https://youtu.be/CDZ0CePSQ40?t=261") }}
+{{ image(path="spm.webp", desc="Superman", link="https://youtu.be/3pC9y3dZVrU?t=716") }}
 {{ image(path="ftf.webp", desc="Fast forward", link="https://youtu.be/u1x7tgvlO3M?t=518") }}
 {{ image(path="fsd.webp", desc="Front spread", link="https://www.youtube.com/shorts/RfXsbmoL3zY") }}
 {{ image(path="wht.webp", desc="Winchester", link="https://www.youtube.com/shorts/5mLWtcbPUwk") }}
 {{ image(path="bsd.webp", desc="Back spread", link="https://www.youtube.com/shorts/CbazH3PF1MU") }}
 {{ image(path="ftw.webp", desc="Twisting rewind", link="https://youtu.be/DfFdPsbxVPQ?t=609") }}
-{{ image(path="tsg.webp", desc="Twisting shotgun", link="") }}
+{{ image(path="tsm.webp", desc="Twisting superman", link="https://www.tiktok.com/@_boogie00/video/7079766706289200430") }}
 {{ image(path="tsw.webp", desc="Twisting walk-in", link="") }}
 {{ image(path="drd.webp", desc="Double rewind", link="") }}
-{{ image(path="tsm.webp", desc="Twisting superman", link="https://www.tiktok.com/@_boogie00/video/7079766706289200430") }}
+{{ image(path="tsg.webp", desc="Twisting shotgun", link="") }}
 {{ gallery_end() }}
 
 # **Tumbles - flyer performs a flip on the ground**
