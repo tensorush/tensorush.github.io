@@ -126,10 +126,10 @@ Snapshot collection of 168 cheer stunting skills (34 still missing).
 {{ image(path="lth.webp", desc="Low to high", link="https://youtu.be/RLbde7dYHkI?t=258") }}
 {{ image(path="hth.webp", desc="High to high", link="https://youtu.be/FZ4A0nTEtkc?t=109") }}
 {{ image(path="ddv.webp", desc="Dolphin dive", link="https://youtu.be/UnSqDsi_6lE?t=405") }}
-{{ image(path="hpv.webp", desc="Handski pop over", link="https://youtu.be/SwaejeJ8kPk?t=941") }}
+{{ image(path="wlk.webp", desc="Walk over", link="https://youtu.be/Vsq-m_Rd7Zk?t=1316") }}
 {{ image(path="pps.webp", desc="Power press", link="https://youtu.be/0TN-f7vbnTQ?t=270") }}
 {{ image(path="ppt.webp", desc="Pop tart", link="https://www.youtube.com/shorts/enKAPA7lPYw") }}
-{{ image(path="wlk.webp", desc="Walk", link="https://youtu.be/Vsq-m_Rd7Zk?t=1316") }}
+{{ image(path="hpv.webp", desc="Handski pop over", link="https://youtu.be/SwaejeJ8kPk?t=941") }}
 {{ image(path="spp.webp", desc="Side pop", link="https://www.youtube.com/shorts/RfXsbmoL3zY") }}
 {{ gallery_end() }}
 
