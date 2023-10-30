@@ -29,4 +29,4 @@ Presumably, the next step towards achieving AGI could be incentivising agents to
 
 ## 3) Quantum Computing
 
-Crucially, quantum computing has the potential to render obsolete many of the fundamental classical algorithms that almost every digital system heavily relies on for both its security and performance.
+Crucially, quantum computing has the potential to render obsolete many of the fundamental classical algorithms that practically all digital systems heavily rely on for both their security and performance.

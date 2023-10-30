@@ -7,7 +7,7 @@ categories = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 165 cheer stunting skills (37 still missing).
+Snapshot collection of 166 cheer stunting skills (36 still missing).
 
 <!-- more -->
 
@@ -19,7 +19,7 @@ Snapshot collection of 165 cheer stunting skills (37 still missing).
 {{ image(path="cdl.webp", desc="Caylee Odle", link="https://www.youtube.com/@Its.ccaylee") }}
 {{ image(path="pzk.webp", desc="Delaney Porazinski", link="https://www.tiktok.com/@delaney_porazinski") }}
 {{ image(path="jns.webp", desc="Cassie Joness", link="https://www.instagram.com/sb.cassie") }}
-{{ image(path="mls.webp", desc="Alex Mathioulakis", link="https://www.instagram.com/alex_lee_xx") }}
+{{ image(path="lbs.webp", desc="Lexi Batrous", link="https://www.instagram.com/lexibatrous_") }}
 {{ image(path="jnn.webp", desc="Bonde Johnson", link="https://www.youtube.com/@bonde.johnson") }}
 {{ image(path="bsk.webp", desc="Daniel Buyeske", link="https://www.youtube.com/@danielbuyeske") }}
 {{ image(path="skn.webp", desc="Gauge Stricklin", link="https://www.youtube.com/@Strictlycheer") }}
@@ -76,15 +76,16 @@ Snapshot collection of 165 cheer stunting skills (37 still missing).
 {{ image(path="tsh.webp", desc="Toss hands", link="https://youtu.be/1hzO2X9e_CE?t=61") }}
 {{ image(path="tsf.webp", desc="Toss half", link="https://youtu.be/LV3RCD7S-GE?t=784") }}
 {{ image(path="bmr.webp", desc="Boomerang", link="https://youtu.be/Vsq-m_Rd7Zk?t=767") }}
-{{ image(path="tsr.webp", desc="Toss chair", link="https://youtu.be/aybcpdbEbNw?t=486") }}
-{{ image(path="sts.webp", desc="Stretch toss", link="https://www.youtube.com/shorts/PkMPp2MzDfU") }}
 {{ image(path="tsn.webp", desc="Toss recliner", link="https://youtu.be/aybcpdbEbNw?t=617") }}
+{{ image(path="tsr.webp", desc="Toss chair", link="https://youtu.be/aybcpdbEbNw?t=486") }}
+{{ image(path="tst.webp", desc="Toss tempur-pedic", link="https://youtu.be/aybcpdbEbNw?t=651") }}
 {{ image(path="hnh.webp", desc="Hand in hand", link="https://youtu.be/c34iMh-nryw?t=602") }}
 {{ image(path="slp.webp", desc="Straddle up", link="https://youtu.be/04Wp0TIXF7A?t=604") }}
-{{ image(path="blp.webp", desc="Ball up", link="https://youtu.be/KsHd_mN0a84?t=73") }}
+{{ image(path="sts.webp", desc="Stretch toss", link="https://www.youtube.com/shorts/PkMPp2MzDfU") }}
 {{ image(path="wkn.webp", desc="Walk-in", link="https://youtu.be/7HU_bauP2lI?t=69") }}
 {{ image(path="rvt.webp", desc="Reverse toss", link="https://youtu.be/WBMVkXf3oBU?t=769") }}
 {{ image(path="dpt.webp", desc="Drop toss", link="https://youtu.be/7HU_bauP2lI?t=30") }}
+{{ image(path="blp.webp", desc="Ball up", link="https://youtu.be/KsHd_mN0a84?t=73") }}
 {{ gallery_end() }}
 
 # **Handstands - base throws a flyer to a hand grip**
@@ -198,7 +199,7 @@ Snapshot collection of 165 cheer stunting skills (37 still missing).
 {{ image(path="wht.webp", desc="Winchester", link="https://www.youtube.com/shorts/5mLWtcbPUwk") }}
 {{ image(path="bsd.webp", desc="Back spread", link="https://www.youtube.com/shorts/CbazH3PF1MU") }}
 {{ image(path="ftw.webp", desc="Full twist", link="https://youtu.be/DfFdPsbxVPQ?t=609") }}
-{{ image(path="tst.webp", desc="Twisting shotgun", link="") }}
+{{ image(path="tsg.webp", desc="Twisting shotgun", link="") }}
 {{ image(path="tsm.webp", desc="Twisting walk-in", link="") }}
 {{ image(path="drd.webp", desc="Double rewind", link="") }}
 {{ image(path="tsm.webp", desc="Twisting superman", link="") }}
@@ -229,6 +230,17 @@ Snapshot collection of 165 cheer stunting skills (37 still missing).
 {{ image(path="dts.webp", desc="Double full", link="") }}
 {{ gallery_end() }}
 
+# **Pyramids - at least two bases lift and hold at least one flyer**
+
+{{ gallery_start() }}
+{{ image(path="tsd.webp", desc="Thigh stand", link="https://youtu.be/aybcpdbEbNw?t=211") }}
+{{ image(path="nvn.webp", desc="Inversion", link="") }}
+{{ image(path="wfw.webp", desc="Elevator", link="") }}
+{{ image(path="wfl.webp", desc="Waterfall", link="") }}
+{{ image(path="wfw.webp", desc="Wolf wall", link="") }}
+{{ image(path="sfs.webp", desc="Swedish falls", link="") }}
+{{ gallery_end() }}
+
 # **Baskets - at least two bases and a backspot launch and catch a flyer**
 
 {{ gallery_start() }}
@@ -238,17 +250,6 @@ Snapshot collection of 165 cheer stunting skills (37 still missing).
 {{ image(path="btk.webp", desc="Back tuck", link="https://youtu.be/HMBSWEz2l24?t=174") }}
 {{ image(path="kkf.webp", desc="Kick full", link="") }}
 {{ image(path="kkd.webp", desc="Kick double", link="https://youtu.be/qcQLCrjkxCE?t=608") }}
-{{ gallery_end() }}
-
-# **Pyramids - at least two bases and a backspot lift and hold at least one flyer**
-
-{{ gallery_start() }}
-{{ image(path="tsd.webp", desc="Thigh stand", link="") }}
-{{ image(path="nvn.webp", desc="Inversion", link="") }}
-{{ image(path="wfw.webp", desc="Elevator", link="") }}
-{{ image(path="wfl.webp", desc="Waterfall", link="") }}
-{{ image(path="wfw.webp", desc="Wolf wall", link="") }}
-{{ image(path="sfs.webp", desc="Swedish falls", link="") }}
 {{ gallery_end() }}
 
 # **Extras - stunts turn extra hard**
