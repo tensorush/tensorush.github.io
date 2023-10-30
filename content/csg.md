@@ -7,7 +7,7 @@ categories = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 159 cheer stunting skills (31 still missing).
+Snapshot collection of 165 cheer stunting skills (37 still missing).
 
 <!-- more -->
 
@@ -17,9 +17,18 @@ Snapshot collection of 159 cheer stunting skills (31 still missing).
 {{ image(path="lbl.webp", desc="Eliza LaBelle", link="https://www.youtube.com/@elizalabelle") }}
 {{ image(path="kbl.webp", desc="Kat Abela", link="https://www.youtube.com/@katabela") }}
 {{ image(path="cdl.webp", desc="Caylee Odle", link="https://www.youtube.com/@Its.ccaylee") }}
+{{ image(path="pzk.webp", desc="Delaney Porazinski", link="https://www.tiktok.com/@delaney_porazinski") }}
+{{ image(path="jns.webp", desc="Cassie Joness", link="https://www.instagram.com/sb.cassie") }}
+{{ image(path="mls.webp", desc="Alex Mathioulakis", link="https://www.instagram.com/alex_lee_xx") }}
 {{ image(path="jnn.webp", desc="Bonde Johnson", link="https://www.youtube.com/@bonde.johnson") }}
 {{ image(path="bsk.webp", desc="Daniel Buyeske", link="https://www.youtube.com/@danielbuyeske") }}
 {{ image(path="skn.webp", desc="Gauge Stricklin", link="https://www.youtube.com/@Strictlycheer") }}
+{{ image(path="rwk.webp", desc="Ronnie Walker", link="https://www.tiktok.com/@rdw_blessed3") }}
+{{ image(path="dbl.webp", desc="Daniel Bailey", link="https://www.youtube.com/@bailcakes") }}
+{{ image(path="tmn.webp", desc="Johnny Thompson", link="https://www.tiktok.com/@thomp338") }}
+{{ image(path="cls.webp", desc="Mitterson Charles", link="https://www.instagram.com/_mitthappens") }}
+{{ image(path="dsv.webp", desc="Michael Androsov", link="https://www.youtube.com/@booshslays") }}
+{{ image(path="dml.webp", desc="Taylor Demler", link="https://www.youtube.com/@t_demler24") }}
 {{ gallery_end() }}
 
 # Note to flyers:
@@ -220,7 +229,7 @@ Snapshot collection of 159 cheer stunting skills (31 still missing).
 {{ image(path="dts.webp", desc="Double full", link="") }}
 {{ gallery_end() }}
 
-# **Baskets - two bases and a backspot launch and catch a flyer**
+# **Baskets - at least two bases and a backspot launch and catch a flyer**
 
 {{ gallery_start() }}
 {{ image(path="std.webp", desc="Straight ride", link="https://youtu.be/3ju2179PNC8?t=578") }}
@@ -229,6 +238,17 @@ Snapshot collection of 159 cheer stunting skills (31 still missing).
 {{ image(path="btk.webp", desc="Back tuck", link="https://youtu.be/HMBSWEz2l24?t=174") }}
 {{ image(path="kkf.webp", desc="Kick full", link="") }}
 {{ image(path="kkd.webp", desc="Kick double", link="https://youtu.be/qcQLCrjkxCE?t=608") }}
+{{ gallery_end() }}
+
+# **Pyramids - at least two bases and a backspot lift and hold at least one flyer**
+
+{{ gallery_start() }}
+{{ image(path="tsd.webp", desc="Thigh stand", link="") }}
+{{ image(path="nvn.webp", desc="Inversion", link="") }}
+{{ image(path="wfw.webp", desc="Elevator", link="") }}
+{{ image(path="wfl.webp", desc="Waterfall", link="") }}
+{{ image(path="wfw.webp", desc="Wolf wall", link="") }}
+{{ image(path="sfs.webp", desc="Swedish falls", link="") }}
 {{ gallery_end() }}
 
 # **Extras - stunts turn extra hard**
