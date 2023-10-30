@@ -7,7 +7,7 @@ categories = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 168 cheer stunting skills (34 still missing).
+Snapshot collection of 169 cheer stunting skills (34 still missing).
 
 <!-- more -->
 
@@ -63,8 +63,8 @@ Snapshot collection of 168 cheer stunting skills (34 still missing).
 # **Grips - base holds a flyer**
 
 {{ gallery_start() }}
-{{ image(path="prp.webp", desc="Prep", link="https://youtu.be/FZ4A0nTEtkc?t=69") }}
 {{ image(path="tsp.webp", desc="Platform", link="https://youtu.be/FZ4A0nTEtkc?t=107") }}
+{{ image(path="prp.webp", desc="Prep", link="https://youtu.be/FZ4A0nTEtkc?t=69") }}
 {{ image(path="tsx.webp", desc="Extension", link="https://youtu.be/9LaHx5fUn6s?t=716") }}
 {{ image(path="tsc.webp", desc="Cupie", link="https://youtu.be/0TN-f7vbnTQ?t=579") }}
 {{ image(path="hsd.webp", desc="Handstand", link="https://youtu.be/DfFdPsbxVPQ?t=475") }}
@@ -85,17 +85,18 @@ Snapshot collection of 168 cheer stunting skills (34 still missing).
 
 {{ gallery_start() }}
 {{ image(path="tsh.webp", desc="Toss hands", link="https://youtu.be/1hzO2X9e_CE?t=61") }}
+{{ image(path="qts.webp", desc="Quick toss", link="https://youtu.be/5Fim2JF7-FQ?t=365") }}
 {{ image(path="tsf.webp", desc="Toss half", link="https://youtu.be/LV3RCD7S-GE?t=784") }}
-{{ image(path="bmn.webp", desc="Boomerang", link="https://youtu.be/Vsq-m_Rd7Zk?t=767") }}
 {{ image(path="tsn.webp", desc="Toss recliner", link="https://youtu.be/aybcpdbEbNw?t=617") }}
 {{ image(path="tsr.webp", desc="Toss chair", link="https://youtu.be/aybcpdbEbNw?t=486") }}
 {{ image(path="tst.webp", desc="Toss tempur-pedic", link="https://youtu.be/aybcpdbEbNw?t=651") }}
 {{ image(path="hnh.webp", desc="Hand in hand", link="https://youtu.be/c34iMh-nryw?t=602") }}
-{{ image(path="slp.webp", desc="Straddle up", link="https://youtu.be/04Wp0TIXF7A?t=604") }}
 {{ image(path="sts.webp", desc="Stretch toss", link="https://www.youtube.com/shorts/PkMPp2MzDfU") }}
+{{ image(path="bmn.webp", desc="Boomerang", link="https://youtu.be/Vsq-m_Rd7Zk?t=767") }}
 {{ image(path="wkn.webp", desc="Walk-in", link="https://youtu.be/7HU_bauP2lI?t=69") }}
 {{ image(path="rvt.webp", desc="Reverse toss", link="https://youtu.be/WBMVkXf3oBU?t=769") }}
 {{ image(path="dpt.webp", desc="Drop toss", link="https://youtu.be/7HU_bauP2lI?t=30") }}
+{{ image(path="slp.webp", desc="Straddle up", link="https://youtu.be/04Wp0TIXF7A?t=604") }}
 {{ image(path="blp.webp", desc="Ball up", link="https://youtu.be/KsHd_mN0a84?t=73") }}
 {{ gallery_end() }}
 
