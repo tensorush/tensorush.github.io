@@ -23,12 +23,12 @@ Snapshot collection of 165 cheer stunting skills (37 still missing).
 {{ image(path="jnn.webp", desc="Bonde Johnson", link="https://www.youtube.com/@bonde.johnson") }}
 {{ image(path="bsk.webp", desc="Daniel Buyeske", link="https://www.youtube.com/@danielbuyeske") }}
 {{ image(path="skn.webp", desc="Gauge Stricklin", link="https://www.youtube.com/@Strictlycheer") }}
-{{ image(path="rwk.webp", desc="Ronnie Walker", link="https://www.tiktok.com/@rdw_blessed3") }}
-{{ image(path="dbl.webp", desc="Daniel Bailey", link="https://www.youtube.com/@bailcakes") }}
-{{ image(path="tmn.webp", desc="Johnny Thompson", link="https://www.tiktok.com/@thomp338") }}
 {{ image(path="cls.webp", desc="Mitterson Charles", link="https://www.instagram.com/_mitthappens") }}
-{{ image(path="dsv.webp", desc="Michael Androsov", link="https://www.youtube.com/@booshslays") }}
+{{ image(path="dbl.webp", desc="Daniel Bailey", link="https://www.youtube.com/@bailcakes") }}
 {{ image(path="dml.webp", desc="Taylor Demler", link="https://www.youtube.com/@t_demler24") }}
+{{ image(path="rwk.webp", desc="Ronnie Walker", link="https://www.tiktok.com/@rdw_blessed3") }}
+{{ image(path="dsv.webp", desc="Michael Androsov", link="https://www.youtube.com/@booshslays") }}
+{{ image(path="tmn.webp", desc="Johnny Thompson", link="https://www.tiktok.com/@thomp338") }}
 {{ gallery_end() }}
 
 # Note to flyers:
