@@ -7,7 +7,7 @@ categories = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 166 cheer stunting skills (36 still missing).
+Snapshot collection of 167 cheer stunting skills (34 still missing).
 
 <!-- more -->
 
@@ -17,10 +17,13 @@ Snapshot collection of 166 cheer stunting skills (36 still missing).
 {{ image(path="lbl.webp", desc="Eliza LaBelle", link="https://www.youtube.com/@elizalabelle") }}
 {{ image(path="kbl.webp", desc="Kat Abela", link="https://www.youtube.com/@katabela") }}
 {{ image(path="cdl.webp", desc="Caylee Odle", link="https://www.youtube.com/@Its.ccaylee") }}
-{{ image(path="pzk.webp", desc="Delaney Porazinski", link="https://www.tiktok.com/@delaney_porazinski") }}
-{{ image(path="jns.webp", desc="Cassie Joness", link="https://www.instagram.com/sb.cassie") }}
 {{ image(path="lbs.webp", desc="Lexi Batrous", link="https://www.instagram.com/lexibatrous_") }}
-{{ image(path="jnn.webp", desc="Bonde Johnson", link="https://www.youtube.com/@bonde.johnson") }}
+{{ image(path="jns.webp", desc="Cassie Joness", link="https://www.instagram.com/sb.cassie") }}
+{{ image(path="pzk.webp", desc="Delaney Porazinski", link="https://www.tiktok.com/@delaney_porazinski") }}
+{{ image(path="bmr.webp", desc="Brooke Emyre", link="https://www.instagram.com/brookeemyre") }}
+{{ image(path="bnt.webp", desc="Skylar Bennett", link="https://www.tiktok.com/@_boogie00") }}
+{{ image(path="mls.webp", desc="Alex Mathioulakis", link="https://www.instagram.com/alex_lee_xx") }}
+{{ image(path="jnn.webp", desc="Bonde Johnson", link="https://www.instagram.com/bondejohnson") }}
 {{ image(path="bsk.webp", desc="Daniel Buyeske", link="https://www.youtube.com/@danielbuyeske") }}
 {{ image(path="skn.webp", desc="Gauge Stricklin", link="https://www.youtube.com/@Strictlycheer") }}
 {{ image(path="cls.webp", desc="Mitterson Charles", link="https://www.instagram.com/_mitthappens") }}
@@ -29,6 +32,14 @@ Snapshot collection of 166 cheer stunting skills (36 still missing).
 {{ image(path="rwk.webp", desc="Ronnie Walker", link="https://www.tiktok.com/@rdw_blessed3") }}
 {{ image(path="dsv.webp", desc="Michael Androsov", link="https://www.youtube.com/@booshslays") }}
 {{ image(path="tmn.webp", desc="Johnny Thompson", link="https://www.tiktok.com/@thomp338") }}
+{{ gallery_end() }}
+
+# **Special shout-outs to:**
+
+{{ gallery_start() }}
+{{ image(path="mnt.webp", desc="Jeffrey Maisonet", link="https://www.instagram.com/jeffrey.kdm") }}
+{{ image(path="prk.webp", desc="Nick Prak", link="https://www.youtube.com/@NickPrak") }}
+{{ image(path="rnn.webp", desc="Ryan", link="") }}
 {{ gallery_end() }}
 
 # Note to flyers:
@@ -75,7 +86,7 @@ Snapshot collection of 166 cheer stunting skills (36 still missing).
 {{ gallery_start() }}
 {{ image(path="tsh.webp", desc="Toss hands", link="https://youtu.be/1hzO2X9e_CE?t=61") }}
 {{ image(path="tsf.webp", desc="Toss half", link="https://youtu.be/LV3RCD7S-GE?t=784") }}
-{{ image(path="bmr.webp", desc="Boomerang", link="https://youtu.be/Vsq-m_Rd7Zk?t=767") }}
+{{ image(path="bmn.webp", desc="Boomerang", link="https://youtu.be/Vsq-m_Rd7Zk?t=767") }}
 {{ image(path="tsn.webp", desc="Toss recliner", link="https://youtu.be/aybcpdbEbNw?t=617") }}
 {{ image(path="tsr.webp", desc="Toss chair", link="https://youtu.be/aybcpdbEbNw?t=486") }}
 {{ image(path="tst.webp", desc="Toss tempur-pedic", link="https://youtu.be/aybcpdbEbNw?t=651") }}
@@ -198,11 +209,11 @@ Snapshot collection of 166 cheer stunting skills (36 still missing).
 {{ image(path="fsd.webp", desc="Front spread", link="https://www.youtube.com/shorts/RfXsbmoL3zY") }}
 {{ image(path="wht.webp", desc="Winchester", link="https://www.youtube.com/shorts/5mLWtcbPUwk") }}
 {{ image(path="bsd.webp", desc="Back spread", link="https://www.youtube.com/shorts/CbazH3PF1MU") }}
-{{ image(path="ftw.webp", desc="Full twist", link="https://youtu.be/DfFdPsbxVPQ?t=609") }}
+{{ image(path="ftw.webp", desc="Twisting rewind", link="https://youtu.be/DfFdPsbxVPQ?t=609") }}
 {{ image(path="tsg.webp", desc="Twisting shotgun", link="") }}
-{{ image(path="tsm.webp", desc="Twisting walk-in", link="") }}
+{{ image(path="tsw.webp", desc="Twisting walk-in", link="") }}
 {{ image(path="drd.webp", desc="Double rewind", link="") }}
-{{ image(path="tsm.webp", desc="Twisting superman", link="") }}
+{{ image(path="tsm.webp", desc="Twisting superman", link="https://www.tiktok.com/@_boogie00/video/7079766706289200430") }}
 {{ gallery_end() }}
 
 # **Tumbles - flyer performs a flip on the ground**
@@ -211,7 +222,7 @@ Snapshot collection of 166 cheer stunting skills (36 still missing).
 {{ image(path="rpp.webp", desc="Ramp up", link="https://www.tiktok.com/@eliza.labelle/video/7119831283844435246") }}
 {{ image(path="rdf.webp", desc="Round off", link="") }}
 {{ image(path="cwl.webp", desc="Cartwheel", link="https://www.youtube.com/shorts/mC6yrsA0Ixk") }}
-{{ image(path="fdl.webp", desc="Forward roll", link="") }}
+{{ image(path="fdl.webp", desc="Forward roll", link="https://youtu.be/RLbde7dYHkI?t=563") }}
 {{ image(path="dvl.webp", desc="Dive roll", link="https://www.youtube.com/shorts/cxBuRNT1-Lg") }}
 {{ image(path="bdl.webp", desc="Backward roll", link="https://www.tiktok.com/@eliza.labelle/video/7117267996535557422") }}
 {{ image(path="fwv.webp", desc="Front walkover", link="https://www.tiktok.com/@eliza.labelle/video/7110741656411868462") }}
@@ -273,9 +284,10 @@ Snapshot collection of 166 cheer stunting skills (36 still missing).
 {{ image(path="ntg.webp", desc="No tag", link="https://youtu.be/Be-Sv_3gx5A?t=129") }}
 {{ image(path="nlk.webp", desc="No look", link="https://youtu.be/ApTsZwIDYLU?t=421") }}
 {{ image(path="nsp.webp", desc="No step", link="https://youtu.be/HMBSWEz2l24?t=382") }}
+{{ image(path="bcp.webp", desc="Back clap", link="https://youtu.be/vUINVgnZBAQ?t=591") }}
+{{ image(path="btb.webp", desc="Above the brows", link="https://youtu.be/Be-Sv_3gx5A?t=894") }}
+{{ image(path="wtw.webp", desc="With the weights", link="https://youtu.be/ND_VqTi_790?t=977") }}
 {{ image(path="nrm.webp", desc="One arm", link="https://youtu.be/REmmtNLAF7Q?t=150") }}
 {{ image(path="ddt.webp", desc="Dead toss", link="https://youtu.be/ApTsZwIDYLU?t=473") }}
 {{ image(path="nlg.webp", desc="One leg", link="https://youtu.be/Pp5O3fj7Pbc?t=763") }}
-{{ image(path="bcp.webp", desc="Back clap", link="https://youtu.be/vUINVgnZBAQ?t=591") }}
-{{ image(path="btb.webp", desc="Above the brows", link="https://youtu.be/Be-Sv_3gx5A?t=894") }}
 {{ gallery_end() }}
