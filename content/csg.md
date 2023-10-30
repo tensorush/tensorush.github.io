@@ -7,7 +7,7 @@ categories = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 167 cheer stunting skills (34 still missing).
+Snapshot collection of 168 cheer stunting skills (34 still missing).
 
 <!-- more -->
 
@@ -129,6 +129,7 @@ Snapshot collection of 167 cheer stunting skills (34 still missing).
 {{ image(path="hpv.webp", desc="Handski pop over", link="https://youtu.be/SwaejeJ8kPk?t=941") }}
 {{ image(path="pps.webp", desc="Power press", link="https://youtu.be/0TN-f7vbnTQ?t=270") }}
 {{ image(path="ppt.webp", desc="Pop tart", link="https://www.youtube.com/shorts/enKAPA7lPYw") }}
+{{ image(path="wlk.webp", desc="Walk", link="https://youtu.be/Vsq-m_Rd7Zk?t=1316") }}
 {{ image(path="spp.webp", desc="Side pop", link="https://www.youtube.com/shorts/RfXsbmoL3zY") }}
 {{ gallery_end() }}
 
