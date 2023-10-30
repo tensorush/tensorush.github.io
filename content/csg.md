@@ -39,7 +39,7 @@ Snapshot collection of 168 cheer stunting skills (34 still missing).
 {{ gallery_start() }}
 {{ image(path="mnt.webp", desc="Jeffrey Maisonet", link="https://www.instagram.com/jeffrey.kdm") }}
 {{ image(path="prk.webp", desc="Nick Prak", link="https://www.youtube.com/@NickPrak") }}
-{{ image(path="rnn.webp", desc="Ryan", link="") }}
+{{ image(path="rtn.webp", desc="Ryan Robertson", link="https://www.youtube.com/@ryanrobertson8889") }}
 {{ gallery_end() }}
 
 # Note to flyers:
