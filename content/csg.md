@@ -112,6 +112,8 @@ Snapshot collection of 169 cheer stunting skills (34 still missing).
 {{ image(path="swp.webp", desc="Swing up", link="https://youtu.be/_qJulETphrI?t=174") }}
 {{ image(path="rst.webp", desc="Reverse split up", link="https://www.youtube.com/shorts/8dl1v6_4Vio") }}
 {{ image(path="rbw.webp", desc="Rainbow", link="https://youtu.be/A1tjmd6sBxU?t=617") }}
+{{ image(path="fsd.webp", desc="Front spread", link="https://www.youtube.com/shorts/RfXsbmoL3zY") }}
+{{ image(path="bsd.webp", desc="Back spread", link="https://www.youtube.com/shorts/CbazH3PF1MU") }}
 {{ gallery_end() }}
 
 # **Transitions - flyer moves from one grip to another**
@@ -208,14 +210,12 @@ Snapshot collection of 169 cheer stunting skills (34 still missing).
 {{ image(path="rwd.webp", desc="Rewind", link="https://youtu.be/LV3RCD7S-GE?t=375") }}
 {{ image(path="spm.webp", desc="Superman", link="https://youtu.be/3pC9y3dZVrU?t=716") }}
 {{ image(path="ftf.webp", desc="Fast forward", link="https://youtu.be/u1x7tgvlO3M?t=518") }}
-{{ image(path="fsd.webp", desc="Front spread", link="https://www.youtube.com/shorts/RfXsbmoL3zY") }}
-{{ image(path="wht.webp", desc="Winchester", link="https://www.youtube.com/shorts/5mLWtcbPUwk") }}
-{{ image(path="bsd.webp", desc="Back spread", link="https://www.youtube.com/shorts/CbazH3PF1MU") }}
 {{ image(path="ftw.webp", desc="Twisting rewind", link="https://youtu.be/DfFdPsbxVPQ?t=609") }}
-{{ image(path="tsm.webp", desc="Twisting superman", link="https://www.tiktok.com/@_boogie00/video/7079766706289200430") }}
-{{ image(path="tsw.webp", desc="Twisting walk-in", link="") }}
-{{ image(path="drd.webp", desc="Double rewind", link="") }}
 {{ image(path="tsg.webp", desc="Twisting shotgun", link="") }}
+{{ image(path="tsm.webp", desc="Twisting superman", link="https://www.tiktok.com/@_boogie00/video/7079766706289200430") }}
+{{ image(path="drd.webp", desc="Double rewind", link="") }}
+{{ image(path="wht.webp", desc="Winchester", link="https://www.youtube.com/shorts/5mLWtcbPUwk") }}
+{{ image(path="tsw.webp", desc="Twisting walk-in", link="") }}
 {{ gallery_end() }}
 
 # **Tumbles - flyer performs a flip on the ground**
@@ -225,8 +225,8 @@ Snapshot collection of 169 cheer stunting skills (34 still missing).
 {{ image(path="rdf.webp", desc="Round off", link="") }}
 {{ image(path="cwl.webp", desc="Cartwheel", link="https://www.youtube.com/shorts/mC6yrsA0Ixk") }}
 {{ image(path="fdl.webp", desc="Forward roll", link="https://youtu.be/RLbde7dYHkI?t=563") }}
-{{ image(path="dvl.webp", desc="Dive roll", link="https://www.youtube.com/shorts/cxBuRNT1-Lg") }}
 {{ image(path="bdl.webp", desc="Backward roll", link="https://www.tiktok.com/@eliza.labelle/video/7117267996535557422") }}
+{{ image(path="dvl.webp", desc="Dive roll", link="https://www.youtube.com/shorts/cxBuRNT1-Lg") }}
 {{ image(path="fwv.webp", desc="Front walkover", link="https://www.tiktok.com/@eliza.labelle/video/7110741656411868462") }}
 {{ image(path="frl.webp", desc="Front aerial", link="") }}
 {{ image(path="bwv.webp", desc="Back walkover", link="") }}
