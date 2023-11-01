@@ -248,7 +248,7 @@ Snapshot collection of 169 cheer stunting skills (34 still missing).
 {{ gallery_start() }}
 {{ image(path="std.webp", desc="Straight ride", link="https://youtu.be/3ju2179PNC8?t=578") }}
 {{ image(path="flt.webp", desc="Full", link="https://youtu.be/HMBSWEz2l24?t=230") }}
-{{ image(path="dlt.webp", desc="Double full", link="https://youtu.be/7HU_bauP2lI?t=302") }}
+{{ image(path="dlt.webp", desc="Double full", link="https://youtu.be/3ju2179PNC8?t=715") }}
 {{ image(path="btk.webp", desc="Back tuck", link="https://youtu.be/HMBSWEz2l24?t=174") }}
 {{ image(path="kkf.webp", desc="Kick full", link="") }}
 {{ image(path="kkd.webp", desc="Kick double", link="https://youtu.be/qcQLCrjkxCE?t=608") }}
