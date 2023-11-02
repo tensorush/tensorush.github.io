@@ -7,7 +7,7 @@ categories = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 169 cheer stunting skills (31 still missing).
+Snapshot collection of 170 cheer stunting skills (31 still missing).
 
 <!-- more -->
 
@@ -252,6 +252,7 @@ Snapshot collection of 169 cheer stunting skills (31 still missing).
 {{ image(path="btk.webp", desc="Back tuck", link="https://youtu.be/HMBSWEz2l24?t=174") }}
 {{ image(path="kkf.webp", desc="Kick full", link="") }}
 {{ image(path="kkd.webp", desc="Kick double", link="https://youtu.be/qcQLCrjkxCE?t=613") }}
+{{ image(path="kkt.webp", desc="Kick triple", link="https://www.youtube.com/shorts/Nbn7gLS_RlE") }}
 {{ gallery_end() }}
 
 # **Pyramids - at least two bases lift and hold at least one flyer**
