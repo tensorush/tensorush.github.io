@@ -7,7 +7,7 @@ categories = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 169 cheer stunting skills (33 still missing).
+Snapshot collection of 169 cheer stunting skills (32 still missing).
 
 <!-- more -->
 
@@ -239,7 +239,7 @@ Snapshot collection of 169 cheer stunting skills (33 still missing).
 {{ image(path="phf.webp", desc="Punch front", link="") }}
 {{ image(path="rbn.webp", desc="Arabian", link="") }}
 {{ image(path="phb.webp", desc="Punch back", link="") }}
-{{ image(path="fts.webp", desc="Full", link="") }}
+{{ image(path="fts.webp", desc="Full", link="https://www.tiktok.com/@eliza.labelle/video/7164782856630340910") }}
 {{ image(path="dts.webp", desc="Double full", link="") }}
 {{ gallery_end() }}
 
