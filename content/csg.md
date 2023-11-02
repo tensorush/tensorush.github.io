@@ -7,7 +7,7 @@ categories = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 170 cheer stunting skills (31 still missing).
+Snapshot collection of 170 cheer stunting skills (30 still missing).
 
 <!-- more -->
 
@@ -261,7 +261,7 @@ Snapshot collection of 170 cheer stunting skills (31 still missing).
 {{ image(path="tsd.webp", desc="Thigh stand", link="https://youtu.be/aybcpdbEbNw?t=211") }}
 {{ image(path="nvn.webp", desc="Inversion", link="") }}
 {{ image(path="wfw.webp", desc="Elevator", link="") }}
-{{ image(path="wfl.webp", desc="Waterfall", link="") }}
+{{ image(path="wfl.webp", desc="Waterfall", link="https://www.youtube.com/shorts/Gn7CLpNHLFM") }}
 {{ image(path="wfw.webp", desc="Wolf wall", link="") }}
 {{ image(path="sfs.webp", desc="Swedish falls", link="") }}
 {{ gallery_end() }}
