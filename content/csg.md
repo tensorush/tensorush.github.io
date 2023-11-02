@@ -145,7 +145,7 @@ Snapshot collection of 169 cheer stunting skills (33 still missing).
 {{ image(path="snf.webp", desc="Sign off", link="https://youtu.be/LV3RCD7S-GE?t=205") }}
 {{ image(path="fsp.webp", desc="Front spread drop", link="https://www.youtube.com/shorts/kg0WcXz9El8") }}
 {{ image(path="wkt.webp", desc="Walk-out", link="https://youtu.be/LV3RCD7S-GE?t=24") }}
-{{ image(path="stt.webp", desc="Set out", link="https://youtu.be/WBMVkXf3oBU?t=755") }}
+{{ image(path="stt.webp", desc="Set-out", link="https://youtu.be/WBMVkXf3oBU?t=755") }}
 {{ image(path="bsp.webp", desc="Back spread drop", link="https://www.youtube.com/shorts/a0-mRBEEBXk") }}
 {{ image(path="crl.webp", desc="Cradle", link="https://youtu.be/WBMVkXf3oBU?t=752") }}
 {{ image(path="fdn.webp", desc="Full down", link="") }}
@@ -198,7 +198,7 @@ Snapshot collection of 169 cheer stunting skills (33 still missing).
 {{ image(path="rtw.webp", desc="Around the world", link="https://youtu.be/hw7tZkE-dHk?t=356") }}
 {{ image(path="hcr.webp", desc="Helicopter", link="https://www.youtube.com/shorts/mC6yrsA0Ixk") }}
 {{ image(path="sfh.webp", desc="Starfish", link="https://www.youtube.com/shorts/8ufJn_pcaUw") }}
-{{ image(path="ssm.webp", desc="Side semi", link="https://www.youtube.com/shorts/p2XVKhJH3Aw") }}
+{{ image(path="ssm.webp", desc="Side sumi", link="https://www.youtube.com/shorts/p2XVKhJH3Aw") }}
 {{ gallery_end() }}
 
 # **Flips - flyer performs a flip in the air**
