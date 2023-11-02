@@ -7,7 +7,7 @@ categories = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 169 cheer stunting skills (32 still missing).
+Snapshot collection of 169 cheer stunting skills (31 still missing).
 
 <!-- more -->
 
@@ -170,7 +170,7 @@ Snapshot collection of 169 cheer stunting skills (32 still missing).
 # **Jumps - flyer hits a pose in the air**
 
 {{ gallery_start() }}
-{{ image(path="str.webp", desc="Straight", link="") }}
+{{ image(path="str.webp", desc="Straight", link="https://youtu.be/3ju2179PNC8?t=610") }}
 {{ image(path="tck.webp", desc="Tuck", link="https://youtu.be/5Fim2JF7-FQ?t=217") }}
 {{ image(path="hkj.webp", desc="Herkey", link="") }}
 {{ image(path="fhd.webp", desc="Front hurdler", link="") }}
