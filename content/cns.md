@@ -51,7 +51,7 @@ Cheer is THE sport!
 {{ image(path="dls.webp", desc="Adults", link="https://youtu.be/LV3RCD7S-GE?t=100") }}
 {{ gallery_end() }}
 
-# **CHEER awards champion teams and individuals!**
+# **CHEER awards both winning teams and champion individuals!**
 
 {{ gallery_start() }}
 {{ image(path="jrg.webp", desc="Jeweled rings", link="https://www.instagram.com/p/CZXhwmRp0in") }}
