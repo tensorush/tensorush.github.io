@@ -1,29 +1,36 @@
 +++
 title = "Zig Style Guide"
 date = 2023-10-27
-draft = true
 
 [taxonomies]
-categories = ["list"]
+categories = ["code"]
 tags = ["ziglang", "software"]
 +++
 
-Very opinionated style guide for the Zig programming language.
+Very opinionated extension to the [Zig style guide](https://ziglang.org/documentation/master/#Style-Guide).
 
 <!-- more -->
 
-- Top-to-bottom container layout:
+## 1) Files:
 
-    - imports then aliases then namespaces (std then packages then locals)
+- Source directory: **kebab-case**
 
-    - globals (vars then consts, pubs then privs)
+- Namespace file: **snake_case**
 
-    - error sets
+- Struct file: **TitleCase**
 
-    - containers (enums then unions then structs)
+## 2) Top-to-bottom file container layout:
 
-    - fields
+- imports, then aliases, then namespaces (std, then modules, then files)
 
-    - functions
+- globals (variables, then constants): **SCREAMING_SNAKE_CASE**
 
-    - tests
+- error sets: **TitleCase**
+
+- containers (enums, then unions, then structs): **TitleCase**
+
+- fields: **snake_case**
+
+- functions: **camelCase**
+
+- tests: **camelCase**

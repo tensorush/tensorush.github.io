@@ -7,7 +7,7 @@ categories = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 171 cheer stunting skills (30 still missing).
+Snapshot collection of 172 cheer stunting skills (30 still missing).
 
 <!-- more -->
 
@@ -96,6 +96,7 @@ Snapshot collection of 171 cheer stunting skills (30 still missing).
 {{ image(path="wkn.webp", desc="Walk-in", link="https://youtu.be/7HU_bauP2lI?t=69") }}
 {{ image(path="rvt.webp", desc="Reverse toss", link="https://youtu.be/WBMVkXf3oBU?t=770") }}
 {{ image(path="dpt.webp", desc="Drop toss", link="https://youtu.be/7HU_bauP2lI?t=30") }}
+{{ image(path="rts.webp", desc="Rocket toss", link="https://youtu.be/u1x7tgvlO3M?t=801") }}
 {{ image(path="slp.webp", desc="Straddle up", link="https://youtu.be/04Wp0TIXF7A?t=604") }}
 {{ image(path="blp.webp", desc="Ball up", link="https://youtu.be/KsHd_mN0a84?t=73") }}
 {{ gallery_end() }}
@@ -114,6 +115,7 @@ Snapshot collection of 171 cheer stunting skills (30 still missing).
 {{ image(path="rbw.webp", desc="Rainbow", link="https://youtu.be/A1tjmd6sBxU?t=617") }}
 {{ image(path="fsd.webp", desc="Front spread", link="https://www.youtube.com/shorts/RfXsbmoL3zY") }}
 {{ image(path="bsd.webp", desc="Back spread", link="https://www.youtube.com/shorts/CbazH3PF1MU") }}
+{{ image(path="rrt.webp", desc="Reverse rocket toss", link="https://youtu.be/hT_exv5X2_Q?t=702") }}
 {{ gallery_end() }}
 
 # **Transitions - flyer moves from one grip to another**
@@ -282,16 +284,15 @@ Snapshot collection of 171 cheer stunting skills (30 still missing).
 {{ image(path="lts.webp", desc="Low toss", link="https://youtu.be/CDZ0CePSQ40?t=588") }}
 {{ image(path="vts.webp", desc="Hover toss", link="https://youtu.be/SonOnjYRtHU?t=1135") }}
 {{ image(path="hts.webp", desc="High toss", link="https://youtu.be/vUINVgnZBAQ?t=557") }}
-{{ image(path="bts.webp", desc="Base toss", link="https://youtu.be/UnSqDsi_6lE?t=657") }}
-{{ image(path="tfs.webp", desc="Toss fists", link="https://youtu.be/7HU_bauP2lI?t=617") }}
-{{ image(path="rts.webp", desc="Rocket toss", link="https://youtu.be/u1x7tgvlO3M?t=801") }}
 {{ image(path="ntg.webp", desc="No tag", link="https://youtu.be/Be-Sv_3gx5A?t=129") }}
 {{ image(path="nlk.webp", desc="No look", link="https://youtu.be/ApTsZwIDYLU?t=425") }}
 {{ image(path="nsp.webp", desc="No step", link="https://youtu.be/HMBSWEz2l24?t=382") }}
-{{ image(path="bcp.webp", desc="With claps", link="https://youtu.be/vUINVgnZBAQ?t=582") }}
+{{ image(path="wtc.webp", desc="With claps", link="https://youtu.be/kho1vUX_cpg?t=49") }}
 {{ image(path="btb.webp", desc="Above brows", link="https://youtu.be/Be-Sv_3gx5A?t=894") }}
 {{ image(path="wtw.webp", desc="With weights", link="https://youtu.be/ND_VqTi_790?t=980") }}
 {{ image(path="nrm.webp", desc="One arm", link="https://youtu.be/REmmtNLAF7Q?t=150") }}
 {{ image(path="ddt.webp", desc="Dead toss", link="https://youtu.be/ApTsZwIDYLU?t=473") }}
 {{ image(path="nlg.webp", desc="One leg", link="https://youtu.be/Pp5O3fj7Pbc?t=763") }}
+{{ image(path="bts.webp", desc="Base toss", link="https://youtu.be/UnSqDsi_6lE?t=657") }}
+{{ image(path="tfs.webp", desc="Toss fists", link="https://youtu.be/7HU_bauP2lI?t=617") }}
 {{ gallery_end() }}

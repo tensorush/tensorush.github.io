@@ -3,6 +3,10 @@ generate_feed = true
 base_url = "https://tensorush.github.io"
 taxonomies = [{ name = "tags" }, { name = "categories" }]
 
+[markdown]
+highlight_code = true
+highlight_theme = "gruvbox-dark"
+
 [slugify]
 paths = "off"
 anchors = "off"
