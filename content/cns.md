@@ -67,20 +67,20 @@ Cheer is THE sport!
 {{ image(path="vtp.webp", desc="Above snowy peaks", link="https://www.youtube.com/shorts/ZigJRgBMiMI") }}
 {{ gallery_end() }}
 
-# **CHEER promotes solidarity and community instead of solitude and confrontation!**
-
-{{ gallery_start() }}
-{{ image(path="cnt.webp", desc="Connection", link="https://youtu.be/8NjlORymE2k?t=70") }}
-{{ image(path="spt.webp", desc="Support", link="https://www.instagram.com/p/Cq9DfnQg5iD") }}
-{{ image(path="tst.webp", desc="Trust", link="https://www.instagram.com/p/Cm2EiRCPapA") }}
-{{ gallery_end() }}
-
-# **CHEER fosters tracking your own progress instead of tricking your next opponent!**
+# **CHEER teaches tracking your own progress instead of tricking your next opponent!**
 
 {{ gallery_start() }}
 {{ image(path="nlz.webp", desc="Analyzing", link="https://youtu.be/FZ4A0nTEtkc?t=572") }}
 {{ image(path="clc.webp", desc="Calculating", link="https://youtu.be/jb-2RLIiq24?t=758") }}
 {{ image(path="mtv.webp", desc="Motivating", link="https://youtu.be/8NjlORymE2k?t=655") }}
+{{ gallery_end() }}
+
+# **CHEER encourages solidarity and community instead of solitude and confrontation!**
+
+{{ gallery_start() }}
+{{ image(path="cnt.webp", desc="Connection", link="https://youtu.be/8NjlORymE2k?t=70") }}
+{{ image(path="spt.webp", desc="Support", link="https://www.instagram.com/p/Cq9DfnQg5iD") }}
+{{ image(path="tst.webp", desc="Trust", link="https://www.instagram.com/p/Cm2EiRCPapA") }}
 {{ gallery_end() }}
 
 {{ center_image(path="dzl.webp", desc="CHEER is about dazzling the audience by hitting awesome acro-gymnastic stunts in unison while staying cute and having fun!", link="https://www.youtube.com/watch?v=eWA5Kc5153A") }}
