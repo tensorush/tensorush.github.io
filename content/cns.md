@@ -23,7 +23,7 @@ Cheer is THE sport!
 
 {{ gallery_start() }}
 {{ image(path="ctb.webp", desc="Insane balance", link="https://www.youtube.com/shorts/w8tTT5arJjQ") }}
-{{ image(path="ntt.webp", desc="Intense timing", link="https://www.youtube.com/watch?v=WVZLA90ILsE") }}
+{{ image(path="ntt.webp", desc="Intense timing", link="https://www.instagram.com/p/Cq35tZ4gopb") }}
 {{ image(path="tsr.webp", desc="Instant reaction", link="https://www.youtube.com/shorts/L1Clzr5PpQE") }}
 {{ gallery_end() }}
 
@@ -72,7 +72,7 @@ Cheer is THE sport!
 {{ gallery_start() }}
 {{ image(path="cnt.webp", desc="Connection", link="https://youtu.be/8NjlORymE2k?t=70") }}
 {{ image(path="spt.webp", desc="Support", link="https://www.instagram.com/p/Cq9DfnQg5iD") }}
-{{ image(path="tst.webp", desc="Trust", link="https://www.youtube.com/shorts/sW-c1XVKHv4") }}
+{{ image(path="tst.webp", desc="Trust", link="https://www.instagram.com/p/Cm2EiRCPapA") }}
 {{ gallery_end() }}
 
 # **CHEER fosters tracking your own progress instead of tricking your next opponent!**
