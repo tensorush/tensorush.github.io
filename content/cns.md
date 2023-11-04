@@ -67,6 +67,14 @@ Cheer is THE sport!
 {{ image(path="vtp.webp", desc="Above snowy peaks", link="https://www.youtube.com/shorts/ZigJRgBMiMI") }}
 {{ gallery_end() }}
 
+# **CHEER promotes solidarity and community instead of solitude and confrontation!**
+
+{{ gallery_start() }}
+{{ image(path="spt.webp", desc="Support", link="https://www.youtube.com/shorts/SedqgPdCygA") }}
+{{ image(path="cnt.webp", desc="Connection", link="https://youtu.be/8NjlORymE2k?t=70") }}
+{{ image(path="tst.webp", desc="Trust", link="https://www.youtube.com/shorts/tppd9LorI-0") }}
+{{ gallery_end() }}
+
 # **CHEER fosters tracking your own progress instead of tricking your next opponent!**
 
 {{ gallery_start() }}
@@ -75,12 +83,4 @@ Cheer is THE sport!
 {{ image(path="mtv.webp", desc="Motivating", link="https://youtu.be/8NjlORymE2k?t=655") }}
 {{ gallery_end() }}
 
-<!-- # **CHEER promotes solidarity and community instead of solitude and confrontation!**
-
-{{ gallery_start() }}
-{{ image(path=".webp", desc="", link="") }}
-{{ image(path=".webp", desc="", link="") }}
-{{ image(path=".webp", desc="", link="") }}
-{{ gallery_end() }} -->
-
-<!-- {{ center_image(path="dzl.webp", desc="CHEER is about dazzling the crowd by hitting awesome acro-gymnastic stunts in unison while staying cute and having fun", link="") }} -->
+<!-- {{ center_image(path="dzl.webp", desc="CHEER is about dazzling the crowd by hitting awesome acro-gymnastic stunts in unison while staying cute and having fun!", link="") }} -->
