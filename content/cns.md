@@ -35,7 +35,7 @@ Cheer is THE sport!
 {{ image(path="tkj.webp", desc="Twunk jokes", link="https://youtu.be/5Fim2JF7-FQ?t=70") }}
 {{ gallery_end() }}
 
-# **CHEER evolves your innate rizz!**
+# **CHEER frees your innate rizz!**
 
 {{ gallery_start() }}
 {{ image(path="hdm.webp", desc="Chad moves", link="https://youtu.be/KsHd_mN0a84?t=261") }}
