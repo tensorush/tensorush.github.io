@@ -35,7 +35,7 @@ Cheer is THE sport!
 {{ image(path="tkj.webp", desc="Twunk jokes", link="https://youtu.be/5Fim2JF7-FQ?t=70") }}
 {{ gallery_end() }}
 
-# **CHEER evolves your intrinsic rizz!**
+# **CHEER evolves your innate rizz!**
 
 {{ gallery_start() }}
 {{ image(path="hdm.webp", desc="Chad moves", link="https://youtu.be/KsHd_mN0a84?t=261") }}
@@ -70,9 +70,9 @@ Cheer is THE sport!
 # **CHEER promotes solidarity and community instead of solitude and confrontation!**
 
 {{ gallery_start() }}
-{{ image(path="spt.webp", desc="Support", link="https://www.youtube.com/shorts/SedqgPdCygA") }}
 {{ image(path="cnt.webp", desc="Connection", link="https://youtu.be/8NjlORymE2k?t=70") }}
-{{ image(path="tst.webp", desc="Trust", link="https://www.youtube.com/shorts/tppd9LorI-0") }}
+{{ image(path="spt.webp", desc="Support", link="https://www.instagram.com/p/Cq9DfnQg5iD") }}
+{{ image(path="tst.webp", desc="Trust", link="https://www.youtube.com/shorts/sW-c1XVKHv4") }}
 {{ gallery_end() }}
 
 # **CHEER fosters tracking your own progress instead of tricking your next opponent!**
@@ -83,4 +83,4 @@ Cheer is THE sport!
 {{ image(path="mtv.webp", desc="Motivating", link="https://youtu.be/8NjlORymE2k?t=655") }}
 {{ gallery_end() }}
 
-<!-- {{ center_image(path="dzl.webp", desc="CHEER is about dazzling the crowd by hitting awesome acro-gymnastic stunts in unison while staying cute and having fun!", link="") }} -->
+{{ center_image(path="dzl.webp", desc="CHEER is about dazzling the audience by hitting awesome acro-gymnastic stunts in unison while staying cute and having fun!", link="https://www.youtube.com/watch?v=eWA5Kc5153A") }}

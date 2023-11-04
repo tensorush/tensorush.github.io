@@ -3,7 +3,7 @@ title = "Zig Design Patterns"
 date = 2023-09-14
 
 [taxonomies]
-categories = ["code"]
+categories = ["list"]
 tags = ["ziglang", "software"]
 +++
 
