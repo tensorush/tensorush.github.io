@@ -63,8 +63,8 @@ Snapshot collection of 173 cheer stunting skills (30 still missing).
 # **Grips - base holds a flyer**
 
 {{ gallery_start() }}
-{{ image(path="tsp.webp", desc="Platform", link="https://youtu.be/FZ4A0nTEtkc?t=107") }}
-{{ image(path="prp.webp", desc="Prep", link="https://youtu.be/FZ4A0nTEtkc?t=69") }}
+{{ image(path="tsp.webp", desc="Platform / Target", link="https://youtu.be/FZ4A0nTEtkc?t=107") }}
+{{ image(path="prp.webp", desc="Prep / Hands / Chest", link="https://youtu.be/FZ4A0nTEtkc?t=69") }}
 {{ image(path="tsx.webp", desc="Extension", link="https://youtu.be/9LaHx5fUn6s?t=716") }}
 {{ image(path="tsc.webp", desc="Cupie", link="https://youtu.be/0TN-f7vbnTQ?t=579") }}
 {{ image(path="hsd.webp", desc="Handstand", link="https://youtu.be/DfFdPsbxVPQ?t=475") }}
