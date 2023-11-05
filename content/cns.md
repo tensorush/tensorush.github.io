@@ -83,7 +83,7 @@ Cheer is THE sport!
 {{ image(path="vtp.webp", desc="Above snowy peaks", link="https://www.youtube.com/shorts/ZigJRgBMiMI") }}
 {{ gallery_end() }}
 
-# **CHEER awards winning teams and champion individuals with more than just medals!**
+# **CHEER awards winning teams and champion individuals not just medals!**
 
 {{ gallery_start() }}
 {{ image(path="jrg.webp", desc="Jeweled rings", link="https://www.instagram.com/p/CZXhwmRp0in") }}
