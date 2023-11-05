@@ -7,7 +7,7 @@ categories = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 175 [cheer](@/cns.md) stunting skills (29 still missing).
+Snapshot collection of 176 [cheer](@/cns.md) stunting skills (29 still missing).
 
 <!-- more -->
 
@@ -183,7 +183,7 @@ Snapshot collection of 175 [cheer](@/cns.md) stunting skills (29 still missing).
 {{ gallery_start() }}
 {{ image(path="str.webp", desc="Straight", link="https://youtu.be/3ju2179PNC8?t=610") }}
 {{ image(path="tck.webp", desc="Tuck", link="https://youtu.be/5Fim2JF7-FQ?t=217") }}
-{{ image(path="hkj.webp", desc="Herkey", link="") }}
+{{ image(path="hkj.webp", desc="Herkie", link="") }}
 {{ image(path="fhd.webp", desc="Front hurdler", link="") }}
 {{ image(path="dlh.webp", desc="Double hook", link="") }}
 {{ image(path="shd.webp", desc="Side hurdler", link="") }}
@@ -293,6 +293,9 @@ Snapshot collection of 175 [cheer](@/cns.md) stunting skills (29 still missing).
 {{ image(path="lts.webp", desc="Low toss", link="https://youtu.be/CDZ0CePSQ40?t=588") }}
 {{ image(path="vts.webp", desc="Hover toss", link="https://youtu.be/SonOnjYRtHU?t=1135") }}
 {{ image(path="hts.webp", desc="High toss", link="https://youtu.be/vUINVgnZBAQ?t=557") }}
+{{ image(path="bts.webp", desc="Base toss", link="https://youtu.be/UnSqDsi_6lE?t=657") }}
+{{ image(path="tfs.webp", desc="Toss fists", link="https://youtu.be/7HU_bauP2lI?t=617") }}
+{{ image(path="msh.webp", desc="Arm switch", link="https://www.youtube.com/shorts/7ppho3fTrLU") }}
 {{ image(path="ntg.webp", desc="No tag", link="https://youtu.be/Be-Sv_3gx5A?t=129") }}
 {{ image(path="nlk.webp", desc="No look", link="https://youtu.be/ApTsZwIDYLU?t=425") }}
 {{ image(path="nsp.webp", desc="No step", link="https://youtu.be/HMBSWEz2l24?t=382") }}
@@ -302,6 +305,4 @@ Snapshot collection of 175 [cheer](@/cns.md) stunting skills (29 still missing).
 {{ image(path="nrm.webp", desc="One arm", link="https://youtu.be/REmmtNLAF7Q?t=150") }}
 {{ image(path="ddt.webp", desc="Dead toss", link="https://youtu.be/ApTsZwIDYLU?t=473") }}
 {{ image(path="nlg.webp", desc="One leg", link="https://youtu.be/Pp5O3fj7Pbc?t=763") }}
-{{ image(path="bts.webp", desc="Base toss", link="https://youtu.be/UnSqDsi_6lE?t=657") }}
-{{ image(path="tfs.webp", desc="Toss fists", link="https://youtu.be/7HU_bauP2lI?t=617") }}
 {{ gallery_end() }}
