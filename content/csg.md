@@ -7,7 +7,7 @@ categories = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 173 cheer stunting skills (30 still missing).
+Snapshot collection of 175 [cheer](@/cns.md) stunting skills (29 still missing).
 
 <!-- more -->
 
@@ -15,10 +15,13 @@ Snapshot collection of 173 cheer stunting skills (30 still missing).
 
 {{ gallery_start() }}
 {{ image(path="lbl.webp", desc="Eliza LaBelle", link="https://www.youtube.com/@elizalabelle") }}
+{{ image(path="jns.webp", desc="Cassie Joness", link="https://www.instagram.com/sb.cassie") }}
+{{ image(path="cpr.webp", desc="Maddie Copper", link="https://www.instagram.com/maddie.copper_") }}
+{{ image(path="brb.webp", desc="Bree ???", link="https://www.instagram.com/bvc.bree") }}
 {{ image(path="kbl.webp", desc="Kat Abela", link="https://www.youtube.com/@katabela") }}
 {{ image(path="cdl.webp", desc="Caylee Odle", link="https://www.youtube.com/@Its.ccaylee") }}
-{{ image(path="lbs.webp", desc="Lexi Batrous", link="https://www.instagram.com/lexibatrous_") }}
-{{ image(path="jns.webp", desc="Cassie Joness", link="https://www.instagram.com/sb.cassie") }}
+{{ image(path="btr.webp", desc="Lexi Batrous", link="https://www.instagram.com/lexibatrous_") }}
+{{ image(path="btl.webp", desc="Gabi Butler", link="https://www.instagram.com/gabibutler1617") }}
 {{ image(path="pzk.webp", desc="Delaney Porazinski", link="https://www.tiktok.com/@delaney_porazinski") }}
 {{ image(path="bmr.webp", desc="Brooke Emyre", link="https://www.instagram.com/brookeemyre") }}
 {{ image(path="bnt.webp", desc="Skylar Bennett", link="https://www.tiktok.com/@_boogie00") }}
@@ -29,9 +32,12 @@ Snapshot collection of 173 cheer stunting skills (30 still missing).
 {{ image(path="cls.webp", desc="Mitterson Charles", link="https://www.instagram.com/_mitthappens") }}
 {{ image(path="dbl.webp", desc="Daniel Bailey", link="https://www.youtube.com/@bailcakes") }}
 {{ image(path="dml.webp", desc="Taylor Demler", link="https://www.youtube.com/@t_demler24") }}
-{{ image(path="rwk.webp", desc="Ronnie Walker", link="https://www.tiktok.com/@rdw_blessed3") }}
-{{ image(path="dsv.webp", desc="Michael Androsov", link="https://www.youtube.com/@booshslays") }}
 {{ image(path="tmn.webp", desc="Johnny Thompson", link="https://www.tiktok.com/@thomp338") }}
+{{ image(path="dsv.webp", desc="Michael Androsov", link="https://www.youtube.com/@booshslays") }}
+{{ image(path="sdg.webp", desc="Heath Snodgrass", link="https://www.instagram.com/jheath59_03") }}
+{{ image(path="psk.webp", desc="Justin Pulaski", link="https://www.instagram.com/justin_pulaski") }}
+{{ image(path="ctr.webp", desc="Dawan Carter", link="https://www.instagram.com/dawan_andonly") }}
+{{ image(path="wlk.webp", desc="Ronnie Walker", link="https://www.tiktok.com/@rdw_blessed3") }}
 {{ gallery_end() }}
 
 # **Special shout-outs to:**
@@ -96,9 +102,9 @@ Snapshot collection of 173 cheer stunting skills (30 still missing).
 {{ image(path="wkn.webp", desc="Walk-in", link="https://youtu.be/7HU_bauP2lI?t=69") }}
 {{ image(path="rvt.webp", desc="Reverse toss", link="https://youtu.be/WBMVkXf3oBU?t=770") }}
 {{ image(path="dpt.webp", desc="Drop toss", link="https://youtu.be/7HU_bauP2lI?t=30") }}
-{{ image(path="rts.webp", desc="Rocket toss", link="https://youtu.be/u1x7tgvlO3M?t=801") }}
-{{ image(path="slp.webp", desc="Straddle up", link="https://youtu.be/04Wp0TIXF7A?t=604") }}
 {{ image(path="blp.webp", desc="Ball up", link="https://youtu.be/KsHd_mN0a84?t=73") }}
+{{ image(path="slp.webp", desc="Straddle up", link="https://youtu.be/04Wp0TIXF7A?t=604") }}
+{{ image(path="rts.webp", desc="Rocket toss", link="https://www.instagram.com/p/CJm5rF-l2vV") }}
 {{ gallery_end() }}
 
 # **Handstands - base throws a flyer to a hand grip**
@@ -115,8 +121,8 @@ Snapshot collection of 173 cheer stunting skills (30 still missing).
 {{ image(path="rbw.webp", desc="Rainbow", link="https://youtu.be/A1tjmd6sBxU?t=617") }}
 {{ image(path="fsd.webp", desc="Front spread", link="https://www.youtube.com/shorts/RfXsbmoL3zY") }}
 {{ image(path="bsd.webp", desc="Back spread", link="https://www.youtube.com/shorts/CbazH3PF1MU") }}
-{{ image(path="cts.webp", desc="Candle toss", link="https://www.instagram.com/p/CgM5R6egU4_") }}
 {{ image(path="rrt.webp", desc="Reverse rocket toss", link="https://youtu.be/hT_exv5X2_Q?t=702") }}
+{{ image(path="cts.webp", desc="Candle toss", link="https://www.instagram.com/p/CgM5R6egU4_") }}
 {{ gallery_end() }}
 
 # **Transitions - flyer moves from one grip to another**
@@ -165,10 +171,11 @@ Snapshot collection of 173 cheer stunting skills (30 still missing).
 {{ image(path="rbq.webp", desc="Arabesque", link="https://youtu.be/kOSlKw79qdA?t=576") }}
 {{ image(path="trh.webp", desc="Torch", link="https://youtu.be/Be-Sv_3gx5A?t=485") }}
 {{ image(path="bnr.webp", desc="Bow and arrow", link="https://www.youtube.com/shorts/mC6yrsA0Ixk") }}
+{{ image(path="fdr.webp", desc="Arrow nock", link="https://www.instagram.com/p/Ckj8xCUAD4D") }}
 {{ image(path="scl.webp", desc="Scale", link="https://www.youtube.com/shorts/UyUDK7X_tRo") }}
+{{ image(path="ndl.webp", desc="Needle", link="https://www.instagram.com/p/CCSM_QAFEq1") }}
 {{ image(path="scn.webp", desc="Scorpion", link="") }}
 {{ image(path="hhn.webp", desc="Chin chin", link="") }}
-{{ image(path="ndl.webp", desc="Needle", link="") }}
 {{ gallery_end() }}
 
 # **Jumps - flyer hits a pose in the air**
@@ -182,10 +189,11 @@ Snapshot collection of 173 cheer stunting skills (30 still missing).
 {{ image(path="shd.webp", desc="Side hurdler", link="") }}
 {{ image(path="pkj.webp", desc="Pike", link="") }}
 {{ image(path="tth.webp", desc="Toe touch", link="https://youtu.be/yCkaHsti5XI?t=5") }}
-{{ image(path="sdg.webp", desc="Spread eagle", link="") }}
-{{ image(path="spt.webp", desc="Split", link="") }}
-{{ image(path="bft.webp", desc="Bird front", link="https://www.youtube.com/shorts/6avCjWkWyjI") }}
+{{ image(path="spg.webp", desc="Spread eagle", link="") }}
+{{ image(path="fst.webp", desc="Front split", link="") }}
+{{ image(path="sds.webp", desc="Side split", link="https://www.instagram.com/p/CkeeOA0A4Fo") }}
 {{ image(path="rvs.webp", desc="Reverse split", link="https://www.youtube.com/shorts/cxBuRNT1-Lg") }}
+{{ image(path="bft.webp", desc="Bird front", link="https://www.youtube.com/shorts/6avCjWkWyjI") }}
 {{ gallery_end() }}
 
 # **Spins - flyer performs a spin in the air**
