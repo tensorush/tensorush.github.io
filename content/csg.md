@@ -17,7 +17,7 @@ Snapshot collection of 175 [cheer](@/cns.md) stunting skills (29 still missing).
 {{ image(path="lbl.webp", desc="Eliza LaBelle", link="https://www.youtube.com/@elizalabelle") }}
 {{ image(path="jns.webp", desc="Cassie Joness", link="https://www.instagram.com/sb.cassie") }}
 {{ image(path="cpr.webp", desc="Maddie Copper", link="https://www.instagram.com/maddie.copper_") }}
-{{ image(path="brb.webp", desc="Bree ???", link="https://www.instagram.com/bvc.bree") }}
+{{ image(path="brh.webp", desc="Bree Hays", link="https://www.instagram.com/bvc.bree") }}
 {{ image(path="kbl.webp", desc="Kat Abela", link="https://www.youtube.com/@katabela") }}
 {{ image(path="cdl.webp", desc="Caylee Odle", link="https://www.youtube.com/@Its.ccaylee") }}
 {{ image(path="btr.webp", desc="Lexi Batrous", link="https://www.instagram.com/lexibatrous_") }}
