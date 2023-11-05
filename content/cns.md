@@ -83,4 +83,6 @@ Cheer is THE sport!
 {{ image(path="tst.webp", desc="Trust", link="https://www.instagram.com/p/Cm2EiRCPapA") }}
 {{ gallery_end() }}
 
-{{ center_image(path="dzl.webp", desc="CHEER is about dazzling the audience by hitting awesome acro-gymnastic stunts in unison while staying cute and having fun!", link="https://www.youtube.com/watch?v=eWA5Kc5153A") }}
+# **CHEER is all about...**
+
+{{ center_image(path="dzl.webp", desc="... dazzling the audience by hitting awesome acro-gymnastic stunts while staying cute and having fun!", link="https://www.youtube.com/watch?v=eWA5Kc5153A") }}
