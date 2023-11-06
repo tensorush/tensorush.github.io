@@ -15,14 +15,14 @@ Snapshot collection of 176 [cheer](@/cns.md) stunting skills (29 still missing).
 
 {{ gallery_start() }}
 {{ image(path="lbl.webp", desc="Eliza LaBelle", link="https://www.youtube.com/@elizalabelle") }}
-{{ image(path="jns.webp", desc="Cassie Joness", link="https://www.instagram.com/sb.cassie") }}
-{{ image(path="cpr.webp", desc="Maddie Copper", link="https://www.instagram.com/maddie.copper_") }}
-{{ image(path="brh.webp", desc="Bree Hays", link="https://www.instagram.com/bvc.bree") }}
 {{ image(path="kbl.webp", desc="Kat Abela", link="https://www.youtube.com/@katabela") }}
-{{ image(path="cdl.webp", desc="Caylee Odle", link="https://www.youtube.com/@Its.ccaylee") }}
-{{ image(path="btr.webp", desc="Lexi Batrous", link="https://www.instagram.com/lexibatrous_") }}
-{{ image(path="btl.webp", desc="Gabi Butler", link="https://www.instagram.com/gabibutler1617") }}
 {{ image(path="pzk.webp", desc="Delaney Porazinski", link="https://www.tiktok.com/@delaney_porazinski") }}
+{{ image(path="brh.webp", desc="Bree Hays", link="https://www.instagram.com/bvc.bree") }}
+{{ image(path="btl.webp", desc="Gabi Butler", link="https://www.instagram.com/gabibutler1617") }}
+{{ image(path="cpr.webp", desc="Maddie Copper", link="https://www.instagram.com/maddie.copper_") }}
+{{ image(path="btr.webp", desc="Lexi Batrous", link="https://www.instagram.com/lexibatrous_") }}
+{{ image(path="jns.webp", desc="Cassie Joness", link="https://www.instagram.com/sb.cassie") }}
+{{ image(path="cdl.webp", desc="Caylee Odle", link="https://www.youtube.com/@Its.ccaylee") }}
 {{ image(path="bmr.webp", desc="Brooke Emyre", link="https://www.instagram.com/brookeemyre") }}
 {{ image(path="bnt.webp", desc="Skylar Bennett", link="https://www.tiktok.com/@_boogie00") }}
 {{ image(path="mls.webp", desc="Alex Mathioulakis", link="https://www.instagram.com/alex_lee_xx") }}
@@ -31,10 +31,10 @@ Snapshot collection of 176 [cheer](@/cns.md) stunting skills (29 still missing).
 {{ image(path="skn.webp", desc="Gauge Stricklin", link="https://www.youtube.com/@Strictlycheer") }}
 {{ image(path="cls.webp", desc="Mitterson Charles", link="https://www.instagram.com/_mitthappens") }}
 {{ image(path="dbl.webp", desc="Daniel Bailey", link="https://www.youtube.com/@bailcakes") }}
-{{ image(path="dml.webp", desc="Taylor Demler", link="https://www.youtube.com/@t_demler24") }}
+{{ image(path="sdg.webp", desc="Heath Snodgrass", link="https://www.instagram.com/jheath59_03") }}
 {{ image(path="tmn.webp", desc="Johnny Thompson", link="https://www.tiktok.com/@thomp338") }}
 {{ image(path="dsv.webp", desc="Michael Androsov", link="https://www.youtube.com/@booshslays") }}
-{{ image(path="sdg.webp", desc="Heath Snodgrass", link="https://www.instagram.com/jheath59_03") }}
+{{ image(path="dml.webp", desc="Taylor Demler", link="https://www.youtube.com/@t_demler24") }}
 {{ image(path="psk.webp", desc="Justin Pulaski", link="https://www.instagram.com/justin_pulaski") }}
 {{ image(path="ctr.webp", desc="Dawan Carter", link="https://www.instagram.com/dawan_andonly") }}
 {{ image(path="wlk.webp", desc="Ronnie Walker", link="https://www.tiktok.com/@rdw_blessed3") }}
