@@ -299,9 +299,9 @@ Snapshot collection of 176 [cheer](@/cns.md) stunting skills (29 still missing).
 {{ image(path="ntg.webp", desc="No tag", link="https://youtu.be/Be-Sv_3gx5A?t=129") }}
 {{ image(path="nlk.webp", desc="No look", link="https://youtu.be/ApTsZwIDYLU?t=425") }}
 {{ image(path="nsp.webp", desc="No step", link="https://youtu.be/HMBSWEz2l24?t=382") }}
-{{ image(path="wtc.webp", desc="With claps", link="https://youtu.be/kho1vUX_cpg?t=49") }}
-{{ image(path="btb.webp", desc="Above brows", link="https://youtu.be/Be-Sv_3gx5A?t=894") }}
-{{ image(path="wtw.webp", desc="With weights", link="https://youtu.be/ND_VqTi_790?t=980") }}
+{{ image(path="wcs.webp", desc="With claps", link="https://youtu.be/kho1vUX_cpg?t=49") }}
+{{ image(path="bbs.webp", desc="Above brows", link="https://youtu.be/Be-Sv_3gx5A?t=894") }}
+{{ image(path="wws.webp", desc="With weights", link="https://youtu.be/ND_VqTi_790?t=980") }}
 {{ image(path="nrm.webp", desc="One arm", link="https://youtu.be/REmmtNLAF7Q?t=150") }}
 {{ image(path="ddt.webp", desc="Dead toss", link="https://youtu.be/ApTsZwIDYLU?t=473") }}
 {{ image(path="nlg.webp", desc="One leg", link="https://youtu.be/Pp5O3fj7Pbc?t=763") }}
