@@ -12,6 +12,7 @@ date = 2023-08-13
 |        [George Hotz](https://geohot.github.io/blog/)         |       [Scott Alexander](https://astralcodexten.substack.com)        | [Dan Benoni & Louis-Xavier Lavallee](https://growth.design) |
 |           [Alex Kladov](https://matklad.github.io)           | [Stephen Wolfram](https://writings.stephenwolfram.com/all-by-date/) |                                                             |
 |           [Jakub Konka](http://www.jakubkonka.com)           |       [Eliezer Yudkowsky](https://www.yudkowsky.net/sitemap/)       |                                                             |
+|                [Julia Evans](https://jvns.ca)                |                                                                     |                                                             |
 |           [Drew DeVault](https://drewdevault.com)            |                                                                     |                                                             |
 |        [Igor Zhirkov](https://rubber-duck-typing.com)        |                                                                     |                                                             |
 |              [King Butcher](https://kprotty.me)              |                                                                     |                                                             |
