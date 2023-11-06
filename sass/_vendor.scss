@@ -197,8 +197,13 @@ a:hover {
     }
 }
 
+.hack blockquote {
+    font-size: 1rem;
+    font-style: italic;
+    font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif
+}
+
 .hack,
-.hack blockquote,
 .hack code,
 .hack em,
 .hack h1,

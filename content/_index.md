@@ -1,5 +1,5 @@
 +++
 title = "tensorush"
 sort_by = "date"
-paginate_by = 11
+paginate_by = 12
 +++
