@@ -1,6 +1,6 @@
 +++
 title = "Thoughts Have Reality"
-date = 2023-11-06
+date = 2023-08-26
 
 [taxonomies]
 categories = ["list"]
