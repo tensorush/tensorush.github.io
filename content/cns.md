@@ -14,8 +14,8 @@ Cheer is THE sport!
 # **CHEER makes your body fit!**
 
 {{ gallery_start() }}
-{{ image(path="xpw.webp", desc="Explosive power", link="https://youtu.be/79vJ3IFdDTw?t=650") }}
 {{ image(path="hsn.webp", desc="Enhanced stamina", link="https://youtu.be/8NjlORymE2k?t=90") }}
+{{ image(path="xpw.webp", desc="Explosive power", link="https://youtu.be/79vJ3IFdDTw?t=650") }}
 {{ image(path="xfb.webp", desc="Extreme flexibility", link="https://www.instagram.com/p/CVbJyM2p4kF") }}
 {{ gallery_end() }}
 
