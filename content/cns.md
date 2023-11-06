@@ -14,8 +14,8 @@ Cheer is THE sport!
 # **CHEER makes your body fit!**
 
 {{ gallery_start() }}
-{{ image(path="hsn.webp", desc="Enhanced stamina", link="https://youtu.be/8NjlORymE2k?t=90") }}
 {{ image(path="xpw.webp", desc="Explosive power", link="https://youtu.be/79vJ3IFdDTw?t=650") }}
+{{ image(path="hsn.webp", desc="Enhanced stamina", link="https://youtu.be/8NjlORymE2k?t=90") }}
 {{ image(path="xfb.webp", desc="Extreme flexibility", link="https://www.instagram.com/p/CVbJyM2p4kF") }}
 {{ gallery_end() }}
 
@@ -62,8 +62,8 @@ Cheer is THE sport!
 # **CHEER promotes solidarity instead of solitude!**
 
 {{ gallery_start() }}
-{{ image(path="cnt.webp", desc="Connection", link="https://youtu.be/8NjlORymE2k?t=70") }}
 {{ image(path="spt.webp", desc="Support", link="https://www.youtube.com/shorts/SedqgPdCygA") }}
+{{ image(path="cnt.webp", desc="Connection", link="https://youtu.be/8NjlORymE2k?t=70") }}
 {{ image(path="tst.webp", desc="Trust", link="https://www.instagram.com/p/Cm2EiRCPapA") }}
 {{ gallery_end() }}
 
