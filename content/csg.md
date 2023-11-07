@@ -71,10 +71,10 @@ Snapshot collection of 178 [cheer](@/cns.md) stunting skills (29 still missing).
 {{ gallery_start() }}
 {{ image(path="tsp.webp", desc="Platform / Target", link="https://youtu.be/FZ4A0nTEtkc?t=107") }}
 {{ image(path="prp.webp", desc="Prep / Hands / Chest", link="https://youtu.be/FZ4A0nTEtkc?t=69") }}
-{{ image(path="tsx.webp", desc="Extension", link="https://youtu.be/9LaHx5fUn6s?t=716") }}
+{{ image(path="xtn.webp", desc="Extension", link="https://youtu.be/9LaHx5fUn6s?t=750") }}
 {{ image(path="hsd.webp", desc="Handstand", link="https://youtu.be/DfFdPsbxVPQ?t=475") }}
 {{ image(path="rhd.webp", desc="Reverse handstand", link="https://www.instagram.com/p/B28nxVzF-5b") }}
-{{ image(path="tsc.webp", desc="Cupie", link="https://youtu.be/0TN-f7vbnTQ?t=579") }}
+{{ image(path="tcp.webp", desc="Cupie", link="https://youtu.be/0TN-f7vbnTQ?t=579") }}
 {{ image(path="hsk.webp", desc="Handski", link="https://youtu.be/_qJulETphrI?t=729") }}
 {{ image(path="rhs.webp", desc="Reverse handski", link="") }}
 {{ image(path="srt.webp", desc="Shoulder rest", link="https://www.youtube.com/shorts/B5OVmWPtjII") }}
