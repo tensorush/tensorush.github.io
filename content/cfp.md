@@ -21,9 +21,13 @@ Fondu devlog #1.
 
 ## Components:
 
-- Frontend: [Umbrella Wasm API](https://github.com/thi-ng/umbrella/tree/develop/packages/wasm-api)
+- OLTP database: [TigerBeetle](https://github.com/tigerbeetle/tigerbeetle)
 
-- Database: [TigerBeetle](https://github.com/tigerbeetle/tigerbeetle)
+- Monitoring: [Prometheus](https://github.com/vrischmann/zig-prometheus)
+
+- SQL database: [SQLite](https://github.com/vrischmann/zig-sqlite)
+
+- Frontend: [Wasm API](https://github.com/thi-ng/umbrella/tree/develop/packages/wasm-api)
 
 - Backend: [Zap](https://github.com/zigzap/zap)
 

@@ -7,7 +7,7 @@ categories = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 176 [cheer](@/cns.md) stunting skills (28 still missing).
+Snapshot collection of 178 [cheer](@/cns.md) stunting skills (29 still missing).
 
 <!-- more -->
 
@@ -72,19 +72,21 @@ Snapshot collection of 176 [cheer](@/cns.md) stunting skills (28 still missing).
 {{ image(path="tsp.webp", desc="Platform / Target", link="https://youtu.be/FZ4A0nTEtkc?t=107") }}
 {{ image(path="prp.webp", desc="Prep / Hands / Chest", link="https://youtu.be/FZ4A0nTEtkc?t=69") }}
 {{ image(path="tsx.webp", desc="Extension", link="https://youtu.be/9LaHx5fUn6s?t=716") }}
-{{ image(path="tsc.webp", desc="Cupie", link="https://youtu.be/0TN-f7vbnTQ?t=579") }}
 {{ image(path="hsd.webp", desc="Handstand", link="https://youtu.be/DfFdPsbxVPQ?t=475") }}
-{{ image(path="hsk.webp", desc="Handski", link="https://youtu.be/_qJulETphrI?t=729") }}
+{{ image(path="rhd.webp", desc="Reverse handstand", link="https://www.instagram.com/p/B28nxVzF-5b") }}
+{{ image(path="tsc.webp", desc="Cupie", link="https://youtu.be/0TN-f7vbnTQ?t=579") }}
 {{ image(path="gvt.webp", desc="Gravity", link="https://www.youtube.com/shorts/5PSboWckPbc") }}
 {{ image(path="rvg.webp", desc="Front gravity", link="https://youtu.be/3ju2179PNC8?t=273") }}
-{{ image(path="sst.webp", desc="Shoulder sit", link="https://youtu.be/ApTsZwIDYLU?t=111") }}
+{{ image(path="ssd.webp", desc="Shoulder stand", link="https://youtu.be/SonOnjYRtHU?t=281") }}
+{{ image(path="hsk.webp", desc="Handski", link="https://youtu.be/_qJulETphrI?t=729") }}
+{{ image(path="rhs.webp", desc="Reverse handski", link="") }}
+{{ image(path="srt.webp", desc="Shoulder rest", link="https://www.youtube.com/shorts/B5OVmWPtjII") }}
 {{ image(path="gsd.webp", desc="Genie stand", link="https://youtu.be/RLbde7dYHkI?t=167") }}
 {{ image(path="gst.webp", desc="Genie sit", link="https://www.youtube.com/shorts/CMK7YeHJ8Mw") }}
-{{ image(path="srt.webp", desc="Shoulder rest", link="https://www.youtube.com/shorts/B5OVmWPtjII") }}
+{{ image(path="sst.webp", desc="Shoulder sit", link="https://youtu.be/ApTsZwIDYLU?t=111") }}
 {{ image(path="vsr.webp", desc="Visor", link="https://youtu.be/RLbde7dYHkI?t=235") }}
 {{ image(path="dlv.webp", desc="Double visor", link="https://youtu.be/7HU_bauP2lI?t=601") }}
-{{ image(path="ssd.webp", desc="Shoulder stand", link="https://youtu.be/SonOnjYRtHU?t=281") }}
-{{ image(path="rvc.webp", desc="Reverse catch", link="https://youtu.be/qjbRUuxKr3Q?t=796") }}
+{{ image(path="hmb.webp", desc="Hold my beer", link="https://www.instagram.com/p/B6Yi2hFFHj6") }}
 {{ gallery_end() }}
 
 # **Tosses - base throws a flyer to a foot grip**
@@ -202,7 +204,7 @@ Snapshot collection of 176 [cheer](@/cns.md) stunting skills (28 still missing).
 {{ image(path="flp.webp", desc="Full up", link="https://youtu.be/8NjlORymE2k?t=702") }}
 {{ image(path="dlp.webp", desc="Double up", link="https://youtu.be/vUINVgnZBAQ?t=424") }}
 {{ image(path="tpp.webp", desc="Triple up", link="https://www.youtube.com/shorts/UeR4EAB5H9Y") }}
-{{ image(path="hfd.webp", desc="Half around", link="https://youtu.be/O1Qprxej888?t=380") }}
+{{ image(path="hfd.webp", desc="Half around", link="https://www.instagram.com/p/B8iaMPjFCPm") }}
 {{ image(path="fld.webp", desc="Full around", link="https://youtu.be/LV3RCD7S-GE?t=314") }}
 {{ image(path="nnh.webp", desc="1 and 1/2 around", link="https://youtu.be/u1x7tgvlO3M?t=523") }}
 {{ image(path="dld.webp", desc="Double around", link="https://youtu.be/emFxJWjvFGQ?t=648") }}
