@@ -7,7 +7,7 @@ categories = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 176 [cheer](@/cns.md) stunting skills (29 still missing).
+Snapshot collection of 176 [cheer](@/cns.md) stunting skills (28 still missing).
 
 <!-- more -->
 
@@ -225,7 +225,7 @@ Snapshot collection of 176 [cheer](@/cns.md) stunting skills (29 still missing).
 {{ image(path="ftw.webp", desc="Twisting rewind", link="https://youtu.be/DfFdPsbxVPQ?t=612") }}
 {{ image(path="tsg.webp", desc="Twisting shotgun", link="") }}
 {{ image(path="tsm.webp", desc="Twisting superman", link="https://www.tiktok.com/@_boogie00/video/7079766706289200430") }}
-{{ image(path="drd.webp", desc="Double rewind", link="") }}
+{{ image(path="drd.webp", desc="Double rewind", link="https://www.youtube.com/shorts/9mTdZ0EqkHk") }}
 {{ image(path="wht.webp", desc="Winchester", link="https://www.youtube.com/shorts/5mLWtcbPUwk") }}
 {{ image(path="tsw.webp", desc="Twisting walk-in", link="") }}
 {{ gallery_end() }}
