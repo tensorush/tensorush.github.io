@@ -75,12 +75,12 @@ Snapshot collection of 178 [cheer](@/cns.md) stunting skills (29 still missing).
 {{ image(path="hsd.webp", desc="Handstand", link="https://youtu.be/DfFdPsbxVPQ?t=475") }}
 {{ image(path="rhd.webp", desc="Reverse handstand", link="https://www.instagram.com/p/B28nxVzF-5b") }}
 {{ image(path="tsc.webp", desc="Cupie", link="https://youtu.be/0TN-f7vbnTQ?t=579") }}
-{{ image(path="gvt.webp", desc="Gravity", link="https://www.youtube.com/shorts/5PSboWckPbc") }}
-{{ image(path="rvg.webp", desc="Front gravity", link="https://youtu.be/3ju2179PNC8?t=273") }}
-{{ image(path="ssd.webp", desc="Shoulder stand", link="https://youtu.be/SonOnjYRtHU?t=281") }}
 {{ image(path="hsk.webp", desc="Handski", link="https://youtu.be/_qJulETphrI?t=729") }}
 {{ image(path="rhs.webp", desc="Reverse handski", link="") }}
 {{ image(path="srt.webp", desc="Shoulder rest", link="https://www.youtube.com/shorts/B5OVmWPtjII") }}
+{{ image(path="gvt.webp", desc="Gravity", link="https://www.youtube.com/shorts/5PSboWckPbc") }}
+{{ image(path="rvg.webp", desc="Front gravity", link="https://youtu.be/3ju2179PNC8?t=273") }}
+{{ image(path="ssd.webp", desc="Shoulder stand", link="https://youtu.be/SonOnjYRtHU?t=281") }}
 {{ image(path="gsd.webp", desc="Genie stand", link="https://youtu.be/RLbde7dYHkI?t=167") }}
 {{ image(path="gst.webp", desc="Genie sit", link="https://www.youtube.com/shorts/CMK7YeHJ8Mw") }}
 {{ image(path="sst.webp", desc="Shoulder sit", link="https://youtu.be/ApTsZwIDYLU?t=111") }}
