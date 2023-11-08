@@ -304,7 +304,9 @@ Snapshot collection of 178 [cheer](@/cns.md) stunting skills (29 still missing).
 {{ image(path="wcs.webp", desc="With Claps", link="https://youtu.be/kho1vUX_cpg?t=49") }}
 {{ image(path="bbs.webp", desc="Above Brows", link="https://youtu.be/Be-Sv_3gx5A?t=894") }}
 {{ image(path="wws.webp", desc="With Weights", link="https://youtu.be/ND_VqTi_790?t=980") }}
+{{ image(path="nfd.webp", desc="No Flick Dead Toss", link="https://www.youtube.com/shorts/dfQk0g-JVy4") }}
+{{ image(path="ndd.webp", desc="No Dip Dead Toss", link="https://youtu.be/ApTsZwIDYLU?t=473") }}
+{{ image(path="nnd.webp", desc="No Nothing Dead Toss", link="https://youtu.be/6Kg652x0R9Y?t=160") }}
 {{ image(path="nrm.webp", desc="One Arm", link="https://youtu.be/REmmtNLAF7Q?t=150") }}
-{{ image(path="ddt.webp", desc="Dead Toss", link="https://youtu.be/ApTsZwIDYLU?t=473") }}
 {{ image(path="nlg.webp", desc="One Leg", link="https://youtu.be/Pp5O3fj7Pbc?t=763") }}
 {{ gallery_end() }}
