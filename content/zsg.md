@@ -26,8 +26,8 @@ Very opinionated extension to the [Zig style guide](https://ziglang.org/document
 |    Item Group    |    Sorting Order     |     Letter Case      |
 |:----------------:|:--------------------:|:--------------------:|
 |     Imports      | Ascending by length  |    Original case     |
-|     Aliases      | Ascending by length  |    Original case     |
 |    Namespaces    | Ascending by length  |    Original case     |
+|     Aliases      | Descending by length |    Original case     |
 | Global variables | Ascending by length  | SCREAMING_SNAKE_CASE |
 | Global constants | Ascending by length  | SCREAMING_SNAKE_CASE |
 |    Error sets    | Descending by length |      TitleCase       |
