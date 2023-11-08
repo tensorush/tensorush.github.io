@@ -75,7 +75,7 @@ Cheer is THE sport!
 {{ image(path="fls.webp", desc="Feelings", link="https://youtu.be/ebOIvS87YpM?t=493") }}
 {{ gallery_end() }}
 
-# **CHEER belongs in the open air rather than behind brick walls!**
+# **CHEER belongs under the clear sky rather than behind brick walls!**
 
 {{ gallery_start() }}
 {{ image(path="bnw.webp", desc="Beneath rainbow falls", link="https://www.youtube.com/shorts/0k9akNcmz0I") }}
