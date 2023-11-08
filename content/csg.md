@@ -7,7 +7,7 @@ categories = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 178 [cheer](@/cns.md) stunting skills (29 still missing).
+Snapshot collection of 180 [cheer](@/cns.md) stunting skills (29 still missing).
 
 <!-- more -->
 
