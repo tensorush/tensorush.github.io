@@ -1,10 +1,10 @@
 +++
-title = "Favourite Personal Blogs"
+title = "Favorite Personal Blogs"
 date = 2023-08-13
 
 [taxonomies]
 categories = ["table"]
-tags = ["favourite"]
+tags = ["favorite"]
 +++
 
 Personal blogs that I've been revisiting for quite a while now.

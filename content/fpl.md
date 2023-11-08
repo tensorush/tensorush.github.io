@@ -1,10 +1,10 @@
 +++
-title = "Favourite Programming Languages"
+title = "Favorite Programming Languages"
 date = 2023-08-12
 
 [taxonomies]
 categories = ["gallery"]
-tags = ["favourite"]
+tags = ["favorite"]
 +++
 
 [Software Engineer](https://tensorush.github.io/cv/en.pdf) hyped up about modern programming languages.

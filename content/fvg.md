@@ -1,10 +1,10 @@
 +++
-title = "Favourite Video Games"
+title = "Favorite Video Games"
 date = 2023-08-14
 
 [taxonomies]
 categories = ["gallery"]
-tags = ["favourite"]
+tags = ["favorite"]
 +++
 
 Video games that have left a mark on my teenage self.
