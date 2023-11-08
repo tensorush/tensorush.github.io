@@ -27,7 +27,7 @@ Fondu devlog #1.
 
 - SQL database: [SQLite](https://github.com/vrischmann/zig-sqlite)
 
-- Frontend: [Wasm API](https://github.com/thi-ng/umbrella/tree/develop/packages/wasm-api)
+- Frontend: [Umbrella](https://github.com/thi-ng/umbrella/tree/develop/packages/wasm-api)
 
 - Backend: [Zap](https://github.com/zigzap/zap)
 

@@ -11,7 +11,7 @@ Cheer is THE sport!
 
 <!-- more -->
 
-# **CHEER turns your body fit!**
+# **CHEER makes your body fit!**
 
 {{ gallery_start() }}
 {{ image(path="xpw.webp", desc="Explosive power", link="https://youtu.be/79vJ3IFdDTw?t=650") }}
@@ -91,7 +91,7 @@ Cheer is THE sport!
 {{ image(path="gbt.webp", desc="Giant belts", link="https://vsco.co/elizalabelle/media/653e671a5469ab631268b7cc") }}
 {{ gallery_end() }}
 
-# **CHEER makes you appreciate life by setting you up for near-death encounters!**
+# **CHEER teaches you to treasure life by setting you up for near-death encounters!**
 
 {{ gallery_start() }}
 {{ image(path="csh.webp", desc="Close shaves", link="https://youtu.be/SonOnjYRtHU?t=373") }}
@@ -99,7 +99,7 @@ Cheer is THE sport!
 {{ image(path="dln.webp", desc="Double knockouts", link="https://youtu.be/3ju2179PNC8?t=735") }}
 {{ gallery_end() }}
 
-# **CHEER teaches tracking your own progress instead of tricking your next opponent!**
+# **CHEER encourages tracking your own progress instead of tricking your next opponent!**
 
 {{ gallery_start() }}
 {{ image(path="nlz.webp", desc="Analyzing", link="https://youtu.be/FZ4A0nTEtkc?t=572") }}
