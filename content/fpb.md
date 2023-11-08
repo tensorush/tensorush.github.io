@@ -1,7 +1,15 @@
 +++
-title = "Blogs"
+title = "Favourite Personal Blogs"
 date = 2023-08-13
+
+[taxonomies]
+categories = ["table"]
+tags = ["favourite"]
 +++
+
+Personal blogs that I've been revisiting for quite a while now.
+
+<!-- more -->
 
 |                         Programmers                          |                             Scientists                              |                          Creatives                          |
 |:------------------------------------------------------------:|:-------------------------------------------------------------------:|:-----------------------------------------------------------:|

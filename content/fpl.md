@@ -1,9 +1,15 @@
 +++
-title = "About"
+title = "Favourite Programming Languages"
 date = 2023-08-12
+
+[taxonomies]
+categories = ["gallery"]
+tags = ["favourite"]
 +++
 
-[Software Engineer](https://tensorush.github.io/cv/en.pdf) hyped up about:
+[Software Engineer](https://tensorush.github.io/cv/en.pdf) hyped up about modern programming languages.
+
+<!-- more -->
 
 {{ gallery_start() }}
 {{ image(path="zgl.webp", desc="Zig", link="https://ziglang.org") }}
