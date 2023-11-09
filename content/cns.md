@@ -94,9 +94,9 @@ Cheer is THE sport!
 # **CHEER instills life appreciation by setting you up for near-death encounters!**
 
 {{ gallery_start() }}
-{{ image(path="csh.webp", desc="Close shaves", link="https://youtu.be/SonOnjYRtHU?t=373") }}
-{{ image(path="wtf.webp", desc="What the fluffs", link="https://youtu.be/Be-Sv_3gx5A?t=752") }}
 {{ image(path="dln.webp", desc="Double knockouts", link="https://youtu.be/3ju2179PNC8?t=735") }}
+{{ image(path="wtf.webp", desc="What the fluffs", link="https://youtu.be/Be-Sv_3gx5A?t=752") }}
+{{ image(path="csh.webp", desc="Close shaves", link="https://youtu.be/SonOnjYRtHU?t=373") }}
 {{ gallery_end() }}
 
 # **CHEER teaches tracking your own progress instead of tricking your next opponent!**
