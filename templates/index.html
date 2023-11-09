@@ -7,10 +7,10 @@
         {% if page %}
         <title>{{ page.title }}</title>
         {% else %}
-        <title>tensorush</title>
+        <title>{{config.title}}</title>
         {% endif %}
 
-        <meta name="author" content="Jora Troosh">
+        <meta name="author" content="{{config.author}}">
         <meta name="description" content="{{config.description}}">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 

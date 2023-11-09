@@ -7,7 +7,7 @@ categories = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 180 [cheer](@/cns.md) stunting skills (29 still missing).
+Snapshot collection of 181 [cheer](@/cns.md) stunting skills (24 still missing).
 
 <!-- more -->
 
@@ -113,7 +113,7 @@ Snapshot collection of 180 [cheer](@/cns.md) stunting skills (29 still missing).
 
 {{ gallery_start() }}
 {{ image(path="dmd.webp", desc="Diamidov", link="https://youtu.be/7HU_bauP2lI?t=302") }}
-{{ image(path="cwp.webp", desc="Corkscrew up", link="") }}
+{{ image(path="cwp.webp", desc="Corkscrew up", link="https://www.youtube.com/shorts/13IvKLgjlHU") }}
 {{ image(path="dsk.webp", desc="Diamski", link="https://www.youtube.com/shorts/bDCxmfi40ck") }}
 {{ image(path="dtd.webp", desc="Hand to hand", link="https://youtu.be/LV3RCD7S-GE?t=172") }}
 {{ image(path="stp.webp", desc="Split Up", link="https://youtu.be/HMBSWEz2l24?t=870") }}
@@ -191,8 +191,8 @@ Snapshot collection of 180 [cheer](@/cns.md) stunting skills (29 still missing).
 {{ image(path="shd.webp", desc="Side Hurdler", link="") }}
 {{ image(path="pkj.webp", desc="Pike", link="") }}
 {{ image(path="tth.webp", desc="Toe Touch", link="https://youtu.be/yCkaHsti5XI?t=5") }}
-{{ image(path="spg.webp", desc="Spread Eagle", link="") }}
-{{ image(path="fst.webp", desc="Front Split", link="") }}
+{{ image(path="spg.webp", desc="Spread Eagle", link="https://www.instagram.com/p/Cqu3vHHAM2b") }}
+{{ image(path="fst.webp", desc="Front Split", link="https://www.youtube.com/shorts/fncoC2Lhkqs") }}
 {{ image(path="sds.webp", desc="Side Split", link="https://www.instagram.com/p/CkeeOA0A4Fo") }}
 {{ image(path="rvs.webp", desc="Reverse Split", link="https://www.youtube.com/shorts/cxBuRNT1-Lg") }}
 {{ image(path="bft.webp", desc="Bird Front", link="https://www.youtube.com/shorts/6avCjWkWyjI") }}
@@ -236,7 +236,7 @@ Snapshot collection of 180 [cheer](@/cns.md) stunting skills (29 still missing).
 
 {{ gallery_start() }}
 {{ image(path="rpp.webp", desc="Ramp Up", link="https://www.tiktok.com/@eliza.labelle/video/7119831283844435246") }}
-{{ image(path="rdf.webp", desc="Round Off", link="") }}
+{{ image(path="rdf.webp", desc="Round Off", link="https://youtu.be/QHdNEeqFs5E?t=81") }}
 {{ image(path="cwl.webp", desc="Cartwheel", link="https://www.youtube.com/shorts/mC6yrsA0Ixk") }}
 {{ image(path="fdl.webp", desc="Forward Roll", link="https://youtu.be/RLbde7dYHkI?t=563") }}
 {{ image(path="bdl.webp", desc="Backward Roll", link="https://www.tiktok.com/@eliza.labelle/video/7117267996535557422") }}
@@ -247,7 +247,7 @@ Snapshot collection of 180 [cheer](@/cns.md) stunting skills (29 still missing).
 {{ image(path="fhs.webp", desc="Front Handspring", link="https://youtu.be/ebOIvS87YpM?t=621") }}
 {{ image(path="srl.webp", desc="Side Aerial", link="") }}
 {{ image(path="bhs.webp", desc="Back Handspring", link="https://youtu.be/LV3RCD7S-GE?t=455") }}
-{{ image(path="fwp.webp", desc="Front Whip", link="") }}
+{{ image(path="fwp.webp", desc="Front Whip", link="https://www.tiktok.com/@eliza.labelle/video/7058474018567146799") }}
 {{ image(path="ltt.webp", desc="Layout", link="") }}
 {{ image(path="bwp.webp", desc="Back Whip", link="https://www.youtube.com/shorts/EHGxbOI7mZQ") }}
 {{ image(path="phf.webp", desc="Punch Front", link="") }}
@@ -264,6 +264,7 @@ Snapshot collection of 180 [cheer](@/cns.md) stunting skills (29 still missing).
 {{ image(path="flt.webp", desc="Full", link="https://youtu.be/HMBSWEz2l24?t=230") }}
 {{ image(path="dlt.webp", desc="Double Full", link="https://youtu.be/3ju2179PNC8?t=715") }}
 {{ image(path="btk.webp", desc="Back Tuck", link="https://youtu.be/HMBSWEz2l24?t=174") }}
+{{ image(path="ttk.webp", desc="Twisting Tuck", link="https://www.youtube.com/shorts/go80S3ALk7U") }}
 {{ image(path="kkf.webp", desc="Kick Full", link="") }}
 {{ image(path="kkd.webp", desc="Kick Double", link="https://youtu.be/qcQLCrjkxCE?t=613") }}
 {{ image(path="kkt.webp", desc="Kick Triple", link="https://www.youtube.com/shorts/Nbn7gLS_RlE") }}
