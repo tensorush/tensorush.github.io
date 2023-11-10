@@ -7,11 +7,16 @@
     font-family: Menlo, monospace, sans-serif;
 }
 
+@media screen {
+    body {
+        margin: 0;
+    }
+}
+
 html {
     color: #ccc;
     margin: 1.75em 0;
     background-color: #222;
-    font-family: '', sans-serif;
 }
 
 body {
