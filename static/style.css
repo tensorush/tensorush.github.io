@@ -7,9 +7,15 @@
     font-family: Menlo, monospace, sans-serif;
 }
 
-@media screen {
-    body {
-        margin: 0;
+@media screen and (max-width: 768px) {
+    .grid {
+        -ms-flex-direction: column;
+        flex-direction: column
+    }
+
+    .cell {
+        -ms-flex: 0 0 auto;
+        flex: 0 0 auto
     }
 }
 
