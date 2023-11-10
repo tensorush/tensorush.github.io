@@ -34,7 +34,7 @@ h1:after {
     left: 0;
     bottom: 0;
     position: absolute;
-    content: "================================================================================";
+    content: "===========================================================================================================";
 }
 
 h2 {
@@ -81,7 +81,7 @@ ul {
 }
 
 table {
-    width: 770px;
+    width: 890px;
     margin: 10px 0;
     border-collapse: collapse;
 }
@@ -108,7 +108,7 @@ blockquote:after {
     white-space: pre;
     line-height: 15px;
     position: absolute;
-    content: ">\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>";
+    content: ">\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>";
 }
 
 hr {
@@ -122,9 +122,9 @@ hr {
 hr:after {
     top: 0;
     left: 0;
-    width: 780px;
+    width: 1000px;
     position: absolute;
-    content: "-----------------------------------------------------------------------------------";
+    content: "---------------------------------------------------------------------------------------------";
 }
 
 .date {
@@ -132,7 +132,7 @@ hr:after {
 }
 
 .image {
-    width: 280px;
+    width: 285px;
 }
 
 .figure {
@@ -146,8 +146,8 @@ hr:after {
 }
 
 .center-figure {
-    margin: 10px 0 0;
-    padding: 10px 0 0;
+    margin: 10px 30px 0;
+    padding: 10px 30px 0;
 }
 
 .center-image {
@@ -157,4 +157,5 @@ hr:after {
 .center-caption {
     font-weight: bold;
     text-align: center;
+    width: 770px;
 }

@@ -91,14 +91,6 @@ Cheer is THE sport!
 {{ image(path="gbt.webp", desc="Giant belts", link="https://vsco.co/elizalabelle/media/653e671a5469ab631268b7cc") }}
 {{ gallery_end() }}
 
-# **CHEER teaches tracking your progress instead of tricking your opponent!**
-
-{{ gallery_start() }}
-{{ image(path="nlz.webp", desc="Analyzing", link="https://youtu.be/FZ4A0nTEtkc?t=572") }}
-{{ image(path="clc.webp", desc="Calculating", link="https://youtu.be/jb-2RLIiq24?t=758") }}
-{{ image(path="mtv.webp", desc="Motivating", link="https://youtu.be/8NjlORymE2k?t=655") }}
-{{ gallery_end() }}
-
 # **CHEER instills life appreciation by setting you up for near-death encounters!**
 
 {{ gallery_start() }}
@@ -107,6 +99,14 @@ Cheer is THE sport!
 {{ image(path="csh.webp", desc="Close shaves", link="https://youtu.be/SonOnjYRtHU?t=373") }}
 {{ gallery_end() }}
 
+# **CHEER teaches tracking your own progress instead of tricking your next opponent!**
+
+{{ gallery_start() }}
+{{ image(path="nlz.webp", desc="Analyzing", link="https://youtu.be/FZ4A0nTEtkc?t=572") }}
+{{ image(path="clc.webp", desc="Calculating", link="https://youtu.be/jb-2RLIiq24?t=758") }}
+{{ image(path="mtv.webp", desc="Motivating", link="https://youtu.be/8NjlORymE2k?t=655") }}
+{{ gallery_end() }}
+
 # **CHEER is all about...**
 
-{{ center_image(path="dzl.webp", desc="... dazzling the audience by hitting awesome acro-gymnastic stunts while staying cute and having fun!", link="https://www.youtube.com/watch?v=eWA5Kc5153A") }}
+{{ center_image(path="dzl.webp", desc="... dazzling the audience by hitting awesome acro-gymnastic stunts in unison while staying cute and having fun!", link="https://www.youtube.com/watch?v=eWA5Kc5153A") }}
