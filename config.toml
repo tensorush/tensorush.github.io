@@ -1,5 +1,4 @@
 title = "tensorush"
-compile_sass = true
 generate_feed = true
 author = "Jora Troosh"
 base_url = "https://tensorush.github.io"

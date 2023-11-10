@@ -7,7 +7,7 @@ categories = ["gallery"]
 tags = ["favorite"]
 +++
 
-[Software Engineer](https://tensorush.github.io/cv/en.pdf) hyped up about modern programming languages.
+[Software Engineer](https://tensorush.github.io/cv/en.pdf) hyped about modern programming languages.
 
 <!-- more -->
 
