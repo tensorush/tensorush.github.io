@@ -1,6 +1,6 @@
 ﻿* {
     font-size: medium;
-    line-height: 17.5px;
+    line-height: 33px;
     box-sizing: border-box;
     text-rendering: geometricPrecision;
     font-family: Menlo, monospace, sans-serif;
@@ -8,14 +8,14 @@
 
 html {
     color: #ccc;
-    margin: 17.5px 0;
+    margin: 30px 0;
     background-color: #222;
 }
 
 body {
-    margin: 0 80px;
-    padding: 0 10px;
-    max-width: 500px;
+    margin: 0 100px;
+    padding: 0 50px;
+    max-width: 1000px;
 }
 
 strong {
@@ -24,7 +24,7 @@ strong {
 
 h1 {
     margin: 0;
-    padding: 10px 0;
+    padding: 15px 0;
     overflow: hidden;
     position: relative;
     display: table-cell;
@@ -39,7 +39,7 @@ h1:after {
 
 h2 {
     margin: 0;
-    padding: 5px 0 5px;
+    padding: 10px 0 10px;
 }
 
 p {
@@ -49,9 +49,11 @@ p {
 
 a {
     color: #ccc;
+    margin: 0 2px;
+    padding: 2px 0;
     cursor: pointer;
     text-decoration: none;
-    border-bottom: 1px solid #009e60;
+    border-bottom: 2px solid #009e60;
 }
 
 a:hover {
@@ -68,14 +70,14 @@ a[itemprop=url]:hover {
 }
 
 code {
-    margin: 17.5px;
-    line-height: 17.5px;
+    margin: 30px;
+    line-height: 30px;
 }
 
 ol,
 ul {
     margin: 0;
-    padding-left: 10px;
+    padding-left: 30px;
 }
 
 table {
@@ -86,16 +88,16 @@ table {
 
 table td,
 table th {
-    padding: 10px 10px;
+    padding: 5px 5px;
     vertical-align: top;
-    border: 10px solid #444;
+    border: 2px solid #444;
 }
 
 blockquote {
     margin: 0;
     color: #999;
     overflow: hidden;
-    padding-left: 10px;
+    padding-left: 18px;
     position: relative;
     font-style: italic;
 }
@@ -103,7 +105,7 @@ blockquote {
 blockquote:after {
     top: 0;
     left: 0;
-    line-height: 10px;
+    line-height: 15px;
     white-space: pre;
     position: absolute;
     content: ">\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>";
@@ -111,8 +113,8 @@ blockquote:after {
 
 hr {
     border: 0;
-    height: 10px;
-    margin: 10px 0;
+    height: 20px;
+    margin: 20px 0;
     overflow: hidden;
     position: relative;
 }
@@ -130,17 +132,17 @@ hr:after {
 }
 
 .image {
-    width: 180px;
+    width: 280px;
 }
 
 .figure {
-    margin: 5px 0 5px;
+    margin: 0;
     padding: 0;
 }
 
 .gallery {
     display: grid;
-    grid-template-columns: 200px 200px 200px;
+    grid-template-columns: 300px 300px 300px;
 }
 
 .center-image {
