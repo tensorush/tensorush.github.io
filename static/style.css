@@ -136,17 +136,21 @@ hr:after {
 }
 
 .figure {
-    margin: 0;
+    margin: -5px 0;
     padding: 0;
 }
 
-.gallery {
+.gallery-start {
     display: grid;
     grid-template-columns: 300px 300px 300px;
 }
 
+.gallery-end {
+    margin: -30px 0;
+}
+
 .center-figure {
-    margin: 10px 30px 0;
+    margin: 10px 30px -30px;
     padding: 10px 30px 0;
 }
 
