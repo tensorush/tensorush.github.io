@@ -1,22 +1,9 @@
 ﻿* {
     font-size: medium;
     line-height: 1.75em;
-    word-wrap: break-word;
     box-sizing: border-box;
     text-rendering: geometricPrecision;
     font-family: Menlo, monospace, sans-serif;
-}
-
-@media screen and (max-width: 768px) {
-    .grid {
-        -ms-flex-direction: column;
-        flex-direction: column
-    }
-
-    .cell {
-        -ms-flex: 0 0 auto;
-        flex: 0 0 auto
-    }
 }
 
 html {
