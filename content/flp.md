@@ -7,7 +7,7 @@ categories = ["poem"]
 tags = ["love"]
 +++
 
-Yep, I'm in love.
+Yep, I'm in love with her.
 
 <!-- more -->
 
@@ -29,7 +29,7 @@ Yep, I'm in love.
 
 ### **e**nhance nor harm her nature's gifts: no
 
-### **l**ip gloss, eye shadow, or hair dye, so
+### **l**ip gloss, eye shadows, or hair dye, so
 
 ### **l**ong as tears of love the tears of long
 
