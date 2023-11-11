@@ -21,7 +21,7 @@ Yep, I'm in love.
 
 ### **a**ngel's beloved eldest child.
 
-### **L**atina princess, rockstar boss blessed for
+### **L**atina goddess, rockstar queen blessed for
 
 ### **a**ll of time to look her best, and most
 
