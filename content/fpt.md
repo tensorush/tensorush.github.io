@@ -17,7 +17,7 @@ One of my places of worship. Instead of prayers, though, I say thank yous.
 
 # **To Clifford Paul Stoll...**
 
-{{ center_image(path="cps.webp", desc="... for giving the best TED talk. I didn't think one could bask so unapologetically in all of one's glorious nerdiness. I didn't think one could be so free. Thank you.", link="https://www.youtube.com/watch?v=Gj8IA6xOpSk") }}
+{{ center_image(path="cps.webp", desc="... for giving the best TED talk. I didn't think one could bask so unapologetically in all of one's glorious nerdiness. I could'nt imagine one being so free. Thank you.", link="https://www.youtube.com/watch?v=Gj8IA6xOpSk") }}
 
 # **To David Foster Wallace...**
 
