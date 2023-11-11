@@ -23,14 +23,14 @@ Yep, I'm in love.
 
 ### **L**atina princess, rockstar boss blessed for
 
-### **a**ll of time to look your best, and most
+### **a**ll of time to look her best, and most
 
 ### **B**eautiful. For nothing in the world could more
 
-### **e**nhance nor harm your nature's gifts: no
+### **e**nhance nor harm her nature's gifts: no
 
 ### **l**ip gloss, eye shadow, or hair dye, so
 
 ### **l**ong as tears of love the tears of long
 
-### **e**ndure and care to catch you in the rye.
+### **e**ndure and care to catch her in the rye.
