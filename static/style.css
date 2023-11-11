@@ -8,13 +8,12 @@
 
 html {
     color: #ccc;
-    margin: 30px 0;
+    margin: 15px 0;
     background-color: #222;
 }
 
 body {
-    margin: 0 100px;
-    padding: 0 50px;
+    margin: 0 80px;
     max-width: 1000px;
 }
 
