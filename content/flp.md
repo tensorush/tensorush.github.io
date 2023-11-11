@@ -7,7 +7,7 @@ categories = ["poem"]
 tags = ["love"]
 +++
 
-Yep, I'm in love with her.
+Yep, I'm in love.
 
 <!-- more -->
 
@@ -23,14 +23,14 @@ Yep, I'm in love with her.
 
 ### **L**atina princess, rockstar boss blessed for
 
-### **a**ll of time to look her best, and most
+### **a**ll of time to look your best, and most
 
-### **B**eautiful. With nothing in the world to more
+### **B**eautiful. For nothing in the world could more
 
-### **e**nhance or harm her nature's gifts: no
+### **e**nhance nor harm your nature's gifts: no
 
-### **l**ip gloss, eye shadow, or hair dye,
+### **l**ip gloss, eye shadow, or hair dye, so
 
-### **l**ess words of love the wears of long
+### **l**ong as tears of love the tears of long
 
-### **e**ndure and care to catch her in the rye.
+### **e**ndure and care to catch you in the rye.
