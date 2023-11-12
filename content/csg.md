@@ -48,21 +48,21 @@ Snapshot collection of 181 [cheer](@/cns.md) stunting skills (24 still missing).
 {{ image(path="rtn.webp", desc="Ryan Robertson", link="https://www.youtube.com/@ryanrobertson8889") }}
 {{ gallery_end() }}
 
-# Note to flyers:
+# **Note to flyers:**
 
-## 1) Stay fit and healthy.
+1) ## Stay fit and healthy.
 
-## 2) Keep your chin, chest and toes up.
+2) ## Keep your chin, chest and toes up.
 
-## 3) Keep your body straight and in line with the base.
+3) ## Keep your body straight and in line with the base.
 
-# Note to bases:
+# **Note to bases:**
 
-## 1) Always have a spotter.
+1) ## Always have a spotter.
 
-## 2) Keep your free hand on your hip.
+2) ## Keep your free hand on your hip.
 
-## 3) Make sure to switch to the non-dominant arm.
+3) ## Make sure to switch to the non-dominant arm.
 
 ## **Y'all be safe and have fun, happy stunting!**
 

@@ -11,14 +11,16 @@ Classification of software products.
 
 <!-- more -->
 
-> ## Business models:
-> - Don - donation
-> - Sub - subscription
-> - OTP - one-time payment
+> # Business models
 >
-> ## Distribution models:
-> - OTD - one-time download
-> - Sync - client-server synchronisation
+> - ## Don - donation
+> - ## Sub - subscription
+> - ## OTP - one-time payment
+>
+> # Distribution models
+>
+> - ## OTD - one-time download
+> - ## Sync - client-server synchronisation
 
 |   Product Type   |       Purpose Category       | Business Model  | Distribution Model |
 |:----------------:|:----------------------------:|:---------------:|:------------------:|

@@ -44,6 +44,7 @@ h2 {
 p {
     padding: 5px 0;
     margin: 0 0 5px;
+    text-indent: 30px;
 }
 
 a {
@@ -76,7 +77,24 @@ code {
 ol,
 ul {
     margin: 0;
-    padding-left: 25px;
+    padding-left: 30px;
+}
+
+ol {
+    counter-reset: list;
+}
+
+ol > li {
+    list-style: none;
+}
+
+ol > li:before {
+    counter-increment: list;
+    content: counter(list) ") ";
+}
+
+li > h2 {
+    display: inline-block;
 }
 
 table {
@@ -128,6 +146,7 @@ hr:after {
 
 .date {
     color: #999;
+    padding-left: 15px;
 }
 
 .image {
