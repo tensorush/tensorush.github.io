@@ -25,6 +25,6 @@ One of my places of worship. Instead of prayers, though, I say thank yous.
 
 # **To Randolph Frederick Pausch...**
 
-{{ center_image(path="rfp.webp", desc="... for giving my favorite lifetime speech. This one's a tough one. I don't think I could ever go through it without tearing up, both of hysterical laughter and of overwhelming emotion. Thank you.", link="https://www.youtube.com/watch?v=ji5_MqicxSo") }}
+{{ center_image(path="rfp.webp", desc="... for giving my favorite lifetime speech. This one's a tough one. I don't think I could ever go through it without tearing up, both from hysterical laughter and from overwhelming emotion. Thank you.", link="https://www.youtube.com/watch?v=ji5_MqicxSo") }}
 
 # **Thank you all for sharing your stories, and for living your lives to tell them.**
