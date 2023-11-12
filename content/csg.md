@@ -7,7 +7,7 @@ categories = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 181 [cheer](@/cns.md) stunting skills (24 still missing).
+Snapshot collection of 182 [cheer](@/cns.md) stunting skills (24 still missing).
 
 <!-- more -->
 
@@ -123,8 +123,9 @@ Snapshot collection of 181 [cheer](@/cns.md) stunting skills (24 still missing).
 {{ image(path="rbw.webp", desc="Rainbow", link="https://youtu.be/A1tjmd6sBxU?t=617") }}
 {{ image(path="fsd.webp", desc="Front Spread", link="https://www.youtube.com/shorts/RfXsbmoL3zY") }}
 {{ image(path="bsd.webp", desc="Back Spread", link="https://www.youtube.com/shorts/CbazH3PF1MU") }}
-{{ image(path="rrt.webp", desc="Handski Rocket Toss", link="https://youtu.be/hT_exv5X2_Q?t=702") }}
 {{ image(path="cts.webp", desc="Candle Toss", link="https://www.instagram.com/p/CgM5R6egU4_") }}
+{{ image(path="hrt.webp", desc="Handski Rocket Toss", link="https://youtu.be/hT_exv5X2_Q?t=702") }}
+{{ image(path="rrt.webp", desc="Reusable Rocket Toss", link="https://youtu.be/unErKUN0u5I?t=515") }}
 {{ gallery_end() }}
 
 # **Transitions - flyer moves from one grip to another**

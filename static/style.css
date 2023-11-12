@@ -69,11 +69,6 @@ a[itemprop=url]:hover {
     color: #fff;
 }
 
-code {
-    margin: 30px;
-    line-height: 30px;
-}
-
 ol,
 ul {
     margin: 0;
@@ -123,7 +118,7 @@ blockquote:after {
     top: 0;
     left: 0;
     white-space: pre;
-    line-height: 15px;
+    line-height: 40px;
     position: absolute;
     content: ">\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>";
 }
