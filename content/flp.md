@@ -15,7 +15,7 @@ Yep, I'm in love with her.
 
 ### **l**ow-key bearing world-champion
 
-### **i**ntellect and frame of mind,
+### **i**ntelligence and frame of mind,
 
 ### **z**ealous to keep on being kind,
 
@@ -29,8 +29,8 @@ Yep, I'm in love with her.
 
 ### **e**nhance nor harm her nature's gifts: no
 
-### **l**ip gloss, eye shadows, or hair dye, so
+### **l**ip gloss, eye shadows, nor hair dye, so
 
-### **l**ong as tears of love the tears of long
+### **l**ong as wears of love the tears of long
 
 ### **e**ndure and care to catch her in the rye.
