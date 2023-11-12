@@ -15,7 +15,7 @@ Snapshot collection of 182 [cheer](@/cns.md) stunting skills (24 still missing).
 
 {{ gallery_start() }}
 {{ image(path="lbl.webp", desc="Eliza LaBelle", link="https://www.youtube.com/@elizalabelle") }}
-{{ image(path="kbl.webp", desc="Kat Abela", link="https://www.youtube.com/@katabela") }}
+{{ image(path="kbl.webp", desc="Katherine Abela", link="https://www.youtube.com/@katabela") }}
 {{ image(path="pzk.webp", desc="Delaney Porazinski", link="https://www.tiktok.com/@delaney_porazinski") }}
 {{ image(path="brh.webp", desc="Bree Hays", link="https://www.instagram.com/bvc.bree") }}
 {{ image(path="btl.webp", desc="Gabi Butler", link="https://www.instagram.com/gabibutler1617") }}
@@ -25,7 +25,7 @@ Snapshot collection of 182 [cheer](@/cns.md) stunting skills (24 still missing).
 {{ image(path="cdl.webp", desc="Caylee Odle", link="https://www.youtube.com/@Its.ccaylee") }}
 {{ image(path="bmr.webp", desc="Brooke Emyre", link="https://www.instagram.com/brookeemyre") }}
 {{ image(path="bnt.webp", desc="Skylar Bennett", link="https://www.tiktok.com/@_boogie00") }}
-{{ image(path="mls.webp", desc="Alex Mathioulakis", link="https://www.instagram.com/alex_lee_xx") }}
+{{ image(path="mls.webp", desc="Alexandra Mathioulakis", link="https://www.instagram.com/alex_lee_xx") }}
 {{ image(path="jnn.webp", desc="Bonde Johnson", link="https://www.instagram.com/bondejohnson") }}
 {{ image(path="bsk.webp", desc="Daniel Buyeske", link="https://www.youtube.com/@danielbuyeske") }}
 {{ image(path="skn.webp", desc="Gauge Stricklin", link="https://www.youtube.com/@Strictlycheer") }}
