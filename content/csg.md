@@ -7,7 +7,7 @@ categories = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 186 [cheer](@/cns.md) stunting skills (25 still missing).
+Snapshot collection of 187 [cheer](@/cns.md) stunting skills (25 still missing).
 
 <!-- more -->
 
@@ -69,7 +69,7 @@ Snapshot collection of 186 [cheer](@/cns.md) stunting skills (25 still missing).
 # **Grips - base holds a flyer**
 
 {{ gallery_start() }}
-{{ image(path="tsp.webp", desc="Platform / Target", link="https://youtu.be/FZ4A0nTEtkc?t=107") }}
+{{ image(path="tsp.webp", desc="Platform / Target / Block", link="https://youtu.be/FZ4A0nTEtkc?t=107") }}
 {{ image(path="prp.webp", desc="Prep / Hands / Chest", link="https://youtu.be/FZ4A0nTEtkc?t=69") }}
 {{ image(path="xtn.webp", desc="Extension", link="https://youtu.be/9LaHx5fUn6s?t=750") }}
 {{ image(path="hsd.webp", desc="Handstand", link="https://youtu.be/DfFdPsbxVPQ?t=475") }}
@@ -247,17 +247,17 @@ Snapshot collection of 186 [cheer](@/cns.md) stunting skills (25 still missing).
 {{ image(path="bdl.webp", desc="Backward Roll", link="https://www.tiktok.com/@eliza.labelle/video/7117267996535557422") }}
 {{ image(path="dvl.webp", desc="Dive Roll", link="https://www.youtube.com/shorts/cxBuRNT1-Lg") }}
 {{ image(path="fwv.webp", desc="Front Walkover", link="https://www.tiktok.com/@eliza.labelle/video/7110741656411868462") }}
-{{ image(path="frl.webp", desc="Front Aerial", link="") }}
 {{ image(path="bwv.webp", desc="Back Walkover", link="") }}
+{{ image(path="frl.webp", desc="Front Aerial", link="") }}
 {{ image(path="fhs.webp", desc="Front Handspring", link="https://youtu.be/ebOIvS87YpM?t=621") }}
-{{ image(path="srl.webp", desc="Side Aerial", link="") }}
 {{ image(path="bhs.webp", desc="Back Handspring", link="https://youtu.be/LV3RCD7S-GE?t=455") }}
+{{ image(path="srl.webp", desc="Side Aerial", link="") }}
 {{ image(path="fwp.webp", desc="Front Whip", link="https://www.tiktok.com/@eliza.labelle/video/7058474018567146799") }}
-{{ image(path="ltt.webp", desc="Layout", link="") }}
 {{ image(path="bwp.webp", desc="Back Whip", link="https://www.youtube.com/shorts/EHGxbOI7mZQ") }}
+{{ image(path="ltt.webp", desc="Layout", link="") }}
 {{ image(path="phf.webp", desc="Punch Front", link="") }}
-{{ image(path="rbn.webp", desc="Arabian", link="") }}
 {{ image(path="phb.webp", desc="Punch Back", link="") }}
+{{ image(path="rbn.webp", desc="Arabian", link="") }}
 {{ image(path="fts.webp", desc="Full", link="https://www.tiktok.com/@eliza.labelle/video/7164782856630340910") }}
 {{ image(path="dts.webp", desc="Double Full", link="") }}
 {{ gallery_end() }}
@@ -293,11 +293,17 @@ Snapshot collection of 186 [cheer](@/cns.md) stunting skills (25 still missing).
 {{ image(path="bdn.webp", desc="Bondan", link="https://youtu.be/qjbRUuxKr3Q?t=552") }}
 {{ image(path="tjn.webp", desc="Johnson", link="https://youtu.be/vUINVgnZBAQ?t=851") }}
 {{ image(path="mtl.webp", desc="Immediate Lib", link="https://youtu.be/HMBSWEz2l24?t=316") }}
-{{ image(path="mgr.webp", desc="Merry-go-round", link="https://youtu.be/eVhUyqQIjbY?t=1212") }}
+{{ image(path="mth.webp", desc="Immediate Torch", link="https://youtu.be/Be-Sv_3gx5A?t=494") }}
 {{ image(path="mts.webp", desc="Immediate Stretch", link="https://youtu.be/cyGMvoUV01Y?t=1295") }}
 {{ image(path="pts.webp", desc="Opposite Spin", link="https://youtu.be/7HU_bauP2lI?t=451") }}
 {{ image(path="msw.webp", desc="Opposite Arm", link="https://youtu.be/LV3RCD7S-GE?t=903") }}
 {{ image(path="ptl.webp", desc="Opposite Leg", link="https://youtu.be/LV3RCD7S-GE?t=225") }}
+{{ image(path="nrm.webp", desc="One Arm", link="https://youtu.be/REmmtNLAF7Q?t=150") }}
+{{ image(path="mgr.webp", desc="Merry-go-round", link="https://youtu.be/eVhUyqQIjbY?t=1212") }}
+{{ image(path="nlg.webp", desc="One Leg", link="https://youtu.be/Pp5O3fj7Pbc?t=763") }}
+{{ image(path="nfd.webp", desc="No Flick Dead Toss", link="https://www.youtube.com/shorts/dfQk0g-JVy4") }}
+{{ image(path="ndd.webp", desc="No Dip Dead Toss", link="https://youtu.be/ApTsZwIDYLU?t=473") }}
+{{ image(path="nnd.webp", desc="No Nothing Dead Toss", link="https://youtu.be/6Kg652x0R9Y?t=160") }}
 {{ image(path="lts.webp", desc="Low Toss", link="https://youtu.be/CDZ0CePSQ40?t=588") }}
 {{ image(path="vts.webp", desc="Hover Toss", link="https://youtu.be/SonOnjYRtHU?t=1135") }}
 {{ image(path="hts.webp", desc="High Toss", link="https://youtu.be/vUINVgnZBAQ?t=557") }}
@@ -310,9 +316,4 @@ Snapshot collection of 186 [cheer](@/cns.md) stunting skills (25 still missing).
 {{ image(path="wcs.webp", desc="With Claps", link="https://youtu.be/kho1vUX_cpg?t=49") }}
 {{ image(path="bbs.webp", desc="Above Brows", link="https://youtu.be/Be-Sv_3gx5A?t=894") }}
 {{ image(path="wws.webp", desc="With Weights", link="https://youtu.be/ND_VqTi_790?t=980") }}
-{{ image(path="nfd.webp", desc="No Flick Dead Toss", link="https://www.youtube.com/shorts/dfQk0g-JVy4") }}
-{{ image(path="ndd.webp", desc="No Dip Dead Toss", link="https://youtu.be/ApTsZwIDYLU?t=473") }}
-{{ image(path="nnd.webp", desc="No Nothing Dead Toss", link="https://youtu.be/6Kg652x0R9Y?t=160") }}
-{{ image(path="nrm.webp", desc="One Arm", link="https://youtu.be/REmmtNLAF7Q?t=150") }}
-{{ image(path="nlg.webp", desc="One Leg", link="https://youtu.be/Pp5O3fj7Pbc?t=763") }}
 {{ gallery_end() }}
