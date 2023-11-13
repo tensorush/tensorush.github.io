@@ -7,7 +7,7 @@ forms = ["gallery"]
 themes = ["cheer"]
 +++
 
-Snapshot collection of 192 [cheer](@/cns.md) stunting skills (22 still missing).
+Snapshot collection of 193 [cheer](@/cns.md) stunting skills (22 still missing).
 
 <!-- more -->
 
@@ -173,10 +173,11 @@ Snapshot collection of 192 [cheer](@/cns.md) stunting skills (22 still missing).
 {{ image(path="wkt.webp", desc="Walk Out", link="https://youtu.be/LV3RCD7S-GE?t=24") }}
 {{ image(path="stt.webp", desc="Sexy Set Out", link="https://youtu.be/WBMVkXf3oBU?t=755") }}
 {{ image(path="bsp.webp", desc="Back Spread Drop", link="https://www.youtube.com/shorts/a0-mRBEEBXk") }}
-{{ image(path="ddn.webp", desc="Diamidown", link="https://www.instagram.com/p/CfjkZJwjzCO") }}
+{{ image(path="spf.webp", desc="Spin Off", link="https://www.youtube.com/shorts/C2Zd8iYmDdM") }}
 {{ image(path="fdn.webp", desc="Full Down", link="") }}
 {{ image(path="tdn.webp", desc="Twist Down", link="https://www.youtube.com/shorts/B5OVmWPtjII") }}
 {{ image(path="dln.webp", desc="Double Down", link="https://youtu.be/kOSlKw79qdA?t=578") }}
+{{ image(path="ddn.webp", desc="Diamidown", link="https://www.instagram.com/p/CfjkZJwjzCO") }}
 {{ gallery_end() }}
 
 # **Poses - flyer hits a pose at the top**
@@ -328,3 +329,5 @@ Snapshot collection of 192 [cheer](@/cns.md) stunting skills (22 still missing).
 {{ image(path="bbs.webp", desc="Above Brows", link="https://youtu.be/Be-Sv_3gx5A?t=894") }}
 {{ image(path="wws.webp", desc="With Weights", link="https://youtu.be/ND_VqTi_790?t=980") }}
 {{ gallery_end() }}
+
+<!-- {{ image(path="mts.webp", desc="Immediate Arabesque", link="https://www.youtube.com/shorts/MWDPzFVQrfI") }} -->
