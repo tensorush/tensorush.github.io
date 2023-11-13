@@ -123,9 +123,9 @@ Snapshot collection of 191 [cheer](@/cns.md) stunting skills (23 still missing).
 
 {{ gallery_start() }}
 {{ image(path="dmd.webp", desc="Diamidov", link="https://youtu.be/7HU_bauP2lI?t=302") }}
-{{ image(path="cwp.webp", desc="Corkscrew up", link="https://www.tiktok.com/@cj_wino/video/7158550971029769514") }}
+{{ image(path="cwp.webp", desc="Corkscrew Up", link="https://www.tiktok.com/@cj_wino/video/7158550971029769514") }}
 {{ image(path="dsk.webp", desc="Diamski", link="https://www.youtube.com/shorts/bDCxmfi40ck") }}
-{{ image(path="dtd.webp", desc="Hand to hand", link="https://youtu.be/LV3RCD7S-GE?t=172") }}
+{{ image(path="dtd.webp", desc="Hand to Hand", link="https://youtu.be/LV3RCD7S-GE?t=172") }}
 {{ image(path="stp.webp", desc="Split Up", link="https://youtu.be/HMBSWEz2l24?t=870") }}
 {{ image(path="cnb.webp", desc="Cannonball", link="https://youtu.be/ey00mPkhMCs?t=680") }}
 {{ image(path="swp.webp", desc="Swing Up", link="https://youtu.be/_qJulETphrI?t=175") }}
