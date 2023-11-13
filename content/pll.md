@@ -3,8 +3,8 @@ title = "Programming Language Landscape"
 date = 2023-08-27
 
 [taxonomies]
-categories = ["list"]
-tags = ["software", "future"]
+forms = ["list"]
+themes = ["software", "future"]
 +++
 
 Domain-wide shifts of the programming language landscape.

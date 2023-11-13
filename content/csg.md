@@ -3,8 +3,8 @@ title = "Cheer Stunting Gallery"
 date = 2023-10-15
 
 [taxonomies]
-categories = ["gallery"]
-tags = ["cheer"]
+forms = ["gallery"]
+themes = ["cheer"]
 +++
 
 Snapshot collection of 191 [cheer](@/cns.md) stunting skills (23 still missing).

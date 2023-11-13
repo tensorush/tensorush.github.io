@@ -4,8 +4,8 @@ date = 2023-11-11
 draft = true
 
 [taxonomies]
-categories = ["poem"]
-tags = ["love"]
+forms = ["poem"]
+themes = ["love"]
 +++
 
 Yep, I'm in love with her.

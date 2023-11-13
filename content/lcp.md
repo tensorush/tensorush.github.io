@@ -3,8 +3,8 @@ title = "Lasting Occupational Pursuits"
 date = 2023-10-07
 
 [taxonomies]
-categories = ["list"]
-tags = ["future"]
+forms = ["list"]
+themes = ["future"]
 +++
 
 Professions that are bound to last the longest.

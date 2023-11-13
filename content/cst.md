@@ -3,8 +3,8 @@ title = "Cloud Service Types"
 date = 2023-09-21
 
 [taxonomies]
-categories = ["table"]
-tags = ["software"]
+forms = ["table"]
+themes = ["software"]
 +++
 
 Classification of cloud services.

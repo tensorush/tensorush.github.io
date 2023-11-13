@@ -3,8 +3,8 @@ title = "Zig Style Guide"
 date = 2023-10-27
 
 [taxonomies]
-categories = ["table"]
-tags = ["ziglang", "software"]
+forms = ["table"]
+themes = ["ziglang", "software"]
 +++
 
 Very opinionated extension to the [Zig style guide](https://ziglang.org/documentation/master/#Style-Guide).

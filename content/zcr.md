@@ -4,8 +4,8 @@ date = 2023-11-12
 draft = true
 
 [taxonomies]
-categories = ["code"]
-tags = ["ziglang", "software"]
+forms = ["code"]
+themes = ["ziglang", "software"]
 +++
 
 Minimal snippet reviews of Zig code.

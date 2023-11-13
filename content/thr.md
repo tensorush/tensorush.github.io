@@ -3,8 +3,8 @@ title = "Thoughts Have Reality"
 date = 2023-08-26
 
 [taxonomies]
-categories = ["list"]
-tags = ["mind"]
+forms = ["list"]
+themes = ["mind"]
 +++
 
 Every thought has an immediate and persistent influence on your mind.

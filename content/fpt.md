@@ -3,8 +3,8 @@ title = "Favorite Public Talks"
 date = 2023-08-15
 
 [taxonomies]
-categories = ["gallery"]
-tags = ["favorite"]
+forms = ["gallery"]
+themes = ["favorite"]
 +++
 
 One of my places of worship. Instead of prayers, though, I say thank yous.

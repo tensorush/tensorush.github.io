@@ -3,8 +3,8 @@ title = "Computational Social Order"
 date = 2023-08-16
 
 [taxonomies]
-categories = ["list"]
-tags = ["future", "software"]
+forms = ["list"]
+themes = ["future", "software"]
 +++
 
 Disruptive tech that will shape the computational future of social order.

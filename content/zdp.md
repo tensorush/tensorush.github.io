@@ -3,8 +3,8 @@ title = "Zig Design Patterns"
 date = 2023-09-14
 
 [taxonomies]
-categories = ["list"]
-tags = ["ziglang", "software"]
+forms = ["list"]
+themes = ["ziglang", "software"]
 +++
 
 Program design patterns from the [Zig standard library](https://ziglang.org/documentation/master/std).
