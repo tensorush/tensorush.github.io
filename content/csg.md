@@ -7,7 +7,7 @@ forms = ["gallery"]
 themes = ["cheer"]
 +++
 
-Snapshot collection of 191 [cheer](@/cns.md) stunting skills (23 still missing).
+Snapshot collection of 192 [cheer](@/cns.md) stunting skills (22 still missing).
 
 <!-- more -->
 
@@ -85,16 +85,17 @@ Snapshot collection of 191 [cheer](@/cns.md) stunting skills (23 still missing).
 {{ image(path="rhs.webp", desc="Reverse Handski", link="") }}
 {{ image(path="pdd.webp", desc="Upside Down", link="https://youtu.be/Vsq-m_Rd7Zk?t=726") }}
 {{ image(path="gvt.webp", desc="Gravity", link="https://www.youtube.com/shorts/5PSboWckPbc") }}
-{{ image(path="rvg.webp", desc="Front Gravity", link="https://youtu.be/3ju2179PNC8?t=273") }}
-{{ image(path="srr.webp", desc="Star", link="https://www.instagram.com/p/CewuvsKJMnr") }}
+{{ image(path="ftg.webp", desc="Front Gravity", link="https://youtu.be/3ju2179PNC8?t=273") }}
+{{ image(path="rvg.webp", desc="Reverse Gravity", link="https://www.youtube.com/shorts/NHeg8cdPSpo") }}
 {{ image(path="ssd.webp", desc="Shoulder Stand", link="https://youtu.be/SonOnjYRtHU?t=281") }}
 {{ image(path="sst.webp", desc="Shoulder Sit", link="https://youtu.be/ApTsZwIDYLU?t=111") }}
 {{ image(path="srt.webp", desc="Shoulder Rest", link="https://www.youtube.com/shorts/B5OVmWPtjII") }}
 {{ image(path="gsd.webp", desc="Genie Stand", link="https://youtu.be/RLbde7dYHkI?t=167") }}
 {{ image(path="gst.webp", desc="Genie Sit", link="https://www.youtube.com/shorts/CMK7YeHJ8Mw") }}
-{{ image(path="crl.webp", desc="Cradle", link="https://youtu.be/WBMVkXf3oBU?t=752") }}
+{{ image(path="srr.webp", desc="Star", link="https://www.instagram.com/p/CewuvsKJMnr") }}
 {{ image(path="vsr.webp", desc="Visor", link="https://youtu.be/RLbde7dYHkI?t=235") }}
 {{ image(path="dlv.webp", desc="Double Visor", link="https://youtu.be/7HU_bauP2lI?t=601") }}
+{{ image(path="crl.webp", desc="Cradle", link="https://youtu.be/WBMVkXf3oBU?t=752") }}
 {{ image(path="hmb.webp", desc="Hold My Beer", link="https://www.instagram.com/p/B6Yi2hFFHj6") }}
 {{ gallery_end() }}
 
@@ -216,9 +217,9 @@ Snapshot collection of 191 [cheer](@/cns.md) stunting skills (23 still missing).
 {{ image(path="flp.webp", desc="Full Up", link="https://youtu.be/8NjlORymE2k?t=702") }}
 {{ image(path="dlp.webp", desc="Double Up", link="https://youtu.be/vUINVgnZBAQ?t=424") }}
 {{ image(path="tpp.webp", desc="Triple Up", link="https://www.youtube.com/shorts/UeR4EAB5H9Y") }}
-{{ image(path="bfp.webp", desc="Back Full Up", link="") }}
-{{ image(path="bdp.webp", desc="Back Double Up", link="https://youtu.be/cyGMvoUV01Y?t=1184") }}
 {{ image(path="fnh.webp", desc="Front One and a Half Up", link="https://youtu.be/cyGMvoUV01Y?t=1317") }}
+{{ image(path="bfp.webp", desc="Back Full Up", link="https://www.youtube.com/shorts/buv9M2yegFA") }}
+{{ image(path="bdp.webp", desc="Back Double Up", link="https://youtu.be/cyGMvoUV01Y?t=1184") }}
 {{ image(path="hfd.webp", desc="Half Around", link="https://www.instagram.com/p/B8iaMPjFCPm") }}
 {{ image(path="fld.webp", desc="Full Around", link="https://youtu.be/LV3RCD7S-GE?t=314") }}
 {{ image(path="nnh.webp", desc="One and a Half Around", link="https://youtu.be/u1x7tgvlO3M?t=523") }}
