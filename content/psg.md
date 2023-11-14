@@ -81,4 +81,4 @@ Stay away from the wrong crowd. Bad social influence is hard enough to recognize
 
 - ## **Remain Formidable Despite the Fortunes**
 
-Predict the future as far out as possible, but always be ready for a sudden turn of events. Prepare yourself in advance to make sure no potential circumstance can knock you off balance. Value what you've achieved, but don't let it define your next step. Lastly, just like reflecting on every down, remember to celebrate every up, too.
+Predict the future as far out as possible, but always be ready for a sudden turn of events. Prepare yourself in advance to make sure no potential circumstance can knock you off balance. Value what you've achieved, but don't let it define your next step. Lastly, just like remembering to reflect on every down, don't forget to celebrate every up, too.
