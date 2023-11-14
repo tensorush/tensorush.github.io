@@ -1,7 +1,6 @@
 +++
-title = "First Love Poem"
+title = "Not Creepy at All"
 date = 2023-11-11
-draft = true
 
 [taxonomies]
 forms = ["poem"]

@@ -148,6 +148,10 @@ hr:after {
     width: 285px;
 }
 
+.caption {
+    padding-left: 5px;
+}
+
 .figure {
     margin: -5px 0;
     padding: 0;
