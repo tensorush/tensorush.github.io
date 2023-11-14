@@ -13,9 +13,9 @@ Contrary to common thinking life is actually a win-win game.
 
 What about entropy, though? The steady universal increase of chaos is a physical law, right? Wrong!
 
-While it is true that entropy is increasing overall and uniformly across the Universe, that doesn't mean it can't decrease here and there once in while!
+While it is true that entropy is increasing overall across the Universe, that doesn't mean it can't drop here and there once in while!
 
-Similarly, you can scratch your first intuition of a human life being a negative or zero-sum game and enjoy a little happiness harvesting negative entropy in this flying pocket of space-time we call Earth!
+Similarly, you can scratch your first intuition of a human life being a negative or zero-sum game and enjoy yourself harvesting negative entropy on this rocky ripple in space-time we call Earth!
 
 <!-- The Fool vs The World -->
 
