@@ -7,7 +7,7 @@ forms = ["gallery"]
 themes = ["cheer"]
 +++
 
-Snapshot collection of 196 [cheer](@/cns.md) stunting skills (22 still missing).
+Snapshot collection of 205 [cheer](@/cns.md) stunting skills (22 still missing).
 
 <!-- more -->
 
@@ -221,15 +221,16 @@ Snapshot collection of 196 [cheer](@/cns.md) stunting skills (22 still missing).
 {{ image(path="fnh.webp", desc="Front One and a Half Up", link="https://youtu.be/cyGMvoUV01Y?t=1317") }}
 {{ image(path="bfp.webp", desc="Back Full Up", link="https://www.youtube.com/shorts/buv9M2yegFA") }}
 {{ image(path="bdp.webp", desc="Back Double Up", link="https://youtu.be/cyGMvoUV01Y?t=1184") }}
-{{ image(path="hfd.webp", desc="Half Around", link="https://www.instagram.com/p/B8iaMPjFCPm") }}
 {{ image(path="fld.webp", desc="Full Around", link="https://youtu.be/LV3RCD7S-GE?t=314") }}
 {{ image(path="nnh.webp", desc="One and a Half Around", link="https://youtu.be/u1x7tgvlO3M?t=523") }}
 {{ image(path="dld.webp", desc="Double Around", link="https://youtu.be/emFxJWjvFGQ?t=648") }}
-{{ image(path="hdd.webp", desc="Handski Around", link="https://www.youtube.com/shorts/4sAQu4PxQOA") }}
-{{ image(path="rtw.webp", desc="Around the World", link="https://youtu.be/hw7tZkE-dHk?t=356") }}
+{{ image(path="hfd.webp", desc="Half Around", link="https://www.instagram.com/p/B8iaMPjFCPm") }}
+{{ image(path="hdd.webp", desc="Handstand Around", link="https://www.youtube.com/shorts/OZg9lVFwJQU") }}
+{{ image(path="hkd.webp", desc="Handski Around", link="https://www.youtube.com/shorts/4sAQu4PxQOA") }}
 {{ image(path="hcr.webp", desc="Helicopter", link="https://www.youtube.com/shorts/mC6yrsA0Ixk") }}
 {{ image(path="sfh.webp", desc="Starfish", link="https://www.youtube.com/shorts/8ufJn_pcaUw") }}
 {{ image(path="ssm.webp", desc="Side Sumi", link="https://www.youtube.com/shorts/p2XVKhJH3Aw") }}
+{{ image(path="rtw.webp", desc="Around the World", link="https://youtu.be/hw7tZkE-dHk?t=356") }}
 {{ gallery_end() }}
 
 # **Flips - flyer performs a flip in the air**
@@ -307,30 +308,36 @@ Snapshot collection of 196 [cheer](@/cns.md) stunting skills (22 still missing).
 {{ image(path="mtl.webp", desc="Immediate Lib", link="https://youtu.be/HMBSWEz2l24?t=316") }}
 {{ image(path="mth.webp", desc="Immediate Torch", link="https://youtu.be/Be-Sv_3gx5A?t=494") }}
 {{ image(path="mts.webp", desc="Immediate Stretch", link="https://youtu.be/cyGMvoUV01Y?t=1295") }}
-{{ image(path="pts.webp", desc="Opposite Spin", link="https://youtu.be/7HU_bauP2lI?t=451") }}
-{{ image(path="msw.webp", desc="Opposite Arm", link="https://youtu.be/LV3RCD7S-GE?t=903") }}
-{{ image(path="ptl.webp", desc="Opposite Leg", link="https://youtu.be/LV3RCD7S-GE?t=225") }}
+{{ image(path="mbq.webp", desc="Immediate Arabesque", link="https://www.youtube.com/shorts/MWDPzFVQrfI") }}
+{{ image(path="cjt.webp", desc="CJ Turnaround", link="https://www.tiktok.com/@cj_wino/video/7103568884883672366") }}
+{{ image(path="msh.webp", desc="Arm Switch", link="https://www.instagram.com/p/Cgh1EzEuUMa") }}
 {{ image(path="nrm.webp", desc="One Arm", link="https://youtu.be/REmmtNLAF7Q?t=150") }}
 {{ image(path="mgr.webp", desc="Merry-go-round", link="https://youtu.be/eVhUyqQIjbY?t=1212") }}
 {{ image(path="nlg.webp", desc="One Leg", link="https://youtu.be/Pp5O3fj7Pbc?t=763") }}
-{{ image(path="nfd.webp", desc="No Flick Dead Toss", link="https://www.youtube.com/shorts/dfQk0g-JVy4") }}
-{{ image(path="ndd.webp", desc="No Dip Dead Toss", link="https://youtu.be/ApTsZwIDYLU?t=473") }}
-{{ image(path="nnd.webp", desc="No Nothing Dead Toss", link="https://youtu.be/6Kg652x0R9Y?t=160") }}
+{{ image(path="pts.webp", desc="Opposite Spin", link="https://youtu.be/7HU_bauP2lI?t=451") }}
+{{ image(path="msw.webp", desc="Opposite Arm", link="https://youtu.be/LV3RCD7S-GE?t=903") }}
+{{ image(path="ptl.webp", desc="Opposite Leg", link="https://youtu.be/LV3RCD7S-GE?t=225") }}
+{{ image(path="dbt.webp", desc="Double Tap", link="https://youtu.be/UnSqDsi_6lE?t=156") }}
+{{ image(path="dbs.webp", desc="Double Toss", link="https://youtu.be/9LaHx5fUn6s?t=488") }}
+{{ image(path="dbp.webp", desc="Double Press", link="https://youtu.be/79vJ3IFdDTw?t=650") }}
+{{ image(path="gsp.webp", desc="Game of Spin or No Spin", link="https://youtu.be/UUqlTCC0Pq4?t=237") }}
+{{ image(path="gnv.webp", desc="Game of Never Have I Ever", link="https://youtu.be/SonOnjYRtHU?t=34") }}
+{{ image(path="gsn.webp", desc="Game of STUNT", link="https://www.youtube.com/watch?v=O1Qprxej888") }}
 {{ image(path="lts.webp", desc="Low Toss", link="https://youtu.be/CDZ0CePSQ40?t=588") }}
 {{ image(path="vts.webp", desc="Hover Toss", link="https://youtu.be/SonOnjYRtHU?t=1135") }}
 {{ image(path="hts.webp", desc="High Toss", link="https://youtu.be/vUINVgnZBAQ?t=557") }}
-{{ image(path="bts.webp", desc="Base Toss", link="https://youtu.be/UnSqDsi_6lE?t=657") }}
+{{ image(path="spt.webp", desc="Spotter Toss", link="https://youtu.be/UnSqDsi_6lE?t=657") }}
 {{ image(path="tfs.webp", desc="Toss Fists", link="https://youtu.be/7HU_bauP2lI?t=617") }}
-{{ image(path="msh.webp", desc="Arm Switch", link="https://www.instagram.com/p/Cgh1EzEuUMa") }}
+{{ image(path="bts.webp", desc="Blind Toss", link="https://youtu.be/u1x7tgvlO3M?t=479") }}
 {{ image(path="ntg.webp", desc="No Tag", link="https://youtu.be/Be-Sv_3gx5A?t=129") }}
 {{ image(path="nlk.webp", desc="No Look", link="https://youtu.be/ApTsZwIDYLU?t=425") }}
 {{ image(path="nsp.webp", desc="No Step", link="https://youtu.be/HMBSWEz2l24?t=463") }}
+{{ image(path="nfd.webp", desc="No Flick Dead Toss", link="https://www.youtube.com/shorts/dfQk0g-JVy4") }}
+{{ image(path="ndd.webp", desc="No Dip Dead Toss", link="https://youtu.be/ApTsZwIDYLU?t=473") }}
+{{ image(path="nnd.webp", desc="No Nothing Dead Toss", link="https://youtu.be/6Kg652x0R9Y?t=160") }}
 {{ image(path="wcs.webp", desc="With Claps", link="https://youtu.be/kho1vUX_cpg?t=49") }}
 {{ image(path="bbs.webp", desc="Above Brows", link="https://youtu.be/Be-Sv_3gx5A?t=894") }}
 {{ image(path="wws.webp", desc="With Weights", link="https://youtu.be/ND_VqTi_790?t=980") }}
-{{ image(path="gsp.webp", desc="Game of Spin or No Spin", link="https://youtu.be/UUqlTCC0Pq4?t=237") }}
-{{ image(path="gnv.webp", desc="Game of Never Have I Ever", link="https://youtu.be/SonOnjYRtHU?t=34") }}
-{{ image(path="gsn.webp", desc="Game of S.T.U.N.T.", link="https://www.youtube.com/watch?v=O1Qprxej888") }}
+{{ image(path="wts.webp", desc="Wipe the Shoes", link="https://www.youtube.com/shorts/MFTrfQEe6UQ") }}
+{{ image(path="dtn.webp", desc="Dust the Knees", link="https://youtu.be/FZ4A0nTEtkc?t=65") }}
 {{ gallery_end() }}
-
-<!-- {{ image(path="mts.webp", desc="Immediate Arabesque", link="https://www.youtube.com/shorts/MWDPzFVQrfI") }} -->
