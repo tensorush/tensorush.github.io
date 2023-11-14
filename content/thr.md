@@ -11,7 +11,7 @@ Every thought has an immediate and persistent influence on your mind.
 
 <!-- more -->
 
-- ## God / Love / Purpose
+- ## **God / Love / Purpose**
 
 God is anything that compels you to overcome yourself.
 
@@ -19,7 +19,7 @@ Love always has that effect.
 
 It is your purpose.
 
-- ## Universe / Observer / Computation
+- ## **Universe / Observer / Computation**
 
 Like any other system of confined interacting elements, the Universe computes and is computable.
 
