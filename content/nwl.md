@@ -1,5 +1,5 @@
 +++
-title = "Not Creepy at All"
+title = "Not Weird at All"
 date = 2023-11-11
 
 [taxonomies]
