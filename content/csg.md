@@ -7,7 +7,7 @@ forms = ["gallery"]
 themes = ["cheer"]
 +++
 
-Snapshot collection of 193 [cheer](@/cns.md) stunting skills (22 still missing).
+Snapshot collection of 196 [cheer](@/cns.md) stunting skills (22 still missing).
 
 <!-- more -->
 
@@ -70,7 +70,7 @@ Snapshot collection of 193 [cheer](@/cns.md) stunting skills (22 still missing).
 
 3) ## Make sure to switch to the non-dominant arm.
 
-## **Y'all be safe and have fun, happy stunting!**
+## **Y'all stay safe and have fun, happy stunting!**
 
 # **Grips - base holds a flyer**
 
@@ -301,9 +301,9 @@ Snapshot collection of 193 [cheer](@/cns.md) stunting skills (22 still missing).
 # **Extras - stunts turn extra hard**
 
 {{ gallery_start() }}
-{{ image(path="tbk.webp", desc="Buyeske", link="https://youtu.be/vmu1ZInhbjw?t=207") }}
-{{ image(path="bdn.webp", desc="Bondan", link="https://youtu.be/qjbRUuxKr3Q?t=552") }}
-{{ image(path="tjn.webp", desc="Johnson", link="https://youtu.be/vUINVgnZBAQ?t=851") }}
+{{ image(path="tbk.webp", desc="Buyeske Spin", link="https://youtu.be/vmu1ZInhbjw?t=207") }}
+{{ image(path="bdn.webp", desc="Bondan Grip", link="https://youtu.be/qjbRUuxKr3Q?t=552") }}
+{{ image(path="tjn.webp", desc="Johnson Tuck", link="https://youtu.be/vUINVgnZBAQ?t=851") }}
 {{ image(path="mtl.webp", desc="Immediate Lib", link="https://youtu.be/HMBSWEz2l24?t=316") }}
 {{ image(path="mth.webp", desc="Immediate Torch", link="https://youtu.be/Be-Sv_3gx5A?t=494") }}
 {{ image(path="mts.webp", desc="Immediate Stretch", link="https://youtu.be/cyGMvoUV01Y?t=1295") }}
@@ -328,6 +328,9 @@ Snapshot collection of 193 [cheer](@/cns.md) stunting skills (22 still missing).
 {{ image(path="wcs.webp", desc="With Claps", link="https://youtu.be/kho1vUX_cpg?t=49") }}
 {{ image(path="bbs.webp", desc="Above Brows", link="https://youtu.be/Be-Sv_3gx5A?t=894") }}
 {{ image(path="wws.webp", desc="With Weights", link="https://youtu.be/ND_VqTi_790?t=980") }}
+{{ image(path="gsp.webp", desc="Game of Spin or No Spin", link="https://youtu.be/UUqlTCC0Pq4?t=237") }}
+{{ image(path="gnv.webp", desc="Game of Never Have I Ever", link="https://youtu.be/SonOnjYRtHU?t=34") }}
+{{ image(path="gsn.webp", desc="Game of S.T.U.N.T.", link="https://www.youtube.com/watch?v=O1Qprxej888") }}
 {{ gallery_end() }}
 
 <!-- {{ image(path="mts.webp", desc="Immediate Arabesque", link="https://www.youtube.com/shorts/MWDPzFVQrfI") }} -->
