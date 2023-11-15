@@ -115,10 +115,10 @@ Snapshot collection of 208 [cheer](@/cns.md) stunting skills (23 still missing).
 {{ image(path="rvt.webp", desc="Reverse Toss", link="https://youtu.be/WBMVkXf3oBU?t=770") }}
 {{ image(path="dpt.webp", desc="Drop Toss", link="https://youtu.be/7HU_bauP2lI?t=30") }}
 {{ image(path="hnh.webp", desc="Hand in Hand", link="https://youtu.be/c34iMh-nryw?t=602") }}
-{{ image(path="slp.webp", desc="Straddle Up", link="https://youtu.be/04Wp0TIXF7A?t=604") }}
-{{ image(path="rts.webp", desc="Rocket Toss", link="https://www.instagram.com/p/CJm5rF-l2vV") }}
-{{ image(path="blp.webp", desc="Ball Up", link="https://youtu.be/KsHd_mN0a84?t=73") }}
 {{ image(path="kkp.webp", desc="Kick Up", link="https://www.youtube.com/shorts/Dv40rfs24oE") }}
+{{ image(path="rts.webp", desc="Rocket Toss", link="https://www.instagram.com/p/CJm5rF-l2vV") }}
+{{ image(path="slp.webp", desc="Straddle Up", link="https://youtu.be/04Wp0TIXF7A?t=604") }}
+{{ image(path="blp.webp", desc="Ball Up", link="https://youtu.be/KsHd_mN0a84?t=73") }}
 {{ gallery_end() }}
 
 # **Handstands - base throws a flyer to a hand grip**
