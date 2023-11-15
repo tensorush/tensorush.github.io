@@ -7,7 +7,7 @@ forms = ["gallery"]
 themes = ["cheer"]
 +++
 
-Snapshot collection of 208 [cheer](@/cns.md) stunting skills (23 still missing).
+Snapshot collection of 210 [cheer](@/cns.md) stunting skills (23 still missing).
 
 <!-- more -->
 
@@ -239,16 +239,18 @@ Snapshot collection of 208 [cheer](@/cns.md) stunting skills (23 still missing).
 {{ gallery_start() }}
 {{ image(path="ftk.webp", desc="Front Tuck", link="https://youtu.be/jb-2RLIiq24?t=314") }}
 {{ image(path="stn.webp", desc="Shotgun", link="https://youtu.be/CDZ0CePSQ40?t=261") }}
-{{ image(path="ntn.webp", desc="One to One", link="https://youtu.be/SwaejeJ8kPk?t=477") }}
+{{ image(path="fsg.webp", desc="Front Shotgun", link="https://www.instagram.com/p/CkKDH2mJLgm") }}
 {{ image(path="rwd.webp", desc="Rewind", link="https://youtu.be/LV3RCD7S-GE?t=375") }}
-{{ image(path="spm.webp", desc="Superman", link="https://youtu.be/3pC9y3dZVrU?t=717") }}
-{{ image(path="ftf.webp", desc="Fast Forward", link="https://youtu.be/u1x7tgvlO3M?t=518") }}
 {{ image(path="ftw.webp", desc="Twisting Rewind", link="https://youtu.be/DfFdPsbxVPQ?t=612") }}
+{{ image(path="ntn.webp", desc="One to One", link="https://youtu.be/SwaejeJ8kPk?t=477") }}
+{{ image(path="ftf.webp", desc="Fast Forward", link="https://youtu.be/u1x7tgvlO3M?t=518") }}
+{{ image(path="spm.webp", desc="Superman", link="https://youtu.be/3pC9y3dZVrU?t=717") }}
+{{ image(path="fnn.webp", desc="Full One to One", link="https://www.instagram.com/p/Cc59_tJptB-") }}
+{{ image(path="tsg.webp", desc="Twisting Shotgun", link="https://www.youtube.com/shorts/6vRE2dBZef4") }}
 {{ image(path="tsm.webp", desc="Twisting Superman", link="https://www.tiktok.com/@_boogie00/video/7079766706289200430") }}
 {{ image(path="tsw.webp", desc="Twisting Walk In", link="") }}
-{{ image(path="tsg.webp", desc="Twisting Shotgun", link="https://www.youtube.com/shorts/6vRE2dBZef4") }}
-{{ image(path="wht.webp", desc="One-handed Shotgun", link="https://www.youtube.com/shorts/5mLWtcbPUwk") }}
 {{ image(path="rds.webp", desc="Rewinding Shotgun", link="https://www.youtube.com/shorts/9mTdZ0EqkHk") }}
+{{ image(path="wht.webp", desc="One-handed Shotgun", link="https://www.youtube.com/shorts/5mLWtcbPUwk") }}
 {{ gallery_end() }}
 
 # **Tumbles - flyer performs a flip on the ground**
