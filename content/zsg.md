@@ -13,11 +13,11 @@ Very opinionated extension to the [Zig style guide](https://ziglang.org/document
 
 # **Top-to-bottom source file hierarchy**
 
-| File Group |     Sorting Order      | Letter Case |
-|:----------:|:----------------------:|:-----------:|
-| Directory  | Descending by alphabet | kebab-case  |
-| Namespace  | Descending by alphabet | snake_case  |
-|   Struct   | Descending by alphabet |  TitleCase  |
+| File Group |       Sorting Order       | Letter Case |
+|:----------:|:-------------------------:|:-----------:|
+| Directory  | Descending alphabetically | kebab-case  |
+| Namespace  | Descending alphabetically | snake_case  |
+|   Struct   | Descending alphabetically |  TitleCase  |
 
 # **Top-to-bottom file container layout**
 
@@ -34,6 +34,10 @@ Very opinionated extension to the [Zig style guide](https://ziglang.org/document
 |      Enums       | Descending by length |      TitleCase       |
 |      Unions      | Descending by length |      TitleCase       |
 |     Structs      | Descending by length |      TitleCase       |
-|      Fields      | Descending by length |      snake_case      |
-|    Functions     | Descending by length |      camelCase       |
-|      Tests       | Descending by length |      camelCase       |
+| Error set values | Ascending by length  |      TitleCase       |
+|   Enum values    | Descending by length |      TitleCase       |
+|   Union fields   | Descending by length |      snake_case      |
+|  Struct fields   | Descending by length |      snake_case      |
+|   Init methods   | Ascending by length  |      camelCase       |
+|  Other methods   | Descending by length |      camelCase       |
+|  Test functions  |    Original order    |    Original case     |
