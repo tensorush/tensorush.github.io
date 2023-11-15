@@ -7,7 +7,7 @@ forms = ["table"]
 themes = ["favorite"]
 +++
 
-Personal blogs that I've been revisiting for quite a while now.
+Personal blogs that I've been subscribed to for quite a while now.
 
 <!-- more -->
 
@@ -27,6 +27,7 @@ Personal blogs that I've been revisiting for quite a while now.
 |              [King Butcher](https://kprotty.me)              |                                                                     |                                                             |
 |      [Ted Kaminski](https://www.tedinski.com/archive/)       |                                                                     |                                                             |
 |          [Andrew Kelley](https://andrewkelley.me/)           |                                                                     |                                                             |
+|       [Dmitry Vyukov](https://www.1024cores.net/home/)       |                                                                     |                                                             |
 |     [Jamie Brandon](https://www.scattered-thoughts.net)      |                                                                     |                                                             |
 |     [Brendan Gregg](https://www.brendangregg.com/blog/)      |                                                                     |                                                             |
 | [Eli Bendersky](https://eli.thegreenplace.net/archives/all/) |                                                                     |                                                             |
