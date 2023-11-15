@@ -21,7 +21,7 @@ Similarly, you can scratch your first intuition of a human life being a negative
 
 - ## **Know Thyself**
 
-Figure out what you're good at and how to make that useful to others, especially the ones immediately around you. Be very cautious about caring and stressing for the whole world, though. You most probably don't need to, but more importantly, it will be destructive. And hardly in a good way.
+Figure out what you're good at and how to make that useful to others, especially the ones immediately around you. Be very cautious about caring and stressing for the whole world. You most probably don't need to, but more importantly, it will be destructive. And hardly in a good way.
 
 <!-- The Magician vs Judgement -->
 
@@ -39,7 +39,7 @@ Explore the world to its limits. Be conscious of both the happiness and the horr
 
 - ## **Stay Consistent Day-in Day-out**
 
-Adapt your environment to accommodate your daily grind. Stay in the flow state for as long as possible. Think of it as another form of meditation.
+Adapt your environment to accommodate your daily grind. Learn to stay in the flow state for longer periods at a time. Think of it as another form of meditation.
 
 <!-- The King vs The Star -->
 
@@ -51,7 +51,7 @@ There's only so much you can do right now. You know what it is, too. To put it i
 
 - ## **State Your Positions**
 
-Have a clear and thorough position on as many subjects as possible, especially on those directly affecting your life.
+Have a clear and thorough position on a variety of subjects, especially on those directly affecting your life.
 
 <!-- The Lovers vs The Devil -->
 
