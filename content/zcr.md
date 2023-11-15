@@ -15,49 +15,49 @@ Minimal snippet reviews of Zig code.
 
 ```zig
 const val: MyItem.MyTag = .Value; // Nope
-const val = MyItem.MyTag.Value;   // Yep
+const val = MyItem.MyTag.Value;   // Yup
 ```
 
 - ## Make everything constant by default
 
 ```zig
 var item = MyItem{};   // Nope
-const item = MyItem{}; // Yep
+const item = MyItem{}; // Yup
 ```
 
 - ## Use type names instead of type casts
 
 ```zig
 const fld = @as(u8, @intCast(item.fld)); // Nope
-const fld: u8 = @intCast(item.fld);      // Yep
+const fld: u8 = @intCast(item.fld);      // Yup
 ```
 
 - ## Don't use any extra labels for naming pointers
 
 ```zig
 for (items) |*item_ptr| {...} // Nope
-for (items) |*item| {...}     // Yep
+for (items) |*item| {...}     // Yup
 ```
 
 - ## Use a short, consistent suffix for naming optionals
 
 ```zig
 if (maybe_item) |item| {...} // Nope
-if (item_opt) |item| {...}   // Yep
+if (item_opt) |item| {...}   // Yup
 ```
 
 - ## Prefer anonymous structs whenever the type is inferred
 
 ```zig
 return MyItem{ .fld = 42 }; // Nope
-return .{ .fld = 42 };      // Yep
+return .{ .fld = 42 };      // Yup
 ```
 
 - ## Specify the tested entity's name as the test function's name
 
 ```zig
 test "MyItem" {...} // Nope
-test MyItem {...}   // Yep
+test MyItem {...}   // Yup
 ```
 
 - ## Use Self only for file structs as well as nameless and anonymous structs
@@ -70,7 +70,7 @@ const Item = struct {
     self_opt: ?*Self = null,
 };
 
-// Yep
+// Yup
 pub fn Item(comptime T: type) type {
     return struct {
         const Self = @This();

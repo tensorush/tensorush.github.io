@@ -260,13 +260,13 @@ Snapshot collection of 208 [cheer](@/cns.md) stunting skills (23 still missing).
 {{ image(path="fdl.webp", desc="Forward Roll", link="https://youtu.be/RLbde7dYHkI?t=563") }}
 {{ image(path="bdl.webp", desc="Backward Roll", link="https://www.tiktok.com/@eliza.labelle/video/7117267996535557422") }}
 {{ image(path="dvl.webp", desc="Dive Roll", link="https://www.youtube.com/shorts/cxBuRNT1-Lg") }}
+{{ image(path="fhs.webp", desc="Front Handspring", link="https://youtu.be/ebOIvS87YpM?t=621") }}
+{{ image(path="frl.webp", desc="Front Aerial", link="https://www.tiktok.com/@eliza.labelle/video/7058474018567146799") }}
+{{ image(path="bhs.webp", desc="Back Handspring", link="https://youtu.be/LV3RCD7S-GE?t=455") }}
 {{ image(path="fwv.webp", desc="Front Walkover", link="https://www.tiktok.com/@eliza.labelle/video/7110741656411868462") }}
 {{ image(path="bwv.webp", desc="Back Walkover", link="") }}
-{{ image(path="frl.webp", desc="Front Aerial", link="") }}
-{{ image(path="fhs.webp", desc="Front Handspring", link="https://youtu.be/ebOIvS87YpM?t=621") }}
-{{ image(path="bhs.webp", desc="Back Handspring", link="https://youtu.be/LV3RCD7S-GE?t=455") }}
 {{ image(path="srl.webp", desc="Side Aerial", link="") }}
-{{ image(path="fwp.webp", desc="Front Whip", link="https://www.tiktok.com/@eliza.labelle/video/7058474018567146799") }}
+{{ image(path="fwp.webp", desc="Front Whip", link="") }}
 {{ image(path="bwp.webp", desc="Back Whip", link="https://www.youtube.com/shorts/EHGxbOI7mZQ") }}
 {{ image(path="ltt.webp", desc="Layout", link="") }}
 {{ image(path="phf.webp", desc="Punch Front", link="") }}
