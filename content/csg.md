@@ -7,7 +7,7 @@ forms = ["gallery"]
 themes = ["cheer"]
 +++
 
-Snapshot collection of 205 [cheer](@/cns.md) stunting skills (22 still missing).
+Snapshot collection of 207 [cheer](@/cns.md) stunting skills (23 still missing).
 
 <!-- more -->
 
@@ -245,8 +245,8 @@ Snapshot collection of 205 [cheer](@/cns.md) stunting skills (22 still missing).
 {{ image(path="ftw.webp", desc="Twisting Rewind", link="https://youtu.be/DfFdPsbxVPQ?t=612") }}
 {{ image(path="tsm.webp", desc="Twisting Superman", link="https://www.tiktok.com/@_boogie00/video/7079766706289200430") }}
 {{ image(path="tsw.webp", desc="Twisting Walk In", link="") }}
-{{ image(path="tsg.webp", desc="Twisting Shotgun", link="") }}
-{{ image(path="wht.webp", desc="Winchester", link="https://www.youtube.com/shorts/5mLWtcbPUwk") }}
+{{ image(path="tsg.webp", desc="Twisting Shotgun", link="https://www.youtube.com/shorts/6vRE2dBZef4") }}
+{{ image(path="wht.webp", desc="One-handed Shotgun", link="https://www.youtube.com/shorts/5mLWtcbPUwk") }}
 {{ image(path="rds.webp", desc="Rewinding Shotgun", link="https://www.youtube.com/shorts/9mTdZ0EqkHk") }}
 {{ gallery_end() }}
 
@@ -273,6 +273,8 @@ Snapshot collection of 205 [cheer](@/cns.md) stunting skills (22 still missing).
 {{ image(path="rbn.webp", desc="Arabian", link="") }}
 {{ image(path="fts.webp", desc="Full", link="https://www.tiktok.com/@eliza.labelle/video/7164782856630340910") }}
 {{ image(path="dts.webp", desc="Double Full", link="") }}
+{{ image(path="kfl.webp", desc="Kick Full", link="") }}
+{{ image(path="kdl.webp", desc="Kick Double", link="") }}
 {{ gallery_end() }}
 
 # **Baskets - two bases and a backspot launch and catch a flyer**
