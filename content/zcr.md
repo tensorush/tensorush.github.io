@@ -35,8 +35,8 @@ const fld = @as(u8, @intCast(item.fld)); // Nope
 - ## Don't use any extra labels for naming pointers
 
 ```zig
-const item = MyItem{};     // Yep
-const item_ptr = MyItem{}; // Nope
+for (items) |*item| {...}     // Yep
+for (items) |*item_ptr| {...} // Nope
 ```
 
 - ## Use a short, consistent suffix for naming optionals
