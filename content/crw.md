@@ -11,9 +11,9 @@ Luminous wonders twirling in close embrace through the ever-growing cosmic void.
 
 <!-- more -->
 
-## All of these are original images captured with the best telescopes.
+## Collection of original cosmic images captured with the best telescopes.
 
-# **Nebulae - interstellar regions of stardust often illuminated by supernovae light**
+# **Nebulae - interstellar regions of stardust illuminated by supernovae light**
 
 {{ gallery_start() }}
 {{ image(path="gln.webp", desc="Eagle", link="https://esahubble.org/images/heic0506b/") }}
