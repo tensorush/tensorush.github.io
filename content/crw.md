@@ -86,10 +86,10 @@ Luminous wonders twirling in close embrace through the ever-growing cosmic void.
 # **Stars - rounded masses of gas radiating energy**
 
 {{ gallery_start() }}
-{{ image(path="hdr.webp", desc="Hydrae", link="https://esahubble.org/images/heic2305a/") }}
+{{ image(path="pls.webp", desc="Crab Pulsar", link="https://esahubble.org/images/opo0224a/") }}
 {{ image(path="rdf.webp", desc="Puffing Red Dwarf", link="https://esahubble.org/images/opo2315a/") }}
 {{ image(path="wbd.webp", desc="Two Waltzing Brown Dwarfs", link="https://esahubble.org/images/potw1723a/") }}
-{{ image(path="wbd.webp", desc="Pulsar", link="https://esahubble.org/images/opo0224a/") }}
+{{ image(path="hdr.webp", desc="Hydrae with Dust Discs", link="https://esahubble.org/images/heic2305a/") }}
 {{ gallery_end() }}
 
 # **Supernovae - last stage of massive stars' evolution culminating in a powerful explosion**
