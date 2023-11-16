@@ -7,7 +7,7 @@ forms = ["gallery"]
 themes = ["cheer"]
 +++
 
-Snapshot collection of 210 [cheer](@/cns.md) stunting skills (23 still missing).
+Snapshot collection of 213 [cheer](@/cns.md) stunting skills (24 still missing).
 
 <!-- more -->
 
@@ -139,6 +139,7 @@ Snapshot collection of 210 [cheer](@/cns.md) stunting skills (23 still missing).
 {{ image(path="cts.webp", desc="Candle Toss", link="https://youtu.be/Vsq-m_Rd7Zk?t=797") }}
 {{ image(path="rrt.webp", desc="Reusable Rocket Toss", link="https://youtu.be/unErKUN0u5I?t=515") }}
 {{ image(path="hrt.webp", desc="Handski Rocket Toss", link="https://youtu.be/hT_exv5X2_Q?t=702") }}
+{{ image(path="nlc.webp", desc="Inlocate", link="") }}
 {{ gallery_end() }}
 
 # **Transitions - flyer moves from one grip to another**
@@ -193,6 +194,8 @@ Snapshot collection of 210 [cheer](@/cns.md) stunting skills (23 still missing).
 {{ image(path="scl.webp", desc="Scale", link="https://www.youtube.com/shorts/UyUDK7X_tRo") }}
 {{ image(path="ndl.webp", desc="Needle", link="https://www.instagram.com/p/CCSM_QAFEq1") }}
 {{ image(path="scn.webp", desc="Scorpion", link="") }}
+{{ image(path="nmh.webp", desc="One-Arm Handstand", link="https://youtu.be/7ZKyd0rh8ts?t=698") }}
+{{ image(path="slt.webp", desc="Split", link="https://www.instagram.com/p/ChU9abmu0b-") }}
 {{ image(path="hhn.webp", desc="Chin Chin", link="") }}
 {{ gallery_end() }}
 
