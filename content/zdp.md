@@ -4,7 +4,7 @@ date = 2023-09-14
 
 [taxonomies]
 forms = ["list"]
-themes = ["ziglang", "software"]
+themes = ["zig"]
 +++
 
 Program design patterns from the [Zig standard library](https://ziglang.org/documentation/master/std).

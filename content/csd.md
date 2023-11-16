@@ -4,7 +4,7 @@ date = 2023-08-16
 
 [taxonomies]
 forms = ["list"]
-themes = ["future", "software"]
+themes = ["future"]
 +++
 
 Disruptive tech that will shape the computational future of social order.

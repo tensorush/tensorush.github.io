@@ -4,7 +4,7 @@ date = 2023-08-27
 
 [taxonomies]
 forms = ["list"]
-themes = ["software", "future"]
+themes = ["future"]
 +++
 
 Domain-wide shifts of the programming language landscape.

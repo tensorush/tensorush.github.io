@@ -4,7 +4,7 @@ date = 2023-11-12
 
 [taxonomies]
 forms = ["code"]
-themes = ["ziglang", "software"]
+themes = ["zig"]
 +++
 
 Minimal snippet reviews of Zig code.

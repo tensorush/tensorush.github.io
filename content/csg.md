@@ -250,7 +250,7 @@ Snapshot collection of 210 [cheer](@/cns.md) stunting skills (23 still missing).
 {{ image(path="tsm.webp", desc="Twisting Superman", link="https://www.tiktok.com/@_boogie00/video/7079766706289200430") }}
 {{ image(path="tsw.webp", desc="Twisting Walk In", link="") }}
 {{ image(path="rds.webp", desc="Rewinding Shotgun", link="https://www.youtube.com/shorts/9mTdZ0EqkHk") }}
-{{ image(path="wht.webp", desc="One-handed Shotgun", link="https://www.youtube.com/shorts/5mLWtcbPUwk") }}
+{{ image(path="wht.webp", desc="One-Handed Shotgun", link="https://www.youtube.com/shorts/5mLWtcbPUwk") }}
 {{ gallery_end() }}
 
 # **Tumbles - flyer performs a flip on the ground**
@@ -317,7 +317,7 @@ Snapshot collection of 210 [cheer](@/cns.md) stunting skills (23 still missing).
 {{ image(path="cjt.webp", desc="CJ Turnaround", link="https://www.tiktok.com/@cj_wino/video/7103568884883672366") }}
 {{ image(path="msh.webp", desc="Arm Switch", link="https://www.instagram.com/p/Cgh1EzEuUMa") }}
 {{ image(path="nrm.webp", desc="One Arm", link="https://youtu.be/REmmtNLAF7Q?t=150") }}
-{{ image(path="mgr.webp", desc="Merry-go-round", link="https://youtu.be/eVhUyqQIjbY?t=1212") }}
+{{ image(path="mgr.webp", desc="Merry-Go-Round", link="https://youtu.be/eVhUyqQIjbY?t=1212") }}
 {{ image(path="nlg.webp", desc="One Leg", link="https://youtu.be/Pp5O3fj7Pbc?t=763") }}
 {{ image(path="pts.webp", desc="Opposite Spin", link="https://youtu.be/7HU_bauP2lI?t=451") }}
 {{ image(path="msw.webp", desc="Opposite Arm", link="https://youtu.be/LV3RCD7S-GE?t=903") }}

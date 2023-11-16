@@ -4,7 +4,7 @@ date = 2023-10-27
 
 [taxonomies]
 forms = ["table"]
-themes = ["ziglang", "software"]
+themes = ["zig"]
 +++
 
 Very opinionated extension to the [Zig style guide](https://ziglang.org/documentation/master/#Style-Guide).
