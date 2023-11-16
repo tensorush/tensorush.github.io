@@ -7,11 +7,11 @@ forms = ["gallery"]
 themes = ["love"]
 +++
 
-Luminous wonders twirling in tight embrace through the ever-growing cosmic void.
+Luminous wonders twirling in close embrace through the ever-growing cosmic void.
 
 <!-- more -->
 
-## All of these are real photos captured with our best telescopes.
+## All of these are original photos captured with our best telescopes.
 
 # **Nebulae - luminescent interstellar regions consisting of stardust**
 
