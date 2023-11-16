@@ -11,7 +11,7 @@ Luminous wonders twirling in close embrace through the ever-growing cosmic void.
 
 <!-- more -->
 
-## All of these are original photos captured with our best telescopes.
+## All of these are original images captured with our best telescopes.
 
 # **Nebulae - luminescent interstellar regions consisting of stardust**
 
@@ -28,14 +28,15 @@ Luminous wonders twirling in close embrace through the ever-growing cosmic void.
 {{ image(path="tfd.webp", desc="Trifid", link="https://www.eso.org/public/images/eso0930a/") }}
 {{ image(path="mhd.webp", desc="Monkey Head", link="https://www.nasa.gov/image-detail/baby-stars-orion-constellation/") }}
 {{ image(path="pss.webp", desc="Perseus", link="https://esahubble.org/images/heic2304a/") }}
+{{ image(path="wdl.webp", desc="Wonderland", link="https://www.nasa.gov/image-article/cosmic-winter-wonderland/") }}
+{{ image(path="nsr.webp", desc="Nursery", link="https://esahubble.org/images/heic2007a/") }}
+{{ image(path="bbb.webp", desc="Bubble", link="https://esahubble.org/images/heic1608a/") }}
 {{ image(path="bfl.webp", desc="Butterfly", link="https://esahubble.org/images/heic0910h/") }}
 {{ image(path="vwp.webp", desc="Voorwerp", link="https://esahubble.org/images/heic1102a/") }}
 {{ image(path="str.webp", desc="Stingray", link="https://esahubble.org/images/heic2020b/") }}
 {{ image(path="rpt.webp", desc="Red Planetary", link="https://esahubble.org/images/opo9935d/") }}
 {{ image(path="rgs.webp", desc="Hourglass", link="https://esahubble.org/images/opo9607a/") }}
 {{ image(path="bpt.webp", desc="Rainbow Planetary", link="https://esahubble.org/images/opo0214a/") }}
-{{ image(path="nsr.webp", desc="Nursery", link="https://esahubble.org/images/heic2007a/") }}
-{{ image(path="bbb.webp", desc="Bubble", link="https://esahubble.org/images/heic1608a/") }}
 {{ gallery_end() }}
 
 # **Galaxies - systems of stars, stellar remnants, stardust, and dark matter bound by gravity**
