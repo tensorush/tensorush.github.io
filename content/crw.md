@@ -11,9 +11,9 @@ Luminous wonders twirling in close embrace through the ever-growing cosmic void.
 
 <!-- more -->
 
-## All of these are original images captured with our best telescopes.
+## All of these are original images captured with the best telescopes.
 
-# **Nebulae - luminescent interstellar regions consisting of stardust**
+# **Nebulae - interstellar regions of stardust often illuminated by supernovae light**
 
 {{ gallery_start() }}
 {{ image(path="gln.webp", desc="Eagle", link="https://esahubble.org/images/heic0506b/") }}
@@ -39,7 +39,7 @@ Luminous wonders twirling in close embrace through the ever-growing cosmic void.
 {{ image(path="bpt.webp", desc="Rainbow Planetary", link="https://esahubble.org/images/opo0214a/") }}
 {{ gallery_end() }}
 
-# **Galaxies - systems of stars, stellar remnants, stardust, and dark matter bound by gravity**
+# **Galaxies - systems of stars, stardust, stellar remnants, and dark matter bound by gravity**
 
 {{ gallery_start() }}
 {{ image(path="spl.webp", desc="Spiral", link="https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_s_first_images_the_dazzling_edge_of_darkness") }}
@@ -89,9 +89,10 @@ Luminous wonders twirling in close embrace through the ever-growing cosmic void.
 {{ image(path="hdr.webp", desc="Hydrae", link="https://esahubble.org/images/heic2305a/") }}
 {{ image(path="rdf.webp", desc="Puffing Red Dwarf", link="https://esahubble.org/images/opo2315a/") }}
 {{ image(path="wbd.webp", desc="Two Waltzing Brown Dwarfs", link="https://esahubble.org/images/potw1723a/") }}
+{{ image(path="wbd.webp", desc="Pulsar", link="https://esahubble.org/images/opo0224a/") }}
 {{ gallery_end() }}
 
-# **Supernovae - last stages of a massive star's evolution culminating in a powerful explosion**
+# **Supernovae - last stage of massive stars' evolution culminating in a powerful explosion**
 
 {{ gallery_start() }}
 {{ image(path="pwl.webp", desc="Pinwheel", link="https://esahubble.org/images/potw1811a/") }}
