@@ -11,56 +11,63 @@ Minimal snippet reviews of Zig code.
 
 <!-- more -->
 
-- ## Provide typed literals
+1) ## Provide typed literals
 
 ```zig
 const val: MyItem.MyTag = .Value; // Nope
 const val = MyItem.MyTag.Value;   // Yup
 ```
 
-- ## Make everything constant by default
+2) ## Make everything constant by default
 
 ```zig
 var item = MyItem{};   // Nope
 const item = MyItem{}; // Yup
 ```
 
-- ## Use type names instead of type casts
+3) ## Use type names instead of type casts
 
 ```zig
 const fld = @as(u8, @intCast(item.fld)); // Nope
 const fld: u8 = @intCast(item.fld);      // Yup
 ```
 
-- ## Don't use any extra labels for naming pointers
+4) ## List the expected value before the actual
+
+```zig
+try sdt.testing.expectEqual(isTrue(), true); // Nope
+try sdt.testing.expectEqual(true, isTrue()); // Yup
+```
+
+5) ## Don't use any extra labels for naming pointers
 
 ```zig
 for (items) |*item_ptr| {...} // Nope
 for (items) |*item| {...}     // Yup
 ```
 
-- ## Use a short, consistent suffix for naming optionals
+6) ## Use a short, consistent suffix for naming optionals
 
 ```zig
 if (maybe_item) |item| {...} // Nope
 if (item_opt) |item| {...}   // Yup
 ```
 
-- ## Prefer anonymous structs whenever the type is inferred
+7) ## Prefer anonymous structs whenever the type is inferred
 
 ```zig
 return MyItem{ .fld = 42 }; // Nope
 return .{ .fld = 42 };      // Yup
 ```
 
-- ## Specify the tested entity's name as the test function's name
+8) ## Specify the tested entity's name as the test function's name
 
 ```zig
 test "MyItem" {...} // Nope
 test MyItem {...}   // Yup
 ```
 
-- ## Use Self only for file structs as well as nameless and anonymous structs
+9) ## Use Self only for file structs as well as nameless and anonymous structs
 
 ```zig
 // Nope
