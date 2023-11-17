@@ -12,7 +12,7 @@ Human body and mind are capable of such health it's nothing short of a superpowe
 <!-- more -->
 
 {{ gallery_start() }}
-{{ image(path="lfm.webp", desc="Longevity with fewer meals", link="https://www.youtube.com/watch?v=wD8reCw3Kls") }}
-{{ image(path="whf.webp", desc="Healing by heat and cold", link="https://www.youtube.com/watch?v=8cvhwquPqJ0") }}
+{{ image(path="lfm.webp", desc="Longevity by fasting", link="https://www.youtube.com/watch?v=wD8reCw3Kls") }}
+{{ image(path="whf.webp", desc="Healing through heat and cold", link="https://www.youtube.com/watch?v=8cvhwquPqJ0") }}
 {{ image(path="vws.webp", desc="Vision without eyesight", link="https://www.youtube.com/watch?v=uH0aihGWB8U") }}
 {{ gallery_end() }}
