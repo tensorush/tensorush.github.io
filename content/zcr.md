@@ -35,8 +35,8 @@ const fld: u8 = @intCast(item.fld);      // Yup
 4) ## List the expected value before the actual
 
 ```zig
-try sdt.testing.expectEqual(isTrue(), true); // Nope
-try sdt.testing.expectEqual(true, isTrue()); // Yup
+try sdt.testing.expectEqual(getItem(), exp_item); // Nope
+try sdt.testing.expectEqual(exp_item, getItem()); // Yup
 ```
 
 5) ## Don't use any extra labels for naming pointers
