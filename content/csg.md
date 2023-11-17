@@ -7,7 +7,7 @@ forms = ["gallery"]
 themes = ["cheer"]
 +++
 
-Snapshot collection of 213 [cheer](@/cns.md) stunting skills (24 still missing).
+Snapshot collection of 215 [cheer](@/cns.md) stunting skills (24 still missing).
 
 <!-- more -->
 
@@ -150,18 +150,19 @@ Snapshot collection of 213 [cheer](@/cns.md) stunting skills (24 still missing).
 {{ image(path="flv.webp", desc="Full Over", link="https://youtu.be/7HU_bauP2lI?t=435") }}
 {{ image(path="pph.webp", desc="Pop Through", link="https://youtu.be/REmmtNLAF7Q?t=369") }}
 {{ image(path="rpt.webp", desc="Front Pop Through", link="https://youtu.be/7HU_bauP2lI?t=699") }}
+{{ image(path="spp.webp", desc="Side Pop Through", link="https://www.youtube.com/shorts/RfXsbmoL3zY") }}
 {{ image(path="tpt.webp", desc="Twisting Pop Through", link="https://www.tiktok.com/@eliza.labelle/video/7094666681926028587") }}
+{{ image(path="tfp.webp", desc="Twisting Front Pop Through", link="https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYanRydnhleXlkAYNh2MgdAYNh2MZXAAAAAA") }}
+{{ image(path="ppt.webp", desc="Pop Tart", link="https://www.youtube.com/shorts/enKAPA7lPYw") }}
 {{ image(path="tkt.webp", desc="Tick Tock", link="https://youtu.be/ey00mPkhMCs?t=234") }}
 {{ image(path="lth.webp", desc="Low to High", link="https://youtu.be/RLbde7dYHkI?t=258") }}
 {{ image(path="hth.webp", desc="High to High", link="https://youtu.be/FZ4A0nTEtkc?t=109") }}
 {{ image(path="ddv.webp", desc="Dolphin Dive", link="https://youtu.be/UnSqDsi_6lE?t=407") }}
 {{ image(path="wkv.webp", desc="Walk Over", link="https://youtu.be/Vsq-m_Rd7Zk?t=1316") }}
 {{ image(path="pps.webp", desc="Power Press", link="https://youtu.be/0TN-f7vbnTQ?t=273") }}
-{{ image(path="ppt.webp", desc="Pop Tart", link="https://www.youtube.com/shorts/enKAPA7lPYw") }}
-{{ image(path="swv.webp", desc="Slinky Walk Over", link="https://www.youtube.com/shorts/_Q2Q1rmMYc0") }}
-{{ image(path="spp.webp", desc="Side Pop Through", link="https://www.youtube.com/shorts/RfXsbmoL3zY") }}
 {{ image(path="rcl.webp", desc="Recoil", link="https://www.youtube.com/shorts/B5OVmWPtjII") }}
 {{ image(path="hpv.webp", desc="Handski Pop Over", link="https://youtu.be/SwaejeJ8kPk?t=941") }}
+{{ image(path="swv.webp", desc="Slinky Walk Over", link="https://www.youtube.com/shorts/_Q2Q1rmMYc0") }}
 {{ gallery_end() }}
 
 # **Dismounts - flyer comes down from a stunt**
