@@ -7,7 +7,7 @@ forms = ["gallery"]
 themes = ["life"]
 +++
 
-Human body and mind are capable of such health it becomes nothing short of a superpower.
+Human body and mind are capable of such health it's nothing short of a superpower.
 
 <!-- more -->
 
