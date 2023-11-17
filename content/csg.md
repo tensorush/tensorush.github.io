@@ -340,12 +340,13 @@ Snapshot collection of 213 [cheer](@/cns.md) stunting skills (24 still missing).
 {{ image(path="ntg.webp", desc="No Tag", link="https://youtu.be/Be-Sv_3gx5A?t=129") }}
 {{ image(path="nlk.webp", desc="No Look", link="https://youtu.be/ApTsZwIDYLU?t=425") }}
 {{ image(path="nsp.webp", desc="No Step", link="https://youtu.be/HMBSWEz2l24?t=463") }}
-{{ image(path="nfd.webp", desc="No Flick Dead Toss", link="https://www.youtube.com/shorts/dfQk0g-JVy4") }}
-{{ image(path="ndd.webp", desc="No Dip Dead Toss", link="https://youtu.be/ApTsZwIDYLU?t=473") }}
-{{ image(path="nnd.webp", desc="No Nothing Dead Toss", link="https://youtu.be/6Kg652x0R9Y?t=160") }}
+{{ image(path="wts.webp", desc="Wipe the Shoes", link="https://www.youtube.com/shorts/MFTrfQEe6UQ") }}
+{{ image(path="cpt.webp", desc="Cupie Time", link="https://youtu.be/3pC9y3dZVrU?t=338") }}
+{{ image(path="dtn.webp", desc="Dust the Knees", link="https://youtu.be/FZ4A0nTEtkc?t=65") }}
 {{ image(path="wcs.webp", desc="With Claps", link="https://youtu.be/kho1vUX_cpg?t=49") }}
 {{ image(path="bbs.webp", desc="Above Brows", link="https://youtu.be/Be-Sv_3gx5A?t=894") }}
 {{ image(path="wws.webp", desc="With Weights", link="https://youtu.be/ND_VqTi_790?t=980") }}
-{{ image(path="wts.webp", desc="Wipe the Shoes", link="https://www.youtube.com/shorts/MFTrfQEe6UQ") }}
-{{ image(path="dtn.webp", desc="Dust the Knees", link="https://youtu.be/FZ4A0nTEtkc?t=65") }}
+{{ image(path="nfd.webp", desc="No Flick Dead Toss", link="https://www.youtube.com/shorts/dfQk0g-JVy4") }}
+{{ image(path="ndd.webp", desc="No Dip Dead Toss", link="https://youtu.be/ApTsZwIDYLU?t=473") }}
+{{ image(path="nnd.webp", desc="No Nothing Dead Toss", link="https://youtu.be/6Kg652x0R9Y?t=160") }}
 {{ gallery_end() }}
