@@ -33,7 +33,7 @@ Being kind sounds simple but gets pretty close to impossible when you're in pain
 
 - ## **Expand Your Horizons**
 
-Explore the world to its limits. Be conscious of both the happiness and the horror. Don't let your heart be swayed by neither.
+Explore the world to its very limits. Be conscious of both the happiness and the horror. Let your heart be swayed by neither.
 
 <!-- The Queen vs The Moon -->
 

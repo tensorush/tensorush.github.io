@@ -27,9 +27,9 @@ Yep, I'm in love with her.
 
 ### **B**eautiful! For nothing in the world could more
 
-### **e**nhance nor harm her nature's gifts: no
+### **e**nhance or harm her nature's gifts: no
 
-### **l**ip gloss, eye shadows, nor hair dye, so
+### **l**ip gloss, eye shadows, or hair dye, so
 
 ### **l**ong as wears of love the tears of long
 
