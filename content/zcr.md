@@ -1,5 +1,5 @@
 +++
-title = "Zig Code Reviews"
+title = "Zig Code Review"
 date = 2023-11-12
 
 [taxonomies]
@@ -7,7 +7,7 @@ forms = ["code"]
 themes = ["zig"]
 +++
 
-Minimal snippet reviews of Zig code.
+Minimal Zig code review snippets.
 
 <!-- more -->
 
