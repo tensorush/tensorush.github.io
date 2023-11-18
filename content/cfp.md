@@ -21,11 +21,11 @@ Fondu devlog #1.
 
 # **Components**
 
-- ## OLTP database: [TigerBeetle](https://github.com/tigerbeetle/tigerbeetle)
+- ## Financial database: [TigerBeetle](https://github.com/tigerbeetle/tigerbeetle)
+
+- ## Relational database: [SQLite](https://github.com/vrischmann/zig-sqlite)
 
 - ## Monitoring: [Prometheus](https://github.com/vrischmann/zig-prometheus)
-
-- ## SQL database: [SQLite](https://github.com/vrischmann/zig-sqlite)
 
 - ## Frontend: [Umbrella](https://github.com/thi-ng/umbrella/tree/develop/packages/wasm-api)
 
