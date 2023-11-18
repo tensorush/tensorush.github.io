@@ -3,8 +3,8 @@ title = "Zig Code Design"
 date = 2023-09-14
 
 [taxonomies]
-forms = ["list"]
-themes = ["zig"]
+types = ["list"]
+tags = ["zig"]
 +++
 
 Idiomatic Zig programming patterns from the [Zig standard library](https://ziglang.org/documentation/master/std).

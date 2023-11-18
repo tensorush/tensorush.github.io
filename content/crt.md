@@ -3,8 +3,8 @@ title = "Computer Resource Types"
 date = 2023-09-24
 
 [taxonomies]
-forms = ["table"]
-themes = ["software"]
+types = ["table"]
+tags = ["software"]
 +++
 
 Classification of computer resources.

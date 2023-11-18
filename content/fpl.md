@@ -3,8 +3,8 @@ title = "Favorite Programming Languages"
 date = 2023-08-12
 
 [taxonomies]
-forms = ["gallery"]
-themes = ["favorite"]
+types = ["gallery"]
+tags = ["favorite"]
 +++
 
 Modern programming languages I'm hyped about.

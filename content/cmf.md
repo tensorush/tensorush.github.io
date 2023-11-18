@@ -4,8 +4,8 @@ date = 2023-12-26
 draft = true
 
 [taxonomies]
-forms = ["gallery"]
-themes = ["love"]
+types = ["gallery"]
+tags = ["love"]
 +++
 
 Happy Birthday, Universe!

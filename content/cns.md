@@ -3,8 +3,8 @@ title = "Cheer Isn't a Sport"
 date = 2023-11-03
 
 [taxonomies]
-forms = ["gallery"]
-themes = ["cheer"]
+types = ["gallery"]
+tags = ["cheer"]
 +++
 
 Cheer is THE sport!

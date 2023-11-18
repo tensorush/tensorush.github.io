@@ -3,8 +3,8 @@ title = "Favorite Personal Blogs"
 date = 2023-08-13
 
 [taxonomies]
-forms = ["table"]
-themes = ["favorite"]
+types = ["table"]
+tags = ["favorite"]
 +++
 
 Personal blogs that I've been subscribed to for quite a while now.

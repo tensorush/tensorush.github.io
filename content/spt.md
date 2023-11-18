@@ -3,8 +3,8 @@ title = "Software Product Types"
 date = 2023-09-23
 
 [taxonomies]
-forms = ["table"]
-themes = ["software"]
+types = ["table"]
+tags = ["software"]
 +++
 
 Classification of software products.

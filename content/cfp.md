@@ -3,8 +3,8 @@ title = "Creator Funding Platform"
 date = 2023-10-21
 
 [taxonomies]
-forms = ["devlog"]
-themes = ["fondu"]
+types = ["devlog"]
+tags = ["fondu"]
 +++
 
 Fondu devlog #1.

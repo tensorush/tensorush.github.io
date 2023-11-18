@@ -3,8 +3,8 @@ title = "Cosmos Roaming Wonders"
 date = 2023-11-16
 
 [taxonomies]
-forms = ["gallery"]
-themes = ["love"]
+types = ["gallery"]
+tags = ["love"]
 +++
 
 Luminous wonders twirling in close embrace through the ever-growing cosmic void.

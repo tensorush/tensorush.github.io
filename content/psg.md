@@ -3,8 +3,8 @@ title = "Positive Sum Game"
 date = 2023-11-14
 
 [taxonomies]
-forms = ["list"]
-themes = ["life"]
+types = ["list"]
+tags = ["life"]
 +++
 
 Contrary to common thinking life is actually a win-win game.

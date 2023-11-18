@@ -20,21 +20,14 @@
     <footer>
         <hr>
         <p>
-            {% if page.taxonomies.forms %}
-            Posted in
-            {% for form in page.taxonomies.forms %}
-            <a href="{{ get_taxonomy_url(kind="forms", name=form) | safe }}">{{ form }}</a>
-            form
-            {%- if not loop.last %},{% endif %}
+            Posted as
+            {% for type in page.taxonomies.types %}
+            <a href="{{ get_taxonomy_url(kind="types", name=type) | safe }}">{{ type }}</a>
             {% endfor %}
-            {% endif %}
-            {% if page.taxonomies.themes %}
-            themed
-            {% for theme in page.taxonomies.themes %}
-            <a href="{{ get_taxonomy_url(kind="themes", name=theme) | safe }}">{{ theme }}</a>
-            {%- if not loop.last %},{% endif %}
+            tagged
+            {% for tag in page.taxonomies.tags %}
+            <a href="{{ get_taxonomy_url(kind="tags", name=tag) | safe }}">{{ tag }}</a>
             {% endfor %}
-            {% endif %}
         </p>
     </footer>
     {% endblock footer %}

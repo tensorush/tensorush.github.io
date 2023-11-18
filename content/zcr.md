@@ -3,8 +3,8 @@ title = "Zig Code Review"
 date = 2023-11-12
 
 [taxonomies]
-forms = ["code"]
-themes = ["zig"]
+types = ["code"]
+tags = ["zig"]
 +++
 
 Minimal Zig code review snippets.

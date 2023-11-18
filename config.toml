@@ -2,7 +2,7 @@ title = "tensorush"
 generate_feed = true
 author = "Jora Troosh"
 base_url = "https://tensorush.github.io"
-taxonomies = [{ name = "forms" }, { name = "themes" }]
+taxonomies = [{ name = "types" }, { name = "tags" }]
 description = "My personal static site generated with Zola."
 
 [markdown]

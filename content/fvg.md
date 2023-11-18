@@ -3,8 +3,8 @@ title = "Favorite Video Games"
 date = 2023-08-14
 
 [taxonomies]
-forms = ["gallery"]
-themes = ["favorite"]
+types = ["gallery"]
+tags = ["favorite"]
 +++
 
 Video games that have left a mark on my teenage self.

@@ -3,8 +3,8 @@ title = "Not Weird at All"
 date = 2023-11-11
 
 [taxonomies]
-forms = ["poem"]
-themes = ["love"]
+types = ["poem"]
+tags = ["love"]
 +++
 
 Yep, I'm in love with her.

@@ -1,6 +1,10 @@
 +++
 title = "About My Background"
 date = 2023-08-11
+
+[taxonomies]
+types = ["list"]
+tags = ["life"]
 +++
 
 Brief summary of my background.

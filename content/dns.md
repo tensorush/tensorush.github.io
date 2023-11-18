@@ -3,8 +3,8 @@ title = "Don't Underestimate Yourself"
 date = 2023-11-17
 
 [taxonomies]
-forms = ["gallery"]
-themes = ["life"]
+types = ["gallery"]
+tags = ["life"]
 +++
 
 Human body and mind are capable of such regenerative health it becomes a superpower.
