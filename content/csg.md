@@ -7,7 +7,7 @@ types = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 215 [cheer](@/cns.md) stunting skills (24 still missing).
+Snapshot collection of 217 [cheer](@/cns.md) stunting skills (26 still missing).
 
 <!-- more -->
 
@@ -197,6 +197,7 @@ Snapshot collection of 215 [cheer](@/cns.md) stunting skills (24 still missing).
 {{ image(path="scn.webp", desc="Scorpion", link="") }}
 {{ image(path="nmh.webp", desc="One-Arm Handstand", link="https://youtu.be/7ZKyd0rh8ts?t=698") }}
 {{ image(path="slt.webp", desc="Split", link="https://www.instagram.com/p/ChU9abmu0b-") }}
+{{ image(path="dbh.webp", desc="Double Hook", link="") }}
 {{ image(path="hhn.webp", desc="Chin Chin", link="") }}
 {{ gallery_end() }}
 
@@ -224,18 +225,19 @@ Snapshot collection of 215 [cheer](@/cns.md) stunting skills (24 still missing).
 {{ image(path="dlp.webp", desc="Double Up", link="https://youtu.be/vUINVgnZBAQ?t=424") }}
 {{ image(path="tpp.webp", desc="Triple Up", link="https://www.youtube.com/shorts/UeR4EAB5H9Y") }}
 {{ image(path="fnh.webp", desc="Front One and a Half Up", link="https://youtu.be/cyGMvoUV01Y?t=1317") }}
-{{ image(path="bfp.webp", desc="Back Full Up", link="https://www.youtube.com/shorts/buv9M2yegFA") }}
+{{ image(path="fth.webp", desc="Front Two and a Half Up", link="") }}
 {{ image(path="bdp.webp", desc="Back Double Up", link="https://youtu.be/cyGMvoUV01Y?t=1184") }}
+{{ image(path="bfp.webp", desc="Back Full Up", link="https://www.youtube.com/shorts/buv9M2yegFA") }}
 {{ image(path="fld.webp", desc="Full Around", link="https://youtu.be/LV3RCD7S-GE?t=314") }}
 {{ image(path="nnh.webp", desc="One and a Half Around", link="https://youtu.be/u1x7tgvlO3M?t=523") }}
 {{ image(path="dld.webp", desc="Double Around", link="https://youtu.be/emFxJWjvFGQ?t=648") }}
 {{ image(path="hfd.webp", desc="Half Around", link="https://www.instagram.com/p/B8iaMPjFCPm") }}
+{{ image(path="ssm.webp", desc="Side Sumi", link="https://www.youtube.com/shorts/p2XVKhJH3Aw") }}
 {{ image(path="hdd.webp", desc="Handstand Around", link="https://www.youtube.com/shorts/OZg9lVFwJQU") }}
 {{ image(path="hkd.webp", desc="Handski Around", link="https://www.youtube.com/shorts/4sAQu4PxQOA") }}
+{{ image(path="rtw.webp", desc="Around the World", link="https://youtu.be/hw7tZkE-dHk?t=356") }}
 {{ image(path="hcr.webp", desc="Helicopter", link="https://www.youtube.com/shorts/mC6yrsA0Ixk") }}
 {{ image(path="sfh.webp", desc="Starfish", link="https://www.youtube.com/shorts/8ufJn_pcaUw") }}
-{{ image(path="ssm.webp", desc="Side Sumi", link="https://www.youtube.com/shorts/p2XVKhJH3Aw") }}
-{{ image(path="rtw.webp", desc="Around the World", link="https://youtu.be/hw7tZkE-dHk?t=356") }}
 {{ gallery_end() }}
 
 # **Flips - flyer performs a flip in the air**
