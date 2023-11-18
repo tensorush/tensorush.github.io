@@ -1,5 +1,5 @@
 +++
-title = "Zig Style Guide"
+title = "Zig Code Styles"
 date = 2023-10-27
 
 [taxonomies]
@@ -7,7 +7,7 @@ forms = ["table"]
 themes = ["zig"]
 +++
 
-Very opinionated extension to the [Zig style guide](https://ziglang.org/documentation/master/#Style-Guide).
+Very opinionated extensions to the [Zig style guide](https://ziglang.org/documentation/master/#Style-Guide).
 
 <!-- more -->
 

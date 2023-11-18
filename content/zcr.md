@@ -1,5 +1,5 @@
 +++
-title = "Zig Code Review"
+title = "Zig Code Reviews"
 date = 2023-11-12
 
 [taxonomies]

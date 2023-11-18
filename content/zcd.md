@@ -1,5 +1,5 @@
 +++
-title = "Zig Design Patterns"
+title = "Zig Code Idioms"
 date = 2023-09-14
 
 [taxonomies]
@@ -7,7 +7,7 @@ forms = ["list"]
 themes = ["zig"]
 +++
 
-Program design patterns from the [Zig standard library](https://ziglang.org/documentation/master/std).
+Programming idioms from the [Zig standard library](https://ziglang.org/documentation/master/std).
 
 <!-- more -->
 
@@ -42,3 +42,7 @@ Program design patterns from the [Zig standard library](https://ziglang.org/docu
 - ## [Static dispatch (tagged union)](https://zig.news/kristoff/easy-interfaces-with-zig-0100-2hc5)
 
 - ## [Dynamic dispatch (fat pointer)](https://github.com/ziglang/zig/blob/0.11.0/lib/std/mem/Allocator.zig#L14)
+
+- ## [Deferred resource deinitialization](https://github.com/ziglang/zig/blob/0.11.0/lib/std/once.zig#L30)
+
+- ## [Error deferred resource deinitialization](https://github.com/ziglang/zig/blob/0.11.0/lib/std/tz.zig#L92)
