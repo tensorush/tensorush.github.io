@@ -7,7 +7,7 @@ types = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 217 [cheer](@/cns.md) stunting skills (26 still missing).
+Snapshot collection of 219 [cheer](@/cns.md) stunting skills (26 still missing).
 
 <!-- more -->
 
@@ -27,7 +27,7 @@ Snapshot collection of 217 [cheer](@/cns.md) stunting skills (26 still missing).
 {{ image(path="brh.webp", desc="Bree Hays", link="https://www.instagram.com/bvc.bree") }}
 {{ image(path="cpr.webp", desc="Maddie Copper", link="https://www.instagram.com/maddie.copper_") }}
 {{ image(path="bmr.webp", desc="Brooke Emyre", link="https://www.instagram.com/brookeemyre") }}
-{{ image(path="bnt.webp", desc="Skylar Bennett", link="https://www.tiktok.com/@_boogie00") }}
+{{ image(path="bnt.webp", desc="Skylar Bennett", link="https://www.instagram.com/_skylarbennett") }}
 {{ image(path="mls.webp", desc="Alexandra Mathioulakis", link="https://www.instagram.com/alex_lee_xx") }}
 {{ image(path="jnn.webp", desc="Bonde Johnson", link="https://www.instagram.com/bondejohnson") }}
 {{ image(path="bsk.webp", desc="Daniel Buyeske", link="https://www.youtube.com/@danielbuyeske") }}
@@ -40,8 +40,8 @@ Snapshot collection of 217 [cheer](@/cns.md) stunting skills (26 still missing).
 {{ image(path="dsv.webp", desc="Michael Androsov", link="https://www.youtube.com/@booshslays") }}
 {{ image(path="psk.webp", desc="Justin Pulaski", link="https://www.instagram.com/justin_pulaski") }}
 {{ image(path="ctr.webp", desc="Dawan Carter", link="https://www.instagram.com/dawan_andonly") }}
-{{ image(path="wlk.webp", desc="Ronnie Walker", link="https://www.tiktok.com/@rdw_blessed3") }}
-{{ image(path="tmn.webp", desc="Johnny Thompson", link="https://www.tiktok.com/@thomp338") }}
+{{ image(path="wlk.webp", desc="Ronnie Walker", link="https://www.instagram.com/omg_ronnied93") }}
+{{ image(path="tmn.webp", desc="Johnny Thompson", link="https://www.instagram.com/thomp338") }}
 {{ image(path="nnn.webp", desc="Ricky Nunn", link="https://www.instagram.com/xricky_nunnx") }}
 {{ image(path="sdg.webp", desc="Heath Snodgrass", link="https://www.instagram.com/jheath59_03") }}
 {{ gallery_end() }}
@@ -93,10 +93,11 @@ Snapshot collection of 217 [cheer](@/cns.md) stunting skills (26 still missing).
 {{ image(path="gsd.webp", desc="Genie Stand", link="https://youtu.be/RLbde7dYHkI?t=167") }}
 {{ image(path="gst.webp", desc="Genie Sit", link="https://www.youtube.com/shorts/CMK7YeHJ8Mw") }}
 {{ image(path="srr.webp", desc="Star", link="https://www.instagram.com/p/CewuvsKJMnr") }}
+{{ image(path="hmt.webp", desc="Hold My Tea Cup", link="https://www.instagram.com/p/CjiPKa8gQvL") }}
+{{ image(path="hmb.webp", desc="Hold My Beer Jug", link="https://www.instagram.com/p/B6Yi2hFFHj6") }}
+{{ image(path="crl.webp", desc="Cradle", link="https://youtu.be/WBMVkXf3oBU?t=752") }}
 {{ image(path="vsr.webp", desc="Visor", link="https://youtu.be/RLbde7dYHkI?t=235") }}
 {{ image(path="dlv.webp", desc="Double Visor", link="https://youtu.be/7HU_bauP2lI?t=601") }}
-{{ image(path="crl.webp", desc="Cradle", link="https://youtu.be/WBMVkXf3oBU?t=752") }}
-{{ image(path="hmb.webp", desc="Hold My Beer", link="https://www.instagram.com/p/B6Yi2hFFHj6") }}
 {{ gallery_end() }}
 
 # **Tosses - base throws a flyer to a foot grip**
@@ -139,6 +140,7 @@ Snapshot collection of 217 [cheer](@/cns.md) stunting skills (26 still missing).
 {{ image(path="cts.webp", desc="Candle Toss", link="https://youtu.be/Vsq-m_Rd7Zk?t=797") }}
 {{ image(path="rrt.webp", desc="Reusable Rocket Toss", link="https://youtu.be/unErKUN0u5I?t=515") }}
 {{ image(path="hrt.webp", desc="Handski Rocket Toss", link="https://youtu.be/hT_exv5X2_Q?t=702") }}
+{{ image(path="rhh.webp", desc="Reverse Hand to Hand", link="https://www.instagram.com/p/Cq3HSF8LQLN") }}
 {{ image(path="nlc.webp", desc="Inlocate", link="") }}
 {{ gallery_end() }}
 
@@ -230,7 +232,7 @@ Snapshot collection of 217 [cheer](@/cns.md) stunting skills (26 still missing).
 {{ image(path="bfp.webp", desc="Back Full Up", link="https://www.youtube.com/shorts/buv9M2yegFA") }}
 {{ image(path="fld.webp", desc="Full Around", link="https://youtu.be/LV3RCD7S-GE?t=314") }}
 {{ image(path="nnh.webp", desc="One and a Half Around", link="https://youtu.be/u1x7tgvlO3M?t=523") }}
-{{ image(path="dld.webp", desc="Double Around", link="https://youtu.be/emFxJWjvFGQ?t=648") }}
+{{ image(path="dld.webp", desc="Double Around", link="https://www.instagram.com/p/CqX1bDoj03A") }}
 {{ image(path="hfd.webp", desc="Half Around", link="https://www.instagram.com/p/B8iaMPjFCPm") }}
 {{ image(path="ssm.webp", desc="Side Sumi", link="https://www.youtube.com/shorts/p2XVKhJH3Aw") }}
 {{ image(path="hdd.webp", desc="Handstand Around", link="https://www.youtube.com/shorts/OZg9lVFwJQU") }}

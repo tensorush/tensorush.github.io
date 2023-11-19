@@ -14,41 +14,49 @@ Cheer is THE sport!
 # **CHEER makes your body fit!**
 
 {{ gallery_start() }}
-{{ image(path="xpw.webp", desc="Explosive power", link="https://youtu.be/79vJ3IFdDTw?t=650") }}
-{{ image(path="hsn.webp", desc="Enhanced stamina", link="https://youtu.be/8NjlORymE2k?t=90") }}
-{{ image(path="xfb.webp", desc="Extreme flexibility", link="https://www.instagram.com/p/CVbJyM2p4kF") }}
+{{ image(path="xpw.webp", desc="Explosive Power", link="https://youtu.be/79vJ3IFdDTw?t=650") }}
+{{ image(path="hsn.webp", desc="Enhanced Stamina", link="https://youtu.be/8NjlORymE2k?t=90") }}
+{{ image(path="xfb.webp", desc="Extreme Flexibility", link="https://www.instagram.com/p/CVbJyM2p4kF") }}
 {{ gallery_end() }}
 
 # **CHEER keeps your mind sharp!**
 
 {{ gallery_start() }}
-{{ image(path="tsr.webp", desc="Instant reaction", link="https://www.youtube.com/shorts/L1Clzr5PpQE") }}
-{{ image(path="ntt.webp", desc="Intense timing", link="https://www.instagram.com/p/Cq35tZ4gopb") }}
-{{ image(path="ctb.webp", desc="Insane balance", link="https://www.youtube.com/shorts/w8tTT5arJjQ") }}
+{{ image(path="tsr.webp", desc="Instant Reaction", link="https://www.youtube.com/shorts/L1Clzr5PpQE") }}
+{{ image(path="ntt.webp", desc="Intense Timing", link="https://www.instagram.com/p/Cq35tZ4gopb") }}
+{{ image(path="ctb.webp", desc="Insane Balance", link="https://www.youtube.com/shorts/w8tTT5arJjQ") }}
 {{ gallery_end() }}
 
 # **CHEER wakes your inner beast!**
 
 {{ gallery_start() }}
-{{ image(path="pkm.webp", desc="Punk mugs", link="https://youtu.be/u1x7tgvlO3M?t=909") }}
-{{ image(path="tkj.webp", desc="Twunk jokes", link="https://youtu.be/5Fim2JF7-FQ?t=70") }}
-{{ image(path="sks.webp", desc="Sick slaps", link="https://youtu.be/KsHd_mN0a84?t=1050") }}
+{{ image(path="pkm.webp", desc="Punk Mugs", link="https://youtu.be/u1x7tgvlO3M?t=909") }}
+{{ image(path="tkj.webp", desc="Twunk Jokes", link="https://youtu.be/5Fim2JF7-FQ?t=70") }}
+{{ image(path="sks.webp", desc="Sick Slaps", link="https://youtu.be/KsHd_mN0a84?t=1050") }}
 {{ gallery_end() }}
 
 # **CHEER frees your innate rizz!**
 
 {{ gallery_start() }}
-{{ image(path="hdm.webp", desc="Chad moves", link="https://youtu.be/KsHd_mN0a84?t=261") }}
-{{ image(path="wdd.webp", desc="Word drops", link="https://youtu.be/vUINVgnZBAQ?t=62") }}
-{{ image(path="sgl.webp", desc="Swag looks", link="https://youtu.be/MQGwLBnLdro?t=735") }}
+{{ image(path="hdm.webp", desc="Chad Moves", link="https://youtu.be/KsHd_mN0a84?t=261") }}
+{{ image(path="wdd.webp", desc="Word Drops", link="https://youtu.be/vUINVgnZBAQ?t=62") }}
+{{ image(path="sgl.webp", desc="Swag Looks", link="https://youtu.be/MQGwLBnLdro?t=735") }}
 {{ gallery_end() }}
 
 # **CHEER puts athletics among the arts!**
 
 {{ gallery_start() }}
-{{ image(path="pcp.webp", desc="Epic performances", link="https://www.instagram.com/p/CqvwZE_pD2c") }}
-{{ image(path="cxc.webp", desc="Complex choreography", link="https://www.instagram.com/p/Ce-KUkpgH2P") }}
-{{ image(path="dps.webp", desc="Dope sparkles", link="https://youtu.be/K-1FdDov2D8?t=275") }}
+{{ image(path="pcp.webp", desc="Epic Performances", link="https://www.instagram.com/p/CqvwZE_pD2c") }}
+{{ image(path="cxc.webp", desc="Complex Choreography", link="https://www.instagram.com/p/Ce-KUkpgH2P") }}
+{{ image(path="dps.webp", desc="Dope Sparkles", link="https://youtu.be/K-1FdDov2D8?t=275") }}
+{{ gallery_end() }}
+
+# **CHEER armors you up for badass stunting!**
+
+{{ gallery_start() }}
+{{ image(path="nbt.webp", desc="Knee Bands", link="https://www.instagram.com/p/CTNoTn5HQMV") }}
+{{ image(path="wtp.webp", desc="Wrist Tapes", link="https://youtu.be/wTtGxPUQ4H0?t=29") }}
+{{ image(path="lsp.webp", desc="Elbow Straps", link="https://youtu.be/0TN-f7vbnTQ?t=593") }}
 {{ gallery_end() }}
 
 # **CHEER welcomes athletes of all ages alike!**
@@ -78,25 +86,25 @@ Cheer is THE sport!
 # **CHEER belongs under the clear sky rather than behind brick walls!**
 
 {{ gallery_start() }}
-{{ image(path="bnw.webp", desc="Beneath rainbow falls", link="https://www.youtube.com/shorts/0k9akNcmz0I") }}
-{{ image(path="tbs.webp", desc="At blooming sunsets", link="https://www.instagram.com/p/ChU9abmu0b-") }}
-{{ image(path="vtp.webp", desc="Above snowy peaks", link="https://www.youtube.com/shorts/ZigJRgBMiMI") }}
+{{ image(path="bnw.webp", desc="Beneath Rainbow Falls", link="https://www.youtube.com/shorts/0k9akNcmz0I") }}
+{{ image(path="tbs.webp", desc="At Blooming Sunsets", link="https://www.instagram.com/p/ChU9abmu0b-") }}
+{{ image(path="vtp.webp", desc="Above Snowy Peaks", link="https://www.youtube.com/shorts/ZigJRgBMiMI") }}
 {{ gallery_end() }}
 
 # **CHEER awards winning teams and champion individuals not just medals!**
 
 {{ gallery_start() }}
-{{ image(path="jrg.webp", desc="Jeweled rings", link="https://www.instagram.com/p/CZXhwmRp0in") }}
-{{ image(path="gcp.webp", desc="Golden cups", link="https://www.instagram.com/p/CnnBvjmyUke") }}
-{{ image(path="gbt.webp", desc="Giant belts", link="https://vsco.co/elizalabelle/media/653e671a5469ab631268b7cc") }}
+{{ image(path="jrg.webp", desc="Jeweled Rings", link="https://www.instagram.com/p/CZXhwmRp0in") }}
+{{ image(path="gcp.webp", desc="Golden Cups", link="https://www.instagram.com/p/CnnBvjmyUke") }}
+{{ image(path="gbt.webp", desc="Giant Belts", link="https://vsco.co/elizalabelle/media/653e671a5469ab631268b7cc") }}
 {{ gallery_end() }}
 
 # **CHEER instills life appreciation by setting you up for near-death encounters!**
 
 {{ gallery_start() }}
-{{ image(path="dln.webp", desc="Double knockouts", link="https://youtu.be/3ju2179PNC8?t=735") }}
-{{ image(path="wtf.webp", desc="What the fluffs", link="https://youtu.be/Be-Sv_3gx5A?t=752") }}
-{{ image(path="csh.webp", desc="Close shaves", link="https://youtu.be/SonOnjYRtHU?t=373") }}
+{{ image(path="dln.webp", desc="Double Knockouts", link="https://youtu.be/3ju2179PNC8?t=735") }}
+{{ image(path="wtf.webp", desc="What the Fluffs", link="https://youtu.be/Be-Sv_3gx5A?t=752") }}
+{{ image(path="csh.webp", desc="Close Shaves", link="https://youtu.be/SonOnjYRtHU?t=373") }}
 {{ gallery_end() }}
 
 # **CHEER teaches tracking your own progress instead of tricking your next opponent!**
