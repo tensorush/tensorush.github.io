@@ -18,6 +18,14 @@ const item: MyItem = .{}; // Nope
 const item = MyItem.{};   // Yup
 ```
 
+- ## Slice when slice is expected
+
+```zig
+var buf: [4]u8 = undefined;
+const buf_slice = try bufPrint(&buf, "Nope", .{});    // Nope
+const buf_slice = try bufPrint(buf[0..], "Yup", .{}); // Yup
+```
+
 - ## Make everything constant by default
 
 ```zig
