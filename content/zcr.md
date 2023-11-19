@@ -15,7 +15,7 @@ Minimal Zig code review snippets.
 
 ```zig
 const item: MyItem = .{}; // Nope
-const item = MyItem.{};   // Yeap
+const item = MyItem.{};   // Dope
 ```
 
 - ## Slice when slice is expected
@@ -23,7 +23,7 @@ const item = MyItem.{};   // Yeap
 ```zig
 var buf: [4]u8 = undefined;
 const buf_slice = try bufPrint(&buf, "Nope", .{});     // Nope
-const buf_slice = try bufPrint(buf[0..], "Yeap", .{}); // Yeap
+const buf_slice = try bufPrint(buf[0..], "Dope", .{}); // Dope
 ```
 
 - ## Avoid type aliasing altogether
@@ -34,7 +34,7 @@ const testing = std.testing;
 
 try testing.expect(false);
 
-// Yeap
+// Dope
 try sdt.testing.expect(true);
 ```
 
@@ -42,49 +42,49 @@ try sdt.testing.expect(true);
 
 ```zig
 var item = MyItem{};   // Nope
-const item = MyItem{}; // Yeap
+const item = MyItem{}; // Dope
 ```
 
 - ## Use type names instead of type casts
 
 ```zig
 const fld = @as(u8, @intCast(item.fld)); // Nope
-const fld: u8 = @intCast(item.fld);      // Yeap
+const fld: u8 = @intCast(item.fld);      // Dope
 ```
 
 - ## Don't use any extra labels for naming pointers
 
 ```zig
 for (items) |*item_ptr| {...} // Nope
-for (items) |*item| {...}     // Yeap
+for (items) |*item| {...}     // Dope
 ```
 
 - ## Use a short, consistent suffix for naming optionals
 
 ```zig
 if (maybe_item) |item| {...} // Nope
-if (item_opt) |item| {...}   // Yeap
+if (item_opt) |item| {...}   // Dope
 ```
 
 - ## Prefer anonymous structs whenever the type is inferred
 
 ```zig
 return MyItem{ .fld = 42 }; // Nope
-return .{ .fld = 42 };      // Yeap
+return .{ .fld = 42 };      // Dope
 ```
 
 - ## Specify the tested entity's name as the test function's name
 
 ```zig
 test "MyItem" {...} // Nope
-test MyItem {...}   // Yeap
+test MyItem {...}   // Dope
 ```
 
 - ## List the expected value before the actual if the type can be inferred
 
 ```zig
 try sdt.testing.expectEqual(getItem(), exp_item); // Nope
-try sdt.testing.expectEqual(exp_item, getItem()); // Yeap
+try sdt.testing.expectEqual(exp_item, getItem()); // Dope
 ```
 
 - ## Defer resource deinitializations right after respective initializations
@@ -97,7 +97,7 @@ runCriticalSection();
 
 mutex.unlock();
 
-// Yeap
+// Dope
 mutex.lock();
 defer mutex.unlock();
 
@@ -114,7 +114,7 @@ const Item = struct {
     self_opt: ?*Self = null,
 };
 
-// Yeap
+// Dope
 pub fn Item(comptime T: type) type {
     return struct {
         const Self = @This();
