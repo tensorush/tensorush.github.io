@@ -7,7 +7,7 @@ types = ["poem"]
 tags = ["love"]
 +++
 
-Yep, I'm in love with her.
+Yup, I'm in love with her.
 
 <!-- more -->
 
