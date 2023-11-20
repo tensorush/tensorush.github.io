@@ -29,9 +29,9 @@ Snapshot collection of 222 [cheer](@/cns.md) stunting skills (28 still missing).
 {{ image(path="bmr.webp", desc="Brooke Emyre", link="https://www.instagram.com/brookeemyre") }}
 {{ image(path="bnt.webp", desc="Skylar Bennett", link="https://www.instagram.com/_skylarbennett") }}
 {{ image(path="mls.webp", desc="Alexandra Mathioulakis", link="https://www.instagram.com/alex_lee_xx") }}
-{{ image(path="jnn.webp", desc="Bonde Johnson", link="https://www.instagram.com/bondejohnson") }}
-{{ image(path="bsk.webp", desc="Daniel Buyeske", link="https://www.youtube.com/@danielbuyeske") }}
-{{ image(path="skn.webp", desc="Gauge Stricklin", link="https://www.youtube.com/@Strictlycheer") }}
+{{ image(path="jnn.webp", desc="Bonde 'Thirst Trap' Johnson", link="https://www.instagram.com/bondejohnson") }}
+{{ image(path="bsk.webp", desc="Daniel 'Your Father' Buyeske", link="https://www.youtube.com/@danielbuyeske") }}
+{{ image(path="skn.webp", desc="Gauge 'Teddy Bear' Stricklin", link="https://www.youtube.com/@Strictlycheer") }}
 {{ image(path="cls.webp", desc="Mitterson Charles", link="https://www.instagram.com/_mitthappens") }}
 {{ image(path="dbl.webp", desc="Daniel Bailey", link="https://www.youtube.com/@bailcakes") }}
 {{ image(path="dml.webp", desc="Taylor Demler", link="https://www.youtube.com/@t_demler24") }}
