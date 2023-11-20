@@ -23,7 +23,7 @@ Yep, I'm in love with her.
 
 ### **L**atina goddess, rockstar queen blessed for
 
-### **a**ll of time to look her best and most
+### **a**ll of time to be her best and most
 
 ### **B**eautiful! For nothing in the world could more
 

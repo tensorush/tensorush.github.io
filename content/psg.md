@@ -27,7 +27,7 @@ Figure out what you're good at and how to make that useful to others, especially
 
 - ## **Live to Be Your Best Self**
 
-Being kind sounds simple but gets pretty close to impossible when you're in pain yourself. Resist to the very end the assumption that the person next to you is out to hurt you. You never know what someone is going through. Yes, especially when you think that you really do. Don't judge people based on any of their background, instead, see them for who they're trying to become.
+Being kind sounds simple but gets pretty close to impossible when you're in pain yourself. Resist to the very end the assumption that the person next to you is out to hurt you. You never know what someone is going through. Yes, especially when you think that you really do. Don't judge people based on their background, instead, see them for who they're trying to be.
 
 <!-- The Priestess vs The Sun -->
 
