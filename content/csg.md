@@ -87,11 +87,11 @@ Snapshot collection of 222 [cheer](@/cns.md) stunting skills (28 still missing).
 {{ image(path="gvt.webp", desc="Gravity", link="https://www.youtube.com/shorts/5PSboWckPbc") }}
 {{ image(path="ftg.webp", desc="Front Gravity", link="https://youtu.be/3ju2179PNC8?t=273") }}
 {{ image(path="rvg.webp", desc="Reverse Gravity", link="https://www.youtube.com/shorts/NHeg8cdPSpo") }}
-{{ image(path="srt.webp", desc="Shoulder Rest", link="https://www.youtube.com/shorts/B5OVmWPtjII") }}
 {{ image(path="sst.webp", desc="Shoulder Sit", link="https://youtu.be/ApTsZwIDYLU?t=111") }}
+{{ image(path="srt.webp", desc="Shoulder Rest", link="https://www.youtube.com/shorts/B5OVmWPtjII") }}
 {{ image(path="ssd.webp", desc="Shoulder Stand", link="https://youtu.be/SonOnjYRtHU?t=281") }}
-{{ image(path="srr.webp", desc="Star Sit", link="https://www.instagram.com/p/CewuvsKJMnr") }}
 {{ image(path="gst.webp", desc="Genie Sit", link="https://www.youtube.com/shorts/CMK7YeHJ8Mw") }}
+{{ image(path="srr.webp", desc="Genie Rest", link="https://www.instagram.com/p/CewuvsKJMnr") }}
 {{ image(path="gsd.webp", desc="Genie Stand", link="https://youtu.be/RLbde7dYHkI?t=167") }}
 {{ image(path="hmt.webp", desc="Hold My Tea Cup", link="https://www.instagram.com/p/CjiPKa8gQvL") }}
 {{ image(path="hmb.webp", desc="Hold My Beer Jug", link="https://www.instagram.com/p/B6Yi2hFFHj6") }}
