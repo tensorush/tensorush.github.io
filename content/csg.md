@@ -87,12 +87,12 @@ Snapshot collection of 222 [cheer](@/cns.md) stunting skills (28 still missing).
 {{ image(path="gvt.webp", desc="Gravity", link="https://www.youtube.com/shorts/5PSboWckPbc") }}
 {{ image(path="ftg.webp", desc="Front Gravity", link="https://youtu.be/3ju2179PNC8?t=273") }}
 {{ image(path="rvg.webp", desc="Reverse Gravity", link="https://www.youtube.com/shorts/NHeg8cdPSpo") }}
-{{ image(path="ssd.webp", desc="Shoulder Stand", link="https://youtu.be/SonOnjYRtHU?t=281") }}
-{{ image(path="sst.webp", desc="Shoulder Sit", link="https://youtu.be/ApTsZwIDYLU?t=111") }}
 {{ image(path="srt.webp", desc="Shoulder Rest", link="https://www.youtube.com/shorts/B5OVmWPtjII") }}
-{{ image(path="gsd.webp", desc="Genie Stand", link="https://youtu.be/RLbde7dYHkI?t=167") }}
+{{ image(path="sst.webp", desc="Shoulder Sit", link="https://youtu.be/ApTsZwIDYLU?t=111") }}
+{{ image(path="ssd.webp", desc="Shoulder Stand", link="https://youtu.be/SonOnjYRtHU?t=281") }}
+{{ image(path="srr.webp", desc="Star Sit", link="https://www.instagram.com/p/CewuvsKJMnr") }}
 {{ image(path="gst.webp", desc="Genie Sit", link="https://www.youtube.com/shorts/CMK7YeHJ8Mw") }}
-{{ image(path="srr.webp", desc="Star", link="https://www.instagram.com/p/CewuvsKJMnr") }}
+{{ image(path="gsd.webp", desc="Genie Stand", link="https://youtu.be/RLbde7dYHkI?t=167") }}
 {{ image(path="hmt.webp", desc="Hold My Tea Cup", link="https://www.instagram.com/p/CjiPKa8gQvL") }}
 {{ image(path="hmb.webp", desc="Hold My Beer Jug", link="https://www.instagram.com/p/B6Yi2hFFHj6") }}
 {{ image(path="crl.webp", desc="Cradle", link="https://youtu.be/WBMVkXf3oBU?t=752") }}
@@ -156,9 +156,9 @@ Snapshot collection of 222 [cheer](@/cns.md) stunting skills (28 still missing).
 {{ image(path="pph.webp", desc="Pop Through", link="https://youtu.be/REmmtNLAF7Q?t=369") }}
 {{ image(path="rpt.webp", desc="Front Pop Through", link="https://youtu.be/7HU_bauP2lI?t=699") }}
 {{ image(path="spp.webp", desc="Side Pop Through", link="https://www.youtube.com/shorts/RfXsbmoL3zY") }}
+{{ image(path="ppt.webp", desc="Pop Tart", link="https://www.youtube.com/shorts/enKAPA7lPYw") }}
 {{ image(path="tpt.webp", desc="Twisting Pop Through", link="https://www.tiktok.com/@eliza.labelle/video/7094666681926028587") }}
 {{ image(path="tfp.webp", desc="Twisting Front Pop Through", link="https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYanRydnhleXlkAYNh2MgdAYNh2MZXAAAAAA") }}
-{{ image(path="ppt.webp", desc="Pop Tart", link="https://www.youtube.com/shorts/enKAPA7lPYw") }}
 {{ image(path="tkt.webp", desc="Tick Tock", link="https://youtu.be/ey00mPkhMCs?t=234") }}
 {{ image(path="lth.webp", desc="Low to High", link="https://youtu.be/RLbde7dYHkI?t=258") }}
 {{ image(path="hth.webp", desc="High to High", link="https://youtu.be/FZ4A0nTEtkc?t=109") }}
