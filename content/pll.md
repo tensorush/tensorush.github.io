@@ -7,7 +7,7 @@ types = ["list"]
 tags = ["future"]
 +++
 
-Domain-wide shifts of the programming language landscape.
+Domain-wide shifts across the programming language landscape.
 
 <!-- more -->
 
