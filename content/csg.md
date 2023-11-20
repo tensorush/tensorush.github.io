@@ -283,7 +283,7 @@ Snapshot collection of 219 [cheer](@/cns.md) stunting skills (26 still missing).
 {{ image(path="phb.webp", desc="Punch Back", link="") }}
 {{ image(path="rbn.webp", desc="Arabian", link="") }}
 {{ image(path="fts.webp", desc="Full", link="https://www.tiktok.com/@eliza.labelle/video/7164782856630340910") }}
-{{ image(path="dts.webp", desc="Double Full", link="") }}
+{{ image(path="dts.webp", desc="Double", link="") }}
 {{ image(path="kfl.webp", desc="Kick Full", link="") }}
 {{ image(path="kdl.webp", desc="Kick Double", link="") }}
 {{ gallery_end() }}
@@ -293,12 +293,12 @@ Snapshot collection of 219 [cheer](@/cns.md) stunting skills (26 still missing).
 {{ gallery_start() }}
 {{ image(path="std.webp", desc="Straight Ride", link="https://youtu.be/3ju2179PNC8?t=579") }}
 {{ image(path="flt.webp", desc="Full", link="https://youtu.be/HMBSWEz2l24?t=230") }}
-{{ image(path="dlt.webp", desc="Double Full", link="https://youtu.be/3ju2179PNC8?t=715") }}
+{{ image(path="dlt.webp", desc="Double", link="https://youtu.be/3ju2179PNC8?t=715") }}
 {{ image(path="kkf.webp", desc="Kick Full", link="") }}
 {{ image(path="kkd.webp", desc="Kick Double", link="https://youtu.be/qcQLCrjkxCE?t=613") }}
 {{ image(path="kkt.webp", desc="Kick Triple", link="https://www.youtube.com/shorts/Nbn7gLS_RlE") }}
 {{ image(path="btk.webp", desc="Back Tuck", link="https://youtu.be/HMBSWEz2l24?t=174") }}
-{{ image(path="ttk.webp", desc="Twisting Tuck", link="https://www.youtube.com/shorts/go80S3ALk7U") }}
+{{ image(path="rnh.webp", desc="Arabian One and a Half", link="https://www.youtube.com/shorts/3egUyDVmsBQ") }}
 {{ gallery_end() }}
 
 # **Pyramids - at least two bases lift and hold at least one flyer**
