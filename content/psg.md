@@ -33,7 +33,7 @@ Being kind sounds simple but gets pretty close to impossible when you're in pain
 
 - ## **Expand Your Horizons**
 
-Explore the world to its very limits. Be conscious of both the happiness and the horror. Let your heart be swayed by neither.
+Explore the world to its very limits. Be conscious of the happiness, the hardship, and the horror. Let your heart be swayed by neither.
 
 <!-- The Queen vs The Moon -->
 
@@ -75,7 +75,7 @@ You're capable of so much more if you stay composed and persistent. Your attitud
 
 - ## **Choose Your People**
 
-Stay away from the wrong crowd. Bad social influence is hard enough to recognize and even harder to uproot.
+Stay away from the wrong crowd. Bad social influence is hard enough to recognize and even harder to uproot. Don't prolong your social withdrawal phases. Always be looking to connect with others.
 
 <!-- Fortune vs Fortitude -->
 
