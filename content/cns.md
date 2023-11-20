@@ -51,7 +51,7 @@ Cheer is THE sport!
 {{ image(path="dps.webp", desc="Dope Sparkles", link="https://youtu.be/K-1FdDov2D8?t=275") }}
 {{ gallery_end() }}
 
-# **CHEER armors you up for badass stunting!**
+# **CHEER armors you up for badass stunts!**
 
 {{ gallery_start() }}
 {{ image(path="nbt.webp", desc="Knee Bands", link="https://www.instagram.com/p/CTNoTn5HQMV") }}
