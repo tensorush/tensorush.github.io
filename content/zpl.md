@@ -14,10 +14,10 @@ General advice around structuring Zig codebases.
 - ## Root directory should contain .git files.
 
 ```sh
-// .gitattributes
+# .gitattributes
 *.zig text eol=lf
 
-// .gitignore
+# .gitignore
 zig-cache/
 zig-out/
 ```
@@ -38,7 +38,7 @@ zig-out/
 }
 ```
 
-- ## Root library file should have its name, expose its public API, define its error set, and reference all tests.
+- ## Root library file should have its name, expose public API, define an error set, and reference tests.
 
 ```zig
 //! Root library file `library_name.zig` that exposes the public API.
