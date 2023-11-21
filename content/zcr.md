@@ -26,18 +26,6 @@ const buf_slice = try bufPrint(&buf, "Nope", .{});     // Nope
 const buf_slice = try bufPrint(buf[0..], "Dope", .{}); // Dope
 ```
 
-- ## Avoid type aliasing altogether
-
-```zig
-// Nope
-const testing = std.testing;
-
-try testing.expect(false);
-
-// Dope
-try sdt.testing.expect(true);
-```
-
 - ## Make everything constant by default
 
 ```zig
@@ -52,6 +40,18 @@ const fld = @as(u8, @intCast(item.fld)); // Nope
 const fld: u8 = @intCast(item.fld);      // Dope
 ```
 
+- ## Try to avoid type aliasing altogether
+
+```zig
+// Nope
+const testing = std.testing;
+
+try testing.expect(false);
+
+// Dope
+try sdt.testing.expect(true);
+```
+
 - ## Don't use any extra labels for naming pointers
 
 ```zig
@@ -59,11 +59,25 @@ for (items) |*item_ptr| {...} // Nope
 for (items) |*item| {...}     // Dope
 ```
 
+- ## Provide printing format specifiers for numbers
+
+```zig
+std.debug.print("{}", .{int_or_float});  // Nope
+std.debug.print("{d}", .{int_or_float}); // Dope
+```
+
 - ## Use a short, consistent suffix for naming optionals
 
 ```zig
 if (maybe_item) |item| {...} // Nope
 if (item_opt) |item| {...}   // Dope
+```
+
+- ## Use a short, consistent suffix for naming iterators
+
+```zig
+while (iter.next()) |v| {...}          // Nope
+while (items_iter.next()) |item| {...} // Dope
 ```
 
 - ## Prefer anonymous structs whenever the type is inferred
@@ -78,6 +92,13 @@ return .{ .fld = 42 };      // Dope
 ```zig
 test "MyItem" {...} // Nope
 test MyItem {...}   // Dope
+```
+
+- ## Use a short, consistent suffix for naming string-formatted values
+
+```zig
+const item_name = @tagName(item_tag);    // Nope
+const item_tag_str = @tagName(item_tag); // Dope
 ```
 
 - ## List the expected value before the actual if the type can be inferred
