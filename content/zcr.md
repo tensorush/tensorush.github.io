@@ -52,18 +52,18 @@ try testing.expect(false);
 try sdt.testing.expect(true);
 ```
 
+- ## Provide formatting specifiers for numbers
+
+```zig
+std.debug.print("{}", .{int_or_float});  // Nope
+std.debug.print("{d}", .{int_or_float}); // Dope
+```
+
 - ## Don't use any extra labels for naming pointers
 
 ```zig
 for (items) |*item_ptr| {...} // Nope
 for (items) |*item| {...}     // Dope
-```
-
-- ## Provide printing format specifiers for numbers
-
-```zig
-std.debug.print("{}", .{int_or_float});  // Nope
-std.debug.print("{d}", .{int_or_float}); // Dope
 ```
 
 - ## Use a short, consistent suffix for naming optionals

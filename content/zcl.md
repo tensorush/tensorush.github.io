@@ -38,7 +38,7 @@ zig-out/
 }
 ```
 
-- ## Root library file should have its name, expose the public API and error set, and reference tests.
+- ## Root library file should have the same name, reference tests, expose the public API and error set.
 
 ```zig
 //! Root library file `library_name.zig` that exposes the public API.
