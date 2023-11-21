@@ -63,6 +63,7 @@ a:hover {
 
 a[itemprop=url] {
     color: #f6a516;
+    font-weight: bold;
 }
 
 a[itemprop=url]:hover {
