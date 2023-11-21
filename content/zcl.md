@@ -1,5 +1,5 @@
 +++
-title = "Zig Project Layout"
+title = "Zig Code Layout"
 date = 2023-11-21
 
 [taxonomies]
