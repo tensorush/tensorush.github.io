@@ -7,7 +7,7 @@ types = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 222 [cheer](@/cns.md) stunting skills (28 still missing).
+Snapshot collection of 226 [cheer](@/cns.md) stunting skills (30 still missing).
 
 <!-- more -->
 
@@ -120,6 +120,7 @@ Snapshot collection of 222 [cheer](@/cns.md) stunting skills (28 still missing).
 {{ image(path="rts.webp", desc="Rocket Toss", link="https://www.instagram.com/p/CJm5rF-l2vV") }}
 {{ image(path="slp.webp", desc="Straddle Up", link="https://youtu.be/04Wp0TIXF7A?t=604") }}
 {{ image(path="blp.webp", desc="Ball Up", link="https://youtu.be/KsHd_mN0a84?t=73") }}
+{{ image(path="lvt.webp", desc="Elevator", link="https://youtu.be/SonOnjYRtHU?t=483") }}
 {{ gallery_end() }}
 
 # **Handstands - base throws a flyer to a hand grip**
@@ -139,7 +140,7 @@ Snapshot collection of 222 [cheer](@/cns.md) stunting skills (28 still missing).
 {{ image(path="fpp.webp", desc="Flip Up", link="https://www.instagram.com/p/CjgHsjZpGbe") }}
 {{ image(path="cts.webp", desc="Candle Toss", link="https://youtu.be/Vsq-m_Rd7Zk?t=797") }}
 {{ image(path="rrt.webp", desc="Reusable Rocket Toss", link="https://youtu.be/unErKUN0u5I?t=515") }}
-{{ image(path="hrt.webp", desc="Handski Rocket Toss", link="https://youtu.be/hT_exv5X2_Q?t=702") }}
+{{ image(path="hrt.webp", desc="Hand Rocket Toss", link="https://youtu.be/hT_exv5X2_Q?t=702") }}
 {{ image(path="hrd.webp", desc="Hand Rewind", link="") }}
 {{ image(path="hhr.webp", desc="Half Hand Rewind", link="") }}
 {{ image(path="fhr.webp", desc="Full Hand Rewind", link="https://youtu.be/SwaejeJ8kPk?t=681") }}
@@ -354,6 +355,9 @@ Snapshot collection of 222 [cheer](@/cns.md) stunting skills (28 still missing).
 {{ image(path="wcs.webp", desc="With Claps", link="https://youtu.be/kho1vUX_cpg?t=49") }}
 {{ image(path="bbs.webp", desc="Above Brows", link="https://youtu.be/Be-Sv_3gx5A?t=894") }}
 {{ image(path="wws.webp", desc="With Weights", link="https://youtu.be/ND_VqTi_790?t=980") }}
+{{ image(path="ftd.webp", desc="Fist to Hand", link="https://youtu.be/SonOnjYRtHU?t=838") }}
+{{ image(path="htf.webp", desc="Hand to Fist", link="") }}
+{{ image(path="ftt.webp", desc="Fist to Fist", link="") }}
 {{ image(path="nfd.webp", desc="No Flick Dead Toss", link="https://www.youtube.com/shorts/dfQk0g-JVy4") }}
 {{ image(path="ndd.webp", desc="No Dip Dead Toss", link="https://youtu.be/ApTsZwIDYLU?t=473") }}
 {{ image(path="nnd.webp", desc="No Nothing Dead Toss", link="https://youtu.be/6Kg652x0R9Y?t=160") }}

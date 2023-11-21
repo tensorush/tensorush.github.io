@@ -40,7 +40,7 @@ Cheer is THE sport!
 {{ gallery_start() }}
 {{ image(path="hdm.webp", desc="Chad Moves", link="https://youtu.be/KsHd_mN0a84?t=261") }}
 {{ image(path="wdd.webp", desc="Word Drops", link="https://youtu.be/vUINVgnZBAQ?t=62") }}
-{{ image(path="sgl.webp", desc="Swag Looks", link="https://youtu.be/MQGwLBnLdro?t=735") }}
+{{ image(path="sgl.webp", desc="Swag Looks", link="https://youtu.be/u1x7tgvlO3M?t=534") }}
 {{ gallery_end() }}
 
 # **CHEER puts athletics among the arts!**
