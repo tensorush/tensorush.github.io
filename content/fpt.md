@@ -21,7 +21,7 @@ One of my places of worship. Instead of prayers, though, I say thank yous.
 
 # **To David Foster Wallace...**
 
-{{ center_image(path="dfw.webp", desc="... for giving my favorite commencement speech. None of the other ones resonated with me as deeply. I feel so fortunate it was the very first one I've heard right before graduating high school. Thank you.", link="https://www.youtube.com/watch?v=DCbGM4mqEVw") }}
+{{ center_image(path="dfw.webp", desc="... for giving my favorite commencement speech. None of the other ones were as brutally honest, none of the other ones resonated with me as deeply. I feel so fortunate it was the very first one I've heard right before graduating high school. Thank you.", link="https://www.youtube.com/watch?v=DCbGM4mqEVw") }}
 
 # **To Randolph Frederick Pausch...**
 
