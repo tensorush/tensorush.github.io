@@ -319,14 +319,14 @@ Snapshot collection of 226 [cheer](@/cns.md) stunting skills (30 still missing).
 # **Extras - stunts turn extra hard**
 
 {{ gallery_start() }}
-{{ image(path="tbk.webp", desc="Buyeske Spin", link="https://youtu.be/vmu1ZInhbjw?t=207") }}
-{{ image(path="bdn.webp", desc="Bondan Grip", link="https://youtu.be/qjbRUuxKr3Q?t=552") }}
-{{ image(path="tjn.webp", desc="Johnson Tuck", link="https://youtu.be/vUINVgnZBAQ?t=851") }}
+{{ image(path="tbk.webp", desc="Buyeske", link="https://youtu.be/vmu1ZInhbjw?t=207") }}
+{{ image(path="bdn.webp", desc="Bondan", link="https://youtu.be/qjbRUuxKr3Q?t=552") }}
+{{ image(path="tjn.webp", desc="Hybrid", link="https://youtu.be/vUINVgnZBAQ?t=851") }}
 {{ image(path="mtl.webp", desc="Immediate Lib", link="https://youtu.be/HMBSWEz2l24?t=316") }}
 {{ image(path="mth.webp", desc="Immediate Torch", link="https://youtu.be/Be-Sv_3gx5A?t=494") }}
 {{ image(path="mts.webp", desc="Immediate Stretch", link="https://youtu.be/cyGMvoUV01Y?t=1295") }}
 {{ image(path="mbq.webp", desc="Immediate Arabesque", link="https://www.youtube.com/shorts/MWDPzFVQrfI") }}
-{{ image(path="cjt.webp", desc="CJ Turnaround", link="https://www.tiktok.com/@cj_wino/video/7103568884883672366") }}
+{{ image(path="cjt.webp", desc="Turnaround", link="https://www.tiktok.com/@cj_wino/video/7103568884883672366") }}
 {{ image(path="msh.webp", desc="Arm Switch", link="https://www.instagram.com/p/Cgh1EzEuUMa") }}
 {{ image(path="nrm.webp", desc="One Arm", link="https://youtu.be/REmmtNLAF7Q?t=150") }}
 {{ image(path="mgr.webp", desc="Merry-Go-Round", link="https://youtu.be/eVhUyqQIjbY?t=1212") }}
