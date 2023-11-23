@@ -13,6 +13,16 @@ tags = ["software"]
 
 # **Zig Libraries**
 
+- ## 🦎 🪀 zig spin
+
+[![ST][zig-spin-st-shd]][zig-spin-st-url]
+[![CI][zig-spin-ci-shd]][zig-spin-ci-url]
+[![CD][zig-spin-cd-shd]][zig-spin-cd-url]
+[![DC][zig-spin-dc-shd]][zig-spin-dc-url]
+[![LC][zig-spin-lc-shd]][zig-spin-lc-url]
+
+Zig SDK for the [Spin](https://github.com/fermyon/spin) serverless application framework created by [@fermyon](https://github.com/fermyon).
+
 - ## 🦎 🛩️ flightplan
 
 [![ST][flightplan-st-shd]][flightplan-st-url]
@@ -24,15 +34,16 @@ tags = ["software"]
 
 [Flight plan](https://en.wikipedia.org/wiki/Flight_plan) parsing utilities based on the [libflightplan repo](https://github.com/mitchellh/libflightplan) created by [@mitchellh](https://github.com/mitchellh).
 
-- ## 🦎 🪀 zig spin
+- ## 🦎 📢 zig signal
 
-[![ST][zig-spin-st-shd]][zig-spin-st-url]
-[![CI][zig-spin-ci-shd]][zig-spin-ci-url]
-[![CD][zig-spin-cd-shd]][zig-spin-cd-url]
-[![DC][zig-spin-dc-shd]][zig-spin-dc-url]
-[![LC][zig-spin-lc-shd]][zig-spin-lc-url]
+[![ST][zig-signal-st-shd]][zig-signal-st-url]
+[![CI][zig-signal-ci-shd]][zig-signal-ci-url]
+[![CD][zig-signal-cd-shd]][zig-signal-cd-url]
+[![DC][zig-signal-dc-shd]][zig-signal-dc-url]
+[![CC][zig-signal-cc-shd]][zig-signal-cc-url]
+[![LC][zig-signal-lc-shd]][zig-signal-lc-url]
 
-Zig SDK for the [Spin](https://github.com/fermyon/spin) serverless application framework created by [@fermyon](https://github.com/fermyon).
+Zig port of the [signal synchronisation primitive](https://github.com/Gerold103/serverbox/blob/master/src/mg/common/Signal.cpp) created by [@Gerold103](https://github.com/Gerold103).
 
 - ## 🦎 🎛️ zig mpsc
 
@@ -44,17 +55,6 @@ Zig SDK for the [Spin](https://github.com/fermyon/spin) serverless application f
 [![LC][zig-mpsc-lc-shd]][zig-mpsc-lc-url]
 
 Zig port of the [intrusive wait-free MPSC queue](https://www.1024cores.net/home/lock-free-algorithms/queues/intrusive-mpsc-node-based-queue) created by [@dvyukov](https://github.com/dvyukov).
-
-- ## 🦎 📢 zig signal
-
-[![ST][zig-signal-st-shd]][zig-signal-st-url]
-[![CI][zig-signal-ci-shd]][zig-signal-ci-url]
-[![CD][zig-signal-cd-shd]][zig-signal-cd-url]
-[![DC][zig-signal-dc-shd]][zig-signal-dc-url]
-[![CC][zig-signal-cc-shd]][zig-signal-cc-url]
-[![LC][zig-signal-lc-shd]][zig-signal-lc-url]
-
-Zig port of the [Signal synchronisation primitive](https://github.com/Gerold103/serverbox/blob/master/src/mg/common/Signal.cpp) created by [@Gerold103](https://github.com/Gerold103).
 
 - ## 🦎 #️⃣ zig komihash
 
