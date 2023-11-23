@@ -2,6 +2,7 @@
     font-size: medium;
     line-height: 33px;
     box-sizing: border-box;
+    overflow-wrap: break-word;
     text-rendering: geometricPrecision;
     font-family: Menlo, monospace, sans-serif;
 }
@@ -15,6 +16,7 @@ html {
 body {
     margin: 0 80px;
     max-width: 1000px;
+    -webkit-font-smoothing: antialiased;
 }
 
 strong {
