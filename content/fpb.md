@@ -17,11 +17,11 @@ Personal blogs that I've been subscribed to for quite a while now.
 |            [Loris Cro](https://kristoff.it/blog/)            |                    [Joscha Bach](http://bach.ai)                    |            [Bret Victor](http://worrydream.com)             |
 |             [Ayaz Hafiz](https://ayazhafiz.com)              |         [Jared Tumiel](https://jaredtumiel.github.io/blog/)         |     [Paul Graham](http://paulgraham.com/articles.html)      |
 |           [Brian Chen](https://blog.vero.site/all)           |        [Possibly Wrong](https://possiblywrong.wordpress.com)        |         [Randall Munroe](https://xkcd.com/archive/)         |
-|          [Phil Eaton](https://notes.eatonphil.com)           |       [Scott Alexander](https://astralcodexten.substack.com)        | [Dan Benoni & Louis-Xavier Lavallee](https://growth.design) |
-|        [George Hotz](https://geohot.github.io/blog/)         | [Stephen Wolfram](https://writings.stephenwolfram.com/all-by-date/) |                                                             |
-|           [Alex Kladov](https://matklad.github.io)           |       [Eliezer Yudkowsky](https://www.yudkowsky.net/sitemap/)       |                                                             |
-|           [Jakub Konka](http://www.jakubkonka.com)           |      [Tai-Danae Bradley](https://www.math3ma.com/categories/)       |                                                             |
-|                [Julia Evans](https://jvns.ca)                |                                                                     |                                                             |
+|          [Phil Eaton](https://notes.eatonphil.com)           |          [Richard Sutton](http://www.incompleteideas.net)           | [Dan Benoni & Louis-Xavier Lavallee](https://growth.design) |
+|        [George Hotz](https://geohot.github.io/blog/)         |       [Scott Alexander](https://astralcodexten.substack.com)        |                                                             |
+|           [Alex Kladov](https://matklad.github.io)           | [Stephen Wolfram](https://writings.stephenwolfram.com/all-by-date/) |                                                             |
+|           [Jakub Konka](http://www.jakubkonka.com)           |       [Eliezer Yudkowsky](https://www.yudkowsky.net/sitemap/)       |                                                             |
+|                [Julia Evans](https://jvns.ca)                |      [Tai-Danae Bradley](https://www.math3ma.com/categories/)       |                                                             |
 |           [Drew DeVault](https://drewdevault.com)            |                                                                     |                                                             |
 |        [Igor Zhirkov](https://rubber-duck-typing.com)        |                                                                     |                                                             |
 |              [King Butcher](https://kprotty.me)              |                                                                     |                                                             |

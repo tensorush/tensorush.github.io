@@ -13,7 +13,7 @@ Brief summary of my background.
 
 # **General**
 
-Check out my [CV](https://tensorush.github.io/cv/en.pdf) for all of the academics, jobs, projects, and socials.
+Check out my [Curriculum Vitae](https://tensorush.github.io/cv/en.pdf) for the relevant academics, jobs, projects, and socials.
 
 # **Sports**
 
