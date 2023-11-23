@@ -38,18 +38,23 @@ Zig SDK for the [Spin](https://github.com/fermyon/spin) serverless application f
 
 [![ST][zig-mpsc-st-shd]][zig-mpsc-st-url]
 [![CI][zig-mpsc-ci-shd]][zig-mpsc-ci-url]
+[![CD][zig-mpsc-cd-shd]][zig-mpsc-cd-url]
+[![DC][zig-mpsc-dc-shd]][zig-mpsc-dc-url]
 [![CC][zig-mpsc-cc-shd]][zig-mpsc-cc-url]
 [![LC][zig-mpsc-lc-shd]][zig-mpsc-lc-url]
 
 Zig port of the [intrusive wait-free MPSC queue](https://www.1024cores.net/home/lock-free-algorithms/queues/intrusive-mpsc-node-based-queue) created by [@dvyukov](https://github.com/dvyukov).
 
-- ## 🦎 📢 zignal
+- ## 🦎 📢 zig signal
 
-[![ST][zignal-st-shd]][zignal-st-url]
-[![CI][zignal-ci-shd]][zignal-ci-url]
-[![LC][zignal-lc-shd]][zignal-lc-url]
+[![ST][zig-signal-st-shd]][zig-signal-st-url]
+[![CI][zig-signal-ci-shd]][zig-signal-ci-url]
+[![CD][zig-signal-cd-shd]][zig-signal-cd-url]
+[![DC][zig-signal-dc-shd]][zig-signal-dc-url]
+[![CC][zig-signal-cc-shd]][zig-signal-cc-url]
+[![LC][zig-signal-lc-shd]][zig-signal-lc-url]
 
-Signal synchronisation primitive for the [Zig programming language](https://ziglang.org/).
+Zig port of the [Signal synchronisation primitive](https://github.com/Gerold103/serverbox/blob/master/src/mg/common/Signal.cpp) created by [@Gerold103](https://github.com/Gerold103).
 
 - ## 🦎 #️⃣ zig komihash
 
@@ -312,19 +317,29 @@ My [NixOS](https://nixos.org) configuration flakes.
 [zig-mpsc-st-url]: https://github.com/tensorush/zig-mpsc
 [zig-mpsc-ci-shd]: https://img.shields.io/github/actions/workflow/status/tensorush/zig-mpsc/ci.yaml?branch=main&style=for-the-badge&logo=github&label=CI&labelColor=black
 [zig-mpsc-ci-url]: https://github.com/tensorush/zig-mpsc/blob/main/.github/workflows/ci.yaml
+[zig-mpsc-cd-shd]: https://img.shields.io/github/actions/workflow/status/tensorush/zig-mpsc/cd.yaml?branch=main&style=for-the-badge&logo=github&label=CD&labelColor=black
+[zig-mpsc-cd-url]: https://github.com/tensorush/zig-mpsc/blob/main/.github/workflows/cd.yaml
+[zig-mpsc-dc-shd]: https://img.shields.io/badge/click-F6A516?style=for-the-badge&logo=zig&logoColor=F6A516&label=docs&labelColor=black
+[zig-mpsc-dc-url]: https://tensorush.github.io/zig-mpsc
 [zig-mpsc-cc-shd]: https://img.shields.io/codecov/c/github/tensorush/zig-mpsc?style=for-the-badge&labelColor=black
 [zig-mpsc-cc-url]: https://app.codecov.io/gh/tensorush/zig-mpsc
 [zig-mpsc-lc-shd]: https://img.shields.io/github/license/tensorush/zig-mpsc.svg?style=for-the-badge&labelColor=black
 [zig-mpsc-lc-url]: https://github.com/tensorush/zig-mpsc/blob/main/LICENSE.md
 
-<!-- zignal -->
+<!-- zig signal -->
 
-[zignal-st-shd]: https://img.shields.io/badge/developing-FFDEAD?style=for-the-badge
-[zignal-st-url]: https://github.com/tensorush/zignal
-[zignal-ci-shd]: https://img.shields.io/github/actions/workflow/status/tensorush/zignal/ci.yaml?branch=main&style=for-the-badge&logo=github&label=CI&labelColor=black
-[zignal-ci-url]: https://github.com/tensorush/zignal/blob/main/.github/workflows/ci.yaml
-[zignal-lc-shd]: https://img.shields.io/github/license/tensorush/zignal.svg?style=for-the-badge&labelColor=black
-[zignal-lc-url]: https://github.com/tensorush/zignal/blob/main/LICENSE.md
+[zig-signal-st-shd]: https://img.shields.io/badge/maintaining-353935?style=for-the-badge
+[zig-signal-st-url]: https://github.com/tensorush/zig-signal
+[zig-signal-ci-shd]: https://img.shields.io/github/actions/workflow/status/tensorush/zig-signal/ci.yaml?branch=main&style=for-the-badge&logo=github&label=CI&labelColor=black
+[zig-signal-ci-url]: https://github.com/tensorush/zig-signal/blob/main/.github/workflows/ci.yaml
+[zig-signal-cd-shd]: https://img.shields.io/github/actions/workflow/status/tensorush/zig-signal/cd.yaml?branch=main&style=for-the-badge&logo=github&label=CD&labelColor=black
+[zig-signal-cd-url]: https://github.com/tensorush/zig-signal/blob/main/.github/workflows/cd.yaml
+[zig-signal-dc-shd]: https://img.shields.io/badge/click-F6A516?style=for-the-badge&logo=zig&logoColor=F6A516&label=docs&labelColor=black
+[zig-signal-dc-url]: https://tensorush.github.io/zig-signal
+[zig-signal-cc-shd]: https://img.shields.io/codecov/c/github/tensorush/zig-signal?style=for-the-badge&labelColor=black
+[zig-signal-cc-url]: https://app.codecov.io/gh/tensorush/zig-signal
+[zig-signal-lc-shd]: https://img.shields.io/github/license/tensorush/zig-signal.svg?style=for-the-badge&labelColor=black
+[zig-signal-lc-url]: https://github.com/tensorush/zig-signal/blob/main/LICENSE.md
 
 <!-- zig donut -->
 
