@@ -7,7 +7,7 @@ types = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 233 [cheer](@/cns.md) stunting skills (33 still missing).
+Snapshot collection of 235 [cheer](@/cns.md) stunting skills (34 still missing).
 
 <!-- more -->
 
@@ -169,6 +169,8 @@ Snapshot collection of 233 [cheer](@/cns.md) stunting skills (33 still missing).
 {{ image(path="rcl.webp", desc="Recoil", link="https://www.youtube.com/shorts/B5OVmWPtjII") }}
 {{ image(path="hpv.webp", desc="Handski Pop Over", link="https://youtu.be/SwaejeJ8kPk?t=941") }}
 {{ image(path="swv.webp", desc="Slinky Walk Over", link="https://www.youtube.com/shorts/_Q2Q1rmMYc0") }}
+{{ image(path="rsp.webp", desc="Half Step Up", link="https://youtu.be/QZOnM7xWtnM?t=494") }}
+{{ image(path="ppp.webp", desc="Full Step Up", link="") }}
 {{ gallery_end() }}
 
 # **Dismounts - flyer comes down from a stunt**
