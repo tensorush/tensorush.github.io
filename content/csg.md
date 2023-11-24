@@ -158,8 +158,8 @@ Snapshot collection of 235 [cheer](@/cns.md) stunting skills (34 still missing).
 {{ image(path="rpt.webp", desc="Front Pop Through", link="https://youtu.be/7HU_bauP2lI?t=699") }}
 {{ image(path="spp.webp", desc="Side Pop Through", link="https://www.youtube.com/shorts/RfXsbmoL3zY") }}
 {{ image(path="ppt.webp", desc="Pop Tart", link="https://www.youtube.com/shorts/enKAPA7lPYw") }}
-{{ image(path="tpt.webp", desc="Twisting Pop Through", link="https://www.tiktok.com/@eliza.labelle/video/7094666681926028587") }}
-{{ image(path="tfp.webp", desc="Twisting Front Pop Through", link="https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYanRydnhleXlkAYNh2MgdAYNh2MZXAAAAAA") }}
+{{ image(path="tpt.webp", desc="Full Twisting Pop Through", link="https://www.tiktok.com/@eliza.labelle/video/7094666681926028587") }}
+{{ image(path="tfp.webp", desc="Full Twisting Front Pop Through", link="https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYanRydnhleXlkAYNh2MgdAYNh2MZXAAAAAA") }}
 {{ image(path="tkt.webp", desc="Tick Tock", link="https://youtu.be/ey00mPkhMCs?t=234") }}
 {{ image(path="lth.webp", desc="Low to High", link="https://youtu.be/RLbde7dYHkI?t=258") }}
 {{ image(path="hth.webp", desc="High to High", link="https://youtu.be/FZ4A0nTEtkc?t=109") }}
@@ -258,11 +258,11 @@ Snapshot collection of 235 [cheer](@/cns.md) stunting skills (34 still missing).
 {{ image(path="spm.webp", desc="Superman", link="https://youtu.be/3pC9y3dZVrU?t=717") }}
 {{ image(path="ntn.webp", desc="One to One", link="https://youtu.be/SwaejeJ8kPk?t=477") }}
 {{ image(path="ftf.webp", desc="Fast Forward", link="https://youtu.be/u1x7tgvlO3M?t=518") }}
-{{ image(path="ftw.webp", desc="Twisting Rewind", link="https://youtu.be/DfFdPsbxVPQ?t=612") }}
+{{ image(path="ftw.webp", desc="Full Twisting Rewind", link="https://youtu.be/DfFdPsbxVPQ?t=612") }}
 {{ image(path="ftp.webp", desc="Front Tuck Up", link="https://youtu.be/u1x7tgvlO3M?t=736") }}
-{{ image(path="tsg.webp", desc="Twisting Shotgun", link="https://www.youtube.com/shorts/6vRE2dBZef4") }}
-{{ image(path="tsm.webp", desc="Twisting Superman", link="https://www.tiktok.com/@_boogie00/video/7079766706289200430") }}
-{{ image(path="tsw.webp", desc="Twisting Walk In", link="") }}
+{{ image(path="tsg.webp", desc="Full Twisting Shotgun", link="https://www.youtube.com/shorts/6vRE2dBZef4") }}
+{{ image(path="tsm.webp", desc="Full Twisting Superman", link="https://www.tiktok.com/@_boogie00/video/7079766706289200430") }}
+{{ image(path="tsw.webp", desc="Full Twisting Walk In", link="") }}
 {{ image(path="rds.webp", desc="Rewinding Shotgun", link="https://www.youtube.com/shorts/9mTdZ0EqkHk") }}
 {{ image(path="wht.webp", desc="One-Handed Shotgun", link="https://www.youtube.com/shorts/5mLWtcbPUwk") }}
 {{ image(path="fnn.webp", desc="Full One to One", link="https://www.instagram.com/p/Cc59_tJptB-") }}

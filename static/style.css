@@ -14,7 +14,7 @@ html {
 }
 
 body {
-    margin: 0 80px;
+    margin: 0 60px;
     max-width: 1000px;
     -webkit-font-smoothing: antialiased;
 }
@@ -148,7 +148,7 @@ hr:after {
 }
 
 .image {
-    width: 285px;
+    width: 300px;
 }
 
 .caption {
@@ -162,7 +162,7 @@ hr:after {
 
 .gallery-start {
     display: grid;
-    grid-template-columns: 300px 300px 300px;
+    grid-template-columns: 315px 315px 315px;
 }
 
 .gallery-end {
@@ -170,8 +170,8 @@ hr:after {
 }
 
 .center-figure {
-    padding: 10px 30px 0;
-    margin: 10px 30px -30px;
+    padding: 10px 40px 0;
+    margin: 10px 40px -30px;
 }
 
 .center-image {
