@@ -7,7 +7,7 @@ types = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 235 [cheer](@/cns.md) stunting skills (34 still missing).
+Snapshot collection of 236 [cheer](@/cns.md) stunting skills (34 still missing).
 
 <!-- more -->
 
@@ -265,6 +265,7 @@ Snapshot collection of 235 [cheer](@/cns.md) stunting skills (34 still missing).
 {{ image(path="tsw.webp", desc="Full Twisting Walk In", link="") }}
 {{ image(path="rds.webp", desc="Rewinding Shotgun", link="https://www.youtube.com/shorts/9mTdZ0EqkHk") }}
 {{ image(path="wht.webp", desc="One-Handed Shotgun", link="https://www.youtube.com/shorts/5mLWtcbPUwk") }}
+{{ image(path="bsg.webp", desc="Back Shotgun", link="https://www.youtube.com/shorts/65u8P95FbwI") }}
 {{ image(path="fnn.webp", desc="Full One to One", link="https://www.instagram.com/p/Cc59_tJptB-") }}
 {{ gallery_end() }}
 
