@@ -372,4 +372,4 @@ Snapshot collection of 233 [cheer](@/cns.md) stunting skills (33 still missing).
 
 # **Easter Egg**
 
-{{ center_image(path="hbd.webp", desc="Hybrid Cheer", link="https://www.youtube.com/@danielbuyeske") }}
+{{ center_image(path="hbd.webp", desc="Hybrid Cheer", link="https://www.patreon.com/danielbuyeske") }}
