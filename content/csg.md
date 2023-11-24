@@ -7,7 +7,7 @@ types = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 226 [cheer](@/cns.md) stunting skills (30 still missing).
+Snapshot collection of 227 [cheer](@/cns.md) stunting skills (29 still missing).
 
 <!-- more -->
 
@@ -253,16 +253,17 @@ Snapshot collection of 226 [cheer](@/cns.md) stunting skills (30 still missing).
 {{ image(path="stn.webp", desc="Shotgun", link="https://youtu.be/CDZ0CePSQ40?t=261") }}
 {{ image(path="fsg.webp", desc="Front Shotgun", link="https://www.instagram.com/p/CkKDH2mJLgm") }}
 {{ image(path="rwd.webp", desc="Rewind", link="https://youtu.be/LV3RCD7S-GE?t=375") }}
-{{ image(path="ftw.webp", desc="Twisting Rewind", link="https://youtu.be/DfFdPsbxVPQ?t=612") }}
+{{ image(path="spm.webp", desc="Superman", link="https://youtu.be/3pC9y3dZVrU?t=717") }}
 {{ image(path="ntn.webp", desc="One to One", link="https://youtu.be/SwaejeJ8kPk?t=477") }}
 {{ image(path="ftf.webp", desc="Fast Forward", link="https://youtu.be/u1x7tgvlO3M?t=518") }}
-{{ image(path="spm.webp", desc="Superman", link="https://youtu.be/3pC9y3dZVrU?t=717") }}
-{{ image(path="fnn.webp", desc="Full One to One", link="https://www.instagram.com/p/Cc59_tJptB-") }}
+{{ image(path="ftw.webp", desc="Twisting Rewind", link="https://youtu.be/DfFdPsbxVPQ?t=612") }}
+{{ image(path="ftp.webp", desc="Front Tuck Up", link="https://youtu.be/u1x7tgvlO3M?t=736") }}
 {{ image(path="tsg.webp", desc="Twisting Shotgun", link="https://www.youtube.com/shorts/6vRE2dBZef4") }}
 {{ image(path="tsm.webp", desc="Twisting Superman", link="https://www.tiktok.com/@_boogie00/video/7079766706289200430") }}
 {{ image(path="tsw.webp", desc="Twisting Walk In", link="") }}
 {{ image(path="rds.webp", desc="Rewinding Shotgun", link="https://www.youtube.com/shorts/9mTdZ0EqkHk") }}
 {{ image(path="wht.webp", desc="One-Handed Shotgun", link="https://www.youtube.com/shorts/5mLWtcbPUwk") }}
+{{ image(path="fnn.webp", desc="Full One to One", link="https://www.instagram.com/p/Cc59_tJptB-") }}
 {{ gallery_end() }}
 
 # **Tumbles - flyer performs a flip on the ground**
@@ -357,7 +358,7 @@ Snapshot collection of 226 [cheer](@/cns.md) stunting skills (30 still missing).
 {{ image(path="wws.webp", desc="With Weights", link="https://youtu.be/ND_VqTi_790?t=980") }}
 {{ image(path="ftd.webp", desc="Fist to Hand", link="https://youtu.be/SonOnjYRtHU?t=838") }}
 {{ image(path="htf.webp", desc="Hand to Fist", link="") }}
-{{ image(path="ftt.webp", desc="Fist to Fist", link="") }}
+{{ image(path="ftt.webp", desc="Fist to Fist", link="https://youtu.be/9LaHx5fUn6s?t=467") }}
 {{ image(path="nfd.webp", desc="No Flick Dead Toss", link="https://www.youtube.com/shorts/dfQk0g-JVy4") }}
 {{ image(path="ndd.webp", desc="No Dip Dead Toss", link="https://youtu.be/ApTsZwIDYLU?t=473") }}
 {{ image(path="nnd.webp", desc="No Nothing Dead Toss", link="https://youtu.be/6Kg652x0R9Y?t=160") }}
