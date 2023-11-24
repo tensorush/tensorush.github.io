@@ -7,7 +7,7 @@ types = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 227 [cheer](@/cns.md) stunting skills (29 still missing).
+Snapshot collection of 233 [cheer](@/cns.md) stunting skills (33 still missing).
 
 <!-- more -->
 
@@ -311,10 +311,15 @@ Snapshot collection of 227 [cheer](@/cns.md) stunting skills (29 still missing).
 {{ gallery_start() }}
 {{ image(path="tsd.webp", desc="Thigh Stand", link="https://youtu.be/aybcpdbEbNw?t=211") }}
 {{ image(path="nvn.webp", desc="Inversion", link="") }}
-{{ image(path="wfw.webp", desc="Elevator", link="") }}
+{{ image(path="lvr.webp", desc="Elevator", link="") }}
+{{ image(path="tgh.webp", desc="Two High", link="") }}
+{{ image(path="thh.webp", desc="Two and a Half High", link="") }}
+{{ image(path="trg.webp", desc="Three High", link="https://www.instagram.com/p/CNlIbeRFWux") }}
 {{ image(path="wfl.webp", desc="Waterfall", link="https://www.youtube.com/shorts/Gn7CLpNHLFM") }}
 {{ image(path="wfw.webp", desc="Wolf Wall", link="") }}
 {{ image(path="sfs.webp", desc="Swedish Falls", link="") }}
+{{ image(path="slf.webp", desc="Split Lift", link="") }}
+{{ image(path="hsf.webp", desc="High Split Lift", link="") }}
 {{ gallery_end() }}
 
 # **Extras - stunts turn extra hard**
@@ -338,6 +343,18 @@ Snapshot collection of 227 [cheer](@/cns.md) stunting skills (29 still missing).
 {{ image(path="dbt.webp", desc="Double Tap", link="https://youtu.be/UnSqDsi_6lE?t=156") }}
 {{ image(path="dbs.webp", desc="Double Toss", link="https://youtu.be/9LaHx5fUn6s?t=488") }}
 {{ image(path="dbp.webp", desc="Double Press", link="https://youtu.be/79vJ3IFdDTw?t=650") }}
+{{ image(path="wts.webp", desc="Wipe the Shoes", link="https://www.youtube.com/shorts/MFTrfQEe6UQ") }}
+{{ image(path="cpt.webp", desc="Cupie Time", link="https://youtu.be/3pC9y3dZVrU?t=338") }}
+{{ image(path="dtn.webp", desc="Dust the Knees", link="https://youtu.be/FZ4A0nTEtkc?t=65") }}
+{{ image(path="ftd.webp", desc="Fist to Hand", link="https://youtu.be/SonOnjYRtHU?t=838") }}
+{{ image(path="htf.webp", desc="Hand to Fist", link="") }}
+{{ image(path="ftt.webp", desc="Fist to Fist", link="https://youtu.be/9LaHx5fUn6s?t=467") }}
+{{ image(path="wcs.webp", desc="With Claps", link="https://youtu.be/kho1vUX_cpg?t=49") }}
+{{ image(path="bbs.webp", desc="Above Brows", link="https://youtu.be/Be-Sv_3gx5A?t=894") }}
+{{ image(path="wws.webp", desc="With Weights", link="https://youtu.be/ND_VqTi_790?t=980") }}
+{{ image(path="nfd.webp", desc="No Flick Dead Toss", link="https://www.youtube.com/shorts/dfQk0g-JVy4") }}
+{{ image(path="ndd.webp", desc="No Dip Dead Toss", link="https://youtu.be/ApTsZwIDYLU?t=473") }}
+{{ image(path="nnd.webp", desc="No Nothing Dead Toss", link="https://youtu.be/6Kg652x0R9Y?t=160") }}
 {{ image(path="gsp.webp", desc="Game of Spin or No Spin", link="https://youtu.be/UUqlTCC0Pq4?t=237") }}
 {{ image(path="gnv.webp", desc="Game of Never Have I Ever", link="https://youtu.be/SonOnjYRtHU?t=34") }}
 {{ image(path="gsn.webp", desc="Game of STUNT", link="https://www.youtube.com/watch?v=O1Qprxej888") }}
@@ -350,18 +367,7 @@ Snapshot collection of 227 [cheer](@/cns.md) stunting skills (29 still missing).
 {{ image(path="ntg.webp", desc="No Tag", link="https://youtu.be/Be-Sv_3gx5A?t=129") }}
 {{ image(path="nlk.webp", desc="No Look", link="https://youtu.be/ApTsZwIDYLU?t=425") }}
 {{ image(path="nsp.webp", desc="No Step", link="https://youtu.be/HMBSWEz2l24?t=463") }}
-{{ image(path="wts.webp", desc="Wipe the Shoes", link="https://www.youtube.com/shorts/MFTrfQEe6UQ") }}
-{{ image(path="cpt.webp", desc="Cupie Time", link="https://youtu.be/3pC9y3dZVrU?t=338") }}
-{{ image(path="dtn.webp", desc="Dust the Knees", link="https://youtu.be/FZ4A0nTEtkc?t=65") }}
-{{ image(path="wcs.webp", desc="With Claps", link="https://youtu.be/kho1vUX_cpg?t=49") }}
-{{ image(path="bbs.webp", desc="Above Brows", link="https://youtu.be/Be-Sv_3gx5A?t=894") }}
-{{ image(path="wws.webp", desc="With Weights", link="https://youtu.be/ND_VqTi_790?t=980") }}
-{{ image(path="ftd.webp", desc="Fist to Hand", link="https://youtu.be/SonOnjYRtHU?t=838") }}
-{{ image(path="htf.webp", desc="Hand to Fist", link="") }}
-{{ image(path="ftt.webp", desc="Fist to Fist", link="https://youtu.be/9LaHx5fUn6s?t=467") }}
-{{ image(path="nfd.webp", desc="No Flick Dead Toss", link="https://www.youtube.com/shorts/dfQk0g-JVy4") }}
-{{ image(path="ndd.webp", desc="No Dip Dead Toss", link="https://youtu.be/ApTsZwIDYLU?t=473") }}
-{{ image(path="nnd.webp", desc="No Nothing Dead Toss", link="https://youtu.be/6Kg652x0R9Y?t=160") }}
+{{ image(path="ftr.webp", desc="Feet Together", link="https://www.instagram.com/p/CEtIWTql0AK") }}
 {{ gallery_end() }}
 
 # **Easter Egg**
