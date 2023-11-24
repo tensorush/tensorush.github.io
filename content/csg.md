@@ -363,3 +363,7 @@ Snapshot collection of 227 [cheer](@/cns.md) stunting skills (29 still missing).
 {{ image(path="ndd.webp", desc="No Dip Dead Toss", link="https://youtu.be/ApTsZwIDYLU?t=473") }}
 {{ image(path="nnd.webp", desc="No Nothing Dead Toss", link="https://youtu.be/6Kg652x0R9Y?t=160") }}
 {{ gallery_end() }}
+
+# **Easter Egg**
+
+{{ center_image(path="hbd.webp", desc="Hybrid Cheer", link="https://www.youtube.com/@danielbuyeske") }}

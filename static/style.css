@@ -156,8 +156,8 @@ hr:after {
 }
 
 .figure {
-    margin: -5px 0;
     padding: 0;
+    margin: -5px 0;
 }
 
 .gallery-start {
@@ -170,8 +170,8 @@ hr:after {
 }
 
 .center-figure {
-    margin: 10px 30px -30px;
     padding: 10px 30px 0;
+    margin: 10px 30px -30px;
 }
 
 .center-image {
@@ -179,7 +179,7 @@ hr:after {
 }
 
 .center-caption {
+    width: 770px;
     font-weight: bold;
     text-align: center;
-    width: 770px;
 }
