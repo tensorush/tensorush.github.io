@@ -15,7 +15,7 @@ This is a 180 spin on the Clarke's third law:
 
 "Any sufficiently advanced technology is indistinguishable from magic".
 
-It doesn't really change the original meaning, but it does change the emphasis, the point of view, suggesting that any impossible fantasy is only a step away from becoming hard-boiled sci-fi. That step being to introduce a scientifically plausible mechanism, a technology, behind every magic.
+It doesn't really change the original meaning, but it does change the emphasis, the viewpoint, suggesting that any impossible fantasy is only a step away from becoming hard-boiled sci-fi. That step being to introduce a scientifically plausible mechanism, a technology, behind every magic.
 
 {{ gallery_start() }}
 {{ image(path="mgd.webp", desc="Animal Genome Editing", link="https://www.youtube.com/watch?v=71xBu_VHTfY") }}
