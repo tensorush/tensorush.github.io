@@ -202,7 +202,7 @@ My [NixOS](https://nixos.org) configuration flakes.
 
 <!-- flightplan -->
 
-[flightplan-st-shd]: https://img.shields.io/badge/developing-FFDEAD?style=for-the-badge
+[flightplan-st-shd]: https://img.shields.io/badge/maintaining-353935?style=for-the-badge
 [flightplan-st-url]: https://github.com/tensorush/flightplan
 [flightplan-ci-shd]: https://img.shields.io/github/actions/workflow/status/tensorush/flightplan/ci.yaml?branch=main&style=for-the-badge&logo=github&label=CI&labelColor=black
 [flightplan-ci-url]: https://github.com/tensorush/flightplan/blob/main/.github/workflows/ci.yaml
