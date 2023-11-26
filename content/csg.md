@@ -7,7 +7,7 @@ types = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 253 [cheer](@/cns.md) stunting skills (37 still missing).
+Snapshot collection of 255 [cheer](@/cns.md) stunting skills (35 still missing).
 
 <!-- more -->
 
@@ -16,7 +16,7 @@ Snapshot collection of 253 [cheer](@/cns.md) stunting skills (37 still missing).
 {{ gallery_start() }}
 {{ image(path="lbl.webp", desc="Eliza LaBelle", link="https://www.youtube.com/@elizalabelle") }}
 {{ image(path="kbl.webp", desc="Katherine Abela", link="https://www.youtube.com/@katabela") }}
-{{ image(path="pzk.webp", desc="Delaney Porazinski", link="https://www.tiktok.com/@delaney_porazinski") }}
+{{ image(path="pzk.webp", desc="Delaney Porazinski", link="https://www.instagram.com/dporazinski") }}
 {{ image(path="smn.webp", desc="Morgan Simianer", link="https://www.instagram.com/morgannlyn") }}
 {{ image(path="btl.webp", desc="Gabi Butler", link="https://www.instagram.com/gabibutler1617") }}
 {{ image(path="cdl.webp", desc="Caylee Odle", link="https://www.youtube.com/@Its.ccaylee") }}
@@ -35,7 +35,7 @@ Snapshot collection of 253 [cheer](@/cns.md) stunting skills (37 still missing).
 {{ image(path="cls.webp", desc="Mitterson Charles", link="https://www.instagram.com/_mitthappens") }}
 {{ image(path="dbl.webp", desc="Daniel Bailey", link="https://www.youtube.com/@bailcakes") }}
 {{ image(path="dml.webp", desc="Taylor Demler", link="https://www.youtube.com/@t_demler24") }}
-{{ image(path="lfl.webp", desc="Keyshawn Leflore", link="https://www.instagram.com/keyshawn.leflore") }}
+{{ image(path="ksl.webp", desc="Brett Kessler", link="https://www.instagram.com/brett_kessler") }}
 {{ image(path="jnk.webp", desc="Jalani Keo", link="https://www.instagram.com/jalanibustdown") }}
 {{ image(path="dsv.webp", desc="Michael Androsov", link="https://www.youtube.com/@booshslays") }}
 {{ image(path="psk.webp", desc="Justin Pulaski", link="https://www.instagram.com/justin_pulaski") }}
@@ -44,8 +44,9 @@ Snapshot collection of 253 [cheer](@/cns.md) stunting skills (37 still missing).
 {{ image(path="tmn.webp", desc="Johnny Thompson", link="https://www.instagram.com/thomp338") }}
 {{ image(path="nnn.webp", desc="Ricky Nunn", link="https://www.instagram.com/xricky_nunnx") }}
 {{ image(path="sdg.webp", desc="Heath Snodgrass", link="https://www.instagram.com/jheath59_03") }}
-{{ image(path="wbg.webp", desc="Christian Weinberg", link="https://www.instagram.com/cj_wino") }}
+{{ image(path="lfl.webp", desc="Keyshawn Leflore", link="https://www.instagram.com/keyshawn.leflore") }}
 {{ image(path="ckl.webp", desc="Kollin Cockrell", link="https://www.instagram.com/kollinmarkcockrell") }}
+{{ image(path="wbg.webp", desc="Christian Weinberg", link="https://www.instagram.com/cj_wino") }}
 {{ gallery_end() }}
 
 # **Special shout-outs to:**
@@ -254,6 +255,7 @@ Snapshot collection of 253 [cheer](@/cns.md) stunting skills (37 still missing).
 {{ image(path="rtw.webp", desc="Around the World", link="https://youtu.be/hw7tZkE-dHk?t=356") }}
 {{ image(path="hcr.webp", desc="Helicopter", link="https://www.youtube.com/shorts/mC6yrsA0Ixk") }}
 {{ image(path="sfh.webp", desc="Starfish", link="https://www.youtube.com/shorts/8ufJn_pcaUw") }}
+{{ image(path="wbd.webp", desc="Whirlybird", link="https://www.instagram.com/p/ColK5CDjQGl") }}
 {{ gallery_end() }}
 
 # **Flips - flyer performs a flip in the air**
@@ -271,9 +273,9 @@ Snapshot collection of 253 [cheer](@/cns.md) stunting skills (37 still missing).
 {{ image(path="tsg.webp", desc="Full Twisting Shotgun", link="https://www.youtube.com/shorts/6vRE2dBZef4") }}
 {{ image(path="tsm.webp", desc="Full Twisting Superman", link="https://www.tiktok.com/@_boogie00/video/7079766706289200430") }}
 {{ image(path="tsw.webp", desc="Full Twisting Walk In", link="") }}
-{{ image(path="bsg.webp", desc="Back Shotgun", link="https://www.youtube.com/shorts/65u8P95FbwI") }}
+{{ image(path="bsg.webp", desc="Backing Shotgun", link="https://www.youtube.com/shorts/65u8P95FbwI") }}
 {{ image(path="ksg.webp", desc="Kicking Shotgun", link="https://www.instagram.com/p/CfqDQgNlTGB") }}
-{{ image(path="wsg.webp", desc="Walk In Shotgun", link="") }}
+{{ image(path="wsg.webp", desc="Walking Shotgun", link="https://www.instagram.com/p/CIhBU4-gfAd") }}
 {{ image(path="rds.webp", desc="Rewinding Shotgun", link="https://www.youtube.com/shorts/9mTdZ0EqkHk") }}
 {{ image(path="wht.webp", desc="One-Handed Shotgun", link="https://www.youtube.com/shorts/5mLWtcbPUwk") }}
 {{ image(path="fnn.webp", desc="Full One to One", link="https://www.instagram.com/p/Cc59_tJptB-") }}
@@ -302,7 +304,7 @@ Snapshot collection of 253 [cheer](@/cns.md) stunting skills (37 still missing).
 {{ image(path="frl.webp", desc="Front Aerial", link="https://www.tiktok.com/@eliza.labelle/video/7058474018567146799") }}
 {{ image(path="phf.webp", desc="Punch Front", link="") }}
 {{ image(path="phb.webp", desc="Punch Back", link="") }}
-{{ image(path="srl.webp", desc="Side Aerial", link="") }}
+{{ image(path="srl.webp", desc="Side Aerial", link="https://www.youtube.com/shorts/8dl1v6_4Vio") }}
 {{ image(path="fts.webp", desc="Full", link="https://www.tiktok.com/@eliza.labelle/video/7164782856630340910") }}
 {{ image(path="dts.webp", desc="Double", link="") }}
 {{ image(path="kfl.webp", desc="Kick Full", link="") }}
@@ -370,13 +372,13 @@ Snapshot collection of 253 [cheer](@/cns.md) stunting skills (37 still missing).
 {{ image(path="spt.webp", desc="Spotter Toss", link="https://youtu.be/UnSqDsi_6lE?t=657") }}
 {{ image(path="tfs.webp", desc="Toss Fists", link="https://youtu.be/7HU_bauP2lI?t=617") }}
 {{ image(path="bts.webp", desc="Blind Toss", link="https://youtu.be/u1x7tgvlO3M?t=479") }}
-{{ image(path="wts.webp", desc="Wipe the Shoes", link="https://www.youtube.com/shorts/MFTrfQEe6UQ") }}
-{{ image(path="cpt.webp", desc="Cupie Time", link="https://youtu.be/3pC9y3dZVrU?t=338") }}
-{{ image(path="dtn.webp", desc="Dust the Knees", link="https://youtu.be/FZ4A0nTEtkc?t=65") }}
 {{ image(path="ftd.webp", desc="Fist to Hand", link="https://youtu.be/SonOnjYRtHU?t=838") }}
 {{ image(path="htf.webp", desc="Hand to Fist", link="") }}
 {{ image(path="ftt.webp", desc="Fist to Fist", link="https://youtu.be/9LaHx5fUn6s?t=467") }}
-{{ image(path="tsb.webp", desc="Back Toss", link="https://youtu.be/8NjlORymE2k?t=1024") }}
+{{ image(path="tbd.webp", desc="Backward Toss", link="https://youtu.be/8NjlORymE2k?t=1024") }}
+{{ image(path="dtn.webp", desc="Dust the Knees", link="https://youtu.be/FZ4A0nTEtkc?t=65") }}
+{{ image(path="wts.webp", desc="Wipe the Shoes", link="https://www.youtube.com/shorts/MFTrfQEe6UQ") }}
+{{ image(path="tbt.webp", desc="Back Toss", link="https://www.youtube.com/watch?v=NjOD6t842No") }}
 {{ image(path="ftr.webp", desc="Feet Together", link="https://www.instagram.com/p/CEtIWTql0AK") }}
 {{ image(path="lgs.webp", desc="Legs Straight", link="https://youtu.be/QkqEMnyiiJY?t=411") }}
 {{ image(path="wcs.webp", desc="With Claps", link="https://youtu.be/kho1vUX_cpg?t=49") }}
@@ -389,6 +391,7 @@ Snapshot collection of 253 [cheer](@/cns.md) stunting skills (37 still missing).
 {{ image(path="gnv.webp", desc="Game of Never Have I Ever", link="https://youtu.be/SonOnjYRtHU?t=34") }}
 {{ image(path="gsn.webp", desc="Game of STUNT", link="https://youtu.be/O1Qprxej888?t=34") }}
 {{ image(path="grr.webp", desc="Game of Russian Roulette", link="https://youtu.be/QkqEMnyiiJY?t=465") }}
+{{ image(path="cpt.webp", desc="Cupie Time", link="https://youtu.be/3pC9y3dZVrU?t=338") }}
 {{ image(path="tft.webp", desc="Trifecta", link="https://youtu.be/QkqEMnyiiJY?t=777") }}
 {{ gallery_end() }}
 
