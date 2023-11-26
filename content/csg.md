@@ -7,7 +7,7 @@ types = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 255 [cheer](@/cns.md) stunting skills (35 still missing).
+Snapshot collection of 256 [cheer](@/cns.md) stunting skills (36 still missing).
 
 <!-- more -->
 
@@ -281,7 +281,7 @@ Snapshot collection of 255 [cheer](@/cns.md) stunting skills (35 still missing).
 {{ image(path="fnn.webp", desc="Full One to One", link="https://www.instagram.com/p/Cc59_tJptB-") }}
 {{ gallery_end() }}
 
-# **Tumbles - flyer performs a flip on the ground**
+# **Tumbles - either base or flyer performs a flip on the ground**
 
 {{ gallery_start() }}
 {{ image(path="rpp.webp", desc="Ramp Up", link="https://www.tiktok.com/@eliza.labelle/video/7119831283844435246") }}
@@ -307,6 +307,7 @@ Snapshot collection of 255 [cheer](@/cns.md) stunting skills (35 still missing).
 {{ image(path="srl.webp", desc="Side Aerial", link="https://www.youtube.com/shorts/8dl1v6_4Vio") }}
 {{ image(path="fts.webp", desc="Full", link="https://www.tiktok.com/@eliza.labelle/video/7164782856630340910") }}
 {{ image(path="dts.webp", desc="Double", link="") }}
+{{ image(path="wbt.webp", desc="Webster", link="") }}
 {{ image(path="kfl.webp", desc="Kick Full", link="") }}
 {{ image(path="kdl.webp", desc="Kick Double", link="") }}
 {{ gallery_end() }}
