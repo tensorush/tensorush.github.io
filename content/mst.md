@@ -20,5 +20,5 @@ It doesn't really change the original meaning, but it does change the emphasis, 
 {{ gallery_start() }}
 {{ image(path="mgd.webp", desc="Animal Genome Editing", link="https://www.youtube.com/watch?v=71xBu_VHTfY") }}
 {{ image(path="phv.webp", desc="AI-Powered Human Avatars", link="https://www.youtube.com/watch?v=pxjpWPJo8vM") }}
-{{ image(path="mhb.webp", desc="Animal-to-Human Brain Link", link="https://www.youtube.com/watch?v=yDq3KnJK7b0") }}
+{{ image(path="mhb.webp", desc="Animal-to-Human Brain Interface", link="https://www.youtube.com/watch?v=yDq3KnJK7b0") }}
 {{ gallery_end() }}
