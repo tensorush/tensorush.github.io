@@ -75,7 +75,7 @@ Luminous wonders twirling in close embrace through the ever-growing cosmic void.
 {{ image(path="mtn.webp", desc="Molten Ring", link="https://esahubble.org/images/potw2050a/") }}
 {{ gallery_end() }}
 
-# **Black Holes - regions of spacetime where gravity is so strong not even light can escape it**
+# **Black Holes - regions of space-time where gravity is so strong not even light can escape it**
 
 {{ gallery_start() }}
 {{ image(path="sbh.webp", desc="Star Birth", link="https://esahubble.org/images/opo2202a/") }}

@@ -15,7 +15,7 @@ What about entropy, though? The steady universal increase of chaos is a physical
 
 While it is true that entropy is increasing overall across the Universe, that doesn't mean it can't drop here and there once in while!
 
-Similarly, you can scratch your first intuition of a human life being a negative or zero-sum game and enjoy yourself harvesting negative entropy on this rocky ripple in spacetime we call Earth!
+Similarly, you can scratch your first intuition of a human life being a negative or zero-sum game and enjoy yourself harvesting negative entropy on this rocky ripple in space-time we call Earth!
 
 <!-- The Fool vs The World -->
 

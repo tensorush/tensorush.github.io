@@ -33,6 +33,7 @@ Personal blogs that I've been subscribed to for quite a while now.
 | [Eli Bendersky](https://eli.thegreenplace.net/archives/all/) |                                                                     |                                                             |
 |       [Graydon Hoare](https://graydon2.dreamwidth.org)       |                                                                     |                                                             |
 |              [Steven Wittens](https://acko.net)              |                                                                     |                                                             |
+|        [Fabien Sanglard](https://fabiensanglard.net)         |                                                                     |                                                             |
 |            [Vitalik Buterin](https://vitalik.ca)             |                                                                     |                                                             |
 |     [Mitchell Hashimoto](https://mitchellh.com/writing)      |                                                                     |                                                             |
 |   [Bartosz Ciechanowski](https://ciechanow.ski/archives/)    |                                                                     |                                                             |
