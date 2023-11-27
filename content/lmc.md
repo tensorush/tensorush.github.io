@@ -168,6 +168,59 @@ Multi-threaded CPU [path tracer](https://en.wikipedia.org/wiki/Path_tracing).
 
 [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) interpreter.
 
+# **Go Services**
+
+- ## 🐹 📚 bookkeeper
+
+[![ST][bookkeeper-st-shd]][bookkeeper-st-url]
+[![CI][bookkeeper-ci-shd]][bookkeeper-ci-url]
+[![SC][bookkeeper-sc-shd]][bookkeeper-sc-url]
+[![CC][bookkeeper-cc-shd]][bookkeeper-cc-url]
+[![LC][bookkeeper-lc-shd]][bookkeeper-lc-url]
+
+Backend for a bookkeeping service based on [gRPC](https://grpc.io).
+
+- ## 🐹 🔐 vault
+
+[![ST][vault-st-shd]][vault-st-url]
+[![CI][vault-ci-shd]][vault-ci-url]
+[![LC][vault-lc-shd]][vault-lc-url]
+
+[Telegram](https://telegram.org) bot for secure password storage.
+
+# **Code Challenges**
+
+- ## 🎄 🧑‍💻 advent of code
+
+[![ST][advent-of-code-st-shd]][advent-of-code-st-url]
+[![RS][advent-of-code-rs-shd]][advent-of-code-rs-url]
+[![ZG][advent-of-code-zg-shd]][advent-of-code-zg-url]
+[![SW][advent-of-code-sw-shd]][advent-of-code-sw-url]
+[![JL][advent-of-code-jl-shd]][advent-of-code-jl-url]
+[![NM][advent-of-code-nm-shd]][advent-of-code-nm-url]
+[![CR][advent-of-code-cr-shd]][advent-of-code-cr-url]
+[![RC][advent-of-code-rc-shd]][advent-of-code-rc-url]
+[![MJ][advent-of-code-mj-shd]][advent-of-code-mj-url]
+[![LC][advent-of-code-lc-shd]][advent-of-code-lc-url]
+
+Solutions to annual [Advent of Code](https://adventofcode.com) challenges written in modern programming languages.
+
+- ## 🐹 🔀 follower maze
+
+[![ST][follower-maze-st-shd]][follower-maze-st-url]
+[![CI][follower-maze-ci-shd]][follower-maze-ci-url]
+[![LC][follower-maze-lc-shd]][follower-maze-lc-url]
+
+Solution to the [Follower Maze Challenge](https://github.com/tensorush/follower-maze/blob/main/SPECIFICATION.md).
+
+- ## 🐹 💤 dozer stampede
+
+[![ST][dozer-stampede-st-shd]][dozer-stampede-st-url]
+[![CI][dozer-stampede-ci-shd]][dozer-stampede-ci-url]
+[![LC][dozer-stampede-lc-shd]][dozer-stampede-lc-url]
+
+Solution to the [Dozer Stampede Challenge](https://github.com/tensorush/dozer-stampede/blob/main/SPECIFICATION.md).
+
 # **Personal Dumps**
 
 - ## 🍀 cv
@@ -197,6 +250,13 @@ My personal static site generated with [Zola](https://www.getzola.org).
 [![LC][flakes-lc-shd]][flakes-lc-url]
 
 My [NixOS](https://nixos.org) configuration flakes.
+
+- ## 🔥 dotfiles
+
+[![ST][dotfiles-st-shd]][dotfiles-st-url]
+[![LC][dotfiles-lc-shd]][dotfiles-lc-url]
+
+My workstation [dotfiles](https://en.wiktionary.org/wiki/dotfile).
 
 <!-- MARKDOWN LINKS -->
 
@@ -409,8 +469,8 @@ My [NixOS](https://nixos.org) configuration flakes.
 
 <!-- site -->
 
-[site-st-shd]: https://img.shields.io/badge/maintaining-353935?style=for-the-badge
-[site-st-url]: https://github.com/tensorush/site
+[site-st-shd]: https://img.shields.io/badge/developing-FFDEAD?style=for-the-badge
+[site-st-url]: https://github.com/tensorush/tensorush.github.io
 [site-cd-shd]: https://img.shields.io/github/actions/workflow/status/tensorush/tensorush.github.io/cd.yaml?branch=main&style=for-the-badge&logo=github&label=CD&labelColor=black
 [site-cd-url]: https://github.com/tensorush/tensorush.github.io/blob/main/.github/workflows/cd.yaml
 [site-ws-shd]: https://img.shields.io/badge/click-009E60?style=for-the-badge&logo=circuitverse&label=site&labelColor=black
@@ -428,3 +488,75 @@ My [NixOS](https://nixos.org) configuration flakes.
 [flakes-cd-url]: https://github.com/tensorush/flakes/blob/main/.github/workflows/cd.yaml
 [flakes-lc-shd]: https://img.shields.io/github/license/tensorush/flakes.svg?style=for-the-badge&labelColor=black
 [flakes-lc-url]: https://github.com/tensorush/flakes/blob/main/LICENSE.md
+
+<!-- dotfiles -->
+
+[dotfiles-st-shd]: https://img.shields.io/badge/maintaining-353935?style=for-the-badge
+[dotfiles-st-url]: https://github.com/tensorush/dotfiles
+[dotfiles-lc-shd]: https://img.shields.io/github/license/tensorush/dotfiles.svg?style=for-the-badge&labelColor=black
+[dotfiles-lc-url]: https://github.com/tensorush/dotfiles/blob/main/LICENSE.md
+
+<!-- dozer stampede -->
+
+[dozer-stampede-st-shd]: https://img.shields.io/badge/maintaining-353935?style=for-the-badge
+[dozer-stampede-st-url]: https://github.com/tensorush/dozer-stampede
+[dozer-stampede-ci-shd]: https://img.shields.io/github/actions/workflow/status/tensorush/dozer-stampede/ci.yaml?branch=main&style=for-the-badge&logo=github&label=CI&labelColor=black
+[dozer-stampede-ci-url]: https://github.com/tensorush/dozer-stampede/blob/main/.github/workflows/ci.yaml
+[dozer-stampede-lc-shd]: https://img.shields.io/github/license/tensorush/Dozer-Stampede-Challenge.svg?style=for-the-badge&labelColor=black
+[dozer-stampede-lc-url]: https://github.com/tensorush/dozer-stampede/blob/main/LICENSE.md
+
+<!-- follower maze -->
+
+[follower-maze-st-shd]: https://img.shields.io/badge/maintaining-353935?style=for-the-badge
+[follower-maze-st-url]: https://github.com/tensorush/follower-maze
+[follower-maze-ci-shd]: https://img.shields.io/github/actions/workflow/status/tensorush/follower-maze/ci.yaml?branch=main&style=for-the-badge&logo=github&label=CI&labelColor=black
+[follower-maze-ci-url]: https://github.com/tensorush/follower-maze/blob/main/.github/workflows/ci.yaml
+[follower-maze-lc-shd]: https://img.shields.io/github/license/tensorush/follower-maze.svg?style=for-the-badge&labelColor=black
+[follower-maze-lc-url]: https://github.com/tensorush/follower-maze/blob/main/LICENSE.md
+
+<!-- advent of code -->
+
+[advent-of-code-st-shd]: https://img.shields.io/badge/developing-FFDEAD?style=for-the-badge
+[advent-of-code-st-url]: https://github.com/tensorush/advent-of-code
+[advent-of-code-rs-shd]: https://img.shields.io/badge/rs-black.svg?style=for-the-badge&logo=rust&logoColor=7C5642
+[advent-of-code-rs-url]: https://www.rust-lang.org/
+[advent-of-code-zg-shd]: https://img.shields.io/badge/zg-black.svg?style=for-the-badge&logo=zig&logoColor=F6A516
+[advent-of-code-zg-url]: https://ziglang.org/
+[advent-of-code-sw-shd]: https://img.shields.io/badge/sw-black.svg?style=for-the-badge&logo=swift&logoColor=FE7B35
+[advent-of-code-sw-url]: https://www.swift.com/
+[advent-of-code-jl-shd]: https://img.shields.io/badge/jl-black.svg?style=for-the-badge&logo=julia&logoColor=A270BA
+[advent-of-code-jl-url]: https://julialang.org/
+[advent-of-code-nm-shd]: https://img.shields.io/badge/nm-black.svg?style=for-the-badge&logo=nim&logoColor=F2D401
+[advent-of-code-nm-url]: https://nim-lang.org/
+[advent-of-code-hk-shd]: https://img.shields.io/badge/hs-black.svg?style=for-the-badge&logo=haskell&logoColor=5E5086
+[advent-of-code-hk-url]: https://www.haskell.org/
+[advent-of-code-cr-shd]: https://img.shields.io/badge/cr-black.svg?style=for-the-badge&logo=crystal&logoColor=FFFFFF
+[advent-of-code-cr-url]: https://crystal-lang.org/
+[advent-of-code-rc-shd]: https://img.shields.io/badge/rc-black.svg?style=for-the-badge&logo=fluentd&logoColor=9C7BEA
+[advent-of-code-rc-url]: https://www.roc-lang.org/
+[advent-of-code-mj-shd]: https://img.shields.io/badge/mj-black.svg?style=for-the-badge&logo=fireship&logoColor=FF6522
+[advent-of-code-mj-url]: https://www.modular.com/mojo
+[advent-of-code-lc-shd]: https://img.shields.io/github/license/tensorush/advent-of-code.svg?style=for-the-badge&labelColor=black
+[advent-of-code-lc-url]: https://github.com/tensorush/advent-of-code/blob/master/LICENSE.md
+
+<!-- vault -->
+
+[vault-st-shd]: https://img.shields.io/badge/maintaining-353935?style=for-the-badge
+[vault-st-url]: https://github.com/tensorush/vault
+[vault-ci-shd]: https://img.shields.io/github/actions/workflow/status/tensorush/vault/ci.yaml?branch=main&style=for-the-badge&logo=github&label=CI&labelColor=black
+[vault-ci-url]: https://github.com/tensorush/vault/blob/main/.github/workflows/ci.yaml
+[vault-lc-shd]: https://img.shields.io/github/license/tensorush/vault.svg?style=for-the-badge&labelColor=black
+[vault-lc-url]: https://github.com/tensorush/vault/blob/main/LICENSE.md
+
+<!-- bookkeeper -->
+
+[bookkeeper-st-shd]: https://img.shields.io/badge/maintaining-353935?style=for-the-badge
+[bookkeeper-st-url]: https://github.com/tensorush/bookkeeper
+[bookkeeper-ci-shd]: https://img.shields.io/github/actions/workflow/status/tensorush/bookkeeper/ci.yaml?branch=main&style=for-the-badge&logo=github&label=CI&labelColor=black
+[bookkeeper-ci-url]: https://github.com/tensorush/bookkeeper/blob/main/.github/workflows/ci.yaml
+[bookkeeper-sc-shd]: https://img.shields.io/badge/click-2596BE?style=for-the-badge&logo=go&logoColor=2596BE&label=schema&labelColor=black
+[bookkeeper-sc-url]: https://dbdocs.io/tensorush/bookkeeper
+[bookkeeper-cc-shd]: https://img.shields.io/codecov/c/github/tensorush/bookkeeper?style=for-the-badge&labelColor=black
+[bookkeeper-cc-url]: https://app.codecov.io/gh/tensorush/bookkeeper
+[bookkeeper-lc-shd]: https://img.shields.io/github/license/tensorush/bookkeeper.svg?style=for-the-badge&labelColor=black
+[bookkeeper-lc-url]: https://github.com/tensorush/bookkeeper/blob/main/LICENSE.md
