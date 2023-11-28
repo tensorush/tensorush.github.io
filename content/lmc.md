@@ -469,7 +469,7 @@ My workstation [dotfiles](https://en.wiktionary.org/wiki/dotfile).
 
 <!-- site -->
 
-[site-st-shd]: https://img.shields.io/badge/developing-FFDEAD?style=for-the-badge
+[site-st-shd]: https://img.shields.io/badge/maintaining-353935?style=for-the-badge
 [site-st-url]: https://github.com/tensorush/tensorush.github.io
 [site-cd-shd]: https://img.shields.io/github/actions/workflow/status/tensorush/tensorush.github.io/cd.yaml?branch=main&style=for-the-badge&logo=github&label=CD&labelColor=black
 [site-cd-url]: https://github.com/tensorush/tensorush.github.io/blob/main/.github/workflows/cd.yaml

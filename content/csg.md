@@ -395,7 +395,3 @@ Snapshot collection of 256 [cheer](@/cns.md) stunting skills (36 still missing).
 {{ image(path="cpt.webp", desc="Cupie Time", link="https://youtu.be/3pC9y3dZVrU?t=338") }}
 {{ image(path="tft.webp", desc="Trifecta", link="https://youtu.be/QkqEMnyiiJY?t=777") }}
 {{ gallery_end() }}
-
-# **Easter Egg**
-
-{{ center_image(path="hbd.webp", desc="HYBRID CHEER", link="https://www.patreon.com/danielbuyeske") }}
