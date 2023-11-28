@@ -16,8 +16,8 @@ Personal blogs that I've been subscribed to for quite a while now.
 |                     [Russ Cox](https://research.swtch.com)                     |                 [Jeremy Kun](https://jeremykun.com)                 |    [Tim Urban](https://waitbutwhy.com/archive/)    |
 |                     [Loris Cro](https://kristoff.it/blog/)                     |                    [Joscha Bach](http://bach.ai)                    |        [Bret Victor](http://worrydream.com)        |
 |                      [Ayaz Hafiz](https://ayazhafiz.com)                       |         [Jared Tumiel](https://jaredtumiel.github.io/blog/)         | [Paul Graham](http://paulgraham.com/articles.html) |
-|                    [Brian Chen](https://blog.vero.site/all)                    |        [Possibly Wrong](https://possiblywrong.wordpress.com)        |    [Randall Munroe](https://xkcd.com/archive/)     |
-|                   [Phil Eaton](https://notes.eatonphil.com)                    |          [Richard Sutton](http://www.incompleteideas.net)           |       [Growth Design](https://growth.design)       |
+|                    [Brian Chen](https://blog.vero.site/all)                    |        [Possibly Wrong](https://possiblywrong.wordpress.com)        |       [Growth Design](https://growth.design)       |
+|                   [Phil Eaton](https://notes.eatonphil.com)                    |          [Richard Sutton](http://www.incompleteideas.net)           |    [Randall Munroe](https://xkcd.com/archive/)     |
 |                 [George Hotz](https://geohot.github.io/blog/)                  |       [Scott Alexander](https://astralcodexten.substack.com)        |                                                    |
 |                    [Alex Kladov](https://matklad.github.io)                    | [Stephen Wolfram](https://writings.stephenwolfram.com/all-by-date/) |                                                    |
 |                    [Jakub Konka](http://www.jakubkonka.com)                    |       [Eliezer Yudkowsky](https://www.yudkowsky.net/sitemap/)       |                                                    |
