@@ -198,6 +198,7 @@ Backend for a bookkeeping service based on [gRPC](https://grpc.io).
 [![SW][advent-of-code-sw-shd]][advent-of-code-sw-url]
 [![JL][advent-of-code-jl-shd]][advent-of-code-jl-url]
 [![NM][advent-of-code-nm-shd]][advent-of-code-nm-url]
+[![GM][advent-of-code-gm-shd]][advent-of-code-gm-url]
 [![CR][advent-of-code-cr-shd]][advent-of-code-cr-url]
 [![RC][advent-of-code-rc-shd]][advent-of-code-rc-url]
 [![MJ][advent-of-code-mj-shd]][advent-of-code-mj-url]
@@ -528,8 +529,8 @@ My workstation [dotfiles](https://en.wiktionary.org/wiki/dotfile).
 [advent-of-code-jl-url]: https://julialang.org/
 [advent-of-code-nm-shd]: https://img.shields.io/badge/nm-black.svg?style=for-the-badge&logo=nim&logoColor=F2D401
 [advent-of-code-nm-url]: https://nim-lang.org/
-[advent-of-code-hk-shd]: https://img.shields.io/badge/hs-black.svg?style=for-the-badge&logo=haskell&logoColor=5E5086
-[advent-of-code-hk-url]: https://www.haskell.org/
+[advent-of-code-gm-shd]: https://img.shields.io/badge/gm-black.svg?style=for-the-badge&logo=gitee&logoColor=FFAFF3
+[advent-of-code-gm-url]: https://gleam.run/
 [advent-of-code-cr-shd]: https://img.shields.io/badge/cr-black.svg?style=for-the-badge&logo=crystal&logoColor=FFFFFF
 [advent-of-code-cr-url]: https://crystal-lang.org/
 [advent-of-code-rc-shd]: https://img.shields.io/badge/rc-black.svg?style=for-the-badge&logo=fluentd&logoColor=9C7BEA
