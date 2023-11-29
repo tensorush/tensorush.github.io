@@ -11,7 +11,7 @@ Domain-wide shifts across the programming language landscape.
 
 <!-- more -->
 
-- ## Web: JavaScript/Ruby/PHP/Python/Java/C# => TypeScript/Go/Rust/Zig/Roc/Crystal
+- ## Web: JavaScript/Ruby/PHP/Python/Java/C# => TypeScript/Dart/Go/Rust/Zig/Roc/Crystal
 
 - ## Functional: Haskell/OCaml/Erlang/Elixir/Scala/Clojure/F# => Roc/Gleam/Elm
 
@@ -21,7 +21,7 @@ Domain-wide shifts across the programming language landscape.
 
 - ## Shells: Sh/Bash/CMD => Nushell/Fish/Zsh/PowerShell
 
-- ## Mobile: Objective-C/Java => Swift/Kotlin/Zig
+- ## Mobile: Objective-C/Java => Swift/Kotlin/Dart/Zig
 
 - ## Graphics: C/C++/CUDA => Zig/Rust/Odin/Jai
 

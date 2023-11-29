@@ -531,8 +531,6 @@ My workstation [dotfiles](https://en.wiktionary.org/wiki/dotfile).
 [advent-of-code-nm-url]: https://nim-lang.org/
 [advent-of-code-rk-shd]: https://img.shields.io/badge/rk-black.svg?style=for-the-badge&logo=racket&logoColor=3E5BA9
 [advent-of-code-rk-url]: https://racket-lang.org/
-[advent-of-code-gm-shd]: https://img.shields.io/badge/gm-black.svg?style=for-the-badge&logo=gitee&logoColor=FFAFF3
-[advent-of-code-gm-url]: https://gleam.run/
 [advent-of-code-cr-shd]: https://img.shields.io/badge/cr-black.svg?style=for-the-badge&logo=crystal&logoColor=FFFFFF
 [advent-of-code-cr-url]: https://crystal-lang.org/
 [advent-of-code-rc-shd]: https://img.shields.io/badge/rc-black.svg?style=for-the-badge&logo=fluentd&logoColor=9C7BEA
