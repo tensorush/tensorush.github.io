@@ -13,9 +13,9 @@ Domain-wide shifts across the programming language landscape.
 
 - ## Web: JavaScript/Ruby/PHP/Python/Java/C# => TypeScript/Go/Rust/Zig/Roc/Crystal
 
-- ## Functional: Haskell/OCaml/Erlang/Scala/Clojure/F# => Roc/Elixir/Gleam/Elm
+- ## Functional: Haskell/OCaml/Erlang/Elixir/Scala/Clojure/F# => Roc/Gleam/Elm
 
-- ## Verification: Agda/Isabelle/Dafny => Coq/Lean/Idris/TLA+/F*
+- ## Verification: Agda/Isabelle/Dafny => Coq/Lean/Idris/TLA+/Rust
 
 - ## Scripting: Python/Lua/Perl/Groovy => Go/Roc/Crystal/Zig
 
