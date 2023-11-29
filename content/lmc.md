@@ -198,7 +198,7 @@ Backend for a bookkeeping service based on [gRPC](https://grpc.io).
 [![SW][advent-of-code-sw-shd]][advent-of-code-sw-url]
 [![JL][advent-of-code-jl-shd]][advent-of-code-jl-url]
 [![NM][advent-of-code-nm-shd]][advent-of-code-nm-url]
-[![GM][advent-of-code-gm-shd]][advent-of-code-gm-url]
+[![RK][advent-of-code-rk-shd]][advent-of-code-rk-url]
 [![CR][advent-of-code-cr-shd]][advent-of-code-cr-url]
 [![RC][advent-of-code-rc-shd]][advent-of-code-rc-url]
 [![MJ][advent-of-code-mj-shd]][advent-of-code-mj-url]
@@ -529,6 +529,8 @@ My workstation [dotfiles](https://en.wiktionary.org/wiki/dotfile).
 [advent-of-code-jl-url]: https://julialang.org/
 [advent-of-code-nm-shd]: https://img.shields.io/badge/nm-black.svg?style=for-the-badge&logo=nim&logoColor=F2D401
 [advent-of-code-nm-url]: https://nim-lang.org/
+[advent-of-code-rk-shd]: https://img.shields.io/badge/rk-black.svg?style=for-the-badge&logo=racket&logoColor=3E5BA9
+[advent-of-code-rk-url]: https://racket-lang.org/
 [advent-of-code-gm-shd]: https://img.shields.io/badge/gm-black.svg?style=for-the-badge&logo=gitee&logoColor=FFAFF3
 [advent-of-code-gm-url]: https://gleam.run/
 [advent-of-code-cr-shd]: https://img.shields.io/badge/cr-black.svg?style=for-the-badge&logo=crystal&logoColor=FFFFFF
