@@ -11,7 +11,7 @@ Yup, I'm in love with her.
 
 <!-- more -->
 
-### **E**ve of Christmas, the star's born,
+### **E**ve of Christmas, the star is born,
 
 ### **l**ow-key bearing world-champion
 
@@ -23,7 +23,7 @@ Yup, I'm in love with her.
 
 ### **L**atina icon, cheer queen blessed for
 
-### **a**ll of time to be her best and most
+### **a**ll of time to be her best and most...
 
 ### **B**eautiful! For nothing in the world can more
 
