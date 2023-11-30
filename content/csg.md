@@ -7,7 +7,7 @@ types = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 256 [cheer](@/cns.md) stunting skills (36 still missing).
+Snapshot collection of 258 [cheer](@/cns.md) stunting skills (36 still missing).
 
 <!-- more -->
 
@@ -122,10 +122,11 @@ Snapshot collection of 256 [cheer](@/cns.md) stunting skills (36 still missing).
 {{ image(path="hnh.webp", desc="Hand in Hand", link="https://youtu.be/c34iMh-nryw?t=602") }}
 {{ image(path="kkp.webp", desc="Kick Up", link="https://www.youtube.com/shorts/Dv40rfs24oE") }}
 {{ image(path="rts.webp", desc="Rocket Toss", link="https://www.instagram.com/p/CJm5rF-l2vV") }}
+{{ image(path="srs.webp", desc="Spiraling Rocket Toss", link="https://youtu.be/Aq1zhjSqIZ8?t=42") }}
 {{ image(path="sts.webp", desc="Stretch Toss", link="https://www.youtube.com/shorts/PkMPp2MzDfU") }}
-{{ image(path="blp.webp", desc="Ball Up", link="https://youtu.be/KsHd_mN0a84?t=73") }}
 {{ image(path="lvt.webp", desc="Elevator", link="https://youtu.be/SonOnjYRtHU?t=483") }}
 {{ image(path="slp.webp", desc="Straddle Up", link="https://youtu.be/04Wp0TIXF7A?t=604") }}
+{{ image(path="blp.webp", desc="Ball Up", link="https://youtu.be/KsHd_mN0a84?t=73") }}
 {{ gallery_end() }}
 
 # **Handstands - base throws a flyer to a hand grip**
@@ -149,6 +150,7 @@ Snapshot collection of 256 [cheer](@/cns.md) stunting skills (36 still missing).
 {{ image(path="hrd.webp", desc="Hand Rewind", link="") }}
 {{ image(path="hhr.webp", desc="Half Hand Rewind", link="") }}
 {{ image(path="fhr.webp", desc="Full Hand Rewind", link="https://youtu.be/SwaejeJ8kPk?t=681") }}
+{{ image(path="wkp.webp", desc="Walk Up", link="https://youtu.be/2eAJ3mtFOlE?t=219") }}
 {{ image(path="rhh.webp", desc="Reverse Hand to Hand", link="https://www.instagram.com/p/Cq3HSF8LQLN") }}
 {{ image(path="nlc.webp", desc="Inlocate", link="") }}
 {{ gallery_end() }}
