@@ -11,7 +11,7 @@ Yup, I'm in love with her.
 
 <!-- more -->
 
-### **E**ve of Christmas first-born,
+### **E**ve of Christmas, the star's born,
 
 ### **l**ow-key bearing world-champion
 
@@ -19,13 +19,13 @@ Yup, I'm in love with her.
 
 ### **z**ealous to keep on being kind,
 
-### **a**ngel's beloved eldest child.
+### **a**ngel's beloved fearless child.
 
-### **L**atina goddess, rockstar queen blessed for
+### **L**atina icon, cheer queen blessed for
 
 ### **a**ll of time to be her best and most
 
-### **B**eautiful! For nothing in the world could more
+### **B**eautiful! For nothing in the world can more
 
 ### **e**nhance or harm her nature's gifts: no
 
