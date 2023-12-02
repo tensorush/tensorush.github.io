@@ -15,6 +15,6 @@ Professions that are bound to last the longest.
 
 - ## Creatives that produce meaningful entertainment
 
-- ## Educators that ensure physical and mental growth
-
 - ## Physicians that treat physical and mental issues
+
+- ## Educators that ensure athletic and intellectual progress

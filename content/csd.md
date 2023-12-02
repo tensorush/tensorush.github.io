@@ -17,15 +17,15 @@ In essence, blockchain has the potential to eliminate all mediation in society e
 
 In general, blockchain technology renders redundant the social contract, which is commonly defined as surrendering some of our freedoms and submitting to a central authority in exchange for protection of our remaining rights.
 
-In other words, a blockchain network establishes trust between parties as well as enables protection from bad actors by way of forcing all participants to communicate according to its underlying consensus mechanism, preferably the one that is fair and green like Proof-of-Stake.
+In other words, a blockchain network establishes trust between parties as well as enables protection from bad actors by way of forcing all participants to communicate according to its underlying consensus mechanism, preferably the one that is fair and green, like [PoS](https://en.wikipedia.org/wiki/Proof_of_stake).
 
 - ## **Artificial Intelligence**
 
 Apart from becoming a useful tool in any profession, AI has the potential to eliminate all menial work, both unskilled and specialised, largely physical and superficially intellectual.
 
-Ultimately, the Artificial General Intelligence (AGI) will be able to simulate entire societies of intelligent agents.
+Ultimately, [AGI](https://en.wikipedia.org/wiki/Artificial_general_intelligence) will be able to simulate entire societies of intelligent agents.
 
-Presumably, the next step towards achieving AGI could be incentivising agents to approximate each other's behaviour by placing them in realistic environments and providing them with human-aligned goals. The really hard part would be figuring out how to evaluate the human-alignedness of any given reward function. One way of ensuring the generally good-natured behaviour of agents could be to factor the well-being stats of surrounding agents into the reward function.
+Presumably, the next step towards achieving AGI could be incentivising agents to approximate each other's behaviour by placing them in realistic environments and providing them with human-aligned goals. Perhaps, the undecidable problem of the next decade will be: "Is a given reward function human-aligned?". One way of ensuring the generally good-natured behaviour of agents could be to factor the well-being stats of surrounding agents into the reward function.
 
 - ## **Quantum Computing**
 

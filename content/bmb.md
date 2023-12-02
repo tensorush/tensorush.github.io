@@ -29,14 +29,12 @@ Started diving into programming around the summer of 2020 by studying all things
 
 Here's the timeline of my programming/typesetting/markdown language exploration journey so far:
 
-- ## **2018**: [R](https://www.r-project.org/)
+- ## **2019**: [R](https://www.r-project.org/) -> [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 
-- ## **2019**: [R](https://www.r-project.org/) -> [Python](https://www.python.org/)
+- ## **2020**: [Python](https://www.python.org/) -> [TeX](https://tug.org/) -> [Markdown](https://commonmark.org/)
 
-- ## **2020**: [Python](https://www.python.org/) -> [TeX](https://tug.org/) -> [CommonMark](https://commonmark.org/)
+- ## **2021**: [Julia](https://julialang.org/) -> [C++](https://cplusplus.com/) -> [Zig](https://ziglang.org/) -> [Nix](https://nixos.org/)
 
-- ## **2021**: [Julia](https://julialang.org/) -> [C/C++](https://cplusplus.com/) -> [Zig](https://ziglang.org/) -> [Nix](https://nixos.org/)
+- ## **2022**: [Rust](https://www.rust-lang.org/) -> [C](https://en.cppreference.com/w/c/language) -> [x86 Assembly](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html) -> [Forth](https://www.forthlang.org/) -> [Swift](https://www.swift.org/)
 
-- ## **2022**: [Rust](https://www.rust-lang.org/) -> [x86/ARM Assembly](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html) -> [Forth](https://www.forthlang.org/) -> [Swift](https://www.swift.org/)
-
-- ## **2023**: [Go](https://go.dev/) -> [Typst](https://typst.app/) -> [HTML/CSS](https://developer.mozilla.org/en-US/docs/Learn) -> [Wasm Interface Type](https://component-model.bytecodealliance.org/design/wit.html) -> [Mojo](https://www.modular.com/mojo)
+- ## **2023**: [Go](https://go.dev/) -> [Typst](https://typst.app/) -> [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS) -> [Wasm Interface Type](https://component-model.bytecodealliance.org/design/wit.html) -> [Mojo](https://www.modular.com/mojo)
