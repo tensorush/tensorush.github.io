@@ -7,7 +7,7 @@ types = ["list"]
 tags = ["health"]
 +++
 
-Human body operates sensory systems that perform vastly better than any cheap tech substitutes.
+Human body operates sensory systems that vastly outperform any cheap tech alternatives.
 
 <!-- more -->
 
