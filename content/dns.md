@@ -4,7 +4,7 @@ date = 2023-11-17
 
 [taxonomies]
 types = ["gallery"]
-tags = ["life"]
+tags = ["health"]
 +++
 
 Human body and mind are capable of such regenerative health it's nothing short of a superpower.
