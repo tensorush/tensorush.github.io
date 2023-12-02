@@ -21,7 +21,7 @@ Very opinionated extensions to the [Zig style guide](https://ziglang.org/documen
 
 # **Top-to-bottom file container layout**
 
-> For imports, aliases, and namespaces first list std, then modules, then files.
+For imports, aliases, and namespaces first list std, then modules, then files.
 
 |    Item Group    |    Sorting Order     |     Letter Case      |
 |:----------------:|:--------------------:|:--------------------:|
