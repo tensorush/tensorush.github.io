@@ -1,6 +1,6 @@
 +++
 title = "Computational Social Order"
-date = 2023-08-16
+date = 2023-08-17
 
 [taxonomies]
 types = ["list"]
