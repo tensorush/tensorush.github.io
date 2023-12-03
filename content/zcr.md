@@ -66,21 +66,6 @@ for (items) |*item_ptr| {...} // Nope
 for (items) |*item| {...}     // Dope
 ```
 
-- ## Initialize tagged union's void fields as enum tags
-
-```zig
-const Pet = union(enum) {
-    cat: union(enum) {
-        siberian: void,
-        birman: void,
-    },
-    dog: Dog,
-};
-
-const pet = Pet{ .cat = .{ .siberian = {} } }; // Nope
-const pet = Pet{ .cat = .siberian }; // Dope
-```
-
 - ## Use a short, consistent suffix for naming optionals
 
 ```zig
@@ -100,6 +85,21 @@ while (items_iter.next()) |item| {...} // Dope
 ```zig
 return MyItem{ .fld = 42 }; // Nope
 return .{ .fld = 42 };      // Dope
+```
+
+- ## Initialize nested tagged union's void fields as enum tags
+
+```zig
+const Pet = union(enum) {
+    cat: union(enum) {
+        siberian: void,
+        birman: void,
+    },
+    dog: Dog,
+};
+
+const pet = Pet{ .cat = .{ .siberian = {} } }; // Nope
+const pet = Pet{ .cat = .siberian }; // Dope
 ```
 
 - ## Specify the tested entity's name as the test function's name
