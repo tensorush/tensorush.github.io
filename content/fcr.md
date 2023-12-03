@@ -7,7 +7,7 @@ types = ["gallery"]
 tags = ["favorite"]
 +++
 
-Cookbook that only requires veggies, meats, eggs, and dairy.
+Cookbook that only requires meats, veggies, eggs, shrooms, herbs, and dairy.
 
 <!-- more -->
 
