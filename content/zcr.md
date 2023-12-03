@@ -66,6 +66,21 @@ for (items) |*item_ptr| {...} // Nope
 for (items) |*item| {...}     // Dope
 ```
 
+- ## Initialize tagged union's void fields as enum tags
+
+```zig
+const Pet = union(enum) {
+    cat: union(enum) {
+        siberian: void,
+        birman: void,
+    },
+    dog: Dog,
+};
+
+const pet = Pet{ .cat = .{ .siberian = {} } }; // Nope
+const pet = Pet{ .cat = .siberian }; // Dope
+```
+
 - ## Use a short, consistent suffix for naming optionals
 
 ```zig
