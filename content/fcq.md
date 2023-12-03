@@ -4,7 +4,7 @@ date = 2023-08-16
 
 [taxonomies]
 types = ["list"]
-tags = ["life"]
+tags = ["favorite"]
 +++
 
 Collection of quotes capturing the human discovery of the computational nature of the Universe.
