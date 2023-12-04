@@ -7,7 +7,7 @@ types = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 258 [cheer](@/cns.md) stunting skills (36 still missing).
+Snapshot collection of 261 [cheer](@/cns.md) stunting skills (36 still missing).
 
 <!-- more -->
 
@@ -38,15 +38,15 @@ Snapshot collection of 258 [cheer](@/cns.md) stunting skills (36 still missing).
 {{ image(path="ksl.webp", desc="Brett Kessler", link="https://www.instagram.com/brett_kessler") }}
 {{ image(path="jnk.webp", desc="Jalani Keo", link="https://www.instagram.com/jalanibustdown") }}
 {{ image(path="dsv.webp", desc="Michael Androsov", link="https://www.youtube.com/@booshslays") }}
+{{ image(path="lfl.webp", desc="Keyshawn Leflore", link="https://www.instagram.com/keyshawn.leflore") }}
+{{ image(path="ckl.webp", desc="Kollin Cockrell", link="https://www.instagram.com/kollinmarkcockrell") }}
+{{ image(path="wbg.webp", desc="Christian Weinberg", link="https://www.instagram.com/cj_wino") }}
 {{ image(path="psk.webp", desc="Justin Pulaski", link="https://www.instagram.com/justin_pulaski") }}
 {{ image(path="ctr.webp", desc="Dawan Carter", link="https://www.instagram.com/dawan_andonly") }}
 {{ image(path="wlk.webp", desc="Ronnie Walker", link="https://www.instagram.com/omg_ronnied93") }}
 {{ image(path="tmn.webp", desc="Johnny Thompson", link="https://www.instagram.com/thomp338") }}
 {{ image(path="nnn.webp", desc="Ricky Nunn", link="https://www.instagram.com/xricky_nunnx") }}
 {{ image(path="sdg.webp", desc="Heath Snodgrass", link="https://www.instagram.com/jheath59_03") }}
-{{ image(path="lfl.webp", desc="Keyshawn Leflore", link="https://www.instagram.com/keyshawn.leflore") }}
-{{ image(path="ckl.webp", desc="Kollin Cockrell", link="https://www.instagram.com/kollinmarkcockrell") }}
-{{ image(path="wbg.webp", desc="Christian Weinberg", link="https://www.instagram.com/cj_wino") }}
 {{ gallery_end() }}
 
 # **Special shout-outs to:**
@@ -102,6 +102,7 @@ Snapshot collection of 258 [cheer](@/cns.md) stunting skills (36 still missing).
 {{ image(path="vsr.webp", desc="Visor", link="https://youtu.be/RLbde7dYHkI?t=235") }}
 {{ image(path="dlv.webp", desc="Double Visor", link="https://youtu.be/7HU_bauP2lI?t=601") }}
 {{ image(path="crl.webp", desc="Cradle", link="https://youtu.be/WBMVkXf3oBU?t=752") }}
+{{ image(path="spm.webp", desc="Superman", link="https://www.instagram.com/p/CnxxS9JPM5m") }}
 {{ gallery_end() }}
 
 # **Tosses - base throws a flyer to a foot grip**
@@ -254,10 +255,11 @@ Snapshot collection of 258 [cheer](@/cns.md) stunting skills (36 still missing).
 {{ image(path="ssm.webp", desc="Side Sumi", link="https://www.youtube.com/shorts/p2XVKhJH3Aw") }}
 {{ image(path="hdd.webp", desc="Handstand Around", link="https://www.youtube.com/shorts/OZg9lVFwJQU") }}
 {{ image(path="hkd.webp", desc="Handski Around", link="https://www.youtube.com/shorts/4sAQu4PxQOA") }}
-{{ image(path="rtw.webp", desc="Around the World", link="https://youtu.be/hw7tZkE-dHk?t=356") }}
+{{ image(path="sss.webp", desc="Superman Side Sumi", link="https://www.instagram.com/p/CnxxS9JPM5m") }}
 {{ image(path="hcr.webp", desc="Helicopter", link="https://www.youtube.com/shorts/mC6yrsA0Ixk") }}
 {{ image(path="sfh.webp", desc="Starfish", link="https://www.youtube.com/shorts/8ufJn_pcaUw") }}
 {{ image(path="wbd.webp", desc="Whirlybird", link="https://www.instagram.com/p/ColK5CDjQGl") }}
+{{ image(path="rtw.webp", desc="Around the World", link="https://youtu.be/hw7tZkE-dHk?t=356") }}
 {{ gallery_end() }}
 
 # **Flips - flyer performs a flip in the air**
@@ -267,13 +269,13 @@ Snapshot collection of 258 [cheer](@/cns.md) stunting skills (36 still missing).
 {{ image(path="stn.webp", desc="Shotgun", link="https://youtu.be/CDZ0CePSQ40?t=261") }}
 {{ image(path="fsg.webp", desc="Front Shotgun", link="https://www.instagram.com/p/CkKDH2mJLgm") }}
 {{ image(path="rwd.webp", desc="Rewind", link="https://youtu.be/LV3RCD7S-GE?t=375") }}
-{{ image(path="spm.webp", desc="Superman", link="https://youtu.be/3pC9y3dZVrU?t=717") }}
+{{ image(path="srd.webp", desc="Superman Rewind", link="https://youtu.be/3pC9y3dZVrU?t=717") }}
 {{ image(path="ntn.webp", desc="One to One", link="https://youtu.be/SwaejeJ8kPk?t=477") }}
 {{ image(path="ftf.webp", desc="Fast Forward", link="https://youtu.be/u1x7tgvlO3M?t=518") }}
 {{ image(path="ftw.webp", desc="Full Twisting Rewind", link="https://youtu.be/DfFdPsbxVPQ?t=612") }}
 {{ image(path="ftp.webp", desc="Front Tuck Up", link="https://youtu.be/u1x7tgvlO3M?t=736") }}
 {{ image(path="tsg.webp", desc="Full Twisting Shotgun", link="https://www.youtube.com/shorts/6vRE2dBZef4") }}
-{{ image(path="tsm.webp", desc="Full Twisting Superman", link="https://www.tiktok.com/@_boogie00/video/7079766706289200430") }}
+{{ image(path="tsm.webp", desc="Full Twisting Superman Rewind", link="https://www.tiktok.com/@_boogie00/video/7079766706289200430") }}
 {{ image(path="tsw.webp", desc="Full Twisting Walk In", link="") }}
 {{ image(path="bsg.webp", desc="Backing Shotgun", link="https://www.youtube.com/shorts/65u8P95FbwI") }}
 {{ image(path="ksg.webp", desc="Kicking Shotgun", link="https://www.instagram.com/p/CfqDQgNlTGB") }}
@@ -342,6 +344,7 @@ Snapshot collection of 258 [cheer](@/cns.md) stunting skills (36 still missing).
 {{ image(path="slf.webp", desc="Split Lift", link="") }}
 {{ image(path="hsf.webp", desc="High Split Lift", link="") }}
 {{ image(path="wfl.webp", desc="Waterfall", link="https://www.youtube.com/shorts/Gn7CLpNHLFM") }}
+{{ image(path="sfl.webp", desc="Standing Full", link="https://www.youtube.com/shorts/t0JXmTz3NbI") }}
 {{ image(path="sfs.webp", desc="Swedish Falls", link="") }}
 {{ gallery_end() }}
 
