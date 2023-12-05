@@ -1,6 +1,6 @@
 +++
-title = "Body Desensitization Pandemic"
-date = 2023-12-02
+title = "Somatic Desensitization Pandemic"
+date = 2023-11-18
 
 [taxonomies]
 types = ["list"]
