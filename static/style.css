@@ -108,24 +108,6 @@ table th {
     border: 2px solid #444;
 }
 
-blockquote {
-    margin: 0;
-    color: #999;
-    overflow: hidden;
-    padding-left: 18px;
-    position: relative;
-    font-style: italic;
-}
-
-blockquote:after {
-    top: 0;
-    left: 0;
-    white-space: pre;
-    line-height: 40px;
-    position: absolute;
-    content: ">\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>\a>";
-}
-
 hr {
     border: 0;
     height: 20px;
