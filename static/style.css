@@ -130,7 +130,7 @@ hr:after {
 }
 
 .image {
-    width: 300px;
+    width: 305px;
 }
 
 .caption {
@@ -144,7 +144,7 @@ hr:after {
 
 .gallery-start {
     display: grid;
-    grid-template-columns: 315px 315px 315px;
+    grid-template-columns: 320px 320px 320px;
 }
 
 .gallery-end {
