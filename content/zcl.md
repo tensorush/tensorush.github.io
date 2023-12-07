@@ -16,6 +16,7 @@ General advice around structuring Zig codebases.
 ```sh
 # .gitattributes
 *.zig text eol=lf
+*.zon text eol=lf
 
 # .gitignore
 zig-cache/
