@@ -86,9 +86,9 @@ Cheer is THE sport!
 # **CHEER compels you to follow the Stunter's Code of Honor!**
 
 {{ gallery_start() }}
-{{ image(path="nfb.webp", desc="No Objectifying Flyers", link="https://youtu.be/rQk9AAnJLhE?t=240") }}
-{{ image(path="nmw.webp", desc="No Making It Weird", link="https://youtu.be/s7W716facM8?t=941") }}
-{{ image(path="nst.webp", desc="No Selfish Attitudes", link="https://youtu.be/FZ4A0nTEtkc?t=794") }}
+{{ image(path="nfb.webp", desc="Not Objectifying Flyers", link="https://youtu.be/rQk9AAnJLhE?t=240") }}
+{{ image(path="nmw.webp", desc="Not Making It Weird", link="https://youtu.be/s7W716facM8?t=941") }}
+{{ image(path="nst.webp", desc="Apologizing for Every Bad Rep", link="https://youtu.be/FZ4A0nTEtkc?t=794") }}
 {{ gallery_end() }}
 
 # **CHEER belongs under the clear sky rather than behind brick walls!**
