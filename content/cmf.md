@@ -1,6 +1,6 @@
 +++
 title = "Cosmos Emulating Interface"
-date = 2023-12-26
+date = 2023-12-25
 draft = true
 
 [taxonomies]
