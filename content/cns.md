@@ -39,7 +39,7 @@ Cheer is THE sport!
 
 {{ gallery_start() }}
 {{ image(path="hdm.webp", desc="Chad Moves", link="https://youtu.be/KsHd_mN0a84?t=261") }}
-{{ image(path="wdd.webp", desc="Word Drops", link="https://youtu.be/vUINVgnZBAQ?t=62") }}
+{{ image(path="wdd.webp", desc="Fact Drops", link="https://youtu.be/vUINVgnZBAQ?t=62") }}
 {{ image(path="sgl.webp", desc="Swag Looks", link="https://youtu.be/u1x7tgvlO3M?t=534") }}
 {{ gallery_end() }}
 
@@ -81,6 +81,14 @@ Cheer is THE sport!
 {{ image(path="fml.webp", desc="Family", link="https://youtu.be/jb-2RLIiq24?t=817") }}
 {{ image(path="fns.webp", desc="Friends", link="https://www.instagram.com/p/Cq9DfnQg5iD") }}
 {{ image(path="fls.webp", desc="Feelings", link="https://youtu.be/ebOIvS87YpM?t=493") }}
+{{ gallery_end() }}
+
+# **CHEER compels you to follow the Stunter's Code of Honor!**
+
+{{ gallery_start() }}
+{{ image(path="nfb.webp", desc="No Objectifying Flyers", link="https://youtu.be/rQk9AAnJLhE?t=240") }}
+{{ image(path="nmw.webp", desc="No Making It Weird", link="https://youtu.be/s7W716facM8?t=941") }}
+{{ image(path="nst.webp", desc="No Selfish Attitudes", link="https://youtu.be/FZ4A0nTEtkc?t=794") }}
 {{ gallery_end() }}
 
 # **CHEER belongs under the clear sky rather than behind brick walls!**
