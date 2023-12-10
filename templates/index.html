@@ -31,17 +31,17 @@
         {% block header %}
         <header>
             <nav itemscope itemtype="http://schema.org/SiteNavigationElement">
-                <a itemprop="url" href="{{config.base_url}}"><span>Home</span></a>
-                <a itemprop="url" href="{{config.base_url}}/bmb/"><span>Background</span></a>
-                <a itemprop="url" href="{{config.base_url}}/lmc/"><span>Codebase</span></a>
-                <a itemprop="url" href="{{config.base_url}}/fpl/"><span>Langs</span></a>
-                <a itemprop="url" href="{{config.base_url}}/fpb/"><span>Blogs</span></a>
-                <a itemprop="url" href="{{config.base_url}}/fvg/"><span>Games</span></a>
-                <a itemprop="url" href="{{config.base_url}}/fpt/"><span>Talks</span></a>
-                <a itemprop="url" href="{{config.base_url}}/fcq/"><span>Quotes</span></a>
-                <a itemprop="url" href="{{config.base_url}}/fcr/"><span>Recipes</span></a>
-                <a itemprop="url" href="{{config.base_url}}/types/"><span>Types</span></a>
-                <a itemprop="url" href="{{config.base_url}}/tags/"><span>Tags</span></a>
+                <a itemprop="url" href="{{config.base_url}}" {% if current_path == '/' %} class="active" {% endif %}><span>Home</span></a>
+                <a itemprop="url" href="{{config.base_url}}/bmb/" {% if current_path == '/bmb/' %} class="active" {% endif %}><span>Background</span></a>
+                <a itemprop="url" href="{{config.base_url}}/lmc/" {% if current_path == '/lmc/' %} class="active" {% endif %}><span>Codebase</span></a>
+                <a itemprop="url" href="{{config.base_url}}/fpl/" {% if current_path == '/fpl/' %} class="active" {% endif %}><span>Langs</span></a>
+                <a itemprop="url" href="{{config.base_url}}/fpb/" {% if current_path == '/fpb/' %} class="active" {% endif %}><span>Blogs</span></a>
+                <a itemprop="url" href="{{config.base_url}}/fvg/" {% if current_path == '/fvg/' %} class="active" {% endif %}><span>Games</span></a>
+                <a itemprop="url" href="{{config.base_url}}/fpt/" {% if current_path == '/fpt/' %} class="active" {% endif %}><span>Talks</span></a>
+                <a itemprop="url" href="{{config.base_url}}/fcq/" {% if current_path == '/fcq/' %} class="active" {% endif %}><span>Quotes</span></a>
+                <a itemprop="url" href="{{config.base_url}}/fcr/" {% if current_path == '/fcr/' %} class="active" {% endif %}><span>Recipes</span></a>
+                <a itemprop="url" href="{{config.base_url}}/types/" {% if current_path == '/types/' %} class="active" {% endif %}><span>Types</span></a>
+                <a itemprop="url" href="{{config.base_url}}/tags/" {% if current_path == '/tags/' %} class="active" {% endif %}><span>Tags</span></a>
             </nav>
         </header>
         {% endblock header %}

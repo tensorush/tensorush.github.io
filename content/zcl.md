@@ -39,7 +39,7 @@ zig-out/
 }
 ```
 
-- ## Root executable file should be named "main.zig".
+- ## Root executable file should be named `main.zig`.
 
 ```zig
 //! Executable source file `main.zig` that contains the entrypoint.

@@ -23,6 +23,20 @@ strong {
     color: #fff
 }
 
+pre {
+    overflow: auto;
+    padding: 5px 10px 5px;
+}
+
+blockquote {
+    margin: 0;
+    font-style: italic;
+    padding-left: 25px;
+    padding-right: 25px;
+    background-color: rgba(54, 69, 79, 0.3);
+    border-left: 5px solid rgba(54, 69, 79, 1);
+}
+
 h1 {
     margin: 0;
     padding: 15px 0;
@@ -52,13 +66,14 @@ p {
 a {
     color: #ccc;
     margin: 0 2px;
-    padding: 2px 0;
     cursor: pointer;
+    padding: 2px 0;
     text-decoration: none;
     border-bottom: 2px solid #009e60;
 }
 
-a:hover {
+a:hover,
+a.active {
     color: #fff;
     background-color: #009e60;
 }
@@ -68,7 +83,8 @@ a[itemprop=url] {
     font-weight: bold;
 }
 
-a[itemprop=url]:hover {
+a[itemprop=url]:hover,
+a[itemprop=url].active {
     color: #fff;
 }
 
