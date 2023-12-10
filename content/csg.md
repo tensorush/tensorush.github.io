@@ -7,7 +7,7 @@ types = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 263 [cheer](@/cns.md) stunting skills (36 still missing).
+Snapshot collection of 266 [cheer](@/cns.md) stunting skills (37 still missing).
 
 <!-- more -->
 
@@ -263,12 +263,13 @@ Snapshot collection of 263 [cheer](@/cns.md) stunting skills (36 still missing).
 {{ image(path="dld.webp", desc="Double Around", link="https://www.instagram.com/p/CqX1bDoj03A") }}
 {{ image(path="hfd.webp", desc="Half Around", link="https://www.instagram.com/p/B8iaMPjFCPm") }}
 {{ image(path="ssm.webp", desc="Side Sumi", link="https://www.youtube.com/shorts/p2XVKhJH3Aw") }}
-{{ image(path="hdd.webp", desc="Handstand Around", link="https://www.youtube.com/shorts/OZg9lVFwJQU") }}
+{{ image(path="dvd.webp", desc="Diamidov Around", link="https://www.youtube.com/shorts/OZg9lVFwJQU") }}
+{{ image(path="hdd.webp", desc="Handstand Around", link="https://youtu.be/dWolIgPDBBg?t=1022") }}
 {{ image(path="hkd.webp", desc="Handski Around", link="https://www.youtube.com/shorts/4sAQu4PxQOA") }}
-{{ image(path="sss.webp", desc="Superman Side Sumi", link="https://www.instagram.com/p/CnxxS9JPM5m") }}
 {{ image(path="hcr.webp", desc="Helicopter", link="https://www.youtube.com/shorts/mC6yrsA0Ixk") }}
 {{ image(path="sfh.webp", desc="Starfish", link="https://www.youtube.com/shorts/8ufJn_pcaUw") }}
 {{ image(path="wbd.webp", desc="Whirlybird", link="https://www.instagram.com/p/ColK5CDjQGl") }}
+{{ image(path="sss.webp", desc="Superman Side Sumi", link="https://www.instagram.com/p/CnxxS9JPM5m") }}
 {{ image(path="rtw.webp", desc="Around the World", link="https://youtu.be/hw7tZkE-dHk?t=356") }}
 {{ gallery_end() }}
 
@@ -388,9 +389,6 @@ Snapshot collection of 263 [cheer](@/cns.md) stunting skills (36 still missing).
 {{ image(path="spt.webp", desc="Spotter Toss", link="https://youtu.be/UnSqDsi_6lE?t=657") }}
 {{ image(path="tfs.webp", desc="Toss Fists", link="https://youtu.be/7HU_bauP2lI?t=617") }}
 {{ image(path="bts.webp", desc="Blind Toss", link="https://youtu.be/u1x7tgvlO3M?t=479") }}
-{{ image(path="ftd.webp", desc="Fist to Hand", link="https://youtu.be/SonOnjYRtHU?t=838") }}
-{{ image(path="htf.webp", desc="Hand to Fist", link="") }}
-{{ image(path="ftt.webp", desc="Fist to Fist", link="https://youtu.be/9LaHx5fUn6s?t=467") }}
 {{ image(path="tbd.webp", desc="Backward Toss", link="https://youtu.be/8NjlORymE2k?t=1024") }}
 {{ image(path="dtn.webp", desc="Dust the Knees", link="https://youtu.be/FZ4A0nTEtkc?t=65") }}
 {{ image(path="wts.webp", desc="Wipe the Shoes", link="https://www.youtube.com/shorts/MFTrfQEe6UQ") }}
@@ -409,4 +407,9 @@ Snapshot collection of 263 [cheer](@/cns.md) stunting skills (36 still missing).
 {{ image(path="grr.webp", desc="Game of Russian Roulette", link="https://youtu.be/QkqEMnyiiJY?t=465") }}
 {{ image(path="cpt.webp", desc="Cupie Time", link="https://youtu.be/3pC9y3dZVrU?t=338") }}
 {{ image(path="tft.webp", desc="Trifecta", link="https://youtu.be/QkqEMnyiiJY?t=777") }}
+{{ image(path="ftd.webp", desc="Fists to Hands", link="https://youtu.be/SonOnjYRtHU?t=838") }}
+{{ image(path="htf.webp", desc="Hands to Fists", link="") }}
+{{ image(path="ftt.webp", desc="Fists to Fists", link="https://youtu.be/9LaHx5fUn6s?t=467") }}
+{{ image(path="nhw.webp", desc="One-Way Hands on Wrists", link="https://youtu.be/dWolIgPDBBg?t=813") }}
+{{ image(path="thw.webp", desc="Two-Way Hands on Wrists", link="") }}
 {{ gallery_end() }}
