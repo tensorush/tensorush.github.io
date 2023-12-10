@@ -39,10 +39,36 @@ zig-out/
 }
 ```
 
-- ## Root library file should have the same name, reference tests, expose the public API and error set.
+- ## Root executable file should be named "main.zig".
 
 ```zig
-//! Root library file `library_name.zig` that exposes the public API.
+//! Executable source file `main.zig` that contains the entrypoint.
+
+pub fn main() void {}
+```
+
+- ## Struct source files, which contain fields, should have TitleCase names.
+
+```zig
+//! Struct source file `MyFile.zig` that contains fields.
+
+const MyFile = @This();
+
+fld: u8,
+```
+
+- ## Namespace source files, which don't contain fields, should have snake_case names.
+
+```zig
+//! Namespace source file `my_file.zig` that doesn't contain fields.
+
+// fld: u8,
+```
+
+- ## Root library file should have its name, reference tests, expose the public API and error set.
+
+```zig
+//! Root library file `{library_name}.zig` that exposes the public API.
 
 const std = @import("std");
 
