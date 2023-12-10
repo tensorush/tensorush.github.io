@@ -11,6 +11,14 @@ Snapshot collection of 263 [cheer](@/cns.md) stunting skills (36 still missing).
 
 <!-- more -->
 
+# **Please consider supporting the top competing athletes featured here:**
+
+{{ gallery_start() }}
+{{ image(path="lzl.webp", desc="Eliza LaBelle", link="https://secure.givelively.org/donate/usa-federation-for-sport-cheering/usa-cheer-premier-coed-12f0ae47-3482-4607-904c-bdd2ec1961e9/eliza-labelle") }}
+{{ image(path="mtt.webp", desc="Mitterson Charles", link="https://secure.givelively.org/donate/usa-federation-for-sport-cheering/usa-cheer-premier-coed-12f0ae47-3482-4607-904c-bdd2ec1961e9/miterson-charles") }}
+{{ image(path="cld.webp", desc="Caylee Odle", link="https://secure.givelively.org/donate/usa-federation-for-sport-cheering/usa-cheer-premier-coed-12f0ae47-3482-4607-904c-bdd2ec1961e9/caylee-odle") }}
+{{ gallery_end() }}
+
 # **Massive props to:**
 
 {{ gallery_start() }}
