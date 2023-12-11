@@ -19,9 +19,9 @@ Snapshot collection of 266 [cheer](@/cns.md) stunting skills (37 still missing).
 {{ image(path="cld.webp", desc="Caylee Odle", link="https://secure.givelively.org/donate/usa-federation-for-sport-cheering/usa-cheer-premier-coed-12f0ae47-3482-4607-904c-bdd2ec1961e9/caylee-odle") }}
 {{ gallery_end() }}
 
-# **Also, check out Dan's Patreon for more stunting tutorials and vlogs:**
+# **Check out Dan's Patreon for more stunting tutorials and vlogs:**
 
-{{ center_image(path="hbd.webp", desc="Here's a Cool Little Easter Egg: the Actual Full Cover Image of Dan's Channel", link="https://www.patreon.com/danielbuyeske") }}
+{{ center_image(path="hbd.webp", desc="Cool Little Easter Egg: Actual Full Cover Image of Dan's Channel", link="https://www.patreon.com/danielbuyeske") }}
 
 # **First things first, massive props to:**
 
