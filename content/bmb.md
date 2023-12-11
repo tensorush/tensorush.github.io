@@ -13,7 +13,9 @@ Brief summary of my background.
 
 # **General**
 
-You can subscribe to my blog by pasting [its Atom Feed link](https://tensorush.github.io/atom.xml) in your [news feed reader](https://en.wikipedia.org/wiki/News_aggregator) of choice. I use [NetNewsWire](https://netnewswire.com) on macOS/iOS. Also, check out my [CV](https://tensorush.github.io/cv/en.pdf) for the relevant academics, jobs, projects, and socials.
+Subscribe to my blog by pasting [its Atom Feed link](https://tensorush.github.io/atom.xml) in your [news feed reader](https://en.wikipedia.org/wiki/News_aggregator) of choice. I use [NetNewsWire](https://netnewswire.com) on macOS/iOS.
+
+Also, check out my [CV](https://tensorush.github.io/cv/en.pdf) for the relevant academics, jobs, projects, and socials.
 
 # **Sports**
 
