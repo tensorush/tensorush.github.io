@@ -267,7 +267,7 @@ Snapshot collection of 266 [cheer](@/cns.md) stunting skills (37 still missing).
 {{ image(path="dld.webp", desc="Double Around", link="https://www.instagram.com/p/CqX1bDoj03A") }}
 {{ image(path="hfd.webp", desc="Half Around", link="https://www.instagram.com/p/B8iaMPjFCPm") }}
 {{ image(path="ssm.webp", desc="Side Sumi", link="https://www.youtube.com/shorts/p2XVKhJH3Aw") }}
-{{ image(path="dvd.webp", desc="Diamidov Around", link="https://www.youtube.com/shorts/OZg9lVFwJQU") }}
+{{ image(path="dvd.webp", desc="Pirouette", link="https://www.youtube.com/shorts/OZg9lVFwJQU") }}
 {{ image(path="hdd.webp", desc="Handstand Around", link="https://youtu.be/dWolIgPDBBg?t=1022") }}
 {{ image(path="hkd.webp", desc="Handski Around", link="https://www.youtube.com/shorts/4sAQu4PxQOA") }}
 {{ image(path="hcr.webp", desc="Helicopter", link="https://www.youtube.com/shorts/mC6yrsA0Ixk") }}
