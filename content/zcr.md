@@ -160,3 +160,21 @@ pub fn Item(comptime T: type) type {
     };
 }
 ```
+
+- ## Don't create default struct initializer if it's possible to assign default values to fields
+
+```zig
+// Nope
+const MyItem = struct{
+    fld: u8,
+
+    pub fn init() MyItem {
+        return .{ fld = 0 };
+    }
+};
+
+// Dope
+const MyItem = struct{
+    fld: u8 = 0,
+};
+```
