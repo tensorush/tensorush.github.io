@@ -151,7 +151,7 @@ const Item = struct {
 };
 
 // Dope
-pub fn Item(comptime T: type) type {
+fn Item(comptime T: type) type {
     return struct {
         const Self = @This();
 
@@ -165,7 +165,7 @@ pub fn Item(comptime T: type) type {
 
 ```zig
 // Nope
-const MyItem = struct{
+const MyItem = struct {
     fld: u8,
 
     pub fn init() MyItem {
@@ -174,7 +174,7 @@ const MyItem = struct{
 };
 
 // Dope
-const MyItem = struct{
+const MyItem = struct {
     fld: u8 = 0,
 };
 ```
