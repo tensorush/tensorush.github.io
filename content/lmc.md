@@ -188,6 +188,23 @@ Backend for a bookkeeping service based on [gRPC](https://grpc.io).
 
 [Telegram](https://telegram.org) bot for secure password storage.
 
+# **C++ Toolkits**
+
+- ## 🐲 🧰 cpu toolkit
+
+[![ST][cpu-toolkit-st-shd]][cpu-toolkit-st-url]
+[![CI][cpu-toolkit-ci-shd]][cpu-toolkit-ci-url]
+[![LC][cpu-toolkit-lc-shd]][cpu-toolkit-lc-url]
+
+Collection of basic CPU algorithms and data structures implemented in C++.
+
+- ## 🐉 🧰 gpu toolkit
+
+[![ST][gpu-toolkit-st-shd]][gpu-toolkit-st-url]
+[![LC][gpu-toolkit-lc-shd]][gpu-toolkit-lc-url]
+
+Collection of basic GPU algorithms implemented in CUDA C++.
+
 # **Code Challenges**
 
 - ## 🎄 🧑‍💻 advent of code
@@ -205,6 +222,14 @@ Backend for a bookkeeping service based on [gRPC](https://grpc.io).
 [![LC][advent-of-code-lc-shd]][advent-of-code-lc-url]
 
 Solutions to annual [Advent of Code](https://adventofcode.com) challenges written in modern programming languages.
+
+- ## 🐲 🏋️ algorithmic workout
+
+[![ST][algorithmic-workout-st-shd]][algorithmic-workout-st-url]
+[![CI][algorithmic-workout-ci-shd]][algorithmic-workout-ci-url]
+[![LC][algorithmic-workout-lc-shd]][algorithmic-workout-lc-url]
+
+Solutions to programming contests.
 
 - ## 🐹 🔀 follower maze
 
@@ -515,6 +540,31 @@ My workstation [dotfiles](https://en.wiktionary.org/wiki/dotfile).
 [follower-maze-lc-shd]: https://img.shields.io/github/license/tensorush/follower-maze.svg?style=for-the-badge&labelColor=black
 [follower-maze-lc-url]: https://github.com/tensorush/follower-maze/blob/main/LICENSE.md
 
+<!-- algorithmic workout -->
+
+[algorithmic-workout-st-shd]: https://img.shields.io/badge/maintaining-353935?style=for-the-badge
+[algorithmic-workout-st-url]: https://github.com/tensorush/algorithmic-workout
+[algorithmic-workout-ci-shd]: https://img.shields.io/github/actions/workflow/status/tensorush/algorithmic-workout/ci.yaml?branch=main&style=for-the-badge&logo=github&label=CI&labelColor=black
+[algorithmic-workout-ci-url]: https://github.com/tensorush/algorithmic-workout/blob/main/.github/workflows/ci.yaml
+[algorithmic-workout-lc-shd]: https://img.shields.io/github/license/tensorush/algorithmic-workout.svg?style=for-the-badge&labelColor=black
+[algorithmic-workout-lc-url]: https://github.com/tensorush/algorithmic-workout/blob/main/LICENSE.md
+
+<!-- cpp toolkit -->
+
+[cpu-toolkit-st-shd]: https://img.shields.io/badge/maintaining-353935?style=for-the-badge
+[cpu-toolkit-st-url]: https://github.com/tensorush/cpu-toolkit
+[cpu-toolkit-ci-shd]: https://img.shields.io/github/actions/workflow/status/tensorush/cpu-toolkit/ci.yaml?branch=main&style=for-the-badge&logo=github&label=CI&labelColor=black
+[cpu-toolkit-ci-url]: https://github.com/tensorush/cpu-toolkit/blob/main/.github/workflows/ci.yaml
+[cpu-toolkit-lc-shd]: https://img.shields.io/github/license/tensorush/cpp-toolkit.svg?style=for-the-badge&labelColor=black
+[cpu-toolkit-lc-url]: https://github.com/tensorush/cpp-toolkit/blob/main/LICENSE.md
+
+<!-- gpu toolkit -->
+
+[gpu-toolkit-st-shd]: https://img.shields.io/badge/maintaining-353935?style=for-the-badge
+[gpu-toolkit-st-url]: https://github.com/tensorush/gpu-toolkit
+[gpu-toolkit-lc-shd]: https://img.shields.io/github/license/tensorush/cuda-toolkit.svg?style=for-the-badge&labelColor=black
+[gpu-toolkit-lc-url]: https://github.com/tensorush/cuda-toolkit/blob/main/LICENSE.md
+
 <!-- advent of code -->
 
 [advent-of-code-st-shd]: https://img.shields.io/badge/developing-FFDEAD?style=for-the-badge
@@ -538,7 +588,7 @@ My workstation [dotfiles](https://en.wiktionary.org/wiki/dotfile).
 [advent-of-code-mj-shd]: https://img.shields.io/badge/mj-black.svg?style=for-the-badge&logo=fireship&logoColor=FF6522
 [advent-of-code-mj-url]: https://www.modular.com/mojo
 [advent-of-code-lc-shd]: https://img.shields.io/github/license/tensorush/advent-of-code.svg?style=for-the-badge&labelColor=black
-[advent-of-code-lc-url]: https://github.com/tensorush/advent-of-code/blob/master/LICENSE.md
+[advent-of-code-lc-url]: https://github.com/tensorush/advent-of-code/blob/main/LICENSE.md
 
 <!-- vault -->
 
