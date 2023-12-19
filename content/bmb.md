@@ -33,10 +33,10 @@ Here's the timeline of my programming/typesetting/markdown language exploration 
 
 - ## **2019**: [R](https://www.r-project.org/) -> [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 
-- ## **2020**: [Python](https://www.python.org/) -> [TeX](https://tug.org/) -> [Markdown](https://commonmark.org/)
+- ## **2020**: [Python](https://www.python.org/) -> [TeX](https://tug.org/) -> [CommonMark](https://commonmark.org/)
 
-- ## **2021**: [Julia](https://julialang.org/) -> [C++](https://cplusplus.com/) -> [Zig](https://ziglang.org/) -> [Nix](https://nixos.org/)
+- ## **2021**: [Julia](https://julialang.org/) -> [C++](https://cplusplus.com/) -> [Rust](https://www.rust-lang.org/) -> [Zig](https://ziglang.org/) -> [Nix](https://nixos.org/)
 
-- ## **2022**: [Rust](https://www.rust-lang.org/) -> [C](https://en.cppreference.com/w/c/language) -> [x86 Assembly](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html) -> [Forth](https://www.forthlang.org/) -> [Swift](https://www.swift.org/)
+- ## **2022**: [C](https://en.cppreference.com/w/c/language) -> [x86 Assembly](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html) -> [Forth](https://www.forthlang.org/) -> [Swift](https://www.swift.org/)
 
 - ## **2023**: [Go](https://go.dev/) -> [Typst](https://typst.app/) -> [Wasm Interface Type](https://component-model.bytecodealliance.org/design/wit.html) -> [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS) -> [Mojo](https://www.modular.com/mojo)
