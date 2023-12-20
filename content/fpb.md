@@ -56,4 +56,3 @@ Personal blogs, channels, and podcasts I've been subscribed to for quite a while
 |        [💭 Wesley Aptekar-Cassels](https://blog.wesleyac.com)         |                                                                        |                                                                |
 | [🎧 Matt Godbolt & Ben Rady](https://www.twoscomplement.org/#podcast) |                                                                        |                                                                |
 |   [🎧 Conor Hoekstra & Bryce Lelbach](https://adspthepodcast.com/)    |                                                                        |                                                                |
-|                                                                       |                                                                        |                                                                |
