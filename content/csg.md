@@ -185,7 +185,7 @@ Snapshot collection of 266 [cheer](@/cns.md) stunting skills (37 still missing).
 {{ image(path="pps.webp", desc="Power Press", link="https://youtu.be/0TN-f7vbnTQ?t=273") }}
 {{ image(path="rcl.webp", desc="Recoil", link="https://www.youtube.com/shorts/B5OVmWPtjII") }}
 {{ image(path="tpt.webp", desc="Full Twisting Pop Through", link="https://www.tiktok.com/@eliza.labelle/video/7094666681926028587") }}
-{{ image(path="tfp.webp", desc="Full Twisting Front Pop Through", link="https://www.snapchat.com/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYanRydnhleXlkAYNh2MgdAYNh2MZXAAAAAA") }}
+{{ image(path="tfp.webp", desc="Full Twisting Front Pop Through", link="https://youtu.be/SdluzIvdWUE?t=46") }}
 {{ image(path="ppt.webp", desc="Pop Tart", link="https://www.youtube.com/shorts/enKAPA7lPYw") }}
 {{ image(path="hwt.webp", desc="Half Twisting Pop Tart", link="https://www.instagram.com/p/CRemjnbAUho") }}
 {{ image(path="fwt.webp", desc="Full Twisting Pop Tart", link="") }}
