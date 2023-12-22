@@ -31,7 +31,7 @@ zig-out/
     .version = "<package_version>",
     .dependencies = .{
         .<dependency_package_name> = .{
-            .url = "https://<git_hosting/<user>/<repo>/archive/<version_tag_or_commit_hash>.tar.gz",
+            .url = "https://<git_hosting>/<user>/<repo>/archive/<version_tag_or_commit_hash>.tar.gz",
             .hash = "<dependency_package_hash>",
         },
     },
