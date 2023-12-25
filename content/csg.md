@@ -7,7 +7,7 @@ types = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 266 [cheer](@/cns.md) stunting skills (37 still missing).
+Snapshot collection of 267 [cheer](@/cns.md) stunting skills (37 still missing).
 
 <!-- more -->
 
@@ -163,8 +163,9 @@ Snapshot collection of 266 [cheer](@/cns.md) stunting skills (37 still missing).
 {{ image(path="hrd.webp", desc="Hand Rewind", link="") }}
 {{ image(path="hhr.webp", desc="Half Hand Rewind", link="") }}
 {{ image(path="fhr.webp", desc="Full Hand Rewind", link="https://youtu.be/SwaejeJ8kPk?t=681") }}
-{{ image(path="wkp.webp", desc="Walk Up", link="https://youtu.be/2eAJ3mtFOlE?t=219") }}
+{{ image(path="wkp.webp", desc="Walk On", link="https://youtu.be/2eAJ3mtFOlE?t=219") }}
 {{ image(path="rhh.webp", desc="Reverse Hand to Hand", link="https://www.instagram.com/p/Cq3HSF8LQLN") }}
+{{ image(path="rwp.webp", desc="Reverse Walk On", link="https://www.youtube.com/shorts/RT5EE0_X5RE") }}
 {{ image(path="nlc.webp", desc="Inlocate", link="") }}
 {{ gallery_end() }}
 
