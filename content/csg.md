@@ -7,7 +7,7 @@ types = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 267 [cheer](@/cns.md) stunting skills (37 still missing).
+Snapshot collection of 268 [cheer](@/cns.md) stunting skills (37 still missing).
 
 <!-- more -->
 
@@ -156,7 +156,7 @@ Snapshot collection of 267 [cheer](@/cns.md) stunting skills (37 still missing).
 {{ image(path="rbw.webp", desc="Rainbow", link="https://youtu.be/A1tjmd6sBxU?t=617") }}
 {{ image(path="fsd.webp", desc="Front Spread", link="https://www.youtube.com/shorts/RfXsbmoL3zY") }}
 {{ image(path="bsd.webp", desc="Back Spread", link="https://www.youtube.com/shorts/CbazH3PF1MU") }}
-{{ image(path="fpp.webp", desc="Flip Up", link="https://www.instagram.com/p/CjgHsjZpGbe") }}
+{{ image(path="fpp.webp", desc="Back Flip Up", link="https://www.instagram.com/p/CjgHsjZpGbe") }}
 {{ image(path="cts.webp", desc="Candle Toss", link="https://youtu.be/Vsq-m_Rd7Zk?t=797") }}
 {{ image(path="rrt.webp", desc="Reusable Rocket Toss", link="https://youtu.be/unErKUN0u5I?t=515") }}
 {{ image(path="hrt.webp", desc="Hand Rocket Toss", link="https://youtu.be/hT_exv5X2_Q?t=702") }}
@@ -299,6 +299,7 @@ Snapshot collection of 267 [cheer](@/cns.md) stunting skills (37 still missing).
 {{ image(path="rds.webp", desc="Rewinding Shotgun", link="https://www.youtube.com/shorts/9mTdZ0EqkHk") }}
 {{ image(path="wht.webp", desc="One-Handed Shotgun", link="https://www.youtube.com/shorts/5mLWtcbPUwk") }}
 {{ image(path="fnn.webp", desc="Full One to One", link="https://www.instagram.com/p/Cc59_tJptB-") }}
+{{ image(path="qff.webp", desc="Quick Front Flip", link="https://www.youtube.com/shorts/WFcGb3wjs88") }}
 {{ gallery_end() }}
 
 # **Tumbles - either base or flyer performs a flip on the ground**
