@@ -300,6 +300,8 @@ Snapshot collection of 268 [cheer](@/cns.md) stunting skills (37 still missing).
 {{ image(path="wht.webp", desc="One-Handed Shotgun", link="https://www.youtube.com/shorts/5mLWtcbPUwk") }}
 {{ image(path="fnn.webp", desc="Full One to One", link="https://www.instagram.com/p/Cc59_tJptB-") }}
 {{ image(path="qff.webp", desc="Quick Front Flip", link="https://www.youtube.com/shorts/WFcGb3wjs88") }}
+{{ image(path="qfr.webp", desc="Quick Full Twisting Rewind", link="https://www.youtube.com/shorts/x0fyD9SgP7c") }}
+{{ image(path="chr.webp", desc="Charging Rhino / Stretch Rewind", link="https://www.youtube.com/shorts/k1cMJaxCvSw") }}
 {{ gallery_end() }}
 
 # **Tumbles - either base or flyer performs a flip on the ground**
@@ -368,7 +370,7 @@ Snapshot collection of 268 [cheer](@/cns.md) stunting skills (37 still missing).
 # **Extras - stunts turn extra hard**
 
 {{ gallery_start() }}
-{{ image(path="tbk.webp", desc="Buyeske", link="https://youtu.be/vmu1ZInhbjw?t=207") }}
+{{ image(path="tbk.webp", desc="Buyeske / Ballerina", link="https://youtu.be/vmu1ZInhbjw?t=207") }}
 {{ image(path="bdn.webp", desc="Bondan", link="https://youtu.be/qjbRUuxKr3Q?t=552") }}
 {{ image(path="tjn.webp", desc="Hybrid", link="https://youtu.be/vUINVgnZBAQ?t=851") }}
 {{ image(path="mtl.webp", desc="Immediate Lib", link="https://youtu.be/HMBSWEz2l24?t=316") }}

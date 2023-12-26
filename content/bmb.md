@@ -21,7 +21,7 @@ Also, check out my [CV](https://tensorush.github.io/cv/en.pdf) for the relevant 
 
 First, I did swimming for 4 years, played tennis for another 4, then stuck with weight-lifting for 8 more. For the past 4 years I've been mixing cardio, stretching, and calisthenics.
 
-Lately, I got into [cheer](@/cns.md), too. Just brushing up on my theory for now and dreaming of stunting with [these elite folks](@/csg.md)!
+Lately, I got into [cheer](@/cns.md), too. Just [popping around my old dumbbell](https://www.youtube.com/@tensorush) for now and dreaming of stunting with [these elite folks](@/csg.md)!
 
 # **Handle**
 

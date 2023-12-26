@@ -36,13 +36,13 @@ Happy Birthday, Universe!
 
 {{ center_image(path="lps.webp", desc="... glowing halo rings", link="https://tensorush.github.io/cmf/lps.webp") }}
 
-# **Your smile is...**
-
-{{ center_image(path="sml.webp", desc="... divine sunshine", link="https://tensorush.github.io/cmf/sml.webp") }}
-
 # **Your skin is...**
 
 {{ center_image(path="skn.webp", desc="... golden hour sky", link="https://tensorush.github.io/cmf/skn.webp") }}
+
+# **Your smile is...**
+
+{{ center_image(path="sml.webp", desc="... divine sunshine", link="https://tensorush.github.io/cmf/sml.webp") }}
 
 # **Your face is...**
 
