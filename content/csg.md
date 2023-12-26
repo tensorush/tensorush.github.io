@@ -7,7 +7,7 @@ types = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 268 [cheer](@/cns.md) stunting skills (37 still missing).
+Snapshot collection of 271 [cheer](@/cns.md) stunting skills (38 still missing).
 
 <!-- more -->
 
@@ -44,29 +44,31 @@ Snapshot collection of 268 [cheer](@/cns.md) stunting skills (37 still missing).
 {{ image(path="jnn.webp", desc="Bonde 'Thirst Trap' Johnson", link="https://www.instagram.com/bondejohnson") }}
 {{ image(path="bsk.webp", desc="Daniel 'Your Father' Buyeske", link="https://www.youtube.com/@danielbuyeske") }}
 {{ image(path="skn.webp", desc="Gauge 'Teddy Bear' Stricklin", link="https://www.youtube.com/@Strictlycheer") }}
-{{ image(path="cls.webp", desc="Mitterson Charles", link="https://www.instagram.com/_mitthappens") }}
-{{ image(path="dbl.webp", desc="Daniel Bailey", link="https://www.youtube.com/@bailcakes") }}
-{{ image(path="dml.webp", desc="Taylor Demler", link="https://www.youtube.com/@t_demler24") }}
-{{ image(path="ksl.webp", desc="Brett Kessler", link="https://www.instagram.com/brett_kessler") }}
-{{ image(path="jnk.webp", desc="Jalani Keo", link="https://www.instagram.com/jalanibustdown") }}
-{{ image(path="dsv.webp", desc="Michael Androsov", link="https://www.youtube.com/@booshslays") }}
-{{ image(path="lfl.webp", desc="Keyshawn Leflore", link="https://www.instagram.com/keyshawn.leflore") }}
-{{ image(path="ckl.webp", desc="Kollin Cockrell", link="https://www.instagram.com/kollinmarkcockrell") }}
-{{ image(path="wbg.webp", desc="Christian Weinberg", link="https://www.instagram.com/cj_wino") }}
-{{ image(path="psk.webp", desc="Justin Pulaski", link="https://www.instagram.com/justin_pulaski") }}
-{{ image(path="ctr.webp", desc="Dawan Carter", link="https://www.instagram.com/dawan_andonly") }}
-{{ image(path="wlk.webp", desc="Ronnie Walker", link="https://www.instagram.com/omg_ronnied93") }}
-{{ image(path="tmn.webp", desc="Johnny Thompson", link="https://www.instagram.com/thomp338") }}
-{{ image(path="nnn.webp", desc="Ricky Nunn", link="https://www.instagram.com/xricky_nunnx") }}
-{{ image(path="sdg.webp", desc="Heath Snodgrass", link="https://www.instagram.com/jheath59_03") }}
+{{ image(path="cls.webp", desc="Mitterson 'Happens' Charles", link="https://www.instagram.com/_mitthappens") }}
+{{ image(path="dbl.webp", desc="Daniel 'Cakes' Bailey", link="https://www.youtube.com/@bailcakes") }}
+{{ image(path="dml.webp", desc="Taylor 'Stud' Demler", link="https://www.youtube.com/@t_demler24") }}
+{{ image(path="ksl.webp", desc="Brett 'Bretticus' Kessler", link="https://www.instagram.com/brett_kessler") }}
+{{ image(path="jnk.webp", desc="Jalani 'Beast' Keo", link="https://www.instagram.com/jalanibustdown") }}
+{{ image(path="dsv.webp", desc="Michael 'Boosh' Androsov", link="https://www.youtube.com/@booshslays") }}
+{{ image(path="lfl.webp", desc="Keyshawn 'Key' LeFlore", link="https://www.instagram.com/keyshawn.leflore") }}
+{{ image(path="ckl.webp", desc="Kollin 'Rhino' Cockrell", link="https://www.instagram.com/kollinmarkcockrell") }}
+{{ image(path="wbg.webp", desc="Christian 'CJ' Weinberg", link="https://www.instagram.com/cj_wino") }}
+{{ image(path="psk.webp", desc="Justin 'WHAT, DAN?!' Pulaski", link="https://www.instagram.com/justin_pulaski") }}
+{{ image(path="ctr.webp", desc="Dawan 'And Only' Carter", link="https://www.instagram.com/dawan_andonly") }}
+{{ image(path="wlk.webp", desc="Ronnie 'St.' Walker", link="https://www.instagram.com/omg_ronnied93") }}
+{{ image(path="tmn.webp", desc="Johnny 'Oh, Bet!' Thompson", link="https://www.instagram.com/thomp338") }}
+{{ image(path="nnn.webp", desc="Ricky 'Whas Hot!' Nunn", link="https://www.instagram.com/xricky_nunnx") }}
+{{ image(path="sdg.webp", desc="Heath 'No Timers' Snodgrass", link="https://www.instagram.com/jheath59_03") }}
 {{ gallery_end() }}
+
+<!-- {{ image(path="vlk.webp", desc="Madison Volcik", link="https://www.instagram.com/madison.volcik") }} -->
 
 # **Special shout-outs to:**
 
 {{ gallery_start() }}
-{{ image(path="mnt.webp", desc="Jeffrey Maisonet", link="https://www.instagram.com/jeffrey.kdm") }}
-{{ image(path="prk.webp", desc="Nick Prak", link="https://www.youtube.com/@NickPrak") }}
-{{ image(path="rtn.webp", desc="Ryan Robertson", link="https://www.youtube.com/@ryanrobertson8889") }}
+{{ image(path="prk.webp", desc="Nick 'Dat Smile!' Prak", link="https://www.youtube.com/@NickPrak") }}
+{{ image(path="mnt.webp", desc="Jeffrey 'Dem Thighs!' Maisonet", link="https://www.instagram.com/jeffrey.kdm") }}
+{{ image(path="rtn.webp", desc="Ryan 'Hard Rock' Robertson", link="https://www.youtube.com/@ryanrobertson8889") }}
 {{ gallery_end() }}
 
 # **Note to flyers:**
@@ -114,7 +116,7 @@ Snapshot collection of 268 [cheer](@/cns.md) stunting skills (37 still missing).
 {{ image(path="vsr.webp", desc="Visor", link="https://youtu.be/RLbde7dYHkI?t=235") }}
 {{ image(path="dlv.webp", desc="Double Visor", link="https://youtu.be/7HU_bauP2lI?t=601") }}
 {{ image(path="crl.webp", desc="Cradle", link="https://youtu.be/WBMVkXf3oBU?t=752") }}
-{{ image(path="spm.webp", desc="Superman", link="https://www.instagram.com/p/CnxxS9JPM5m") }}
+{{ image(path="spm.webp", desc="Superman", link="https://www.instagram.com/p/Cw2-nlQuIMZ") }}
 {{ gallery_end() }}
 
 # **Tosses - base throws a flyer to a foot grip**
@@ -129,13 +131,13 @@ Snapshot collection of 268 [cheer](@/cns.md) stunting skills (37 still missing).
 {{ image(path="bmn.webp", desc="Boomerang", link="https://youtu.be/Vsq-m_Rd7Zk?t=767") }}
 {{ image(path="qts.webp", desc="Quick Toss", link="https://youtu.be/5Fim2JF7-FQ?t=365") }}
 {{ image(path="sbn.webp", desc="Sonic Boomerang", link="https://youtu.be/SonOnjYRtHU?t=1246") }}
-{{ image(path="wkn.webp", desc="Walk In", link="https://youtu.be/7HU_bauP2lI?t=69") }}
+{{ image(path="wkn.webp", desc="Walk In / Toe Pitch", link="https://youtu.be/7HU_bauP2lI?t=69") }}
 {{ image(path="rvt.webp", desc="Reverse Toss", link="https://youtu.be/WBMVkXf3oBU?t=770") }}
 {{ image(path="dpt.webp", desc="Drop Toss", link="https://youtu.be/7HU_bauP2lI?t=30") }}
 {{ image(path="hnh.webp", desc="Hand in Hand", link="https://youtu.be/c34iMh-nryw?t=602") }}
 {{ image(path="kkp.webp", desc="Kick Up", link="https://www.youtube.com/shorts/Dv40rfs24oE") }}
 {{ image(path="rts.webp", desc="Rocket Toss", link="https://www.instagram.com/p/CJm5rF-l2vV") }}
-{{ image(path="srs.webp", desc="Spiraling Rocket Toss", link="https://youtu.be/Aq1zhjSqIZ8?t=42") }}
+{{ image(path="srs.webp", desc="Corkscrew Rocket Toss", link="https://youtu.be/Aq1zhjSqIZ8?t=42") }}
 {{ image(path="sts.webp", desc="Stretch Toss", link="https://www.youtube.com/shorts/PkMPp2MzDfU") }}
 {{ image(path="lvt.webp", desc="Elevator", link="https://youtu.be/SonOnjYRtHU?t=483") }}
 {{ image(path="slp.webp", desc="Straddle Up", link="https://youtu.be/04Wp0TIXF7A?t=604") }}
@@ -157,15 +159,16 @@ Snapshot collection of 268 [cheer](@/cns.md) stunting skills (37 still missing).
 {{ image(path="fsd.webp", desc="Front Spread", link="https://www.youtube.com/shorts/RfXsbmoL3zY") }}
 {{ image(path="bsd.webp", desc="Back Spread", link="https://www.youtube.com/shorts/CbazH3PF1MU") }}
 {{ image(path="fpp.webp", desc="Back Flip Up", link="https://www.instagram.com/p/CjgHsjZpGbe") }}
-{{ image(path="cts.webp", desc="Candle Toss", link="https://youtu.be/Vsq-m_Rd7Zk?t=797") }}
-{{ image(path="rrt.webp", desc="Reusable Rocket Toss", link="https://youtu.be/unErKUN0u5I?t=515") }}
 {{ image(path="hrt.webp", desc="Hand Rocket Toss", link="https://youtu.be/hT_exv5X2_Q?t=702") }}
+{{ image(path="rtt.webp", desc="Reusable Rocket Toss", link="") }}
+{{ image(path="rrt.webp", desc="Reusable Hand Rocket Toss", link="https://youtu.be/unErKUN0u5I?t=515") }}
 {{ image(path="hrd.webp", desc="Hand Rewind", link="") }}
 {{ image(path="hhr.webp", desc="Half Hand Rewind", link="") }}
 {{ image(path="fhr.webp", desc="Full Hand Rewind", link="https://youtu.be/SwaejeJ8kPk?t=681") }}
-{{ image(path="wkp.webp", desc="Walk On", link="https://youtu.be/2eAJ3mtFOlE?t=219") }}
+{{ image(path="wkp.webp", desc="Walk On / Toe Pitch Dive", link="https://youtu.be/2eAJ3mtFOlE?t=219") }}
 {{ image(path="rhh.webp", desc="Reverse Hand to Hand", link="https://www.instagram.com/p/Cq3HSF8LQLN") }}
-{{ image(path="rwp.webp", desc="Reverse Walk On", link="https://www.youtube.com/shorts/RT5EE0_X5RE") }}
+{{ image(path="rwp.webp", desc="Half Walk On", link="https://www.youtube.com/shorts/RT5EE0_X5RE") }}
+{{ image(path="cts.webp", desc="Candle Toss", link="https://youtu.be/Vsq-m_Rd7Zk?t=797") }}
 {{ image(path="nlc.webp", desc="Inlocate", link="") }}
 {{ gallery_end() }}
 
@@ -206,7 +209,7 @@ Snapshot collection of 268 [cheer](@/cns.md) stunting skills (37 still missing).
 {{ image(path="ppr.webp", desc="Reverse Pop Off", link="https://youtu.be/LV3RCD7S-GE?t=30") }}
 {{ image(path="snf.webp", desc="Sign Off", link="https://youtu.be/LV3RCD7S-GE?t=205") }}
 {{ image(path="fsp.webp", desc="Front Spread Drop", link="https://www.youtube.com/shorts/kg0WcXz9El8") }}
-{{ image(path="wkt.webp", desc="Walk Out", link="https://youtu.be/LV3RCD7S-GE?t=24") }}
+{{ image(path="wkt.webp", desc="Walk Out / Toe Pitch Down", link="https://youtu.be/LV3RCD7S-GE?t=24") }}
 {{ image(path="stt.webp", desc="Sexy Set Out", link="https://youtu.be/WBMVkXf3oBU?t=755") }}
 {{ image(path="bsp.webp", desc="Back Spread Drop", link="https://www.youtube.com/shorts/a0-mRBEEBXk") }}
 {{ image(path="spf.webp", desc="Spin Off", link="https://www.youtube.com/shorts/C2Zd8iYmDdM") }}
@@ -293,7 +296,7 @@ Snapshot collection of 268 [cheer](@/cns.md) stunting skills (37 still missing).
 {{ image(path="tsg.webp", desc="Full Twisting Shotgun", link="https://www.youtube.com/shorts/6vRE2dBZef4") }}
 {{ image(path="tsm.webp", desc="Full Twisting Superman Rewind", link="https://www.tiktok.com/@_boogie00/video/7079766706289200430") }}
 {{ image(path="tsw.webp", desc="Full Twisting Walk In", link="") }}
-{{ image(path="bsg.webp", desc="Backing Shotgun", link="https://www.youtube.com/shorts/65u8P95FbwI") }}
+{{ image(path="bsg.webp", desc="Back Handspringing Shotgun", link="https://www.youtube.com/shorts/65u8P95FbwI") }}
 {{ image(path="ksg.webp", desc="Kicking Shotgun", link="https://www.instagram.com/p/CfqDQgNlTGB") }}
 {{ image(path="wsg.webp", desc="Walking Shotgun", link="https://www.instagram.com/p/CIhBU4-gfAd") }}
 {{ image(path="rds.webp", desc="Rewinding Shotgun", link="https://www.youtube.com/shorts/9mTdZ0EqkHk") }}
