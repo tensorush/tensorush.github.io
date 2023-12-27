@@ -15,7 +15,7 @@ Snapshot collection of 271 [cheer](@/cns.md) stunting skills (38 still missing).
 
 {{ gallery_start() }}
 {{ image(path="lzl.webp", desc="Eliza LaBelle", link="https://secure.givelively.org/donate/usa-federation-for-sport-cheering/usa-cheer-premier-coed-12f0ae47-3482-4607-904c-bdd2ec1961e9/eliza-labelle") }}
-{{ image(path="mtt.webp", desc="Mitterson Charles", link="https://secure.givelively.org/donate/usa-federation-for-sport-cheering/usa-cheer-premier-coed-12f0ae47-3482-4607-904c-bdd2ec1961e9/miterson-charles") }}
+{{ image(path="mtt.webp", desc="Miterson Charles", link="https://secure.givelively.org/donate/usa-federation-for-sport-cheering/usa-cheer-premier-coed-12f0ae47-3482-4607-904c-bdd2ec1961e9/miterson-charles") }}
 {{ image(path="cld.webp", desc="Caylee Odle", link="https://secure.givelively.org/donate/usa-federation-for-sport-cheering/usa-cheer-premier-coed-12f0ae47-3482-4607-904c-bdd2ec1961e9/caylee-odle") }}
 {{ gallery_end() }}
 
@@ -44,7 +44,7 @@ Snapshot collection of 271 [cheer](@/cns.md) stunting skills (38 still missing).
 {{ image(path="jnn.webp", desc="Bonde 'Thirst Trap' Johnson", link="https://www.instagram.com/bondejohnson") }}
 {{ image(path="bsk.webp", desc="Daniel 'Your Father' Buyeske", link="https://www.youtube.com/@danielbuyeske") }}
 {{ image(path="skn.webp", desc="Gauge 'Teddy Bear' Stricklin", link="https://www.youtube.com/@Strictlycheer") }}
-{{ image(path="cls.webp", desc="Mitterson 'Happens' Charles", link="https://www.instagram.com/_mitthappens") }}
+{{ image(path="cls.webp", desc="Miterson 'FilMitt' Charles", link="https://www.instagram.com/_mitthappens") }}
 {{ image(path="dbl.webp", desc="Daniel 'Cakes' Bailey", link="https://www.youtube.com/@bailcakes") }}
 {{ image(path="dml.webp", desc="Taylor 'Stud' Demler", link="https://www.youtube.com/@t_demler24") }}
 {{ image(path="ksl.webp", desc="Brett 'Bretticus' Kessler", link="https://www.instagram.com/brett_kessler") }}
