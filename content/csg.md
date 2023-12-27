@@ -30,13 +30,13 @@ Snapshot collection of 271 [cheer](@/cns.md) stunting skills (38 still missing).
 {{ image(path="kbl.webp", desc="Katherine Abela", link="https://www.youtube.com/@katabela") }}
 {{ image(path="pzk.webp", desc="Delaney Porazinski", link="https://www.instagram.com/dporazinski") }}
 {{ image(path="smn.webp", desc="Morgan Simianer", link="https://www.instagram.com/morgannlyn") }}
-{{ image(path="btl.webp", desc="Gabi Butler", link="https://www.instagram.com/gabibutler1617") }}
-{{ image(path="cdl.webp", desc="Caylee Odle", link="https://www.youtube.com/@Its.ccaylee") }}
-{{ image(path="btr.webp", desc="Lexi Batrous", link="https://www.instagram.com/lexibatrous_") }}
 {{ image(path="jns.webp", desc="Cassie Joness", link="https://www.instagram.com/sb.cassie") }}
 {{ image(path="shf.webp", desc="Baillee Schiff", link="https://www.instagram.com/bailleee21") }}
-{{ image(path="rpr.webp", desc="Gillian Rupert", link="https://www.instagram.com/gillianrupert_") }}
+{{ image(path="btr.webp", desc="Lexi Batrous", link="https://www.instagram.com/lexibatrous_") }}
 {{ image(path="brh.webp", desc="Bree Hays", link="https://www.instagram.com/bvc.bree") }}
+{{ image(path="cdl.webp", desc="Caylee Odle", link="https://www.youtube.com/@Its.ccaylee") }}
+{{ image(path="rpr.webp", desc="Gillian Rupert", link="https://www.instagram.com/gillianrupert_") }}
+{{ image(path="btl.webp", desc="Gabi Butler", link="https://www.instagram.com/gabibutler1617") }}
 {{ image(path="cpr.webp", desc="Maddie Copper", link="https://www.instagram.com/maddie.copper_") }}
 {{ image(path="bmr.webp", desc="Brooke Emyre", link="https://www.instagram.com/brookeemyre") }}
 {{ image(path="bnt.webp", desc="Skylar Bennett", link="https://www.instagram.com/_skylarbennett") }}
