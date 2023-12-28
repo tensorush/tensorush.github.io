@@ -7,7 +7,7 @@ types = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 271 [cheer](@/cns.md) stunting skills (38 still missing).
+Snapshot collection of 272 [cheer](@/cns.md) stunting skills (38 still missing).
 
 <!-- more -->
 
@@ -380,7 +380,7 @@ Snapshot collection of 271 [cheer](@/cns.md) stunting skills (38 still missing).
 {{ image(path="mth.webp", desc="Immediate Torch", link="https://youtu.be/Be-Sv_3gx5A?t=494") }}
 {{ image(path="mts.webp", desc="Immediate Stretch", link="https://youtu.be/cyGMvoUV01Y?t=1295") }}
 {{ image(path="mbq.webp", desc="Immediate Arabesque", link="https://www.youtube.com/shorts/MWDPzFVQrfI") }}
-{{ image(path="cjt.webp", desc="Turnaround", link="https://www.tiktok.com/@cj_wino/video/7103568884883672366") }}
+{{ image(path="mtc.webp", desc="Immediate Scale", link="https://www.youtube.com/shorts/KbI4iZKi940") }}
 {{ image(path="msh.webp", desc="Arm Switch", link="https://www.instagram.com/p/Cgh1EzEuUMa") }}
 {{ image(path="nrm.webp", desc="One Arm", link="https://youtu.be/REmmtNLAF7Q?t=150") }}
 {{ image(path="mgr.webp", desc="Merry-Go-Round", link="https://youtu.be/eVhUyqQIjbY?t=1212") }}
@@ -422,5 +422,6 @@ Snapshot collection of 271 [cheer](@/cns.md) stunting skills (38 still missing).
 {{ image(path="htf.webp", desc="Hands to Fists", link="") }}
 {{ image(path="ftt.webp", desc="Fists to Fists", link="https://youtu.be/9LaHx5fUn6s?t=467") }}
 {{ image(path="nhw.webp", desc="One-Way Hands on Wrists", link="https://youtu.be/dWolIgPDBBg?t=813") }}
+{{ image(path="cjt.webp", desc="Turnaround", link="https://www.tiktok.com/@cj_wino/video/7103568884883672366") }}
 {{ image(path="thw.webp", desc="Two-Way Hands on Wrists", link="") }}
 {{ gallery_end() }}
