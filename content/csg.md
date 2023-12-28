@@ -7,7 +7,7 @@ types = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 272 [cheer](@/cns.md) stunting skills (38 still missing).
+Snapshot collection of 274 [cheer](@/cns.md) stunting skills (38 still missing).
 
 <!-- more -->
 
@@ -23,7 +23,7 @@ Snapshot collection of 272 [cheer](@/cns.md) stunting skills (38 still missing).
 
 {{ center_image(path="hbd.webp", desc="Cool Little Easter Egg: Actual Full Cover Image of Dan's Channel", link="https://www.patreon.com/danielbuyeske") }}
 
-# **First things first, massive props to:**
+# **Massive props to:**
 
 {{ gallery_start() }}
 {{ image(path="lbl.webp", desc="Eliza LaBelle", link="https://www.youtube.com/@elizalabelle") }}
@@ -35,6 +35,9 @@ Snapshot collection of 272 [cheer](@/cns.md) stunting skills (38 still missing).
 {{ image(path="btr.webp", desc="Lexi Batrous", link="https://www.instagram.com/lexibatrous_") }}
 {{ image(path="brh.webp", desc="Bree Hays", link="https://www.instagram.com/bvc.bree") }}
 {{ image(path="cdl.webp", desc="Caylee Odle", link="https://www.youtube.com/@Its.ccaylee") }}
+{{ image(path="mld.webp", desc="Molly McLeod", link="https://www.instagram.com/mollybreanne") }}
+{{ image(path="mft.webp", desc="Paige Moffet", link="https://www.instagram.com/paige.moffet") }}
+{{ image(path="vlk.webp", desc="Madison Volcik", link="https://www.instagram.com/madison.volcik") }}
 {{ image(path="rpr.webp", desc="Gillian Rupert", link="https://www.instagram.com/gillianrupert_") }}
 {{ image(path="btl.webp", desc="Gabi Butler", link="https://www.instagram.com/gabibutler1617") }}
 {{ image(path="cpr.webp", desc="Maddie Copper", link="https://www.instagram.com/maddie.copper_") }}
@@ -59,9 +62,11 @@ Snapshot collection of 272 [cheer](@/cns.md) stunting skills (38 still missing).
 {{ image(path="tmn.webp", desc="Johnny 'Oh, Bet!' Thompson", link="https://www.instagram.com/thomp338") }}
 {{ image(path="nnn.webp", desc="Ricky 'Whas Hot!' Nunn", link="https://www.instagram.com/xricky_nunnx") }}
 {{ image(path="sdg.webp", desc="Heath 'No Timers' Snodgrass", link="https://www.instagram.com/jheath59_03") }}
+{{ image(path="slv.webp", desc="Oliver Silva", link="https://www.youtube.com/@oliversilva29") }}
 {{ gallery_end() }}
 
-<!-- {{ image(path="vlk.webp", desc="Madison Volcik", link="https://www.instagram.com/madison.volcik") }} -->
+<!-- {{ image(path="sbg.webp", desc="Kaden Smedberg", link="https://www.youtube.com/@kadensmedberg") }}
+{{ image(path="bjs.webp", desc="Leonardo Borjas Jr.", link="https://www.youtube.com/@lborjaz24") }} -->
 
 # **Special shout-outs to:**
 
@@ -168,6 +173,7 @@ Snapshot collection of 272 [cheer](@/cns.md) stunting skills (38 still missing).
 {{ image(path="wkp.webp", desc="Walk On / Toe Pitch Dive", link="https://youtu.be/2eAJ3mtFOlE?t=219") }}
 {{ image(path="rhh.webp", desc="Reverse Hand to Hand", link="https://www.instagram.com/p/Cq3HSF8LQLN") }}
 {{ image(path="rwp.webp", desc="Half Walk On", link="https://www.youtube.com/shorts/RT5EE0_X5RE") }}
+{{ image(path="bbc.webp", desc="Bicep Bounce", link="https://www.instagram.com/p/CrHoDhjtmHi") }}
 {{ image(path="cts.webp", desc="Candle Toss", link="https://youtu.be/Vsq-m_Rd7Zk?t=797") }}
 {{ image(path="nlc.webp", desc="Inlocate", link="") }}
 {{ gallery_end() }}
@@ -253,6 +259,7 @@ Snapshot collection of 272 [cheer](@/cns.md) stunting skills (38 still missing).
 {{ image(path="spg.webp", desc="Spread Eagle", link="https://www.instagram.com/p/Cqu3vHHAM2b") }}
 {{ image(path="fst.webp", desc="Front Split", link="https://www.youtube.com/shorts/fncoC2Lhkqs") }}
 {{ image(path="sds.webp", desc="Side Split", link="https://www.instagram.com/p/CkeeOA0A4Fo") }}
+{{ image(path="bst.webp", desc="Back Split", link="https://www.instagram.com/p/CywpvZDPBwl") }}
 {{ image(path="rvs.webp", desc="Reverse Split", link="https://www.youtube.com/shorts/cxBuRNT1-Lg") }}
 {{ gallery_end() }}
 
