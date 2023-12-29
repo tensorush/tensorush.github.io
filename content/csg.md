@@ -65,7 +65,8 @@ Snapshot collection of 274 [cheer](@/cns.md) stunting skills (38 still missing).
 {{ image(path="slv.webp", desc="Oliver Silva", link="https://www.youtube.com/@oliversilva29") }}
 {{ gallery_end() }}
 
-<!-- {{ image(path="sbg.webp", desc="Kaden Smedberg", link="https://www.youtube.com/@kadensmedberg") }}
+<!-- {{ image(path="sml.webp", desc="Sam Tiatia", link="https://www.instagram.com/samtiatia") }}
+{{ image(path="sbg.webp", desc="Kaden Smedberg", link="https://www.youtube.com/@kadensmedberg") }}
 {{ image(path="bjs.webp", desc="Leonardo Borjas Jr.", link="https://www.youtube.com/@lborjaz24") }} -->
 
 # **Special shout-outs to:**

@@ -29,7 +29,7 @@ Collection of quotes capturing the human discovery of the computational nature o
 
 > On 7 December 1920 at the University of Göttingen, Germany, Moses Schönfinkel presented his first and only work entitled Elemente der Logick ("Elements of Logic"), in which he outlined the concept of combinatory logic — the first Turing-complete computational model. [Stephen Wolfram](https://writings.stephenwolfram.com/2020/12/where-did-combinators-come-from-hunting-the-story-of-moses-schonfinkel/)
 
-> Because any observer is embedded within the Universe they are trying to perceive a branching Universe while their minds are inevitably participating in the branching process, which, in turn, affects the branching process as well as the state of the Universe that the perceiving mind ends up observing. [Stephen Wolfram](https://youtu.be/O_5e_WSNedE?t=1099)
+> Because any observer is embedded within the Universe they are trying to perceive a branching Universe while their minds are inevitably participating in the branching process, which, in turn, affects the branching process as well as the state of the Universe that the mind ends up perceiving. [Stephen Wolfram](https://youtu.be/O_5e_WSNedE?t=1099)
 
 > Perhaps the symmetric properties and simple arithmetic of the balanced ternary system as opposed to the binary system will prove to be quite important someday — when the "flip-flop" is replaced by a "flip-flap-flop". [Donald Knuth](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming)
 
