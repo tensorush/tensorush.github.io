@@ -18,14 +18,6 @@ const item: MyItem = .{}; // Nope
 const item = MyItem.{};   // Dope
 ```
 
-- ## Slice when slice is expected
-
-```zig
-var buf: [4]u8 = undefined;
-const buf_slice = try bufPrint(&buf, "Nope", .{});     // Nope
-const buf_slice = try bufPrint(buf[0..], "Dope", .{}); // Dope
-```
-
 - ## Make everything constant by default
 
 ```zig
@@ -50,6 +42,14 @@ try testing.expect(false);
 
 // Dope
 try sdt.testing.expect(true);
+```
+
+- ## Provide a slice when slice is expected
+
+```zig
+var buf: [4]u8 = undefined;
+const buf_slice = try bufPrint(&buf, "Nope", .{});     // Nope
+const buf_slice = try bufPrint(buf[0..], "Dope", .{}); // Dope
 ```
 
 - ## Provide formatting specifiers for numbers
@@ -159,6 +159,13 @@ fn Item(comptime T: type) type {
         fld: T,
     };
 }
+```
+
+- ## For allocating functions, the allocator should be either the 1st or 2nd parameter
+
+```zig
+fn allocate(self: MyItem, opts: MyOpts, allocator: std.mem.Allocator) !void {} // Nope
+fn allocate(self: MyItem, allocator: std.mem.Allocator, opts: MyOpts) !void {} // Dope
 ```
 
 - ## Don't create default struct initializer if it's possible to assign default values to fields
