@@ -35,7 +35,7 @@ Snapshot collection of 274 [cheer](@/cns.md) stunting skills (38 still missing).
 {{ image(path="btr.webp", desc="Lexi Batrous", link="https://www.instagram.com/lexibatrous_") }}
 {{ image(path="brh.webp", desc="Bree Hays", link="https://www.instagram.com/bvc.bree") }}
 {{ image(path="cdl.webp", desc="Caylee Odle", link="https://www.youtube.com/@Its.ccaylee") }}
-{{ image(path="mld.webp", desc="Molly McLeod", link="https://www.instagram.com/mollybreanne") }}
+{{ image(path="mld.webp", desc="Molly McLeod", link="https://www.youtube.com/@mollybreanne") }}
 {{ image(path="mft.webp", desc="Paige Moffet", link="https://www.instagram.com/paige.moffet") }}
 {{ image(path="vlk.webp", desc="Madison Volcik", link="https://www.instagram.com/madison.volcik") }}
 {{ image(path="rpr.webp", desc="Gillian Rupert", link="https://www.instagram.com/gillianrupert_") }}
@@ -51,8 +51,11 @@ Snapshot collection of 274 [cheer](@/cns.md) stunting skills (38 still missing).
 {{ image(path="dbl.webp", desc="Daniel 'Cakes' Bailey", link="https://www.youtube.com/@bailcakes") }}
 {{ image(path="dml.webp", desc="Taylor 'Stud' Demler", link="https://www.youtube.com/@t_demler24") }}
 {{ image(path="ksl.webp", desc="Brett 'Bretticus' Kessler", link="https://www.instagram.com/brett_kessler") }}
-{{ image(path="jnk.webp", desc="Jalani 'Beast' Keo", link="https://www.instagram.com/jalanibustdown") }}
+{{ image(path="bjs.webp", desc="Leonardo Borjas Jr.", link="https://www.youtube.com/@lborjaz24") }}
 {{ image(path="dsv.webp", desc="Michael 'Boosh' Androsov", link="https://www.youtube.com/@booshslays") }}
+{{ image(path="knl.webp", desc="Kenny La", link="https://www.youtube.com/@klsmp73") }}
+{{ image(path="jnk.webp", desc="Jalani 'Beast' Keo", link="https://www.instagram.com/jalanibustdown") }}
+{{ image(path="slv.webp", desc="Oliver Silva", link="https://www.youtube.com/@oliversilva29") }}
 {{ image(path="lfl.webp", desc="Keyshawn 'Key' LeFlore", link="https://www.instagram.com/keyshawn.leflore") }}
 {{ image(path="ckl.webp", desc="Kollin 'Rhino' Cockrell", link="https://www.instagram.com/kollinmarkcockrell") }}
 {{ image(path="wbg.webp", desc="Christian 'CJ' Weinberg", link="https://www.instagram.com/cj_wino") }}
@@ -62,12 +65,11 @@ Snapshot collection of 274 [cheer](@/cns.md) stunting skills (38 still missing).
 {{ image(path="tmn.webp", desc="Johnny 'Oh, Bet!' Thompson", link="https://www.instagram.com/thomp338") }}
 {{ image(path="nnn.webp", desc="Ricky 'Whas Hot!' Nunn", link="https://www.instagram.com/xricky_nunnx") }}
 {{ image(path="sdg.webp", desc="Heath 'No Timers' Snodgrass", link="https://www.instagram.com/jheath59_03") }}
-{{ image(path="slv.webp", desc="Oliver Silva", link="https://www.youtube.com/@oliversilva29") }}
 {{ gallery_end() }}
 
 <!-- {{ image(path="sml.webp", desc="Sam Tiatia", link="https://www.instagram.com/samtiatia") }}
 {{ image(path="sbg.webp", desc="Kaden Smedberg", link="https://www.youtube.com/@kadensmedberg") }}
-{{ image(path="bjs.webp", desc="Leonardo Borjas Jr.", link="https://www.youtube.com/@lborjaz24") }} -->
+{{ image(path="ths.webp", desc="Timmy Haas", link="https://www.youtube.com/@Timmy_Hass") }} -->
 
 # **Special shout-outs to:**
 
