@@ -7,7 +7,7 @@ types = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 274 [cheer](@/cns.md) stunting skills (38 still missing).
+Snapshot collection of 275 [cheer](@/cns.md) stunting skills (37 still missing).
 
 <!-- more -->
 
@@ -33,10 +33,10 @@ Snapshot collection of 274 [cheer](@/cns.md) stunting skills (38 still missing).
 {{ image(path="jns.webp", desc="Cassie Joness", link="https://www.instagram.com/sb.cassie") }}
 {{ image(path="shf.webp", desc="Baillee Schiff", link="https://www.instagram.com/bailleee21") }}
 {{ image(path="btr.webp", desc="Lexi Batrous", link="https://www.instagram.com/lexibatrous_") }}
-{{ image(path="brh.webp", desc="Bree Hays", link="https://www.instagram.com/bvc.bree") }}
+{{ image(path="mft.webp", desc="Paige Moffet", link="https://www.instagram.com/paige.moffet") }}
 {{ image(path="cdl.webp", desc="Caylee Odle", link="https://www.youtube.com/@Its.ccaylee") }}
 {{ image(path="mld.webp", desc="Molly McLeod", link="https://www.youtube.com/@mollybreanne") }}
-{{ image(path="mft.webp", desc="Paige Moffet", link="https://www.instagram.com/paige.moffet") }}
+{{ image(path="brh.webp", desc="Bree Hays", link="https://www.instagram.com/bvc.bree") }}
 {{ image(path="vlk.webp", desc="Madison Volcik", link="https://www.instagram.com/madison.volcik") }}
 {{ image(path="rpr.webp", desc="Gillian Rupert", link="https://www.instagram.com/gillianrupert_") }}
 {{ image(path="btl.webp", desc="Gabi Butler", link="https://www.instagram.com/gabibutler1617") }}
@@ -51,13 +51,13 @@ Snapshot collection of 274 [cheer](@/cns.md) stunting skills (38 still missing).
 {{ image(path="dbl.webp", desc="Daniel 'Cakes' Bailey", link="https://www.youtube.com/@bailcakes") }}
 {{ image(path="dml.webp", desc="Taylor 'Stud' Demler", link="https://www.youtube.com/@t_demler24") }}
 {{ image(path="ksl.webp", desc="Brett 'Bretticus' Kessler", link="https://www.instagram.com/brett_kessler") }}
-{{ image(path="bjs.webp", desc="Leonardo Borjas Jr.", link="https://www.youtube.com/@lborjaz24") }}
 {{ image(path="dsv.webp", desc="Michael 'Boosh' Androsov", link="https://www.youtube.com/@booshslays") }}
+{{ image(path="bjs.webp", desc="Leonardo Borjas Jr.", link="https://www.youtube.com/@lborjaz24") }}
 {{ image(path="knl.webp", desc="Kenny La", link="https://www.youtube.com/@klsmp73") }}
-{{ image(path="jnk.webp", desc="Jalani 'Beast' Keo", link="https://www.instagram.com/jalanibustdown") }}
+{{ image(path="ckl.webp", desc="Kollin 'Rhino' Cockrell", link="https://www.instagram.com/kollinmarkcockrell") }}
 {{ image(path="slv.webp", desc="Oliver Silva", link="https://www.youtube.com/@oliversilva29") }}
 {{ image(path="lfl.webp", desc="Keyshawn 'Key' LeFlore", link="https://www.instagram.com/keyshawn.leflore") }}
-{{ image(path="ckl.webp", desc="Kollin 'Rhino' Cockrell", link="https://www.instagram.com/kollinmarkcockrell") }}
+{{ image(path="jnk.webp", desc="Jalani 'Beast' Keo", link="https://www.instagram.com/jalanibustdown") }}
 {{ image(path="wbg.webp", desc="Christian 'CJ' Weinberg", link="https://www.instagram.com/cj_wino") }}
 {{ image(path="psk.webp", desc="Justin 'WHAT, DAN?!' Pulaski", link="https://www.instagram.com/justin_pulaski") }}
 {{ image(path="ctr.webp", desc="Dawan 'And Only' Carter", link="https://www.instagram.com/dawan_andonly") }}
@@ -113,16 +113,17 @@ Snapshot collection of 274 [cheer](@/cns.md) stunting skills (38 still missing).
 {{ image(path="rpd.webp", desc="Reverse Upside Down", link="https://youtu.be/Vsq-m_Rd7Zk?t=726") }}
 {{ image(path="hmb.webp", desc="Hold My Beer Jug", link="https://www.instagram.com/p/B6Yi2hFFHj6") }}
 {{ image(path="gvt.webp", desc="Gravity", link="https://www.youtube.com/shorts/5PSboWckPbc") }}
-{{ image(path="ftg.webp", desc="Front Gravity", link="https://youtu.be/3ju2179PNC8?t=273") }}
+{{ image(path="sgt.webp", desc="Spread Gravity", link="https://www.youtube.com/shorts/J-bqW68MqgQ") }}
+{{ image(path="ftg.webp", desc="Split Gravity", link="https://youtu.be/3ju2179PNC8?t=273") }}
 {{ image(path="rvg.webp", desc="Reverse Gravity", link="https://www.youtube.com/shorts/NHeg8cdPSpo") }}
-{{ image(path="sst.webp", desc="Shoulder Sit", link="https://youtu.be/ApTsZwIDYLU?t=111") }}
-{{ image(path="srt.webp", desc="Shoulder Rest", link="https://www.youtube.com/shorts/B5OVmWPtjII") }}
-{{ image(path="ssd.webp", desc="Shoulder Stand", link="https://youtu.be/SonOnjYRtHU?t=281") }}
 {{ image(path="gst.webp", desc="Genie Sit", link="https://www.youtube.com/shorts/CMK7YeHJ8Mw") }}
 {{ image(path="srr.webp", desc="Genie Rest", link="https://www.instagram.com/p/CewuvsKJMnr") }}
 {{ image(path="gsd.webp", desc="Genie Stand", link="https://youtu.be/RLbde7dYHkI?t=167") }}
 {{ image(path="vsr.webp", desc="Visor", link="https://youtu.be/RLbde7dYHkI?t=235") }}
 {{ image(path="dlv.webp", desc="Double Visor", link="https://youtu.be/7HU_bauP2lI?t=601") }}
+{{ image(path="sst.webp", desc="Shoulder Sit", link="https://youtu.be/ApTsZwIDYLU?t=111") }}
+{{ image(path="srt.webp", desc="Shoulder Rest", link="https://www.youtube.com/shorts/B5OVmWPtjII") }}
+{{ image(path="ssd.webp", desc="Shoulder Stand", link="https://youtu.be/SonOnjYRtHU?t=281") }}
 {{ image(path="crl.webp", desc="Cradle", link="https://youtu.be/WBMVkXf3oBU?t=752") }}
 {{ image(path="spm.webp", desc="Superman", link="https://www.instagram.com/p/Cw2-nlQuIMZ") }}
 {{ gallery_end() }}
@@ -225,7 +226,7 @@ Snapshot collection of 274 [cheer](@/cns.md) stunting skills (38 still missing).
 {{ image(path="fdn.webp", desc="Full Down", link="") }}
 {{ image(path="tdn.webp", desc="Twist Down", link="https://www.youtube.com/shorts/B5OVmWPtjII") }}
 {{ image(path="dln.webp", desc="Double Down", link="https://youtu.be/kOSlKw79qdA?t=578") }}
-{{ image(path="hdn.webp", desc="Hands Down", link="https://www.instagram.com/p/Cd-4ex_FiyD") }}
+{{ image(path="hdn.webp", desc="Gravity Down", link="https://www.instagram.com/p/Cd-4ex_FiyD") }}
 {{ image(path="ddn.webp", desc="Diamidown", link="https://www.instagram.com/p/CfjkZJwjzCO") }}
 {{ gallery_end() }}
 
@@ -371,7 +372,7 @@ Snapshot collection of 274 [cheer](@/cns.md) stunting skills (38 still missing).
 {{ image(path="fsh.webp", desc="Full Switch Up", link="https://youtu.be/QkqEMnyiiJY?t=360") }}
 {{ image(path="wfw.webp", desc="Wolf Wall", link="") }}
 {{ image(path="tgh.webp", desc="Two High", link="") }}
-{{ image(path="thh.webp", desc="Two and a Half High", link="") }}
+{{ image(path="thh.webp", desc="Two and a Half High", link="https://www.youtube.com/shorts/VcvM2tMXwPI") }}
 {{ image(path="trg.webp", desc="Three High", link="https://www.instagram.com/p/CNlIbeRFWux") }}
 {{ image(path="slf.webp", desc="Split Lift", link="") }}
 {{ image(path="hsf.webp", desc="High Split Lift", link="") }}
