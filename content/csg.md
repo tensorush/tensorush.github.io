@@ -7,7 +7,7 @@ types = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 275 [cheer](@/cns.md) stunting skills (37 still missing).
+Snapshot collection of 276 [cheer](@/cns.md) stunting skills (37 still missing).
 
 <!-- more -->
 
@@ -17,6 +17,9 @@ Snapshot collection of 275 [cheer](@/cns.md) stunting skills (37 still missing).
 {{ image(path="lzl.webp", desc="Eliza LaBelle", link="https://secure.givelively.org/donate/usa-federation-for-sport-cheering/usa-cheer-premier-coed-12f0ae47-3482-4607-904c-bdd2ec1961e9/eliza-labelle") }}
 {{ image(path="mtt.webp", desc="Miterson Charles", link="https://secure.givelively.org/donate/usa-federation-for-sport-cheering/usa-cheer-premier-coed-12f0ae47-3482-4607-904c-bdd2ec1961e9/miterson-charles") }}
 {{ image(path="cld.webp", desc="Caylee Odle", link="https://secure.givelively.org/donate/usa-federation-for-sport-cheering/usa-cheer-premier-coed-12f0ae47-3482-4607-904c-bdd2ec1961e9/caylee-odle") }}
+{{ image(path="ksl.webp", desc="Brett Kessler", link="https://secure.givelively.org/donate/usa-federation-for-sport-cheering/usa-cheer-premier-coed-12f0ae47-3482-4607-904c-bdd2ec1961e9/brett-kessler-2") }}
+{{ image(path="sbg.webp", desc="Kaden Smedberg", link="https://secure.givelively.org/donate/usa-federation-for-sport-cheering/usa-cheer-premier-coed-12f0ae47-3482-4607-904c-bdd2ec1961e9/kaden-smedberg") }}
+{{ image(path="bjs.webp", desc="Leonardo Borjas Jr.", link="https://secure.givelively.org/donate/usa-federation-for-sport-cheering/usa-cheer-premier-coed-12f0ae47-3482-4607-904c-bdd2ec1961e9/leonardo-borjas-jr") }}
 {{ gallery_end() }}
 
 # **Check out Dan's Patreon for more stunting tutorials and vlogs:**
@@ -56,6 +59,9 @@ Snapshot collection of 275 [cheer](@/cns.md) stunting skills (37 still missing).
 {{ image(path="knl.webp", desc="Kenny La", link="https://www.youtube.com/@klsmp73") }}
 {{ image(path="ckl.webp", desc="Kollin 'Rhino' Cockrell", link="https://www.instagram.com/kollinmarkcockrell") }}
 {{ image(path="slv.webp", desc="Oliver Silva", link="https://www.youtube.com/@oliversilva29") }}
+{{ image(path="sbg.webp", desc="Kaden Smedberg", link="https://www.youtube.com/@kadensmedberg") }}
+{{ image(path="sml.webp", desc="Sam Tiatia", link="https://www.instagram.com/samtiatia") }}
+{{ image(path="ths.webp", desc="Timmy Haas", link="https://www.youtube.com/@Timmy_Hass") }}
 {{ image(path="lfl.webp", desc="Keyshawn 'Key' LeFlore", link="https://www.instagram.com/keyshawn.leflore") }}
 {{ image(path="jnk.webp", desc="Jalani 'Beast' Keo", link="https://www.instagram.com/jalanibustdown") }}
 {{ image(path="wbg.webp", desc="Christian 'CJ' Weinberg", link="https://www.instagram.com/cj_wino") }}
@@ -66,10 +72,6 @@ Snapshot collection of 275 [cheer](@/cns.md) stunting skills (37 still missing).
 {{ image(path="nnn.webp", desc="Ricky 'Whas Hot!' Nunn", link="https://www.instagram.com/xricky_nunnx") }}
 {{ image(path="sdg.webp", desc="Heath 'No Timers' Snodgrass", link="https://www.instagram.com/jheath59_03") }}
 {{ gallery_end() }}
-
-<!-- {{ image(path="sml.webp", desc="Sam Tiatia", link="https://www.instagram.com/samtiatia") }}
-{{ image(path="sbg.webp", desc="Kaden Smedberg", link="https://www.youtube.com/@kadensmedberg") }}
-{{ image(path="ths.webp", desc="Timmy Haas", link="https://www.youtube.com/@Timmy_Hass") }} -->
 
 # **Special shout-outs to:**
 
@@ -245,8 +247,9 @@ Snapshot collection of 275 [cheer](@/cns.md) stunting skills (37 still missing).
 {{ image(path="nmh.webp", desc="One-Arm Handstand", link="https://youtu.be/7ZKyd0rh8ts?t=698") }}
 {{ image(path="slt.webp", desc="Split", link="https://www.instagram.com/p/ChU9abmu0b-") }}
 {{ image(path="ndl.webp", desc="Needle", link="https://www.instagram.com/p/CCSM_QAFEq1") }}
-{{ image(path="dbh.webp", desc="Double Hook", link="") }}
+{{ image(path="clb.webp", desc="Chill Lib", link="https://www.instagram.com/p/CXZllqApqgd") }}
 {{ image(path="hhn.webp", desc="Chin Chin", link="") }}
+{{ image(path="dbh.webp", desc="Double Hook", link="") }}
 {{ gallery_end() }}
 
 # **Jumps - flyer hits a pose in the air**
