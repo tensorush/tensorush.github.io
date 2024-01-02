@@ -198,7 +198,7 @@ Backend for a bookkeeping service based on [gRPC](https://grpc.io).
 
 Collection of basic CPU algorithms and data structures implemented in C++.
 
-- ## 🐉 🧰 gpu toolkit
+- ## 🦚 🧰 gpu toolkit
 
 [![ST][gpu-toolkit-st-shd]][gpu-toolkit-st-url]
 [![LC][gpu-toolkit-lc-shd]][gpu-toolkit-lc-url]
