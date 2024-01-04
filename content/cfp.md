@@ -4,10 +4,10 @@ date = 2023-10-21
 
 [taxonomies]
 types = ["devlog"]
-tags = ["fondu"]
+tags = ["fundu"]
 +++
 
-Fondu devlog #1.
+Fundu devlog #1.
 
 <!-- more -->
 
