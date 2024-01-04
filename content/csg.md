@@ -7,7 +7,7 @@ types = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 276 [cheer](@/cns.md) stunting skills (37 still missing).
+Snapshot collection of 276 [cheer](@/cns.md) stunting skills (35 still missing).
 
 <!-- more -->
 
@@ -173,7 +173,7 @@ Snapshot collection of 276 [cheer](@/cns.md) stunting skills (37 still missing).
 {{ image(path="hrt.webp", desc="Hand Rocket Toss", link="https://youtu.be/hT_exv5X2_Q?t=702") }}
 {{ image(path="rtt.webp", desc="Reusable Rocket Toss", link="") }}
 {{ image(path="rrt.webp", desc="Reusable Hand Rocket Toss", link="https://youtu.be/unErKUN0u5I?t=515") }}
-{{ image(path="hrd.webp", desc="Hand Rewind", link="") }}
+{{ image(path="hrd.webp", desc="Hand Rewind", link="https://youtu.be/Wvidl2UWtzc?t=20") }}
 {{ image(path="hhr.webp", desc="Half Hand Rewind", link="") }}
 {{ image(path="fhr.webp", desc="Full Hand Rewind", link="https://youtu.be/SwaejeJ8kPk?t=681") }}
 {{ image(path="wkp.webp", desc="Walk On / Toe Pitch Dive", link="https://youtu.be/2eAJ3mtFOlE?t=219") }}
@@ -181,7 +181,7 @@ Snapshot collection of 276 [cheer](@/cns.md) stunting skills (37 still missing).
 {{ image(path="rwp.webp", desc="Half Walk On", link="https://www.youtube.com/shorts/RT5EE0_X5RE") }}
 {{ image(path="bbc.webp", desc="Bicep Bounce", link="https://www.instagram.com/p/CrHoDhjtmHi") }}
 {{ image(path="cts.webp", desc="Candle Toss", link="https://youtu.be/Vsq-m_Rd7Zk?t=797") }}
-{{ image(path="nlc.webp", desc="Inlocate", link="") }}
+{{ image(path="nlc.webp", desc="Inlocate", link="https://youtu.be/Wvidl2UWtzc?t=49") }}
 {{ gallery_end() }}
 
 # **Transitions - flyer moves from one grip to another**
