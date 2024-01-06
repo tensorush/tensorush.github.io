@@ -144,6 +144,14 @@ Minimal chat client and server akin to [smallchat](https://github.com/antirez/sm
 
 Zig port of the [animated ASCII-art donut rendering](https://gist.github.com/a1k0n/8ea6516b4946ab36348fb61703dc3194) created by [@a1k0n](https://github.com/a1k0n).
 
+- ## 🦎 🧬 zig diff
+
+[![ST][zig-diff-st-shd]][zig-diff-st-url]
+[![CI][zig-diff-ci-shd]][zig-diff-ci-url]
+[![LC][zig-diff-lc-shd]][zig-diff-lc-url]
+
+Zig implementation of the [diff algorithm](http://www.xmailserver.org/diff2.pdf) created by [Eugene Myers](https://github.com/thegenemyers).
+
 - ## 🦎 🦊 githunt
 
 [![ST][githunt-st-shd]][githunt-st-url]
@@ -435,6 +443,15 @@ My workstation [dotfiles](https://en.wiktionary.org/wiki/dotfile).
 [zig-donut-ci-url]: https://github.com/tensorush/zig-donut/blob/main/.github/workflows/ci.yaml
 [zig-donut-lc-shd]: https://img.shields.io/github/license/tensorush/zig-donut.svg?style=for-the-badge&labelColor=black
 [zig-donut-lc-url]: https://github.com/tensorush/zig-donut/blob/main/LICENSE.md
+
+<!-- zig diff -->
+
+[zig-diff-st-shd]: https://img.shields.io/badge/maintaining-353935?style=for-the-badge
+[zig-diff-st-url]: https://github.com/tensorush/zig-diff
+[zig-diff-ci-shd]: https://img.shields.io/github/actions/workflow/status/tensorush/zig-diff/ci.yaml?branch=main&style=for-the-badge&logo=github&label=CI&labelColor=black
+[zig-diff-ci-url]: https://github.com/tensorush/zig-diff/blob/main/.github/workflows/ci.yaml
+[zig-diff-lc-shd]: https://img.shields.io/github/license/tensorush/zig-diff.svg?style=for-the-badge&labelColor=black
+[zig-diff-lc-url]: https://github.com/tensorush/zig-diff/blob/main/LICENSE.md
 
 <!-- zig spin -->
 
