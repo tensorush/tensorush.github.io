@@ -150,7 +150,7 @@ Zig port of the [animated ASCII-art donut rendering](https://gist.github.com/a1k
 [![CI][zig-diff-ci-shd]][zig-diff-ci-url]
 [![LC][zig-diff-lc-shd]][zig-diff-lc-url]
 
-Zig implementation of the [diff algorithm](http://www.xmailserver.org/diff2.pdf) created by [Eugene Myers](https://github.com/thegenemyers).
+Zig implementation of the [diff algorithm](http://www.xmailserver.org/diff2.pdf) created by [@thegenemyers](https://github.com/thegenemyers).
 
 - ## 🦎 🦊 githunt
 
