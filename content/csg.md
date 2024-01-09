@@ -205,12 +205,12 @@ Snapshot collection of 280 [cheer](@/cns.md) stunting skills (35 still missing).
 {{ image(path="ppt.webp", desc="Pop Tart", link="https://www.youtube.com/shorts/enKAPA7lPYw") }}
 {{ image(path="hwt.webp", desc="Half Twisting Pop Tart", link="https://www.instagram.com/p/CRemjnbAUho") }}
 {{ image(path="fwt.webp", desc="Full Twisting Pop Tart", link="") }}
-{{ image(path="rsp.webp", desc="Half Step Up", link="https://youtu.be/QZOnM7xWtnM?t=494") }}
-{{ image(path="rcl.webp", desc="Recoil", link="https://www.youtube.com/shorts/B5OVmWPtjII") }}
-{{ image(path="rbd.webp", desc="Rebound", link="https://www.youtube.com/shorts/NjiPqxopqQg") }}
 {{ image(path="hpv.webp", desc="Handski Pop Over", link="https://youtu.be/SwaejeJ8kPk?t=941") }}
 {{ image(path="vpv.webp", desc="Visor Pop Over", link="https://youtu.be/uqigHbZXaGc?t=1400") }}
 {{ image(path="spv.webp", desc="Shoulder Pop Over", link="https://youtu.be/uqigHbZXaGc?t=1420") }}
+{{ image(path="rsp.webp", desc="Half Step Up", link="https://youtu.be/QZOnM7xWtnM?t=494") }}
+{{ image(path="rbd.webp", desc="Rebound", link="https://www.youtube.com/shorts/NjiPqxopqQg") }}
+{{ image(path="rcl.webp", desc="Recoil", link="https://www.youtube.com/shorts/B5OVmWPtjII") }}
 {{ image(path="ppp.webp", desc="Full Step Up", link="") }}
 {{ gallery_end() }}
 
