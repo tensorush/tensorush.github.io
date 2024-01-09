@@ -7,7 +7,7 @@ types = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 278 [cheer](@/cns.md) stunting skills (35 still missing).
+Snapshot collection of 280 [cheer](@/cns.md) stunting skills (35 still missing).
 
 <!-- more -->
 
@@ -199,18 +199,19 @@ Snapshot collection of 278 [cheer](@/cns.md) stunting skills (35 still missing).
 {{ image(path="ddv.webp", desc="Dolphin Dive", link="https://youtu.be/UnSqDsi_6lE?t=407") }}
 {{ image(path="wkv.webp", desc="Walk Over", link="https://youtu.be/Vsq-m_Rd7Zk?t=1316") }}
 {{ image(path="pps.webp", desc="Power Press", link="https://youtu.be/0TN-f7vbnTQ?t=273") }}
-{{ image(path="rcl.webp", desc="Recoil", link="https://www.youtube.com/shorts/B5OVmWPtjII") }}
 {{ image(path="tpt.webp", desc="Full Twisting Pop Through", link="https://www.tiktok.com/@eliza.labelle/video/7094666681926028587") }}
+{{ image(path="swv.webp", desc="Slinky Walk Over", link="https://www.youtube.com/shorts/_Q2Q1rmMYc0") }}
 {{ image(path="tfp.webp", desc="Full Twisting Front Pop Through", link="https://youtu.be/SdluzIvdWUE?t=46") }}
 {{ image(path="ppt.webp", desc="Pop Tart", link="https://www.youtube.com/shorts/enKAPA7lPYw") }}
 {{ image(path="hwt.webp", desc="Half Twisting Pop Tart", link="https://www.instagram.com/p/CRemjnbAUho") }}
 {{ image(path="fwt.webp", desc="Full Twisting Pop Tart", link="") }}
 {{ image(path="rsp.webp", desc="Half Step Up", link="https://youtu.be/QZOnM7xWtnM?t=494") }}
-{{ image(path="swv.webp", desc="Slinky Walk Over", link="https://www.youtube.com/shorts/_Q2Q1rmMYc0") }}
-{{ image(path="ppp.webp", desc="Full Step Up", link="") }}
+{{ image(path="rcl.webp", desc="Recoil", link="https://www.youtube.com/shorts/B5OVmWPtjII") }}
+{{ image(path="rbd.webp", desc="Rebound", link="https://www.youtube.com/shorts/NjiPqxopqQg") }}
 {{ image(path="hpv.webp", desc="Handski Pop Over", link="https://youtu.be/SwaejeJ8kPk?t=941") }}
 {{ image(path="vpv.webp", desc="Visor Pop Over", link="https://youtu.be/uqigHbZXaGc?t=1400") }}
 {{ image(path="spv.webp", desc="Shoulder Pop Over", link="https://youtu.be/uqigHbZXaGc?t=1420") }}
+{{ image(path="ppp.webp", desc="Full Step Up", link="") }}
 {{ gallery_end() }}
 
 # **Dismounts - flyer comes down from a stunt**
@@ -248,9 +249,10 @@ Snapshot collection of 278 [cheer](@/cns.md) stunting skills (35 still missing).
 {{ image(path="slt.webp", desc="Split", link="https://www.instagram.com/p/ChU9abmu0b-") }}
 {{ image(path="ndl.webp", desc="Needle", link="https://www.instagram.com/p/CCSM_QAFEq1") }}
 {{ image(path="clb.webp", desc="Chill Lib", link="https://www.instagram.com/p/CXZllqApqgd") }}
+{{ image(path="btf.webp", desc="Butterfly", link="https://www.youtube.com/shorts/NjiPqxopqQg") }}
 {{ image(path="dbh.webp", desc="Double Hook", link="") }}
-{{ image(path="hhn.webp", desc="Chin Chin", link="") }}
 {{ image(path="nmh.webp", desc="One-Arm Handstand", link="https://youtu.be/7ZKyd0rh8ts?t=698") }}
+{{ image(path="hhn.webp", desc="Chin Chin", link="") }}
 {{ gallery_end() }}
 
 # **Jumps - flyer hits a pose in the air**
