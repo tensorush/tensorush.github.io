@@ -7,7 +7,7 @@ types = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 276 [cheer](@/cns.md) stunting skills (35 still missing).
+Snapshot collection of 278 [cheer](@/cns.md) stunting skills (35 still missing).
 
 <!-- more -->
 
@@ -237,19 +237,20 @@ Snapshot collection of 276 [cheer](@/cns.md) stunting skills (35 still missing).
 {{ gallery_start() }}
 {{ image(path="lbt.webp", desc="Lib", link="https://youtu.be/3ju2179PNC8?t=134") }}
 {{ image(path="sth.webp", desc="Stretch", link="https://youtu.be/kOSlKw79qdA?t=728") }}
-{{ image(path="rbq.webp", desc="Arabesque", link="https://youtu.be/kOSlKw79qdA?t=576") }}
 {{ image(path="trh.webp", desc="Torch", link="https://youtu.be/Be-Sv_3gx5A?t=485") }}
+{{ image(path="rbq.webp", desc="Arabesque", link="https://youtu.be/kOSlKw79qdA?t=576") }}
 {{ image(path="scl.webp", desc="Scale", link="https://www.youtube.com/shorts/UyUDK7X_tRo") }}
-{{ image(path="scn.webp", desc="Scorpion", link="") }}
+{{ image(path="stc.webp", desc="Stretching Torch", link="") }}
 {{ image(path="tbw.webp", desc="Bow", link="https://www.instagram.com/p/CPUX_VqHnfL") }}
 {{ image(path="fdr.webp", desc="Arrow", link="https://www.instagram.com/p/Ckj8xCUAD4D") }}
 {{ image(path="bnr.webp", desc="Bow and Arrow", link="https://www.youtube.com/shorts/mC6yrsA0Ixk") }}
-{{ image(path="nmh.webp", desc="One-Arm Handstand", link="https://youtu.be/7ZKyd0rh8ts?t=698") }}
+{{ image(path="scn.webp", desc="Scorpion", link="") }}
 {{ image(path="slt.webp", desc="Split", link="https://www.instagram.com/p/ChU9abmu0b-") }}
 {{ image(path="ndl.webp", desc="Needle", link="https://www.instagram.com/p/CCSM_QAFEq1") }}
 {{ image(path="clb.webp", desc="Chill Lib", link="https://www.instagram.com/p/CXZllqApqgd") }}
-{{ image(path="hhn.webp", desc="Chin Chin", link="") }}
 {{ image(path="dbh.webp", desc="Double Hook", link="") }}
+{{ image(path="hhn.webp", desc="Chin Chin", link="") }}
+{{ image(path="nmh.webp", desc="One-Arm Handstand", link="https://youtu.be/7ZKyd0rh8ts?t=698") }}
 {{ gallery_end() }}
 
 # **Jumps - flyer hits a pose in the air**
