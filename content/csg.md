@@ -240,7 +240,7 @@ Snapshot collection of 278 [cheer](@/cns.md) stunting skills (35 still missing).
 {{ image(path="trh.webp", desc="Torch", link="https://youtu.be/Be-Sv_3gx5A?t=485") }}
 {{ image(path="rbq.webp", desc="Arabesque", link="https://youtu.be/kOSlKw79qdA?t=576") }}
 {{ image(path="scl.webp", desc="Scale", link="https://www.youtube.com/shorts/UyUDK7X_tRo") }}
-{{ image(path="stc.webp", desc="Stretching Torch", link="") }}
+{{ image(path="stc.webp", desc="Stretching Torch", link="https://www.instagram.com/p/CxQ8CbyoM56") }}
 {{ image(path="tbw.webp", desc="Bow", link="https://www.instagram.com/p/CPUX_VqHnfL") }}
 {{ image(path="fdr.webp", desc="Arrow", link="https://www.instagram.com/p/Ckj8xCUAD4D") }}
 {{ image(path="bnr.webp", desc="Bow and Arrow", link="https://www.youtube.com/shorts/mC6yrsA0Ixk") }}
