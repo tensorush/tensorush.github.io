@@ -100,6 +100,14 @@ Zig implementation of the [Base32 encoding scheme](https://www.crockford.com/bas
 
 Zig implementation of all seven [UUID versions](https://www.ietf.org/archive/id/draft-peabody-dispatch-new-uuid-format-04.html).
 
+- ## 🦎 🧬 zig diff
+
+[![ST][zig-diff-st-shd]][zig-diff-st-url]
+[![CI][zig-diff-ci-shd]][zig-diff-ci-url]
+[![LC][zig-diff-lc-shd]][zig-diff-lc-url]
+
+Zig implementation of the [diff algorithm](http://www.xmailserver.org/diff2.pdf) created by [@thegenemyers](https://github.com/thegenemyers).
+
 - ## 🦎 🌙 zig lua
 
 [![ST][zig-lua-st-shd]][zig-lua-st-url]
@@ -144,13 +152,13 @@ Minimal chat client and server akin to [smallchat](https://github.com/antirez/sm
 
 Zig port of the [animated ASCII-art donut rendering](https://gist.github.com/a1k0n/8ea6516b4946ab36348fb61703dc3194) created by [@a1k0n](https://github.com/a1k0n).
 
-- ## 🦎 🧬 zig diff
+- ## 🦎 🥷 jizamurai
 
-[![ST][zig-diff-st-shd]][zig-diff-st-url]
-[![CI][zig-diff-ci-shd]][zig-diff-ci-url]
-[![LC][zig-diff-lc-shd]][zig-diff-lc-url]
+[![ST][jizamurai-st-shd]][jizamurai-st-url]
+[![CI][jizamurai-ci-shd]][jizamurai-ci-url]
+[![LC][jizamurai-lc-shd]][jizamurai-lc-url]
 
-Zig implementation of the [diff algorithm](http://www.xmailserver.org/diff2.pdf) created by [@thegenemyers](https://github.com/thegenemyers).
+Zig port of the [perfjutsu course](https://github.com/dendibakh/perf-ninja) created by [@dendibakh](https://github.com/dendibakh).
 
 - ## 🦎 🦊 githunt
 
@@ -443,6 +451,15 @@ My workstation [dotfiles](https://en.wiktionary.org/wiki/dotfile).
 [zig-donut-ci-url]: https://github.com/tensorush/zig-donut/blob/main/.github/workflows/ci.yaml
 [zig-donut-lc-shd]: https://img.shields.io/github/license/tensorush/zig-donut.svg?style=for-the-badge&labelColor=black
 [zig-donut-lc-url]: https://github.com/tensorush/zig-donut/blob/main/LICENSE.md
+
+<!-- jizamurai -->
+
+[jizamurai-st-shd]: https://img.shields.io/badge/maintaining-353935?style=for-the-badge
+[jizamurai-st-url]: https://github.com/tensorush/jizamurai
+[jizamurai-ci-shd]: https://img.shields.io/github/actions/workflow/status/tensorush/jizamurai/ci.yaml?branch=main&style=for-the-badge&logo=github&label=CI&labelColor=black
+[jizamurai-ci-url]: https://github.com/tensorush/jizamurai/blob/main/.github/workflows/ci.yaml
+[jizamurai-lc-shd]: https://img.shields.io/github/license/tensorush/jizamurai.svg?style=for-the-badge&labelColor=black
+[jizamurai-lc-url]: https://github.com/tensorush/jizamurai/blob/main/LICENSE.md
 
 <!-- zig diff -->
 
