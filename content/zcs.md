@@ -15,7 +15,7 @@ Very opinionated extension to the [Zig style guide](https://ziglang.org/document
 
 | File Group |       Sorting Order       | Letter Case |
 |:----------:|:-------------------------:|:-----------:|
-| Directory  | Descending alphabetically | kebab-case  |
+| Directory  | Descending alphabetically | snake_case  |
 | Namespace  | Descending alphabetically | snake_case  |
 |   Struct   | Descending alphabetically |  TitleCase  |
 
