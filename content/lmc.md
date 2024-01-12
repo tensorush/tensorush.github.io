@@ -454,7 +454,7 @@ My workstation [dotfiles](https://en.wiktionary.org/wiki/dotfile).
 
 <!-- jizamurai -->
 
-[jizamurai-st-shd]: https://img.shields.io/badge/maintaining-353935?style=for-the-badge
+[jizamurai-st-shd]: https://img.shields.io/badge/developing-FFDEAD?style=for-the-badge
 [jizamurai-st-url]: https://github.com/tensorush/jizamurai
 [jizamurai-ci-shd]: https://img.shields.io/github/actions/workflow/status/tensorush/jizamurai/ci.yaml?branch=main&style=for-the-badge&logo=github&label=CI&labelColor=black
 [jizamurai-ci-url]: https://github.com/tensorush/jizamurai/blob/main/.github/workflows/ci.yaml
