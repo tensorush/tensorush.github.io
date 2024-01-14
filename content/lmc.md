@@ -142,7 +142,7 @@ Zig codebase graph generator that emits a [Mermaid class diagram](https://mermai
 [![CI][wazzup-ci-shd]][wazzup-ci-url]
 [![LC][wazzup-lc-shd]][wazzup-lc-url]
 
-Minimal chat client and server akin to [smallchat](https://github.com/antirez/smallchat) created by [@antirez](https://github.com/antirez).
+Minimal command-line chat application using [libxev](https://github.com/mitchellh/libxev).
 
 - ## 🦎 🍩 zig donut
 
