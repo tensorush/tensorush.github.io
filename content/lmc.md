@@ -158,7 +158,7 @@ Zig port of the [animated ASCII-art donut rendering](https://gist.github.com/a1k
 [![CI][jizamurai-ci-shd]][jizamurai-ci-url]
 [![LC][jizamurai-lc-shd]][jizamurai-lc-url]
 
-Zig port of the [perfjutsu course](https://github.com/dendibakh/perf-ninja) created by [@dendibakh](https://github.com/dendibakh).
+Zig counterpart to the [perfjutsu course](https://github.com/dendibakh/perf-ninja) created by [@dendibakh](https://github.com/dendibakh).
 
 - ## 🦎 🦊 githunt
 
