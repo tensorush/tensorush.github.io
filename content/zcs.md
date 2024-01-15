@@ -13,11 +13,11 @@ Very opinionated extension to the [Zig style guide](https://ziglang.org/document
 
 # **Top-to-bottom source file hierarchy**
 
-| File Group |       Sorting Order       | Letter Case |
-|:----------:|:-------------------------:|:-----------:|
-| Directory  | Descending alphabetically | snake_case  |
-| Namespace  | Descending alphabetically | snake_case  |
-|   Struct   | Descending alphabetically |  TitleCase  |
+|   File Group   |       Sorting Order       | Letter Case |
+|:--------------:|:-------------------------:|:-----------:|
+|   Directory    | Descending alphabetically | kebab-case  |
+| Namespace file | Descending alphabetically | snake_case  |
+|  Struct file   | Descending alphabetically |  TitleCase  |
 
 # **Top-to-bottom file container layout**
 

@@ -7,7 +7,7 @@ types = ["gallery"]
 tags = ["cheer"]
 +++
 
-Snapshot collection of 280 [cheer](@/cns.md) stunting skills (35 still missing).
+Snapshot collection of 284 [cheer](@/cns.md) stunting skills (36 still missing).
 
 <!-- more -->
 
@@ -78,7 +78,7 @@ Snapshot collection of 280 [cheer](@/cns.md) stunting skills (35 still missing).
 {{ gallery_start() }}
 {{ image(path="prk.webp", desc="Nick 'Dat Smile!' Prak", link="https://www.youtube.com/@NickPrak") }}
 {{ image(path="mnt.webp", desc="Jeffrey 'Dem Thighs!' Maisonet", link="https://www.instagram.com/jeffrey.kdm") }}
-{{ image(path="rtn.webp", desc="Ryan 'Hard Rock' Robertson", link="https://www.youtube.com/@ryanrobertson8889") }}
+{{ image(path="rsn.webp", desc="Ryan 'Hard Rock' Robertson", link="https://www.youtube.com/@ryanrobertson8889") }}
 {{ gallery_end() }}
 
 # **Note to flyers:**
@@ -208,10 +208,12 @@ Snapshot collection of 280 [cheer](@/cns.md) stunting skills (35 still missing).
 {{ image(path="hpv.webp", desc="Handski Pop Over", link="https://youtu.be/SwaejeJ8kPk?t=941") }}
 {{ image(path="vpv.webp", desc="Visor Pop Over", link="https://youtu.be/uqigHbZXaGc?t=1400") }}
 {{ image(path="spv.webp", desc="Shoulder Pop Over", link="https://youtu.be/uqigHbZXaGc?t=1420") }}
-{{ image(path="rsp.webp", desc="Half Step Up", link="https://youtu.be/QZOnM7xWtnM?t=494") }}
-{{ image(path="rbd.webp", desc="Rebound", link="https://www.youtube.com/shorts/NjiPqxopqQg") }}
+{{ image(path="rtn.webp", desc="Return", link="https://www.youtube.com/shorts/-Yw3MVq_eu8") }}
 {{ image(path="rcl.webp", desc="Recoil", link="https://www.youtube.com/shorts/B5OVmWPtjII") }}
+{{ image(path="rbd.webp", desc="Rebound", link="https://www.youtube.com/shorts/NjiPqxopqQg") }}
+{{ image(path="rsp.webp", desc="Half Step Up", link="https://youtu.be/QZOnM7xWtnM?t=494") }}
 {{ image(path="ppp.webp", desc="Full Step Up", link="") }}
+{{ image(path="nhs.webp", desc="One and a Half Step Up", link="") }}
 {{ gallery_end() }}
 
 # **Dismounts - flyer comes down from a stunt**
@@ -229,8 +231,9 @@ Snapshot collection of 280 [cheer](@/cns.md) stunting skills (35 still missing).
 {{ image(path="fdn.webp", desc="Full Down", link="") }}
 {{ image(path="tdn.webp", desc="Twist Down", link="https://www.youtube.com/shorts/B5OVmWPtjII") }}
 {{ image(path="dln.webp", desc="Double Down", link="https://youtu.be/kOSlKw79qdA?t=578") }}
-{{ image(path="hdn.webp", desc="Gravity Down", link="https://www.instagram.com/p/Cd-4ex_FiyD") }}
 {{ image(path="ddn.webp", desc="Diamidown", link="https://www.instagram.com/p/CfjkZJwjzCO") }}
+{{ image(path="bdv.webp", desc="Bird Dive", link="https://www.youtube.com/shorts/-Yw3MVq_eu8") }}
+{{ image(path="hdn.webp", desc="Gravity Down", link="https://www.instagram.com/p/Cd-4ex_FiyD") }}
 {{ gallery_end() }}
 
 # **Poses - flyer hits a pose at the top**
@@ -376,14 +379,15 @@ Snapshot collection of 280 [cheer](@/cns.md) stunting skills (35 still missing).
 {{ image(path="lvr.webp", desc="Elevator", link="") }}
 {{ image(path="shp.webp", desc="Switch Up", link="") }}
 {{ image(path="fsh.webp", desc="Full Switch Up", link="https://youtu.be/QkqEMnyiiJY?t=360") }}
-{{ image(path="wfw.webp", desc="Wolf Wall", link="") }}
+{{ image(path="sfl.webp", desc="Standing Full", link="https://www.youtube.com/shorts/t0JXmTz3NbI") }}
 {{ image(path="tgh.webp", desc="Two High", link="") }}
-{{ image(path="thh.webp", desc="Two and a Half High", link="https://www.youtube.com/shorts/VcvM2tMXwPI") }}
-{{ image(path="trg.webp", desc="Three High", link="https://www.instagram.com/p/CNlIbeRFWux") }}
+{{ image(path="thh.webp", desc="Two and a Half High", link="https://youtu.be/X5OOo3_YZfI?t=866") }}
+{{ image(path="shh.webp", desc="Two and a Half High Thigh Stand", link="https://www.youtube.com/shorts/VcvM2tMXwPI") }}
 {{ image(path="slf.webp", desc="Split Lift", link="") }}
+{{ image(path="trg.webp", desc="Three High", link="https://www.instagram.com/p/CNlIbeRFWux") }}
 {{ image(path="hsf.webp", desc="High Split Lift", link="") }}
 {{ image(path="wfl.webp", desc="Waterfall", link="https://www.youtube.com/shorts/Gn7CLpNHLFM") }}
-{{ image(path="sfl.webp", desc="Standing Full", link="https://www.youtube.com/shorts/t0JXmTz3NbI") }}
+{{ image(path="wfw.webp", desc="Wolf Wall", link="") }}
 {{ image(path="sfs.webp", desc="Swedish Falls", link="") }}
 {{ gallery_end() }}
 

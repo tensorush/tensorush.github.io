@@ -11,16 +11,18 @@ General advice around structuring Zig codebases.
 
 <!-- more -->
 
-- ## Root directory should contain .git files.
+- ## Root directory should contain a .gitignore file.
 
 ```sh
-# .gitattributes
-*.zig text eol=lf
-*.zon text eol=lf
-
-# .gitignore
 zig-cache/
 zig-out/
+```
+
+- ## Root directory should contain a .gitattributes file.
+
+```sh
+*.zig text eol=lf
+*.zon text eol=lf
 ```
 
 - ## Root directory should contain a build.zig.zon file.
@@ -39,7 +41,7 @@ zig-out/
 }
 ```
 
-- ## Root executable file should be named `main.zig`.
+- ## Root executable file should be named main.zig.
 
 ```zig
 //! Executable source file `main.zig` that contains the entrypoint.
@@ -68,7 +70,7 @@ fld: u8,
 - ## Root library file should have its name, reference tests, expose the public API and error set.
 
 ```zig
-//! Root library file `{library_name}.zig` that exposes the public API.
+//! Root library file `<library_name>.zig` that exposes the public API.
 
 const std = @import("std");
 
@@ -82,3 +84,7 @@ test {
     std.testing.refAllDecls(@This());
 }
 ```
+
+- ## Codebase that deviates from others' code should have an original one-word lowercase name.
+
+- ## Codebase that ports others' code should have the same kebab-case name prefixed with zig-.
