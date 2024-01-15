@@ -121,11 +121,11 @@ Snapshot collection of 284 [cheer](@/cns.md) stunting skills (36 still missing).
 {{ image(path="gst.webp", desc="Genie Sit", link="https://www.youtube.com/shorts/CMK7YeHJ8Mw") }}
 {{ image(path="srr.webp", desc="Genie Rest", link="https://www.instagram.com/p/CewuvsKJMnr") }}
 {{ image(path="gsd.webp", desc="Genie Stand", link="https://youtu.be/RLbde7dYHkI?t=167") }}
-{{ image(path="vsr.webp", desc="Visor", link="https://youtu.be/RLbde7dYHkI?t=235") }}
-{{ image(path="dlv.webp", desc="Double Visor", link="https://youtu.be/7HU_bauP2lI?t=601") }}
 {{ image(path="sst.webp", desc="Shoulder Sit", link="https://youtu.be/ApTsZwIDYLU?t=111") }}
 {{ image(path="srt.webp", desc="Shoulder Rest", link="https://www.youtube.com/shorts/B5OVmWPtjII") }}
 {{ image(path="ssd.webp", desc="Shoulder Stand", link="https://youtu.be/SonOnjYRtHU?t=281") }}
+{{ image(path="vsr.webp", desc="Visor", link="https://youtu.be/RLbde7dYHkI?t=235") }}
+{{ image(path="dlv.webp", desc="Double Visor", link="https://youtu.be/7HU_bauP2lI?t=601") }}
 {{ image(path="crl.webp", desc="Cradle", link="https://youtu.be/WBMVkXf3oBU?t=752") }}
 {{ image(path="spm.webp", desc="Superman", link="https://www.instagram.com/p/Cw2-nlQuIMZ") }}
 {{ gallery_end() }}
