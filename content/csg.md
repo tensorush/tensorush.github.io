@@ -22,10 +22,6 @@ Snapshot collection of 284 [cheer](@/cns.md) stunting skills (36 still missing).
 {{ image(path="bjs.webp", desc="Leonardo Borjas Jr.", link="https://secure.givelively.org/donate/usa-federation-for-sport-cheering/usa-cheer-premier-coed-12f0ae47-3482-4607-904c-bdd2ec1961e9/leonardo-borjas-jr") }}
 {{ gallery_end() }}
 
-# **Check out Dan's Patreon for more stunting tutorials and vlogs:**
-
-{{ center_image(path="hbd.webp", desc="Cool Little Easter Egg: Actual Full Cover Image of Dan's Channel", link="https://www.patreon.com/danielbuyeske") }}
-
 # **Massive props to:**
 
 {{ gallery_start() }}
@@ -81,6 +77,10 @@ Snapshot collection of 284 [cheer](@/cns.md) stunting skills (36 still missing).
 {{ image(path="rsn.webp", desc="Ryan 'Hard Rock' Robertson", link="https://www.youtube.com/@ryanrobertson8889") }}
 {{ gallery_end() }}
 
+# **Check out Dan's Patreon for more stunting tutorials and vlogs:**
+
+{{ center_image(path="hbd.webp", desc="Cool Little Easter Egg: Actual Full Cover Image of Dan's Channel", link="https://www.patreon.com/danielbuyeske") }}
+
 # **Note to flyers:**
 
 1) ## Stay fit and healthy.
@@ -99,7 +99,27 @@ Snapshot collection of 284 [cheer](@/cns.md) stunting skills (36 still missing).
 
 ## **Y'all stay safe and have fun, happy stunting!**
 
-# **Grips - base holds a flyer**
+# **Table of Contents**
+
+{{ toc_start() }}
+{{ toc_link(id="Grips", desc="base holds a flyer") }}
+{{ toc_link(id="Tosses", desc="base throws a flyer to a foot grip") }}
+{{ toc_link(id="Handstands", desc="base throws a flyer to a hand grip") }}
+{{ toc_link(id="Transitions", desc="flyer moves from one grip to another") }}
+{{ toc_link(id="Poses", desc="flyer hits a pose at the top") }}
+{{ toc_link(id="Jumps", desc="flyer hits a pose in the air") }}
+{{ toc_link(id="Spins", desc="flyer performs a spin in the air") }}
+{{ toc_link(id="Flips", desc="flyer performs a flip in the air") }}
+{{ toc_link(id="Dismounts", desc="flyer comes down from a stunt") }}
+{{ toc_link(id="Tumbles", desc="either base or flyer performs a flip on the ground") }}
+{{ toc_link(id="Baskets", desc="two bases and a backspot launch and catch a flyer") }}
+{{ toc_link(id="Pyramids", desc="at least two bases lift and hold at least one flyer") }}
+{{ toc_link(id="Extras", desc="stunts become extra difficult") }}
+{{ toc_end() }}
+
+# **Cheer Stunting Gallery**
+
+{{ link(id="Grips", desc="base holds a flyer") }}
 
 {{ gallery_start() }}
 {{ image(path="tsp.webp", desc="Platform / Target / Block", link="https://youtu.be/FZ4A0nTEtkc?t=107") }}
@@ -130,7 +150,7 @@ Snapshot collection of 284 [cheer](@/cns.md) stunting skills (36 still missing).
 {{ image(path="spm.webp", desc="Superman", link="https://www.instagram.com/p/Cw2-nlQuIMZ") }}
 {{ gallery_end() }}
 
-# **Tosses - base throws a flyer to a foot grip**
+{{ link(id="Tosses", desc="base throws a flyer to a foot grip") }}
 
 {{ gallery_start() }}
 {{ image(path="tsh.webp", desc="Toss Hands", link="https://youtu.be/1hzO2X9e_CE?t=61") }}
@@ -155,7 +175,7 @@ Snapshot collection of 284 [cheer](@/cns.md) stunting skills (36 still missing).
 {{ image(path="blp.webp", desc="Ball Up", link="https://youtu.be/KsHd_mN0a84?t=73") }}
 {{ gallery_end() }}
 
-# **Handstands - base throws a flyer to a hand grip**
+{{ link(id="Handstands", desc="base throws a flyer to a hand grip") }}
 
 {{ gallery_start() }}
 {{ image(path="dmd.webp", desc="Diamidov", link="https://youtu.be/7HU_bauP2lI?t=302") }}
@@ -184,7 +204,7 @@ Snapshot collection of 284 [cheer](@/cns.md) stunting skills (36 still missing).
 {{ image(path="nlc.webp", desc="Inlocate", link="https://youtu.be/Wvidl2UWtzc?t=49") }}
 {{ gallery_end() }}
 
-# **Transitions - flyer moves from one grip to another**
+{{ link(id="Transitions", desc="flyer moves from one grip to another") }}
 
 {{ gallery_start() }}
 {{ image(path="fpv.webp", desc="Half Pop Over", link="https://youtu.be/Be-Sv_3gx5A?t=963") }}
@@ -216,27 +236,7 @@ Snapshot collection of 284 [cheer](@/cns.md) stunting skills (36 still missing).
 {{ image(path="nhs.webp", desc="One and a Half Step Up", link="") }}
 {{ gallery_end() }}
 
-# **Dismounts - flyer comes down from a stunt**
-
-{{ gallery_start() }}
-{{ image(path="ppf.webp", desc="Pop Off", link="https://youtu.be/HMBSWEz2l24?t=672") }}
-{{ image(path="csw.webp", desc="Corkscrew", link="https://www.youtube.com/shorts/cxBuRNT1-Lg") }}
-{{ image(path="ppr.webp", desc="Reverse Pop Off", link="https://youtu.be/LV3RCD7S-GE?t=30") }}
-{{ image(path="snf.webp", desc="Sign Off", link="https://youtu.be/LV3RCD7S-GE?t=205") }}
-{{ image(path="fsp.webp", desc="Front Spread Drop", link="https://www.youtube.com/shorts/kg0WcXz9El8") }}
-{{ image(path="wkt.webp", desc="Walk Out / Toe Pitch Down", link="https://youtu.be/LV3RCD7S-GE?t=24") }}
-{{ image(path="stt.webp", desc="Sexy Set Out", link="https://youtu.be/WBMVkXf3oBU?t=755") }}
-{{ image(path="bsp.webp", desc="Back Spread Drop", link="https://www.youtube.com/shorts/a0-mRBEEBXk") }}
-{{ image(path="spf.webp", desc="Spin Off", link="https://www.youtube.com/shorts/C2Zd8iYmDdM") }}
-{{ image(path="fdn.webp", desc="Full Down", link="") }}
-{{ image(path="tdn.webp", desc="Twist Down", link="https://www.youtube.com/shorts/B5OVmWPtjII") }}
-{{ image(path="dln.webp", desc="Double Down", link="https://youtu.be/kOSlKw79qdA?t=578") }}
-{{ image(path="ddn.webp", desc="Diamidown", link="https://www.instagram.com/p/CfjkZJwjzCO") }}
-{{ image(path="bdv.webp", desc="Bird Dive", link="https://www.youtube.com/shorts/-Yw3MVq_eu8") }}
-{{ image(path="hdn.webp", desc="Gravity Down", link="https://www.instagram.com/p/Cd-4ex_FiyD") }}
-{{ gallery_end() }}
-
-# **Poses - flyer hits a pose at the top**
+{{ link(id="Poses", desc="flyer hits a pose at the top") }}
 
 {{ gallery_start() }}
 {{ image(path="lbt.webp", desc="Lib", link="https://youtu.be/3ju2179PNC8?t=134") }}
@@ -258,7 +258,7 @@ Snapshot collection of 284 [cheer](@/cns.md) stunting skills (36 still missing).
 {{ image(path="hhn.webp", desc="Chin Chin", link="") }}
 {{ gallery_end() }}
 
-# **Jumps - flyer hits a pose in the air**
+{{ link(id="Jumps", desc="flyer hits a pose in the air") }}
 
 {{ gallery_start() }}
 {{ image(path="str.webp", desc="Straight", link="https://youtu.be/3ju2179PNC8?t=610") }}
@@ -276,7 +276,7 @@ Snapshot collection of 284 [cheer](@/cns.md) stunting skills (36 still missing).
 {{ image(path="rvs.webp", desc="Reverse Split", link="https://www.youtube.com/shorts/cxBuRNT1-Lg") }}
 {{ gallery_end() }}
 
-# **Spins - flyer performs a spin in the air**
+{{ link(id="Spins", desc="flyer performs a spin in the air") }}
 
 {{ gallery_start() }}
 {{ image(path="flp.webp", desc="Full Up", link="https://youtu.be/8NjlORymE2k?t=702") }}
@@ -301,7 +301,7 @@ Snapshot collection of 284 [cheer](@/cns.md) stunting skills (36 still missing).
 {{ image(path="rtw.webp", desc="Around the World", link="https://youtu.be/hw7tZkE-dHk?t=356") }}
 {{ gallery_end() }}
 
-# **Flips - flyer performs a flip in the air**
+{{ link(id="Flips", desc="flyer performs a flip in the air") }}
 
 {{ gallery_start() }}
 {{ image(path="ftk.webp", desc="Front Tuck", link="https://youtu.be/jb-2RLIiq24?t=314") }}
@@ -327,7 +327,27 @@ Snapshot collection of 284 [cheer](@/cns.md) stunting skills (36 still missing).
 {{ image(path="chr.webp", desc="Charging Rhino / Stretch Rewind", link="https://www.youtube.com/shorts/k1cMJaxCvSw") }}
 {{ gallery_end() }}
 
-# **Tumbles - either base or flyer performs a flip on the ground**
+{{ link(id="Dismounts", desc="flyer comes down from a stunt") }}
+
+{{ gallery_start() }}
+{{ image(path="ppf.webp", desc="Pop Off", link="https://youtu.be/HMBSWEz2l24?t=672") }}
+{{ image(path="csw.webp", desc="Corkscrew", link="https://www.youtube.com/shorts/cxBuRNT1-Lg") }}
+{{ image(path="ppr.webp", desc="Reverse Pop Off", link="https://youtu.be/LV3RCD7S-GE?t=30") }}
+{{ image(path="snf.webp", desc="Sign Off", link="https://youtu.be/LV3RCD7S-GE?t=205") }}
+{{ image(path="fsp.webp", desc="Front Spread Drop", link="https://www.youtube.com/shorts/kg0WcXz9El8") }}
+{{ image(path="wkt.webp", desc="Walk Out / Toe Pitch Down", link="https://youtu.be/LV3RCD7S-GE?t=24") }}
+{{ image(path="stt.webp", desc="Sexy Set Out", link="https://youtu.be/WBMVkXf3oBU?t=755") }}
+{{ image(path="bsp.webp", desc="Back Spread Drop", link="https://www.youtube.com/shorts/a0-mRBEEBXk") }}
+{{ image(path="spf.webp", desc="Spin Off", link="https://www.youtube.com/shorts/C2Zd8iYmDdM") }}
+{{ image(path="fdn.webp", desc="Full Down", link="") }}
+{{ image(path="tdn.webp", desc="Twist Down", link="https://www.youtube.com/shorts/B5OVmWPtjII") }}
+{{ image(path="dln.webp", desc="Double Down", link="https://youtu.be/kOSlKw79qdA?t=578") }}
+{{ image(path="ddn.webp", desc="Diamidown", link="https://www.instagram.com/p/CfjkZJwjzCO") }}
+{{ image(path="bdv.webp", desc="Bird Dive", link="https://www.youtube.com/shorts/-Yw3MVq_eu8") }}
+{{ image(path="hdn.webp", desc="Gravity Down", link="https://www.instagram.com/p/Cd-4ex_FiyD") }}
+{{ gallery_end() }}
+
+{{ link(id="Tumbles", desc="either base or flyer performs a flip on the ground") }}
 
 {{ gallery_start() }}
 {{ image(path="rpp.webp", desc="Ramp Up", link="https://www.tiktok.com/@eliza.labelle/video/7119831283844435246") }}
@@ -358,7 +378,7 @@ Snapshot collection of 284 [cheer](@/cns.md) stunting skills (36 still missing).
 {{ image(path="kdl.webp", desc="Kick Double", link="") }}
 {{ gallery_end() }}
 
-# **Baskets - two bases and a backspot launch and catch a flyer**
+{{ link(id="Baskets", desc="two bases and a backspot launch and catch a flyer") }}
 
 {{ gallery_start() }}
 {{ image(path="std.webp", desc="Straight Ride", link="https://youtu.be/3ju2179PNC8?t=579") }}
@@ -371,7 +391,7 @@ Snapshot collection of 284 [cheer](@/cns.md) stunting skills (36 still missing).
 {{ image(path="rnh.webp", desc="Arabian One and a Half", link="https://www.youtube.com/shorts/3egUyDVmsBQ") }}
 {{ gallery_end() }}
 
-# **Pyramids - at least two bases lift and hold at least one flyer**
+{{ link(id="Pyramids", desc="at least two bases lift and hold at least one flyer") }}
 
 {{ gallery_start() }}
 {{ image(path="tsd.webp", desc="Thigh Stand", link="https://youtu.be/aybcpdbEbNw?t=211") }}
@@ -391,7 +411,7 @@ Snapshot collection of 284 [cheer](@/cns.md) stunting skills (36 still missing).
 {{ image(path="sfs.webp", desc="Swedish Falls", link="") }}
 {{ gallery_end() }}
 
-# **Extras - stunts turn extra hard**
+{{ link(id="Extras", desc="stunts become extra difficult") }}
 
 {{ gallery_start() }}
 {{ image(path="tbk.webp", desc="Buyeske / Ballerina", link="https://youtu.be/vmu1ZInhbjw?t=207") }}

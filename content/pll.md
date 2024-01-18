@@ -7,17 +7,17 @@ types = ["list"]
 tags = ["software"]
 +++
 
-Domain-wide shifts across the programming language landscape.
+Domain- and paradigm-wide shifts across the programming language landscape.
 
 <!-- more -->
 
-- ## **Web**: JavaScript/Ruby/PHP/Python/Java/C# => TypeScript/Dart/Go/Rust/Zig/Roc/Crystal
+# **Domain-wide**
 
-- ## **Functional**: Haskell/OCaml/Erlang/Elixir/Scala/Clojure/F# => Roc/Gleam/Elm
+- ## **Web**: JavaScript/Ruby/PHP/Python/Java/C# => TypeScript/Dart/Go/Rust/Zig/Roc/Crystal
 
 - ## **Verification**: Agda/Isabelle/Dafny => Coq/Lean/Idris/TLA+/Rust
 
-- ## **Scripting**: Python/Lua/Perl/Groovy => Go/Roc/Crystal/Zig
+- ## **Scripting**: Python/Lua/Perl/Groovy => Roc/Crystal/Go/Zig
 
 - ## **Shells**: Sh/Bash/CMD => Nushell/Fish/Zsh/PowerShell
 
@@ -27,10 +27,6 @@ Domain-wide shifts across the programming language landscape.
 
 - ## **SciComp**: Fortran/MATLAB => Julia/Futhark
 
-- ## **Logic**: Prolog/Scheme => Racket/Wolfram
-
-- ## **Concatenative**: Forth => Factor/Joy/Dt
-
 - ## **Systems**: C/C++/COBOL => Zig/Rust/Nim
 
 - ## **Statistics**: Stata/R/VBA => Python
@@ -38,5 +34,15 @@ Domain-wide shifts across the programming language landscape.
 - ## **AI**: C/C++/CUDA/Python => Mojo
 
 - ## **Typesetting**: TeX => Typst
+
+# **Paradigm-wide**
+
+- ## **Imperative (OOP => DOD)**: C/C++/Java/C#/Python/Ruby => Zig/Mojo/Rust/Swift/Crystal
+
+- ## **Functional**: Haskell/OCaml/Erlang/Elixir/Scala/Clojure/F# => Roc/Koka/Gleam/Elm
+
+- ## **Concatenative**: Forth/Factor/Joy/Cat => Kitten/Dt
+
+- ## **Logic**: Prolog/Scheme => Wolfram/Racket/Kanren
 
 - ## **Array**: APL/BQN/J => Uiua
