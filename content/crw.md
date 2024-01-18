@@ -23,6 +23,8 @@ Luminous wonders twirling in close embrace through the ever-growing cosmic void.
 {{ toc_link(id="Planets", desc="large, rounded celestial bodies orbiting stars") }}
 {{ toc_end() }}
 
+# **Cosmos Roaming Wonders**
+
 {{ link(id="Clusters", desc="large groups of stars held together by self-gravitation") }}
 
 {{ gallery_start() }}
