@@ -13,7 +13,30 @@ Luminous wonders twirling in close embrace through the ever-growing cosmic void.
 
 ## Collection of original cosmic images captured with the Earth's best telescopes.
 
-# **Nebulae - interstellar regions of stardust illuminated by supernovae light**
+{{ toc_start() }}
+{{ toc_link(id="Clusters", desc="large groups of stars held together by self-gravitation") }}
+{{ toc_link(id="Nebulae", desc="interstellar regions of stardust illuminated by supernovae light") }}
+{{ toc_link(id="Galaxies", desc="systems of stars, stardust, stellar remnants, and dark matter bound by gravity") }}
+{{ toc_link(id="Black Holes", desc="regions of space-time where gravity is so strong not even light can escape it") }}
+{{ toc_link(id="Stars", desc="rounded masses of gas radiating energy") }}
+{{ toc_link(id="Supernovae", desc="last stage of massive stars' evolution culminating in a powerful explosion") }}
+{{ toc_link(id="Planets", desc="large, rounded celestial bodies orbiting stars") }}
+{{ toc_end() }}
+
+{{ link(id="Clusters", desc="large groups of stars held together by self-gravitation") }}
+
+{{ gallery_start() }}
+{{ image(path="psm.webp", desc="Pismis", link="https://esahubble.org/images/heic0619a/") }}
+{{ image(path="nbn.webp", desc="Newborn", link="https://esahubble.org/images/heic0715a/") }}
+{{ image(path="rcn.webp", desc="Cradle", link="https://esahubble.org/images/potw2335a/") }}
+{{ image(path="wld.webp", desc="Westerlund", link="https://esahubble.org/images/heic1509a/") }}
+{{ image(path="sfd.webp", desc="Starfield", link="https://esahubble.org/images/potw2231a/") }}
+{{ image(path="pds.webp", desc="Pleiades", link="https://hubblesite.org/contents/media/images/2004/20/1562-Image.html") }}
+{{ image(path="lvn.webp", desc="Leviathan", link="https://esahubble.org/images/potw2319a/") }}
+{{ image(path="mtn.webp", desc="Molten Ring", link="https://esahubble.org/images/potw2050a/") }}
+{{ gallery_end() }}
+
+{{ link(id="Nebulae", desc="interstellar regions of stardust illuminated by supernovae light") }}
 
 {{ gallery_start() }}
 {{ image(path="gln.webp", desc="Eagle", link="https://esahubble.org/images/heic0506b/") }}
@@ -39,7 +62,7 @@ Luminous wonders twirling in close embrace through the ever-growing cosmic void.
 {{ image(path="bpt.webp", desc="Rainbow Planetary", link="https://esahubble.org/images/opo0214a/") }}
 {{ gallery_end() }}
 
-# **Galaxies - systems of stars, stardust, stellar remnants, and dark matter bound by gravity**
+{{ link(id="Galaxies", desc="systems of stars, stardust, stellar remnants, and dark matter bound by gravity") }}
 
 {{ gallery_start() }}
 {{ image(path="spl.webp", desc="Spiral", link="https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_s_first_images_the_dazzling_edge_of_darkness") }}
@@ -62,20 +85,7 @@ Luminous wonders twirling in close embrace through the ever-growing cosmic void.
 {{ image(path="jfh.webp", desc="Jellyfish", link="https://www.nasa.gov/image-detail/hubble-j0206-potw2323a/") }}
 {{ gallery_end() }}
 
-# **Clusters - large groups of stars held together by self-gravitation**
-
-{{ gallery_start() }}
-{{ image(path="psm.webp", desc="Pismis", link="https://esahubble.org/images/heic0619a/") }}
-{{ image(path="nbn.webp", desc="Newborn", link="https://esahubble.org/images/heic0715a/") }}
-{{ image(path="rcn.webp", desc="Cradle", link="https://esahubble.org/images/potw2335a/") }}
-{{ image(path="wld.webp", desc="Westerlund", link="https://esahubble.org/images/heic1509a/") }}
-{{ image(path="sfd.webp", desc="Starfield", link="https://esahubble.org/images/potw2231a/") }}
-{{ image(path="pds.webp", desc="Pleiades", link="https://hubblesite.org/contents/media/images/2004/20/1562-Image.html") }}
-{{ image(path="lvn.webp", desc="Leviathan", link="https://esahubble.org/images/potw2319a/") }}
-{{ image(path="mtn.webp", desc="Molten Ring", link="https://esahubble.org/images/potw2050a/") }}
-{{ gallery_end() }}
-
-# **Black Holes - regions of space-time where gravity is so strong not even light can escape it**
+{{ link(id="Black Holes", desc="regions of space-time where gravity is so strong not even light can escape it") }}
 
 {{ gallery_start() }}
 {{ image(path="sbh.webp", desc="Star Birth", link="https://esahubble.org/images/opo2202a/") }}
@@ -83,7 +93,7 @@ Luminous wonders twirling in close embrace through the ever-growing cosmic void.
 {{ image(path="mmt.webp", desc="Magnetic Monster", link="https://esahubble.org/images/heic0817a/") }}
 {{ gallery_end() }}
 
-# **Stars - rounded masses of gas radiating energy**
+{{ link(id="Stars", desc="rounded masses of gas radiating energy") }}
 
 {{ gallery_start() }}
 {{ image(path="pls.webp", desc="Crab Pulsar", link="https://esahubble.org/images/opo0224a/") }}
@@ -92,7 +102,7 @@ Luminous wonders twirling in close embrace through the ever-growing cosmic void.
 {{ image(path="hdr.webp", desc="Hydrae with Dust Discs", link="https://esahubble.org/images/heic2305a/") }}
 {{ gallery_end() }}
 
-# **Supernovae - last stage of massive stars' evolution culminating in a powerful explosion**
+{{ link(id="Supernovae", desc="last stage of massive stars' evolution culminating in a powerful explosion") }}
 
 {{ gallery_start() }}
 {{ image(path="pwl.webp", desc="Pinwheel", link="https://esahubble.org/images/potw1811a/") }}
@@ -100,7 +110,7 @@ Luminous wonders twirling in close embrace through the ever-growing cosmic void.
 {{ image(path="csp.webp", desc="Cassiopeia", link="https://esahubble.org/images/heic0609a/") }}
 {{ gallery_end() }}
 
-# **Planets - large, rounded celestial bodies orbiting stars**
+{{ link(id="Planets", desc="large, rounded celestial bodies orbiting stars") }}
 
 {{ gallery_start() }}
 {{ image(path="mrs.webp", desc="Mars", link="https://esahubble.org/images/opo0124a/") }}

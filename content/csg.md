@@ -99,8 +99,6 @@ Snapshot collection of 284 [cheer](@/cns.md) stunting skills (36 still missing).
 
 ## **Y'all stay safe and have fun, happy stunting!**
 
-# **Table of Contents**
-
 {{ toc_start() }}
 {{ toc_link(id="Grips", desc="base holds a flyer") }}
 {{ toc_link(id="Tosses", desc="base throws a flyer to a foot grip") }}
