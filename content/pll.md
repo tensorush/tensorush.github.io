@@ -25,9 +25,9 @@ Domain- and paradigm-wide shifts across the programming language landscape.
 
 - ## **Graphics**: C/C++/CUDA => Zig/Rust/Odin/Jai
 
-- ## **SciComp**: Fortran/MATLAB => Julia/Futhark
+- ## **Systems**: C/C++/COBOL => Zig/Rust/Hare/Nim
 
-- ## **Systems**: C/C++/COBOL => Zig/Rust/Nim
+- ## **SciComp**: Fortran/MATLAB => Julia/Futhark
 
 - ## **Statistics**: Stata/R/VBA => Python
 
@@ -39,7 +39,7 @@ Domain- and paradigm-wide shifts across the programming language landscape.
 
 - ## **Imperative (OOP => DOD)**: C/C++/Java/C#/Python/Ruby => Zig/Mojo/Rust/Swift/Crystal
 
-- ## **Functional**: Haskell/OCaml/Erlang/Elixir/Scala/Clojure/F# => Roc/Koka/Gleam/Elm
+- ## **Functional**: Haskell/OCaml/Elixir/Scala/Clojure/F#/Elm => Roc/Koka/Unison/Gleam
 
 - ## **Concatenative**: Forth/Factor/Joy/Cat => Kitten/Dt
 
