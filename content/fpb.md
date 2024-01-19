@@ -11,7 +11,7 @@ Personal blogs, channels, and podcasts I've been subscribed to for quite a while
 
 <!-- more -->
 
-**Legend**: 💭 - blog, 📺 - channel, 🎧 - podcast, 🕹️ - game, 📖 - book, 🖼️ - comic.
+**Legend**: 💭 - blog, 📺 - channel, 🎧 - podcast, 🕹️ - game, 📖 - book, 🖼️ - comic, 🫖 - animation.
 
 |                              Programmers                              |                               Scientists                               |                             Creatives                              |
 |:---------------------------------------------------------------------:|:----------------------------------------------------------------------:|:------------------------------------------------------------------:|
@@ -29,14 +29,14 @@ Personal blogs, channels, and podcasts I've been subscribed to for quite a while
 |         [📺 Tom Palmer](https://www.youtube.com/@contextfree)         |         [📺 Derek Muller](https://www.youtube.com/@veritasium)         |       [📺 Tim Minchin](https://www.youtube.com/@TimMinchin)        |
 |           [💭 George Hotz](https://geohot.github.io/blog/)            |         [💭 Jared Tumiel](https://jaredtumiel.github.io/blog/)         |      [📺 Evan Puschak](https://www.youtube.com/@Nerdwriter1)       |
 |              [💭 Alex Kladov](https://matklad.github.io)              |        [💭 Sean Carroll](https://www.preposterousuniverse.com/)        | [💭 Maria Popova](https://www.themarginalian.org/author/mpopova/)  |
-|                [💭 Ben Visness](https://bvisness.me/)                 |        [📺 Dianna Cowern](https://www.youtube.com/@physicsgirl)        |          [🖼️ Randall Munroe](https://xkcd.com/archive/)           |
-|         [📺 Code Parade](https://www.youtube.com/@CodeParade)         |        [💭 Scott Siskind](https://astralcodexten.substack.com)         |        [📖 William Gibson](https://williamgibsonbooks.com/)        |
-|               [💭 Graham King](https://darkcoding.net/)               |       [📺 Shane Wighton](https://www.youtube.com/@StuffMadeHere)       |       [📖 Neal Stephenson](https://www.nealstephenson.com/)        |
-|              [💭 Jakub Konka](http://www.jakubkonka.com)              |      [📺 Stephen Welch](https://www.youtube.com/@WelchLabsVideo)       |     [📖 Alastair Reynolds](https://www.alastairreynolds.com/)      |
-|               [💭 Jeff Fowler](https://blog.jfo.click/)               |           [📺 Victoria Hart](https://www.youtube.com/Vihart)           |         [💭 John & Hank Green](https://nerdfighteria.com)          |
-|              [💭 John Regehr](https://blog.regehr.org/)               |  [💭 David Richeson](https://divisbyzero.com/blog-division-by-zero/)   |       [💭 Christopher Noessel](https://scifiinterfaces.com)        |
-|                  [🖼️ Julia Evans](https://jvns.ca)                   |     [📺 Destin Sandlin](https://www.youtube.com/@smartereveryday)      |  [🕹️ Dan Benoni & Louis-Xavier Lavallee](https://growth.design)   |
-|             [💭 Karl Seguin](https://www.openmymind.net/)             |       [📺 Matthew O’Dowd](https://www.youtube.com/@pbsspacetime)       |                                                                    |
+|                [💭 Ben Visness](https://bvisness.me/)                 |        [📺 Dianna Cowern](https://www.youtube.com/@physicsgirl)        |              [🫖 Étienne Jacob](https://bleuje.com/)               |
+|         [📺 Code Parade](https://www.youtube.com/@CodeParade)         |        [💭 Scott Siskind](https://astralcodexten.substack.com)         |          [🖼️ Randall Munroe](https://xkcd.com/archive/)           |
+|               [💭 Graham King](https://darkcoding.net/)               |       [📺 Shane Wighton](https://www.youtube.com/@StuffMadeHere)       |        [📖 William Gibson](https://williamgibsonbooks.com/)        |
+|              [💭 Jakub Konka](http://www.jakubkonka.com)              |      [📺 Stephen Welch](https://www.youtube.com/@WelchLabsVideo)       |       [📖 Neal Stephenson](https://www.nealstephenson.com/)        |
+|               [💭 Jeff Fowler](https://blog.jfo.click/)               |           [📺 Victoria Hart](https://www.youtube.com/Vihart)           |     [📖 Alastair Reynolds](https://www.alastairreynolds.com/)      |
+|              [💭 John Regehr](https://blog.regehr.org/)               |  [💭 David Richeson](https://divisbyzero.com/blog-division-by-zero/)   |         [💭 John & Hank Green](https://nerdfighteria.com)          |
+|                  [🖼️ Julia Evans](https://jvns.ca)                   |     [📺 Destin Sandlin](https://www.youtube.com/@smartereveryday)      |       [💭 Christopher Noessel](https://scifiinterfaces.com)        |
+|             [💭 Karl Seguin](https://www.openmymind.net/)             |       [📺 Matthew O’Dowd](https://www.youtube.com/@pbsspacetime)       |  [🕹️ Dan Benoni & Louis-Xavier Lavallee](https://growth.design)   |
 |          [💭 Ryan Liptak](https://www.ryanliptak.com/blog/)           |        [💭 Possibly Wrong](https://possiblywrong.wordpress.com)        |                                                                    |
 |              [💭 Drew DeVault](https://drewdevault.com)               |          [💭 Richard Sutton](http://www.incompleteideas.net)           |                                                                    |
 |              [💭 Dustin Brett](https://dustinbrett.com/)              |       [📺 Grant Sanderson](https://www.youtube.com/@3blue1brown)       |                                                                    |
