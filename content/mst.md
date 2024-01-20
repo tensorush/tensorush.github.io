@@ -1,6 +1,6 @@
 +++
 title = "Magic Is Technology"
-date = 2023-11-22
+date = 2023-11-21
 
 [taxonomies]
 types = ["gallery"]

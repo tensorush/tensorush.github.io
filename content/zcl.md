@@ -1,6 +1,6 @@
 +++
 title = "Zig Code Layout"
-date = 2023-11-21
+date = 2023-11-20
 
 [taxonomies]
 types = ["code"]

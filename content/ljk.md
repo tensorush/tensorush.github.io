@@ -172,10 +172,10 @@ Hiragana and Katakana phonetic scripts.
 {{ letter(path="", desc="", link="") }}
 {{ letter(path="https://upload.wikimedia.org/wikipedia/commons/4/44/Katakana_letter_We.svg", desc="we - / weh /", link="https://upload.wikimedia.org/wikipedia/commons/1/14/Katakana_%E3%83%B1_stroke_order_animation.gif") }}
 {{ letter(path="https://upload.wikimedia.org/wikipedia/commons/a/a9/Katakana_letter_Wo.svg", desc="wo - / oh /", link="https://upload.wikimedia.org/wikipedia/commons/3/35/Katakana_%E3%83%B2_stroke_order_animation.gif") }}
-{{ letter(path="https://upload.wikimedia.org/wikipedia/commons/7/7e/Katakana_letter_Va.svg", desc="va - / vah /", link="") }}
-{{ letter(path="https://upload.wikimedia.org/wikipedia/commons/5/57/Katakana_letter_Vi.svg", desc="vi - / vee /", link="") }}
-{{ letter(path="https://upload.wikimedia.org/wikipedia/commons/5/5b/Katakana_letter_Vu.svg", desc="vu - / voo /", link="") }}
-{{ letter(path="https://upload.wikimedia.org/wikipedia/commons/6/6a/Katakana_letter_Ve.svg", desc="ve - / veh /", link="") }}
-{{ letter(path="https://upload.wikimedia.org/wikipedia/commons/0/0c/Katakana_letter_Vo.svg", desc="vo - / voh /", link="") }}
+{{ letter(path="https://upload.wikimedia.org/wikipedia/commons/7/7e/Katakana_letter_Va.svg", desc="va - / vah /", link="https://upload.wikimedia.org/wikipedia/commons/7/7e/Katakana_letter_Va.svg") }}
+{{ letter(path="https://upload.wikimedia.org/wikipedia/commons/5/57/Katakana_letter_Vi.svg", desc="vi - / vee /", link="https://upload.wikimedia.org/wikipedia/commons/5/57/Katakana_letter_Vi.svg") }}
+{{ letter(path="https://upload.wikimedia.org/wikipedia/commons/5/5b/Katakana_letter_Vu.svg", desc="vu - / voo /", link="https://upload.wikimedia.org/wikipedia/commons/5/5b/Katakana_letter_Vu.svg") }}
+{{ letter(path="https://upload.wikimedia.org/wikipedia/commons/6/6a/Katakana_letter_Ve.svg", desc="ve - / veh /", link="https://upload.wikimedia.org/wikipedia/commons/6/6a/Katakana_letter_Ve.svg") }}
+{{ letter(path="https://upload.wikimedia.org/wikipedia/commons/0/0c/Katakana_letter_Vo.svg", desc="vo - / voh /", link="https://upload.wikimedia.org/wikipedia/commons/0/0c/Katakana_letter_Vo.svg") }}
 {{ letter(path="https://upload.wikimedia.org/wikipedia/commons/f/f1/Katakana_letter_N.svg", desc="n", link="https://upload.wikimedia.org/wikipedia/commons/9/9f/Katakana_%E3%83%B3_stroke_order_animation.gif") }}
 {{ kana_end() }}

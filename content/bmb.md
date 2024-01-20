@@ -29,7 +29,7 @@ Started diving into programming around the summer of 2020 by studying all things
 
 # **Natural Languages**
 
-Fluent in English and Russian, meaning I've got no trouble thinking in either one of them. Guess, this blog is a testament to which of those I prefer more.
+Fluent in English and Russian, meaning I've got no trouble thinking in either one of them. Guess, this blog is yet another testament to which of those I prefer more.
 
 Currently, [learning Japanese](@/ljk.md) because it is:
 
