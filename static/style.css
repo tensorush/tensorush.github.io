@@ -10,7 +10,7 @@
 html {
     color: #ccc;
     margin: 15px 0;
-    background-color: #222;
+    background-color: #28282B;
 }
 
 body {
@@ -184,4 +184,17 @@ hr:after {
     width: 770px;
     font-weight: bold;
     text-align: center;
+}
+
+.letter {
+    width: 180px;
+}
+
+.kana-start {
+    display: grid;
+    grid-template-columns: 195px 195px 195px 195px 195px;
+}
+
+.kana-end {
+    margin: -30px 0;
 }

@@ -15,7 +15,7 @@ Brief summary of my background.
 
 Check out my [CV](https://tensorush.github.io/cv/en.pdf) for the relevant academics, jobs, projects, and socials.
 
-Also, subscribe to my blog by pasting [its Atom 1.0 feed link](https://tensorush.github.io/atom.xml) into your [news feed reader](https://en.wikipedia.org/wiki/News_aggregator) of choice. Personally, I use [NetNewsWire](https://netnewswire.com) on macOS/iOS.
+Also, subscribe to my blog by pasting [its Atom feed link](https://tensorush.github.io/atom.xml) into your [news feed reader](https://en.wikipedia.org/wiki/News_aggregator) of choice. Personally, I use [NetNewsWire](https://netnewswire.com) on macOS/iOS.
 
 # **Sports**
 
@@ -27,7 +27,19 @@ Lately, I got into [cheer](@/cns.md), too. Just [popping around my old dumbbell]
 
 Started diving into programming around the summer of 2020 by studying all things AI. The idea that any computation could be modelled as a [tensor product](https://www.math3ma.com/blog/the-tensor-product-demystified) stuck with me, so I made up a word for it from my last name "Trush", read as "Troosh", with "T" being a common way to denote a tensor. Unlike my last name, however, "tensorush" reads the usual way, as in "gold rush" or "adrenaline rush".
 
-# **Coding**
+# **Natural Languages**
+
+Fluent in English and Russian, meaning I've got no trouble thinking in either one of them. Guess, this blog is a testament to which of those I prefer more.
+
+Currently, [learning Japanese](@/ljk.md) because it is:
+
+- ## Exotic: doesn't belong to the [Indo-European family](https://en.wikipedia.org/wiki/Indo-European_languages), which I'm already quite familiar with
+
+- ## Minimal: devoid of many redundancies, such as, [grammatical number, gender, or article aspect](https://en.wikipedia.org/wiki/Japanese_language#Inflection_and_conjugation)
+
+- ## Singular: serves as basis to one of the most ancient, unique, and prolific [human civilizations](https://en.wikipedia.org/wiki/Culture_of_Japan)
+
+# **Formal Languages**
 
 Here's the timeline of my programming/typesetting/markdown language exploration journey so far:
 

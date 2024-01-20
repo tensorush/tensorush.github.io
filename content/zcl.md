@@ -11,21 +11,21 @@ General advice around structuring Zig codebases.
 
 <!-- more -->
 
-- ## Root directory should contain a .gitignore file.
+- ## Root directory should contain a .gitignore file
 
 ```sh
 zig-cache/
 zig-out/
 ```
 
-- ## Root directory should contain a .gitattributes file.
+- ## Root directory should contain a .gitattributes file
 
 ```sh
 *.zig text eol=lf
 *.zon text eol=lf
 ```
 
-- ## Root directory should contain a build.zig.zon file.
+- ## Root directory should contain a build.zig.zon file
 
 ```zig
 .{
@@ -41,7 +41,7 @@ zig-out/
 }
 ```
 
-- ## Root executable file should be named main.zig.
+- ## Root executable file should be named main.zig
 
 ```zig
 //! Executable source file `main.zig` that contains the entrypoint.
@@ -49,7 +49,7 @@ zig-out/
 pub fn main() void {}
 ```
 
-- ## Struct source files, which contain fields, should have TitleCase names.
+- ## Struct source files, which contain fields, should have TitleCase names
 
 ```zig
 //! Struct source file `MyFile.zig` that contains fields.
@@ -59,7 +59,7 @@ const MyFile = @This();
 fld: u8,
 ```
 
-- ## Namespace source files, which don't contain fields, should have snake_case names.
+- ## Namespace source files, which don't contain fields, should have snake_case names
 
 ```zig
 //! Namespace source file `my_file.zig` that doesn't contain fields.
@@ -67,7 +67,7 @@ fld: u8,
 // fld: u8,
 ```
 
-- ## Root library file should have its name, reference tests, expose the public API and error set.
+- ## Root library file should have its name, reference tests, expose the public API and error set
 
 ```zig
 //! Root library file `<library_name>.zig` that exposes the public API.
@@ -85,6 +85,6 @@ test {
 }
 ```
 
-- ## Codebase that deviates from others' code should have an original one-word lowercase name.
+- ## Codebase that deviates from others' code should have an original one-word lowercase name
 
-- ## Codebase that ports others' code should have the same kebab-case name prefixed with zig-.
+- ## Codebase that ports others' code should have the same kebab-case name prefixed with "zig-"
