@@ -23,16 +23,16 @@ tags = ["software"]
 
 Zig SDK for the [Spin](https://github.com/fermyon/spin) serverless application framework created by [@fermyon](https://github.com/fermyon).
 
-- ## 🦎 🛩️ flightplan
+- ## 🦎 🎛️ zig mpsc
 
-[![ST][flightplan-st-shd]][flightplan-st-url]
-[![CI][flightplan-ci-shd]][flightplan-ci-url]
-[![CD][flightplan-cd-shd]][flightplan-cd-url]
-[![DC][flightplan-dc-shd]][flightplan-dc-url]
-[![CC][flightplan-cc-shd]][flightplan-cc-url]
-[![LC][flightplan-lc-shd]][flightplan-lc-url]
+[![ST][zig-mpsc-st-shd]][zig-mpsc-st-url]
+[![CI][zig-mpsc-ci-shd]][zig-mpsc-ci-url]
+[![CD][zig-mpsc-cd-shd]][zig-mpsc-cd-url]
+[![DC][zig-mpsc-dc-shd]][zig-mpsc-dc-url]
+[![CC][zig-mpsc-cc-shd]][zig-mpsc-cc-url]
+[![LC][zig-mpsc-lc-shd]][zig-mpsc-lc-url]
 
-[Flight plan](https://en.wikipedia.org/wiki/Flight_plan) parsing utilities based on the [libflightplan repo](https://github.com/mitchellh/libflightplan) created by [@mitchellh](https://github.com/mitchellh).
+Zig port of the [intrusive wait-free MPSC queue](https://www.1024cores.net/home/lock-free-algorithms/queues/intrusive-mpsc-node-based-queue) created by [@dvyukov](https://github.com/dvyukov).
 
 - ## 🦎 📢 zig signal
 
@@ -45,27 +45,27 @@ Zig SDK for the [Spin](https://github.com/fermyon/spin) serverless application f
 
 Zig port of the [signal synchronisation primitive](https://github.com/Gerold103/serverbox/blob/master/src/mg/common/Signal.cpp) created by [@Gerold103](https://github.com/Gerold103).
 
-- ## 🦎 🎛️ zig mpsc
+- ## 🦎 💰 zig sieve
 
-[![ST][zig-mpsc-st-shd]][zig-mpsc-st-url]
-[![CI][zig-mpsc-ci-shd]][zig-mpsc-ci-url]
-[![CD][zig-mpsc-cd-shd]][zig-mpsc-cd-url]
-[![DC][zig-mpsc-dc-shd]][zig-mpsc-dc-url]
-[![CC][zig-mpsc-cc-shd]][zig-mpsc-cc-url]
-[![LC][zig-mpsc-lc-shd]][zig-mpsc-lc-url]
+[![ST][zig-sieve-st-shd]][zig-sieve-st-url]
+[![CI][zig-sieve-ci-shd]][zig-sieve-ci-url]
+[![CD][zig-sieve-cd-shd]][zig-sieve-cd-url]
+[![DC][zig-sieve-dc-shd]][zig-sieve-dc-url]
+[![CC][zig-sieve-cc-shd]][zig-sieve-cc-url]
+[![LC][zig-sieve-lc-shd]][zig-sieve-lc-url]
 
-Zig port of the [intrusive wait-free MPSC queue](https://www.1024cores.net/home/lock-free-algorithms/queues/intrusive-mpsc-node-based-queue) created by [@dvyukov](https://github.com/dvyukov).
+Zig implementation of the [SIEVE cache eviction algorithm](https://cachemon.github.io/SIEVE-website/) created by [@yazhuo](https://github.com/yazhuo) and [@1a1a11a](https://github.com/1a1a11a).
 
-- ## 🦎 #️⃣ zig komihash
+- ## 🦎 🛩️ flightplan
 
-[![ST][zig-komihash-st-shd]][zig-komihash-st-url]
-[![CI][zig-komihash-ci-shd]][zig-komihash-ci-url]
-[![CD][zig-komihash-cd-shd]][zig-komihash-cd-url]
-[![DC][zig-komihash-dc-shd]][zig-komihash-dc-url]
-[![CC][zig-komihash-cc-shd]][zig-komihash-cc-url]
-[![LC][zig-komihash-lc-shd]][zig-komihash-lc-url]
+[![ST][flightplan-st-shd]][flightplan-st-url]
+[![CI][flightplan-ci-shd]][flightplan-ci-url]
+[![CD][flightplan-cd-shd]][flightplan-cd-url]
+[![DC][flightplan-dc-shd]][flightplan-dc-url]
+[![CC][flightplan-cc-shd]][flightplan-cc-url]
+[![LC][flightplan-lc-shd]][flightplan-lc-url]
 
-Zig port of the [Komihash hash function](https://github.com/avaneev/komihash) created by [@avaneev](https://github.com/avaneev).
+[Flight plan](https://en.wikipedia.org/wiki/Flight_plan) parsing utilities based on the [libflightplan repo](https://github.com/mitchellh/libflightplan) created by [@mitchellh](https://github.com/mitchellh).
 
 - ## 🦎 ℹ️ zig typeid
 
@@ -78,6 +78,17 @@ Zig port of the [Komihash hash function](https://github.com/avaneev/komihash) cr
 
 Zig implementation of the [TypeID](https://github.com/jetpack-io/typeid) type-safe extension of UUIDv7 created by [@jetpack-io](https://www.jetpack.io/).
 
+- ## 🦎 🆔 zig uuid
+
+[![ST][zig-uuid-st-shd]][zig-uuid-st-url]
+[![CI][zig-uuid-ci-shd]][zig-uuid-ci-url]
+[![CD][zig-uuid-cd-shd]][zig-uuid-cd-url]
+[![DC][zig-uuid-dc-shd]][zig-uuid-dc-url]
+[![CC][zig-uuid-cc-shd]][zig-uuid-cc-url]
+[![LC][zig-uuid-lc-shd]][zig-uuid-lc-url]
+
+Zig implementation of all seven [UUID versions](https://www.ietf.org/archive/id/draft-peabody-dispatch-new-uuid-format-04.html).
+
 - ## 🦎 🔤 zig base32
 
 [![ST][zig-base32-st-shd]][zig-base32-st-url]
@@ -89,16 +100,16 @@ Zig implementation of the [TypeID](https://github.com/jetpack-io/typeid) type-sa
 
 Zig implementation of the [Base32 encoding scheme](https://www.crockford.com/base32.html).
 
-- ## 🦎 🆔 zig uuid
+- ## 🦎 #️⃣ zig komihash
 
-[![ST][zig-uuid-st-shd]][zig-uuid-st-url]
-[![CI][zig-uuid-ci-shd]][zig-uuid-ci-url]
-[![CD][zig-uuid-cd-shd]][zig-uuid-cd-url]
-[![DC][zig-uuid-dc-shd]][zig-uuid-dc-url]
-[![CC][zig-uuid-cc-shd]][zig-uuid-cc-url]
-[![LC][zig-uuid-lc-shd]][zig-uuid-lc-url]
+[![ST][zig-komihash-st-shd]][zig-komihash-st-url]
+[![CI][zig-komihash-ci-shd]][zig-komihash-ci-url]
+[![CD][zig-komihash-cd-shd]][zig-komihash-cd-url]
+[![DC][zig-komihash-dc-shd]][zig-komihash-dc-url]
+[![CC][zig-komihash-cc-shd]][zig-komihash-cc-url]
+[![LC][zig-komihash-lc-shd]][zig-komihash-lc-url]
 
-Zig implementation of all seven [UUID versions](https://www.ietf.org/archive/id/draft-peabody-dispatch-new-uuid-format-04.html).
+Zig port of the [Komihash hash function](https://github.com/avaneev/komihash) created by [@avaneev](https://github.com/avaneev).
 
 - ## 🦎 🧬 zig diff
 
@@ -144,14 +155,6 @@ Zig codebase graph generator that emits a [Mermaid class diagram](https://mermai
 
 Minimal command-line chat application using [libxev](https://github.com/mitchellh/libxev).
 
-- ## 🦎 🍩 zig donut
-
-[![ST][zig-donut-st-shd]][zig-donut-st-url]
-[![CI][zig-donut-ci-shd]][zig-donut-ci-url]
-[![LC][zig-donut-lc-shd]][zig-donut-lc-url]
-
-Zig port of the [animated ASCII-art donut rendering](https://gist.github.com/a1k0n/8ea6516b4946ab36348fb61703dc3194) created by [@a1k0n](https://github.com/a1k0n).
-
 - ## 🦎 🥷 jizamurai
 
 [![ST][jizamurai-st-shd]][jizamurai-st-url]
@@ -175,6 +178,14 @@ Thread-pool-based [Hacker News](https://news.ycombinator.com) [GitHub](https://g
 [![LC][zigzag-lc-shd]][zigzag-lc-url]
 
 Multi-threaded CPU [path tracer](https://en.wikipedia.org/wiki/Path_tracing).
+
+- ## 🦎 🍩 zig donut
+
+[![ST][zig-donut-st-shd]][zig-donut-st-url]
+[![CI][zig-donut-ci-shd]][zig-donut-ci-url]
+[![LC][zig-donut-lc-shd]][zig-donut-lc-url]
+
+Zig port of the [animated ASCII-art donut rendering](https://gist.github.com/a1k0n/8ea6516b4946ab36348fb61703dc3194) created by [@a1k0n](https://github.com/a1k0n).
 
 - ## 🦎 💫 dizzy
 
@@ -427,6 +438,21 @@ My workstation [dotfiles](https://en.wiktionary.org/wiki/dotfile).
 [zig-mpsc-cc-url]: https://app.codecov.io/gh/tensorush/zig-mpsc
 [zig-mpsc-lc-shd]: https://img.shields.io/github/license/tensorush/zig-mpsc.svg?style=for-the-badge&labelColor=black
 [zig-mpsc-lc-url]: https://github.com/tensorush/zig-mpsc/blob/main/LICENSE.md
+
+<!-- zig sieve -->
+
+[zig-sieve-st-shd]: https://img.shields.io/badge/maintaining-353935?style=for-the-badge
+[zig-sieve-st-url]: https://github.com/tensorush/zig-sieve
+[zig-sieve-ci-shd]: https://img.shields.io/github/actions/workflow/status/tensorush/zig-sieve/ci.yaml?branch=main&style=for-the-badge&logo=github&label=CI&labelColor=black
+[zig-sieve-ci-url]: https://github.com/tensorush/zig-sieve/blob/main/.github/workflows/ci.yaml
+[zig-sieve-cd-shd]: https://img.shields.io/github/actions/workflow/status/tensorush/zig-sieve/cd.yaml?branch=main&style=for-the-badge&logo=github&label=CD&labelColor=black
+[zig-sieve-cd-url]: https://github.com/tensorush/zig-sieve/blob/main/.github/workflows/cd.yaml
+[zig-sieve-dc-shd]: https://img.shields.io/badge/click-F6A516?style=for-the-badge&logo=zig&logoColor=F6A516&label=docs&labelColor=black
+[zig-sieve-dc-url]: https://tensorush.github.io/zig-sieve
+[zig-sieve-cc-shd]: https://img.shields.io/codecov/c/github/tensorush/zig-sieve?style=for-the-badge&labelColor=black
+[zig-sieve-cc-url]: https://app.codecov.io/gh/tensorush/zig-sieve
+[zig-sieve-lc-shd]: https://img.shields.io/github/license/tensorush/zig-sieve.svg?style=for-the-badge&labelColor=black
+[zig-sieve-lc-url]: https://github.com/tensorush/zig-sieve/blob/main/LICENSE.md
 
 <!-- zig signal -->
 
