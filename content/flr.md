@@ -7,7 +7,7 @@ types = ["list"]
 tags = ["favorite"]
 +++
 
-Awesome learning resources on Maths, Physics, and Computers I've been hoarding.
+Awesome learning resources on Maths, Physics, and Computers that I've been hoarding.
 
 <!-- more -->
 
