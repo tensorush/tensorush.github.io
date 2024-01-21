@@ -33,15 +33,15 @@ Fluent in English and Russian, meaning I've got no trouble thinking in either on
 
 Currently, [learning Japanese](@/ljk.md) because it is:
 
-- ## Exotic: doesn't belong to the [Indo-European family](https://en.wikipedia.org/wiki/Indo-European_languages), which I'm already quite familiar with
+- ## Exotic: doesn't belong to the [Indo-European family](https://en.wikipedia.org/wiki/Indo-European_languages), which I'm already familiar with
 
-- ## Minimal: devoid of many redundancies, such as, [grammatical number, gender, or article aspect](https://en.wikipedia.org/wiki/Japanese_language#Inflection_and_conjugation)
+- ## Exciting: serves as basis to one of the most ancient, unique, and prolific [human cultures](https://en.wikipedia.org/wiki/Culture_of_Japan)
 
-- ## Singular: serves as basis to one of the most ancient, unique, and prolific [human civilizations](https://en.wikipedia.org/wiki/Culture_of_Japan)
+- ## Efficient: devoid of many redundancies, such as, [grammatical number, gender, or article aspect](https://en.wikipedia.org/wiki/Japanese_language#Inflection_and_conjugation)
 
 # **Formal Languages**
 
-Here's the timeline of my programming/typesetting/markdown language exploration journey so far:
+Here's the timeline of my journey exploring formal languages:
 
 - ## **2019**: [R](https://www.r-project.org/) -> [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 

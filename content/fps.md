@@ -1,5 +1,5 @@
 +++
-title = "Favorite Public Talks"
+title = "Favorite Public Speeches"
 date = 2023-08-15
 
 [taxonomies]
