@@ -34,17 +34,6 @@ Zig SDK for the [Spin](https://github.com/fermyon/spin) serverless application f
 
 Zig port of the [intrusive wait-free MPSC queue](https://www.1024cores.net/home/lock-free-algorithms/queues/intrusive-mpsc-node-based-queue) created by [@dvyukov](https://github.com/dvyukov).
 
-- ## 🦎 📢 zig signal
-
-[![ST][zig-signal-st-shd]][zig-signal-st-url]
-[![CI][zig-signal-ci-shd]][zig-signal-ci-url]
-[![CD][zig-signal-cd-shd]][zig-signal-cd-url]
-[![DC][zig-signal-dc-shd]][zig-signal-dc-url]
-[![CC][zig-signal-cc-shd]][zig-signal-cc-url]
-[![LC][zig-signal-lc-shd]][zig-signal-lc-url]
-
-Zig port of the [signal synchronisation primitive](https://github.com/Gerold103/serverbox/blob/master/src/mg/common/Signal.cpp) created by [@Gerold103](https://github.com/Gerold103).
-
 - ## 🦎 💰 zig sieve
 
 [![ST][zig-sieve-st-shd]][zig-sieve-st-url]
@@ -154,14 +143,6 @@ Zig codebase graph generator that emits a [Mermaid class diagram](https://mermai
 [![LC][wazzup-lc-shd]][wazzup-lc-url]
 
 Minimal command-line chat application using [libxev](https://github.com/mitchellh/libxev).
-
-- ## 🦎 🥷 jizamurai
-
-[![ST][jizamurai-st-shd]][jizamurai-st-url]
-[![CI][jizamurai-ci-shd]][jizamurai-ci-url]
-[![LC][jizamurai-lc-shd]][jizamurai-lc-url]
-
-Zig counterpart to the [perfjutsu course](https://github.com/dendibakh/perf-ninja) created by [@dendibakh](https://github.com/dendibakh).
 
 - ## 🦎 🦊 githunt
 
@@ -454,21 +435,6 @@ My workstation [dotfiles](https://en.wiktionary.org/wiki/dotfile).
 [zig-sieve-lc-shd]: https://img.shields.io/github/license/tensorush/zig-sieve.svg?style=for-the-badge&labelColor=black
 [zig-sieve-lc-url]: https://github.com/tensorush/zig-sieve/blob/main/LICENSE.md
 
-<!-- zig signal -->
-
-[zig-signal-st-shd]: https://img.shields.io/badge/maintaining-353935?style=for-the-badge
-[zig-signal-st-url]: https://github.com/tensorush/zig-signal
-[zig-signal-ci-shd]: https://img.shields.io/github/actions/workflow/status/tensorush/zig-signal/ci.yaml?branch=main&style=for-the-badge&logo=github&label=CI&labelColor=black
-[zig-signal-ci-url]: https://github.com/tensorush/zig-signal/blob/main/.github/workflows/ci.yaml
-[zig-signal-cd-shd]: https://img.shields.io/github/actions/workflow/status/tensorush/zig-signal/cd.yaml?branch=main&style=for-the-badge&logo=github&label=CD&labelColor=black
-[zig-signal-cd-url]: https://github.com/tensorush/zig-signal/blob/main/.github/workflows/cd.yaml
-[zig-signal-dc-shd]: https://img.shields.io/badge/click-F6A516?style=for-the-badge&logo=zig&logoColor=F6A516&label=docs&labelColor=black
-[zig-signal-dc-url]: https://tensorush.github.io/zig-signal
-[zig-signal-cc-shd]: https://img.shields.io/codecov/c/github/tensorush/zig-signal?style=for-the-badge&labelColor=black
-[zig-signal-cc-url]: https://app.codecov.io/gh/tensorush/zig-signal
-[zig-signal-lc-shd]: https://img.shields.io/github/license/tensorush/zig-signal.svg?style=for-the-badge&labelColor=black
-[zig-signal-lc-url]: https://github.com/tensorush/zig-signal/blob/main/LICENSE.md
-
 <!-- zig donut -->
 
 [zig-donut-st-shd]: https://img.shields.io/badge/maintaining-353935?style=for-the-badge
@@ -477,15 +443,6 @@ My workstation [dotfiles](https://en.wiktionary.org/wiki/dotfile).
 [zig-donut-ci-url]: https://github.com/tensorush/zig-donut/blob/main/.github/workflows/ci.yaml
 [zig-donut-lc-shd]: https://img.shields.io/github/license/tensorush/zig-donut.svg?style=for-the-badge&labelColor=black
 [zig-donut-lc-url]: https://github.com/tensorush/zig-donut/blob/main/LICENSE.md
-
-<!-- jizamurai -->
-
-[jizamurai-st-shd]: https://img.shields.io/badge/developing-FFDEAD?style=for-the-badge
-[jizamurai-st-url]: https://github.com/tensorush/jizamurai
-[jizamurai-ci-shd]: https://img.shields.io/github/actions/workflow/status/tensorush/jizamurai/ci.yaml?branch=main&style=for-the-badge&logo=github&label=CI&labelColor=black
-[jizamurai-ci-url]: https://github.com/tensorush/jizamurai/blob/main/.github/workflows/ci.yaml
-[jizamurai-lc-shd]: https://img.shields.io/github/license/tensorush/jizamurai.svg?style=for-the-badge&labelColor=black
-[jizamurai-lc-url]: https://github.com/tensorush/jizamurai/blob/main/LICENSE.md
 
 <!-- zig diff -->
 
@@ -627,7 +584,7 @@ My workstation [dotfiles](https://en.wiktionary.org/wiki/dotfile).
 
 <!-- advent of code -->
 
-[advent-of-code-st-shd]: https://img.shields.io/badge/developing-FFDEAD?style=for-the-badge
+[advent-of-code-st-shd]: https://img.shields.io/badge/maintaining-353935?style=for-the-badge
 [advent-of-code-st-url]: https://github.com/tensorush/advent-of-code
 [advent-of-code-rs-shd]: https://img.shields.io/badge/rs-black.svg?style=for-the-badge&logo=rust&logoColor=7C5642
 [advent-of-code-rs-url]: https://www.rust-lang.org/
