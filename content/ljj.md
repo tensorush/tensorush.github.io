@@ -954,7 +954,7 @@ Kanji logographic script of 2,136 characters adapted from Chinese.
 {{ char(name="映", desc="reflect", link="https://jisho.org/search/%E6%98%A0%20%23kanji") }}
 {{ char(name="晩", desc="nightfall", link="https://jisho.org/search/%E6%99%A9%20%23kanji") }}
 {{ char(name="暖", desc="warmth", link="https://jisho.org/search/%E6%9A%96%20%23kanji") }}
-{{ char(name="暮", desc="livelihood", link="https://jisho.org/search/%E6%9A%AE%20%23kanji") }}
+{{ char(name="暮", desc="twilight", link="https://jisho.org/search/%E6%9A%AE%20%23kanji") }}
 {{ char(name="朗", desc="melodious", link="https://jisho.org/search/%E6%9C%97%20%23kanji") }}
 {{ char(name="机", desc="desk", link="https://jisho.org/search/%E6%9C%BA%20%23kanji") }}
 {{ char(name="枚", desc="sheet", link="https://jisho.org/search/%E6%9E%9A%20%23kanji") }}

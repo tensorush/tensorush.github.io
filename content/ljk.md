@@ -7,7 +7,7 @@ types = ["gallery"]
 tags = ["japanese"]
 +++
 
-Hiragana and Katakana phonetic scripts.
+Hiragana and Katakana phonetic scripts of 260 characters.
 
 <!-- more -->
 
