@@ -11,7 +11,12 @@ Hiragana and Katakana phonetic scripts.
 
 <!-- more -->
 
-# **Hiragana**
+{{ toc_start() }}
+{{ toc_link(id="Hiragana", desc="174 characters used to write native words") }}
+{{ toc_link(id="Katakana", desc="186 characters used to write foreign words") }}
+{{ toc_end() }}
+
+{{ link(id="Hiragana", desc="174 characters used to write native words") }}
 
 {{ kana_start() }}
 {{ letter(path="https://upload.wikimedia.org/wikipedia/commons/2/2f/Hiragana_letter_A.svg", desc="a - / ah /", link="https://upload.wikimedia.org/wikipedia/commons/d/d8/Hiragana_%E3%81%82_stroke_order_animation.gif") }}
@@ -94,7 +99,7 @@ Hiragana and Katakana phonetic scripts.
 {{ letter(path="https://upload.wikimedia.org/wikipedia/commons/a/af/Hiragana_letter_Vu.svg", desc="vu - / voo /", link="https://upload.wikimedia.org/wikipedia/commons/a/af/Hiragana_letter_Vu.svg") }}
 {{ kana_end() }}
 
-# **Katakana**
+{{ link(id="Katakana", desc="186 characters used to write foreign words") }}
 
 {{ kana_start() }}
 {{ letter(path="https://upload.wikimedia.org/wikipedia/commons/7/7a/Katakana_letter_A.svg", desc="a - / ah /", link="https://upload.wikimedia.org/wikipedia/commons/c/c8/Katakana_%E3%82%A2_stroke_order_animation.gif") }}
