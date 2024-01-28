@@ -7,7 +7,7 @@ types = ["gallery"]
 tags = ["japanese"]
 +++
 
-Kanji logographic script adapted from Chinese.
+Kanji logographic script adapted from Chinese (120 out of 1000).
 
 <!-- more -->
 
@@ -112,4 +112,24 @@ Kanji logographic script adapted from Chinese.
 {{ char(name="鳥", desc="Bird", link="https://jisho.org/word/%E9%B3%A5") }}
 {{ char(name="内", desc="Within", link="https://jisho.org/word/%E5%86%85") }}
 {{ char(name="中", desc="Amid", link="https://jisho.org/word/%E4%B8%AD") }}
+{{ char(name="平", desc="Flat", link="https://jisho.org/word/%E5%B9%B3") }}
+{{ char(name="伝", desc="Tradition", link="https://jisho.org/word/%E4%BC%9D-1") }}
+{{ char(name="別", desc="Separate", link="https://jisho.org/word/%E5%88%A5") }}
+{{ char(name="形", desc="Shape", link="https://jisho.org/word/%E5%BD%A2") }}
+{{ char(name="決", desc="Decision", link="https://jisho.org/word/%E6%B1%BA") }}
+{{ char(name="和", desc="Harmony", link="https://jisho.org/search/%E5%92%8C") }}
+{{ char(name="的", desc="Target", link="https://jisho.org/word/%E7%9A%84-1") }}
+{{ char(name="島", desc="Island", link="https://jisho.org/word/%E5%B3%B6") }}
+{{ char(name="差", desc="Variation", link="https://jisho.org/word/%E5%B7%AE") }}
+{{ char(name="死", desc="Death", link="https://jisho.org/word/%E6%AD%BB") }}
+{{ char(name="皿", desc="Dish", link="https://jisho.org/word/%E7%9A%BF") }}
+{{ char(name="冷", desc="Cold", link="https://jisho.org/word/%E5%86%B7") }}
+{{ char(name="暑", desc="Heat", link="https://jisho.org/word/%E6%9A%91") }}
+{{ char(name="温", desc="Warm", link="https://jisho.org/word/%E6%B8%A9") }}
+{{ char(name="辛", desc="Spicy", link="https://jisho.org/word/%E8%BE%9B-1") }}
+{{ char(name="湯", desc="Bath", link="https://jisho.org/word/%E6%B9%AF") }}
+{{ char(name="学", desc="Study", link="https://jisho.org/word/%E5%AD%A6") }}
+{{ char(name="覚", desc="Memorize", link="https://jisho.org/word/%E8%A6%9A") }}
+{{ char(name="説", desc="Opinion", link="https://jisho.org/word/%E8%AA%AC") }}
+{{ char(name="選", desc="Choice", link="https://jisho.org/word/%E9%81%B8") }}
 {{ kanji_end() }}

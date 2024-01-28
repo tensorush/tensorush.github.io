@@ -19,6 +19,8 @@ Idiomatic Zig programming patterns from the [Zig standard library](https://zigla
 
 - ## [Decorator](https://zig.news/xq/cool-zig-patterns-configuration-parameters-591a)
 
+- ## [Diagnostics](https://github.com/ziglang/zig/blob/0.11.0/lib/std/json/scanner.zig#L195)
+
 - ## [Generic type](https://github.com/ziglang/zig/blob/0.11.0/lib/std/hash_map.zig#L370)
 
 - ## [Arena allocator](https://github.com/ziglang/zig/blob/0.11.0/lib/std/heap/arena_allocator.zig#L8)
