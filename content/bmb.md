@@ -35,7 +35,7 @@ Currently, [learning Japanese](@/ljk.md) because it is:
 
 - ## Exotic: doesn't belong to the [Indo-European family](https://en.wikipedia.org/wiki/Indo-European_languages), which I'm already familiar with
 
-- ## Exciting: serves as basis to one of the most ancient, unique, and prolific [human cultures](https://en.wikipedia.org/wiki/Culture_of_Japan)
+- ## Exciting: serves as basis to [one of the most ancient, unique, and prolific human cultures](https://en.wikipedia.org/wiki/Culture_of_Japan)
 
 - ## Efficient: devoid of many redundancies, such as, [grammatical number, gender, or article aspect](https://en.wikipedia.org/wiki/Japanese_language#Inflection_and_conjugation)
 

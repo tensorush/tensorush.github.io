@@ -100,6 +100,14 @@ Zig implementation of the [Base32 encoding scheme](https://www.crockford.com/bas
 
 Zig port of the [Komihash hash function](https://github.com/avaneev/komihash) created by [@avaneev](https://github.com/avaneev).
 
+- ## 🦎 🤚 zig backoff
+
+[![ST][zig-backoff-st-shd]][zig-backoff-st-url]
+[![CI][zig-backoff-ci-shd]][zig-backoff-ci-url]
+[![LC][zig-backoff-lc-shd]][zig-backoff-lc-url]
+
+Zig implementation of the [exponential backoff algorithm](https://en.wikipedia.org/wiki/Exponential_backoff).
+
 - ## 🦎 🧬 zig diff
 
 [![ST][zig-diff-st-shd]][zig-diff-st-url]
@@ -443,6 +451,15 @@ My workstation [dotfiles](https://en.wiktionary.org/wiki/dotfile).
 [zig-donut-ci-url]: https://github.com/tensorush/zig-donut/blob/main/.github/workflows/ci.yaml
 [zig-donut-lc-shd]: https://img.shields.io/github/license/tensorush/zig-donut.svg?style=for-the-badge&labelColor=black
 [zig-donut-lc-url]: https://github.com/tensorush/zig-donut/blob/main/LICENSE.md
+
+<!-- zig backoff -->
+
+[zig-backoff-st-shd]: https://img.shields.io/badge/maintaining-353935?style=for-the-badge
+[zig-backoff-st-url]: https://github.com/tensorush/zig-backoff
+[zig-backoff-ci-shd]: https://img.shields.io/github/actions/workflow/status/tensorush/zig-backoff/ci.yaml?branch=main&style=for-the-badge&logo=github&label=CI&labelColor=black
+[zig-backoff-ci-url]: https://github.com/tensorush/zig-backoff/blob/main/.github/workflows/ci.yaml
+[zig-backoff-lc-shd]: https://img.shields.io/github/license/tensorush/zig-backoff.svg?style=for-the-badge&labelColor=black&kill_cache=1
+[zig-backoff-lc-url]: https://github.com/tensorush/zig-backoff/blob/main/LICENSE.md
 
 <!-- zig diff -->
 
