@@ -4,7 +4,7 @@ date = 2023-11-16
 
 [taxonomies]
 types = ["gallery"]
-tags = ["love"]
+tags = ["nature"]
 +++
 
 Luminous wonders twirling in close embrace through the ever-growing cosmic void.

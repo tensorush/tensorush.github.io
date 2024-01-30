@@ -4,7 +4,7 @@ date = 2024-01-29
 
 [taxonomies]
 types = ["gallery"]
-tags = ["life"]
+tags = ["nature"]
 +++
 
 National parks from around the globe.
