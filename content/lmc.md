@@ -168,6 +168,14 @@ Thread-pool-based [Hacker News](https://news.ycombinator.com) [GitHub](https://g
 
 Multi-threaded CPU [path tracer](https://en.wikipedia.org/wiki/Path_tracing).
 
+- ## 🦎 💦 loog
+
+[![ST][loog-st-shd]][loog-st-url]
+[![CI][loog-ci-shd]][loog-ci-url]
+[![LC][loog-lc-shd]][loog-lc-url]
+
+[Server log](https://en.wikipedia.org/wiki/Common_Log_Format) analyzer.
+
 - ## 🦎 🍩 zig donut
 
 [![ST][zig-donut-st-shd]][zig-donut-st-url]
@@ -433,7 +441,7 @@ My workstation [dotfiles](https://en.wiktionary.org/wiki/dotfile).
 [zig-backoff-st-url]: https://github.com/tensorush/zig-backoff
 [zig-backoff-ci-shd]: https://img.shields.io/github/actions/workflow/status/tensorush/zig-backoff/ci.yaml?branch=main&style=for-the-badge&logo=github&label=CI&labelColor=black
 [zig-backoff-ci-url]: https://github.com/tensorush/zig-backoff/blob/main/.github/workflows/ci.yaml
-[zig-backoff-lc-shd]: https://img.shields.io/github/license/tensorush/zig-backoff.svg?style=for-the-badge&labelColor=black&kill_cache=1
+[zig-backoff-lc-shd]: https://img.shields.io/github/license/tensorush/zig-backoff.svg?style=for-the-badge&labelColor=black
 [zig-backoff-lc-url]: https://github.com/tensorush/zig-backoff/blob/main/LICENSE.md
 
 <!-- zig diff -->
@@ -466,6 +474,15 @@ My workstation [dotfiles](https://en.wiktionary.org/wiki/dotfile).
 [zigzag-ci-url]: https://github.com/tensorush/zigzag/blob/main/.github/workflows/ci.yaml
 [zigzag-lc-shd]: https://img.shields.io/github/license/tensorush/zigzag.svg?style=for-the-badge&labelColor=black
 [zigzag-lc-url]: https://github.com/tensorush/zigzag/blob/main/LICENSE.md
+
+<!-- loog -->
+
+[loog-st-shd]: https://img.shields.io/badge/maintaining-353935?style=for-the-badge
+[loog-st-url]: https://github.com/tensorush/loog
+[loog-ci-shd]: https://img.shields.io/github/actions/workflow/status/tensorush/loog/ci.yaml?branch=main&style=for-the-badge&logo=github&label=CI&labelColor=black
+[loog-ci-url]: https://github.com/tensorush/loog/blob/main/.github/workflows/ci.yaml
+[loog-lc-shd]: https://img.shields.io/github/license/tensorush/loog.svg?style=for-the-badge&labelColor=black&kill_cache=1
+[loog-lc-url]: https://github.com/tensorush/loog/blob/main/LICENSE.md
 
 <!-- githunt -->
 
