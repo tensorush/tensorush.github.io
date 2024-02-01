@@ -176,14 +176,6 @@ Multi-threaded CPU [path tracer](https://en.wikipedia.org/wiki/Path_tracing).
 
 Zig port of the [animated ASCII-art donut rendering](https://gist.github.com/a1k0n/8ea6516b4946ab36348fb61703dc3194) created by [@a1k0n](https://github.com/a1k0n).
 
-- ## 🦎 💫 dizzy
-
-[![ST][dizzy-st-shd]][dizzy-st-url]
-[![CI][dizzy-ci-shd]][dizzy-ci-url]
-[![LC][dizzy-lc-shd]][dizzy-lc-url]
-
-[Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) interpreter.
-
 # **Go Services**
 
 - ## 🐹 📚 bookkeeper
@@ -254,14 +246,6 @@ Solutions to programming contests.
 [![LC][follower-maze-lc-shd]][follower-maze-lc-url]
 
 Solution to the [Follower Maze Challenge](https://github.com/tensorush/follower-maze/blob/main/SPECIFICATION.md).
-
-- ## 🐹 💤 dozer stampede
-
-[![ST][dozer-stampede-st-shd]][dozer-stampede-st-url]
-[![CI][dozer-stampede-ci-shd]][dozer-stampede-ci-url]
-[![LC][dozer-stampede-lc-shd]][dozer-stampede-lc-url]
-
-Solution to the [Dozer Stampede Challenge](https://github.com/tensorush/dozer-stampede/blob/main/SPECIFICATION.md).
 
 # **Personal Dumps**
 
@@ -403,15 +387,6 @@ My workstation [dotfiles](https://en.wiktionary.org/wiki/dotfile).
 [zig-uuid-cc-url]: https://app.codecov.io/gh/tensorush/zig-uuid
 [zig-uuid-lc-shd]: https://img.shields.io/github/license/tensorush/zig-uuid.svg?style=for-the-badge&labelColor=black
 [zig-uuid-lc-url]: https://github.com/tensorush/zig-uuid/blob/main/LICENSE.md
-
-<!-- dizzy -->
-
-[dizzy-st-shd]: https://img.shields.io/badge/maintaining-353935?style=for-the-badge
-[dizzy-st-url]: https://github.com/tensorush/dizzy
-[dizzy-ci-shd]: https://img.shields.io/github/actions/workflow/status/tensorush/dizzy/ci.yaml?branch=main&style=for-the-badge&logo=github&label=CI&labelColor=black
-[dizzy-ci-url]: https://github.com/tensorush/dizzy/blob/main/.github/workflows/ci.yaml
-[dizzy-lc-shd]: https://img.shields.io/github/license/tensorush/dizzy.svg?style=for-the-badge&labelColor=black
-[dizzy-lc-url]: https://github.com/tensorush/dizzy/blob/main/LICENSE.md
 
 <!-- zig mpsc -->
 
@@ -555,15 +530,6 @@ My workstation [dotfiles](https://en.wiktionary.org/wiki/dotfile).
 [dotfiles-st-url]: https://github.com/tensorush/dotfiles
 [dotfiles-lc-shd]: https://img.shields.io/github/license/tensorush/dotfiles.svg?style=for-the-badge&labelColor=black
 [dotfiles-lc-url]: https://github.com/tensorush/dotfiles/blob/main/LICENSE.md
-
-<!-- dozer stampede -->
-
-[dozer-stampede-st-shd]: https://img.shields.io/badge/maintaining-353935?style=for-the-badge
-[dozer-stampede-st-url]: https://github.com/tensorush/dozer-stampede
-[dozer-stampede-ci-shd]: https://img.shields.io/github/actions/workflow/status/tensorush/dozer-stampede/ci.yaml?branch=main&style=for-the-badge&logo=github&label=CI&labelColor=black
-[dozer-stampede-ci-url]: https://github.com/tensorush/dozer-stampede/blob/main/.github/workflows/ci.yaml
-[dozer-stampede-lc-shd]: https://img.shields.io/github/license/tensorush/Dozer-Stampede-Challenge.svg?style=for-the-badge&labelColor=black
-[dozer-stampede-lc-url]: https://github.com/tensorush/dozer-stampede/blob/main/LICENSE.md
 
 <!-- follower maze -->
 
