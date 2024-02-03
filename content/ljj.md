@@ -688,14 +688,14 @@ Kanji logographic script of 2,136 characters adapted from Chinese.
 {{ char(name="仏", desc="Buddha", link="https://jisho.org/search/%E4%BB%8F%20%23kanji") }}
 {{ char(name="仮", desc="sham", link="https://jisho.org/search/%E4%BB%AE%20%23kanji") }}
 {{ char(name="件", desc="affair", link="https://jisho.org/search/%E4%BB%B6%20%23kanji") }}
-{{ char(name="任", desc="responsibility", link="https://jisho.org/search/%E4%BB%BB%20%23kanji") }}
+{{ char(name="任", desc="duty", link="https://jisho.org/search/%E4%BB%BB%20%23kanji") }}
 {{ char(name="似", desc="resemble", link="https://jisho.org/search/%E4%BC%BC%20%23kanji") }}
 {{ char(name="余", desc="surplus", link="https://jisho.org/search/%E4%BD%99%20%23kanji") }}
 {{ char(name="価", desc="value", link="https://jisho.org/search/%E4%BE%A1%20%23kanji") }}
 {{ char(name="保", desc="preserve", link="https://jisho.org/search/%E4%BF%9D%20%23kanji") }}
-{{ char(name="修", desc="discipline", link="https://jisho.org/search/%E4%BF%AE%20%23kanji") }}
+{{ char(name="修", desc="training", link="https://jisho.org/search/%E4%BF%AE%20%23kanji") }}
 {{ char(name="俵", desc="straw", link="https://jisho.org/search/%E4%BF%B5%20%23kanji") }}
-{{ char(name="個", desc="individual", link="https://jisho.org/search/%E5%80%8B%20%23kanji") }}
+{{ char(name="個", desc="each", link="https://jisho.org/search/%E5%80%8B%20%23kanji") }}
 {{ char(name="備", desc="provide", link="https://jisho.org/search/%E5%82%99%20%23kanji") }}
 {{ char(name="像", desc="statue", link="https://jisho.org/search/%E5%83%8F%20%23kanji") }}
 {{ char(name="再", desc="again", link="https://jisho.org/search/%E5%86%8D%20%23kanji") }}
@@ -712,11 +712,11 @@ Kanji logographic script of 2,136 characters adapted from Chinese.
 {{ char(name="可", desc="possible", link="https://jisho.org/search/%E5%8F%AF%20%23kanji") }}
 {{ char(name="営", desc="manage", link="https://jisho.org/search/%E5%96%B6%20%23kanji") }}
 {{ char(name="因", desc="cause", link="https://jisho.org/search/%E5%9B%A0%20%23kanji") }}
-{{ char(name="団", desc="association", link="https://jisho.org/search/%E5%9B%A3%20%23kanji") }}
+{{ char(name="団", desc="group", link="https://jisho.org/search/%E5%9B%A3%20%23kanji") }}
 {{ char(name="圧", desc="pressure", link="https://jisho.org/search/%E5%9C%A7%20%23kanji") }}
 {{ char(name="在", desc="exist", link="https://jisho.org/search/%E5%9C%A8%20%23kanji") }}
 {{ char(name="均", desc="level", link="https://jisho.org/search/%E5%9D%87%20%23kanji") }}
-{{ char(name="基", desc="foundation", link="https://jisho.org/search/%E5%9F%BA%20%23kanji") }}
+{{ char(name="基", desc="basis", link="https://jisho.org/search/%E5%9F%BA%20%23kanji") }}
 {{ char(name="報", desc="report", link="https://jisho.org/search/%E5%A0%B1%20%23kanji") }}
 {{ char(name="境", desc="boundary", link="https://jisho.org/search/%E5%A2%83%20%23kanji") }}
 {{ char(name="墓", desc="grave", link="https://jisho.org/search/%E5%A2%93%20%23kanji") }}
@@ -747,7 +747,7 @@ Kanji logographic script of 2,136 characters adapted from Chinese.
 {{ char(name="恩", desc="grace", link="https://jisho.org/search/%E6%81%A9%20%23kanji") }}
 {{ char(name="情", desc="feelings", link="https://jisho.org/search/%E6%83%85%20%23kanji") }}
 {{ char(name="態", desc="condition", link="https://jisho.org/search/%E6%85%8B%20%23kanji") }}
-{{ char(name="慣", desc="accustomed", link="https://jisho.org/search/%E6%85%A3%20%23kanji") }}
+{{ char(name="慣", desc="used to", link="https://jisho.org/search/%E6%85%A3%20%23kanji") }}
 {{ char(name="承", desc="acquiesce", link="https://jisho.org/search/%E6%89%BF%20%23kanji") }}
 {{ char(name="技", desc="skill", link="https://jisho.org/search/%E6%8A%80%20%23kanji") }}
 {{ char(name="招", desc="beckon", link="https://jisho.org/search/%E6%8B%9B%20%23kanji") }}
@@ -758,7 +758,7 @@ Kanji logographic script of 2,136 characters adapted from Chinese.
 {{ char(name="損", desc="loss", link="https://jisho.org/search/%E6%90%8D%20%23kanji") }}
 {{ char(name="支", desc="support", link="https://jisho.org/search/%E6%94%AF%20%23kanji") }}
 {{ char(name="政", desc="politics", link="https://jisho.org/search/%E6%94%BF%20%23kanji") }}
-{{ char(name="故", desc="circumstances", link="https://jisho.org/search/%E6%95%85%20%23kanji") }}
+{{ char(name="故", desc="cause", link="https://jisho.org/search/%E6%95%85%20%23kanji") }}
 {{ char(name="敵", desc="enemy", link="https://jisho.org/search/%E6%95%B5%20%23kanji") }}
 {{ char(name="断", desc="decline", link="https://jisho.org/search/%E6%96%AD%20%23kanji") }}
 {{ char(name="旧", desc="old", link="https://jisho.org/search/%E6%97%A7%20%23kanji") }}
@@ -766,7 +766,7 @@ Kanji logographic script of 2,136 characters adapted from Chinese.
 {{ char(name="暴", desc="outburst", link="https://jisho.org/search/%E6%9A%B4%20%23kanji") }}
 {{ char(name="条", desc="clause", link="https://jisho.org/search/%E6%9D%A1%20%23kanji") }}
 {{ char(name="枝", desc="branch", link="https://jisho.org/search/%E6%9E%9D%20%23kanji") }}
-{{ char(name="査", desc="investigate", link="https://jisho.org/search/%E6%9F%BB%20%23kanji") }}
+{{ char(name="査", desc="inspect", link="https://jisho.org/search/%E6%9F%BB%20%23kanji") }}
 {{ char(name="格", desc="status", link="https://jisho.org/search/%E6%A0%BC%20%23kanji") }}
 {{ char(name="桜", desc="cherry", link="https://jisho.org/search/%E6%A1%9C%20%23kanji") }}
 {{ char(name="検", desc="examine", link="https://jisho.org/search/%E6%A4%9C%20%23kanji") }}
@@ -791,23 +791,23 @@ Kanji logographic script of 2,136 characters adapted from Chinese.
 {{ char(name="率", desc="rate", link="https://jisho.org/search/%E7%8E%87%20%23kanji") }}
 {{ char(name="現", desc="appear", link="https://jisho.org/search/%E7%8F%BE%20%23kanji") }}
 {{ char(name="留", desc="detain", link="https://jisho.org/search/%E7%95%99%20%23kanji") }}
-{{ char(name="略", desc="abbreviation", link="https://jisho.org/search/%E7%95%A5%20%23kanji") }}
+{{ char(name="略", desc="gist", link="https://jisho.org/search/%E7%95%A5%20%23kanji") }}
 {{ char(name="益", desc="benefit", link="https://jisho.org/search/%E7%9B%8A%20%23kanji") }}
 {{ char(name="眼", desc="eyeball", link="https://jisho.org/search/%E7%9C%BC%20%23kanji") }}
 {{ char(name="破", desc="rend", link="https://jisho.org/search/%E7%A0%B4%20%23kanji") }}
 {{ char(name="確", desc="certain", link="https://jisho.org/search/%E7%A2%BA%20%23kanji") }}
 {{ char(name="示", desc="indicate", link="https://jisho.org/search/%E7%A4%BA%20%23kanji") }}
 {{ char(name="祖", desc="ancestor", link="https://jisho.org/search/%E7%A5%96%20%23kanji") }}
-{{ char(name="禁", desc="prohibition", link="https://jisho.org/search/%E7%A6%81%20%23kanji") }}
+{{ char(name="禁", desc="ban", link="https://jisho.org/search/%E7%A6%81%20%23kanji") }}
 {{ char(name="移", desc="shift", link="https://jisho.org/search/%E7%A7%BB%20%23kanji") }}
 {{ char(name="程", desc="extent", link="https://jisho.org/search/%E7%A8%8B%20%23kanji") }}
 {{ char(name="税", desc="tax", link="https://jisho.org/search/%E7%A8%8E%20%23kanji") }}
 {{ char(name="築", desc="fabricate", link="https://jisho.org/search/%E7%AF%89%20%23kanji") }}
 {{ char(name="精", desc="refined", link="https://jisho.org/search/%E7%B2%BE%20%23kanji") }}
-{{ char(name="素", desc="elementary", link="https://jisho.org/search/%E7%B4%A0%20%23kanji") }}
+{{ char(name="素", desc="basic", link="https://jisho.org/search/%E7%B4%A0%20%23kanji") }}
 {{ char(name="経", desc="manage", link="https://jisho.org/search/%E7%B5%8C%20%23kanji") }}
-{{ char(name="統", desc="relationship", link="https://jisho.org/search/%E7%B5%B1%20%23kanji") }}
-{{ char(name="絶", desc="discontinue", link="https://jisho.org/search/%E7%B5%B6%20%23kanji") }}
+{{ char(name="統", desc="relation", link="https://jisho.org/search/%E7%B5%B1%20%23kanji") }}
+{{ char(name="絶", desc="interrupt", link="https://jisho.org/search/%E7%B5%B6%20%23kanji") }}
 {{ char(name="綿", desc="cotton", link="https://jisho.org/search/%E7%B6%BF%20%23kanji") }}
 {{ char(name="総", desc="whole", link="https://jisho.org/search/%E7%B7%8F%20%23kanji") }}
 {{ char(name="編", desc="compile", link="https://jisho.org/search/%E7%B7%A8%20%23kanji") }}
@@ -815,17 +815,17 @@ Kanji logographic script of 2,136 characters adapted from Chinese.
 {{ char(name="織", desc="weave", link="https://jisho.org/search/%E7%B9%94%20%23kanji") }}
 {{ char(name="罪", desc="guilt", link="https://jisho.org/search/%E7%BD%AA%20%23kanji") }}
 {{ char(name="群", desc="flock", link="https://jisho.org/search/%E7%BE%A4%20%23kanji") }}
-{{ char(name="義", desc="righteousness", link="https://jisho.org/search/%E7%BE%A9%20%23kanji") }}
+{{ char(name="義", desc="morality", link="https://jisho.org/search/%E7%BE%A9%20%23kanji") }}
 {{ char(name="耕", desc="till", link="https://jisho.org/search/%E8%80%95%20%23kanji") }}
-{{ char(name="職", desc="employment", link="https://jisho.org/search/%E8%81%B7%20%23kanji") }}
-{{ char(name="肥", desc="fertilizer", link="https://jisho.org/search/%E8%82%A5%20%23kanji") }}
+{{ char(name="職", desc="job", link="https://jisho.org/search/%E8%81%B7%20%23kanji") }}
+{{ char(name="肥", desc="fertile", link="https://jisho.org/search/%E8%82%A5%20%23kanji") }}
 {{ char(name="能", desc="ability", link="https://jisho.org/search/%E8%83%BD%20%23kanji") }}
 {{ char(name="興", desc="entertain", link="https://jisho.org/search/%E8%88%88%20%23kanji") }}
 {{ char(name="舌", desc="tongue", link="https://jisho.org/search/%E8%88%8C%20%23kanji") }}
 {{ char(name="舎", desc="cottage", link="https://jisho.org/search/%E8%88%8E%20%23kanji") }}
 {{ char(name="術", desc="art", link="https://jisho.org/search/%E8%A1%93%20%23kanji") }}
 {{ char(name="衛", desc="defense", link="https://jisho.org/search/%E8%A1%9B%20%23kanji") }}
-{{ char(name="製", desc="manufacture", link="https://jisho.org/search/%E8%A3%BD%20%23kanji") }}
+{{ char(name="製", desc="make", link="https://jisho.org/search/%E8%A3%BD%20%23kanji") }}
 {{ char(name="複", desc="duplicate", link="https://jisho.org/search/%E8%A4%87%20%23kanji") }}
 {{ char(name="規", desc="rule", link="https://jisho.org/search/%E8%A6%8F%20%23kanji") }}
 {{ char(name="解", desc="untie", link="https://jisho.org/search/%E8%A7%A3%20%23kanji") }}
@@ -835,7 +835,7 @@ Kanji logographic script of 2,136 characters adapted from Chinese.
 {{ char(name="評", desc="evaluate", link="https://jisho.org/search/%E8%A9%95%20%23kanji") }}
 {{ char(name="講", desc="lecture", link="https://jisho.org/search/%E8%AC%9B%20%23kanji") }}
 {{ char(name="謝", desc="apologize", link="https://jisho.org/search/%E8%AC%9D%20%23kanji") }}
-{{ char(name="識", desc="discriminating", link="https://jisho.org/search/%E8%AD%98%20%23kanji") }}
+{{ char(name="識", desc="know", link="https://jisho.org/search/%E8%AD%98%20%23kanji") }}
 {{ char(name="護", desc="safeguard", link="https://jisho.org/search/%E8%AD%B7%20%23kanji") }}
 {{ char(name="豊", desc="bountiful", link="https://jisho.org/search/%E8%B1%8A%20%23kanji") }}
 {{ char(name="財", desc="wealth", link="https://jisho.org/search/%E8%B2%A1%20%23kanji") }}
@@ -843,7 +843,7 @@ Kanji logographic script of 2,136 characters adapted from Chinese.
 {{ char(name="責", desc="blame", link="https://jisho.org/search/%E8%B2%AC%20%23kanji") }}
 {{ char(name="貸", desc="lend", link="https://jisho.org/search/%E8%B2%B8%20%23kanji") }}
 {{ char(name="貿", desc="trade", link="https://jisho.org/search/%E8%B2%BF%20%23kanji") }}
-{{ char(name="賀", desc="congratulations", link="https://jisho.org/search/%E8%B3%80%20%23kanji") }}
+{{ char(name="賀", desc="joy", link="https://jisho.org/search/%E8%B3%80%20%23kanji") }}
 {{ char(name="資", desc="resources", link="https://jisho.org/search/%E8%B3%87%20%23kanji") }}
 {{ char(name="賛", desc="approve", link="https://jisho.org/search/%E8%B3%9B%20%23kanji") }}
 {{ char(name="質", desc="quality", link="https://jisho.org/search/%E8%B3%AA%20%23kanji") }}
@@ -861,14 +861,14 @@ Kanji logographic script of 2,136 characters adapted from Chinese.
 {{ char(name="銭", desc="coin", link="https://jisho.org/search/%E9%8A%AD%20%23kanji") }}
 {{ char(name="防", desc="prevent", link="https://jisho.org/search/%E9%98%B2%20%23kanji") }}
 {{ char(name="限", desc="limit", link="https://jisho.org/search/%E9%99%90%20%23kanji") }}
-{{ char(name="険", desc="precipitous", link="https://jisho.org/search/%E9%99%BA%20%23kanji") }}
+{{ char(name="険", desc="steep", link="https://jisho.org/search/%E9%99%BA%20%23kanji") }}
 {{ char(name="際", desc="occasion", link="https://jisho.org/search/%E9%9A%9B%20%23kanji") }}
-{{ char(name="雑", desc="miscellaneous", link="https://jisho.org/search/%E9%9B%91%20%23kanji") }}
+{{ char(name="雑", desc="messy", link="https://jisho.org/search/%E9%9B%91%20%23kanji") }}
 {{ char(name="非", desc="negative", link="https://jisho.org/search/%E9%9D%9E%20%23kanji") }}
 {{ char(name="預", desc="deposit", link="https://jisho.org/search/%E9%A0%90%20%23kanji") }}
 {{ char(name="領", desc="territory", link="https://jisho.org/search/%E9%A0%98%20%23kanji") }}
 {{ char(name="額", desc="amount", link="https://jisho.org/search/%E9%A1%8D%20%23kanji") }}
-{{ char(name="飼", desc="domesticate", link="https://jisho.org/search/%E9%A3%BC%20%23kanji") }}
+{{ char(name="飼", desc="raise", link="https://jisho.org/search/%E9%A3%BC%20%23kanji") }}
 {{ kanji_end() }}
 
 {{ link(id="Grade 6", desc="181 characters taught in sixth grade") }}
