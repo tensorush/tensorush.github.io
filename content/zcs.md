@@ -42,4 +42,4 @@ For imports, aliases, and namespaces first list std, then modules, then files.
 | Init/deinit methods | Ascending by length  |      camelCase       |
 |    Other methods    | Descending by length |      camelCase       |
 |  Utility functions  | Descending by length |      camelCase       |
-|   Test functions    |    Original order    |      snake_case      |
+|  Test declarations  |    Original order    |      snake_case      |

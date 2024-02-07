@@ -15,14 +15,7 @@ Minimal Zig code review snippets.
 
 ```zig
 const item: MyItem = .{}; // Nope
-const item = MyItem.{};   // Dope
-```
-
-- ## Make everything constant by default
-
-```zig
-var item = MyItem{};   // Nope
-const item = MyItem{}; // Dope
+const item = MyItem{};    // Dope
 ```
 
 - ## Use type names instead of type casts
@@ -41,7 +34,7 @@ const testing = std.testing;
 try testing.expect(false);
 
 // Dope
-try sdt.testing.expect(true);
+try std.testing.expect(true);
 ```
 
 - ## Provide a slice when slice is expected
@@ -102,7 +95,7 @@ const pet = Pet{ .cat = .{ .siberian = {} } }; // Nope
 const pet = Pet{ .cat = .siberian }; // Dope
 ```
 
-- ## Specify the tested entity's name as the test function's name
+- ## Specify the tested entity's name as the test declaration's name
 
 ```zig
 test "MyItem" {...} // Nope
@@ -119,8 +112,8 @@ const item_tag_str = @tagName(item_tag); // Dope
 - ## List the expected value before the actual if the type can be inferred
 
 ```zig
-try sdt.testing.expectEqual(getItem(), exp_item); // Nope
-try sdt.testing.expectEqual(exp_item, getItem()); // Dope
+try std.testing.expectEqual(getItem(), exp_item); // Nope
+try std.testing.expectEqual(exp_item, getItem()); // Dope
 ```
 
 - ## Defer resource deinitializations right after respective initializations

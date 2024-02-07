@@ -33,9 +33,9 @@ Fluent in English and Russian, meaning I've got no trouble thinking in either on
 
 Currently, [learning Japanese](@/ljk.md) because it is:
 
-- ## Exotic: doesn't belong to the [Indo-European family](https://en.wikipedia.org/wiki/Indo-European_languages), which I'm already familiar with
-
 - ## Exciting: serves as basis to [one of the most ancient, unique, and prolific human cultures](https://en.wikipedia.org/wiki/Culture_of_Japan)
+
+- ## Esoteric: remains unpopular with foreigners, [while ranking high by number of native speakers](https://en.wikipedia.org/wiki/List_of_languages_by_total_number_of_speakers#Ethnologue_(2023))
 
 - ## Efficient: devoid of many redundancies, such as, [grammatical number, gender, or article aspect](https://en.wikipedia.org/wiki/Japanese_language#Inflection_and_conjugation)
 
