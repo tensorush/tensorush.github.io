@@ -22,6 +22,10 @@ Snapshot collection of 284 [cheer](@/cns.md) stunting skills (36 still missing).
 {{ image(path="bjs.webp", desc="Leonardo Borjas Jr.", link="https://secure.givelively.org/donate/usa-federation-for-sport-cheering/usa-cheer-premier-coed-12f0ae47-3482-4607-904c-bdd2ec1961e9/leonardo-borjas-jr") }}
 {{ gallery_end() }}
 
+# **Check out Dan's Patreon for more stunting tutorials and vlogs:**
+
+{{ center_image(path="hbd.webp", desc="Cool Little Easter Egg: Actual Full Cover Image of Dan's Channel", link="https://www.patreon.com/danielbuyeske") }}
+
 # **Massive props to:**
 
 {{ gallery_start() }}
@@ -76,10 +80,6 @@ Snapshot collection of 284 [cheer](@/cns.md) stunting skills (36 still missing).
 {{ image(path="mnt.webp", desc="Jeffrey 'Dem Thighs!' Maisonet", link="https://www.instagram.com/jeffrey.kdm") }}
 {{ image(path="rsn.webp", desc="Ryan 'Hard Rock' Robertson", link="https://www.youtube.com/@ryanrobertson8889") }}
 {{ gallery_end() }}
-
-# **Check out Dan's Patreon for more stunting tutorials and vlogs:**
-
-{{ center_image(path="hbd.webp", desc="Cool Little Easter Egg: Actual Full Cover Image of Dan's Channel", link="https://www.patreon.com/danielbuyeske") }}
 
 # **Note to flyers:**
 

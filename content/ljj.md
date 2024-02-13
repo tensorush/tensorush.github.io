@@ -1091,9 +1091,9 @@ Kanji logographic script of 2,136 characters adapted from Chinese.
 {{ char(name="偉", desc="admirable", link="https://jisho.org/search/%E5%81%89%20%23kanji") }}
 {{ char(name="違", desc="differ", link="https://jisho.org/search/%E9%81%95%20%23kanji") }}
 {{ char(name="維", desc="fiber", link="https://jisho.org/search/%E7%B6%AD%20%23kanji") }}
-{{ char(name="慰", desc="consolation", link="https://jisho.org/search/%E6%85%B0%20%23kanji") }}
+{{ char(name="慰", desc="console", link="https://jisho.org/search/%E6%85%B0%20%23kanji") }}
 {{ char(name="緯", desc="horizontal", link="https://jisho.org/search/%E7%B7%AF%20%23kanji") }}
-{{ char(name="壱", desc="one (in documents)", link="https://jisho.org/search/%E5%A3%B1%20%23kanji") }}
+{{ char(name="壱", desc="one", link="https://jisho.org/search/%E5%A3%B1%20%23kanji") }}
 {{ char(name="逸", desc="deviate", link="https://jisho.org/search/%E9%80%B8%20%23kanji") }}
 {{ char(name="芋", desc="potato", link="https://jisho.org/search/%E8%8A%8B%20%23kanji") }}
 {{ char(name="姻", desc="matrimony", link="https://jisho.org/search/%E5%A7%BB%20%23kanji") }}
