@@ -63,7 +63,7 @@ Hard to give any concrete guidance here apart from: when you fall in love there 
 
 - ## **Learn to Loosen the Reins**
 
-Practice the art of letting go. Let the chance play into your game. Be comfortable with it.
+Practice the art of letting go. Let chance play into your game. Be comfortable with it.
 
 <!-- Justice vs Death -->
 
