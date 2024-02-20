@@ -7,7 +7,7 @@ types = ["gallery"]
 tags = ["favorite"]
 +++
 
-Modern programming languages I'm hyped about.
+Modern programming language toolchains I'm hyped about.
 
 <!-- more -->
 
