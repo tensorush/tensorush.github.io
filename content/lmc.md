@@ -150,7 +150,7 @@ Zig codebase graph generator that emits a [Mermaid class diagram](https://mermai
 [![CI][wazzup-ci-shd]][wazzup-ci-url]
 [![LC][wazzup-lc-shd]][wazzup-lc-url]
 
-Minimal command-line chat application using [libxev](https://github.com/mitchellh/libxev).
+Minimal command-line chat example using [libxev](https://github.com/mitchellh/libxev).
 
 - ## 🦎 🦊 githunt
 
