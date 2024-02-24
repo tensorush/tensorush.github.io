@@ -45,6 +45,15 @@ Zig port of the [intrusive wait-free MPSC queue](https://www.1024cores.net/home/
 
 Zig implementation of the [SIEVE cache eviction algorithm](https://cachemon.github.io/SIEVE-website/) created by [@yazhuo](https://github.com/yazhuo) and [@1a1a11a](https://github.com/1a1a11a).
 
+- ## 🦎 🗂️ zig indexlist
+
+[![ST][zig-indexlist-st-shd]][zig-indexlist-st-url]
+[![CI][zig-indexlist-ci-shd]][zig-indexlist-ci-url]
+[![CC][zig-indexlist-cc-shd]][zig-indexlist-cc-url]
+[![LC][zig-indexlist-lc-shd]][zig-indexlist-lc-url]
+
+Zig port of the [doubly-linked list backed by an array](https://github.com/steveklabnik/indexlist) created by [Steve Klabnik](https://github.com/steveklabnik).
+
 - ## 🦎 🛩️ flightplan
 
 [![ST][flightplan-st-shd]][flightplan-st-url]
@@ -426,6 +435,17 @@ My workstation [dotfiles](https://en.wiktionary.org/wiki/dotfile).
 [zig-sieve-lc-shd]: https://img.shields.io/github/license/tensorush/zig-sieve.svg?style=for-the-badge&labelColor=black
 [zig-sieve-lc-url]: https://github.com/tensorush/zig-sieve/blob/main/LICENSE.md
 
+<!-- zig indexlist -->
+
+[zig-indexlist-st-shd]: https://img.shields.io/badge/maintaining-353935?style=for-the-badge
+[zig-indexlist-st-url]: https://github.com/tensorush/zig-indexlist
+[zig-indexlist-ci-shd]: https://img.shields.io/github/actions/workflow/status/tensorush/zig-indexlist/ci.yaml?branch=main&style=for-the-badge&logo=github&label=CI&labelColor=black
+[zig-indexlist-ci-url]: https://github.com/tensorush/zig-indexlist/blob/main/.github/workflows/ci.yaml
+[zig-indexlist-cc-shd]: https://img.shields.io/codecov/c/github/tensorush/zig-indexlist?style=for-the-badge&labelColor=black
+[zig-indexlist-cc-url]: https://app.codecov.io/gh/tensorush/zig-indexlist
+[zig-indexlist-lc-shd]: https://img.shields.io/github/license/tensorush/zig-indexlist.svg?style=for-the-badge&labelColor=black
+[zig-indexlist-lc-url]: https://github.com/tensorush/zig-indexlist/blob/main/LICENSE.md
+
 <!-- zig donut -->
 
 [zig-donut-st-shd]: https://img.shields.io/badge/maintaining-353935?style=for-the-badge
@@ -481,7 +501,7 @@ My workstation [dotfiles](https://en.wiktionary.org/wiki/dotfile).
 [loog-st-url]: https://github.com/tensorush/loog
 [loog-ci-shd]: https://img.shields.io/github/actions/workflow/status/tensorush/loog/ci.yaml?branch=main&style=for-the-badge&logo=github&label=CI&labelColor=black
 [loog-ci-url]: https://github.com/tensorush/loog/blob/main/.github/workflows/ci.yaml
-[loog-lc-shd]: https://img.shields.io/github/license/tensorush/loog.svg?style=for-the-badge&labelColor=black&kill_cache=1
+[loog-lc-shd]: https://img.shields.io/github/license/tensorush/loog.svg?style=for-the-badge&labelColor=black
 [loog-lc-url]: https://github.com/tensorush/loog/blob/main/LICENSE.md
 
 <!-- githunt -->
