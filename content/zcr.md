@@ -95,6 +95,30 @@ const pet = Pet{ .cat = .{ .siberian = {} } }; // Nope
 const pet = Pet{ .cat = .siberian }; // Dope
 ```
 
+- ## Always use curly braces for loops except for defer blocks
+
+```zig
+// Nope
+for (strs) |*str| str.* = try allocator.alloc(u8, str_len);
+// Dope
+defer {
+    for (strs) |str| allocator.free(str);
+    allocator.free(strs);
+}
+```
+
+- ## Always use curly braces for conditionals except for assignments
+
+```zig
+// Nope
+if (a > b)
+    a = b;
+else
+    a = 0;
+// Dope
+a = if (a > b) b else 0;
+```
+
 - ## Specify the tested entity's name as the test declaration's name
 
 ```zig
