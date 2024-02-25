@@ -443,7 +443,7 @@ My workstation [dotfiles](https://en.wiktionary.org/wiki/dotfile).
 [zig-indexlist-st-url]: https://github.com/tensorush/zig-indexlist
 [zig-indexlist-ci-shd]: https://img.shields.io/github/actions/workflow/status/tensorush/zig-indexlist/ci.yaml?branch=main&style=for-the-badge&logo=github&label=CI&labelColor=black
 [zig-indexlist-ci-url]: https://github.com/tensorush/zig-indexlist/blob/main/.github/workflows/ci.yaml
-[zig-sieve-cd-shd]: https://img.shields.io/github/actions/workflow/status/tensorush/zig-indexlist/cd.yaml?branch=main&style=for-the-badge&logo=github&label=CD&labelColor=black
+[zig-indexlist-cd-shd]: https://img.shields.io/github/actions/workflow/status/tensorush/zig-indexlist/cd.yaml?branch=main&style=for-the-badge&logo=github&label=CD&labelColor=black
 [zig-indexlist-cd-url]: https://github.com/tensorush/zig-indexlist/blob/main/.github/workflows/cd.yaml
 [zig-indexlist-dc-shd]: https://img.shields.io/badge/click-F6A516?style=for-the-badge&logo=zig&logoColor=F6A516&label=docs&labelColor=black
 [zig-indexlist-dc-url]: https://tensorush.github.io/zig-indexlist
