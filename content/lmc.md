@@ -49,6 +49,8 @@ Zig implementation of the [SIEVE cache eviction algorithm](https://cachemon.gith
 
 [![ST][zig-indexlist-st-shd]][zig-indexlist-st-url]
 [![CI][zig-indexlist-ci-shd]][zig-indexlist-ci-url]
+[![CD][zig-indexlist-cd-shd]][zig-indexlist-cd-url]
+[![DC][zig-indexlist-dc-shd]][zig-indexlist-dc-url]
 [![CC][zig-indexlist-cc-shd]][zig-indexlist-cc-url]
 [![LC][zig-indexlist-lc-shd]][zig-indexlist-lc-url]
 
@@ -441,6 +443,10 @@ My workstation [dotfiles](https://en.wiktionary.org/wiki/dotfile).
 [zig-indexlist-st-url]: https://github.com/tensorush/zig-indexlist
 [zig-indexlist-ci-shd]: https://img.shields.io/github/actions/workflow/status/tensorush/zig-indexlist/ci.yaml?branch=main&style=for-the-badge&logo=github&label=CI&labelColor=black
 [zig-indexlist-ci-url]: https://github.com/tensorush/zig-indexlist/blob/main/.github/workflows/ci.yaml
+[zig-sieve-cd-shd]: https://img.shields.io/github/actions/workflow/status/tensorush/zig-indexlist/cd.yaml?branch=main&style=for-the-badge&logo=github&label=CD&labelColor=black
+[zig-indexlist-cd-url]: https://github.com/tensorush/zig-indexlist/blob/main/.github/workflows/cd.yaml
+[zig-indexlist-dc-shd]: https://img.shields.io/badge/click-F6A516?style=for-the-badge&logo=zig&logoColor=F6A516&label=docs&labelColor=black
+[zig-indexlist-dc-url]: https://tensorush.github.io/zig-indexlist
 [zig-indexlist-cc-shd]: https://img.shields.io/codecov/c/github/tensorush/zig-indexlist?style=for-the-badge&labelColor=black
 [zig-indexlist-cc-url]: https://app.codecov.io/gh/tensorush/zig-indexlist
 [zig-indexlist-lc-shd]: https://img.shields.io/github/license/tensorush/zig-indexlist.svg?style=for-the-badge&labelColor=black
