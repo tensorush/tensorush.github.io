@@ -111,6 +111,16 @@ Zig implementation of the [Base32 encoding scheme](https://www.crockford.com/bas
 
 Zig port of the [Komihash hash function](https://github.com/avaneev/komihash) created by [@avaneev](https://github.com/avaneev).
 
+- ## 🦎 #️⃣ zig mementohash
+
+[![ST][zig-mementohash-st-shd]][zig-mementohash-st-url]
+[![CI][zig-mementohash-ci-shd]][zig-mementohash-ci-url]
+[![CD][zig-mementohash-cd-shd]][zig-mementohash-cd-url]
+[![DC][zig-mementohash-dc-shd]][zig-mementohash-dc-url]
+[![LC][zig-mementohash-lc-shd]][zig-mementohash-lc-url]
+
+Zig port of the [MementoHash consistent hash algorithm](https://github.com/slashdotted/cpp-consistent-hashing-algorithms) created by [Massimo Coluzzi](https://github.com/massimo-coluzzi-supsi) and [Amos Brocco](https://github.com/slashdotted).
+
 - ## 🦎 🤚 zig backoff
 
 [![ST][zig-backoff-st-shd]][zig-backoff-st-url]
@@ -343,6 +353,19 @@ My workstation [dotfiles](https://en.wiktionary.org/wiki/dotfile).
 [zig-komihash-cc-url]: https://app.codecov.io/gh/tensorush/zig-komihash
 [zig-komihash-lc-shd]: https://img.shields.io/github/license/tensorush/zig-komihash.svg?style=for-the-badge&labelColor=black
 [zig-komihash-lc-url]: https://github.com/tensorush/zig-komihash/blob/main/LICENSE.md
+
+<!-- zig mementohash -->
+
+[zig-mementohash-st-shd]: https://img.shields.io/badge/maintaining-353935?style=for-the-badge
+[zig-mementohash-st-url]: https://github.com/tensorush/zig-mementohash
+[zig-mementohash-ci-shd]: https://img.shields.io/github/actions/workflow/status/tensorush/zig-mementohash/ci.yaml?branch=main&style=for-the-badge&logo=github&label=CI&labelColor=black
+[zig-mementohash-ci-url]: https://github.com/tensorush/zig-mementohash/blob/main/.github/workflows/ci.yaml
+[zig-mementohash-cd-shd]: https://img.shields.io/github/actions/workflow/status/tensorush/zig-mementohash/cd.yaml?branch=main&style=for-the-badge&logo=github&label=CD&labelColor=black
+[zig-mementohash-cd-url]: https://github.com/tensorush/zig-mementohash/blob/main/.github/workflows/cd.yaml
+[zig-mementohash-dc-shd]: https://img.shields.io/badge/click-F6A516?style=for-the-badge&logo=zig&logoColor=F6A516&label=docs&labelColor=black
+[zig-mementohash-dc-url]: https://tensorush.github.io/zig-mementohash
+[zig-mementohash-lc-shd]: https://img.shields.io/github/license/tensorush/zig-mementohash.svg?style=for-the-badge&labelColor=black
+[zig-mementohash-lc-url]: https://github.com/tensorush/zig-mementohash/blob/main/LICENSE.md
 
 <!-- zig base32 -->
 
