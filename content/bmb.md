@@ -15,13 +15,7 @@ Brief summary of my background.
 
 Check out my [CV](https://tensorush.github.io/cv/en.pdf) for the relevant academics, jobs, projects, and socials.
 
-Also, subscribe to my blog by pasting [its Atom feed link](https://tensorush.github.io/atom.xml) into your [news feed reader](https://en.wikipedia.org/wiki/News_aggregator) of choice. Personally, I use [NetNewsWire](https://netnewswire.com) on macOS/iOS.
-
-# **Sports**
-
-First, I did swimming for 4 years, played tennis for another 4, then stuck with weight-lifting for 8 more. For the past 4 years I've been mixing cardio, stretching, and calisthenics.
-
-Lately, I got into [cheer](@/cns.md), too. Just [popping around my old dumbbell](https://www.youtube.com/@tensorush) for now and dreaming of stunting with [these elite folks](@/csg.md)!
+Also, subscribe to my blog by pasting [its Atom feed link](https://tensorush.github.io/atom.xml) into your [news feed reader](https://en.wikipedia.org/wiki/News_aggregator) of choice.
 
 # **Handle**
 

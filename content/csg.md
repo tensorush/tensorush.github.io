@@ -436,7 +436,7 @@ Snapshot collection of 284 [cheer](@/cns.md) stunting skills (36 still missing).
 {{ image(path="dbt.webp", desc="Double Tap", link="https://youtu.be/UnSqDsi_6lE?t=156") }}
 {{ image(path="dbs.webp", desc="Double Toss", link="https://youtu.be/9LaHx5fUn6s?t=488") }}
 {{ image(path="dbp.webp", desc="Double Press", link="https://youtu.be/79vJ3IFdDTw?t=650") }}
-{{ image(path="spt.webp", desc="Spotter Toss", link="https://youtu.be/UnSqDsi_6lE?t=657") }}
+{{ image(path="spt.webp", desc="Base Slayer", link="https://youtu.be/UnSqDsi_6lE?t=657") }}
 {{ image(path="tfs.webp", desc="Toss Fists", link="https://youtu.be/7HU_bauP2lI?t=617") }}
 {{ image(path="bts.webp", desc="Blind Toss", link="https://youtu.be/u1x7tgvlO3M?t=479") }}
 {{ image(path="tbd.webp", desc="Backward Toss", link="https://youtu.be/8NjlORymE2k?t=1024") }}
