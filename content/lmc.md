@@ -45,6 +45,17 @@ Zig port of the [intrusive wait-free MPSC queue](https://www.1024cores.net/home/
 
 Zig implementation of the [SIEVE cache eviction algorithm](https://cachemon.github.io/SIEVE-website/) created by [@yazhuo](https://github.com/yazhuo) and [@1a1a11a](https://github.com/1a1a11a).
 
+- ## 🦎 💰 zig cookie
+
+[![ST][zig-cookie-st-shd]][zig-cookie-st-url]
+[![CI][zig-cookie-ci-shd]][zig-cookie-ci-url]
+[![CD][zig-cookie-cd-shd]][zig-cookie-cd-url]
+[![DC][zig-cookie-dc-shd]][zig-cookie-dc-url]
+[![CC][zig-cookie-cc-shd]][zig-cookie-cc-url]
+[![LC][zig-cookie-lc-shd]][zig-cookie-lc-url]
+
+### Zig implementation of the [HTTP cookie specification](https://datatracker.ietf.org/doc/html/rfc6265).
+
 - ## 🦎 🗂️ zig indexlist
 
 [![ST][zig-indexlist-st-shd]][zig-indexlist-st-url]
@@ -459,6 +470,21 @@ My workstation [dotfiles](https://en.wiktionary.org/wiki/dotfile).
 [zig-sieve-cc-url]: https://app.codecov.io/gh/tensorush/zig-sieve
 [zig-sieve-lc-shd]: https://img.shields.io/github/license/tensorush/zig-sieve.svg?style=for-the-badge&labelColor=black
 [zig-sieve-lc-url]: https://github.com/tensorush/zig-sieve/blob/main/LICENSE.md
+
+<!-- zig cookie -->
+
+[zig-cookie-st-shd]: https://img.shields.io/badge/maintaining-353935?style=for-the-badge
+[zig-cookie-st-url]: https://github.com/tensorush/zig-cookie
+[zig-cookie-ci-shd]: https://img.shields.io/github/actions/workflow/status/tensorush/zig-cookie/ci.yaml?branch=main&style=for-the-badge&logo=github&label=CI&labelColor=black
+[zig-cookie-ci-url]: https://github.com/tensorush/zig-cookie/blob/main/.github/workflows/ci.yaml
+[zig-cookie-cd-shd]: https://img.shields.io/github/actions/workflow/status/tensorush/zig-cookie/cd.yaml?branch=main&style=for-the-badge&logo=github&label=CD&labelColor=black
+[zig-cookie-cd-url]: https://github.com/tensorush/zig-cookie/blob/main/.github/workflows/cd.yaml
+[zig-cookie-dc-shd]: https://img.shields.io/badge/click-F6A516?style=for-the-badge&logo=zig&logoColor=F6A516&label=docs&labelColor=black
+[zig-cookie-dc-url]: https://tensorush.github.io/zig-cookie
+[zig-cookie-cc-shd]: https://img.shields.io/codecov/c/github/tensorush/zig-cookie?style=for-the-badge&labelColor=black
+[zig-cookie-cc-url]: https://app.codecov.io/gh/tensorush/zig-cookie
+[zig-cookie-lc-shd]: https://img.shields.io/github/license/tensorush/zig-cookie.svg?style=for-the-badge&labelColor=black
+[zig-cookie-lc-url]: https://github.com/tensorush/zig-cookie/blob/main/LICENSE.md
 
 <!-- zig indexlist -->
 
