@@ -46,3 +46,5 @@ Here's the timeline of my journey exploring formal languages:
 - ## **2022**: [C](https://en.cppreference.com/w/c/language) -> [x86 Assembly](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html) -> [Forth](https://www.forthlang.org/) -> [Swift](https://www.swift.org/)
 
 - ## **2023**: [Go](https://go.dev/) -> [Typst](https://typst.app/) -> [Wasm Interface Type](https://component-model.bytecodealliance.org/design/wit.html) -> [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS) -> [Mojo](https://www.modular.com/mojo)
+
+- ## **2024**: [Vanilla JS](http://vanilla-js.com/)
