@@ -45,7 +45,7 @@ Zig port of the [intrusive wait-free MPSC queue](https://www.1024cores.net/home/
 
 Zig implementation of the [SIEVE cache eviction algorithm](https://cachemon.github.io/SIEVE-website/) created by [@yazhuo](https://github.com/yazhuo) and [@1a1a11a](https://github.com/1a1a11a).
 
-- ## 🦎 💰 zig cookie
+- ## 🦎 🍪 zig cookie
 
 [![ST][zig-cookie-st-shd]][zig-cookie-st-url]
 [![CI][zig-cookie-ci-shd]][zig-cookie-ci-url]
