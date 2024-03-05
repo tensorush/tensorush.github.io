@@ -54,7 +54,7 @@ Zig implementation of the [SIEVE cache eviction algorithm](https://cachemon.gith
 [![CC][zig-cookie-cc-shd]][zig-cookie-cc-url]
 [![LC][zig-cookie-lc-shd]][zig-cookie-lc-url]
 
-### Zig implementation of the [HTTP cookie specification](https://datatracker.ietf.org/doc/html/rfc6265).
+Zig implementation of the [HTTP cookie specification](https://datatracker.ietf.org/doc/html/rfc6265).
 
 - ## 🦎 🗂️ zig indexlist
 
