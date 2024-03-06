@@ -176,6 +176,14 @@ Zig build of the [LuaJIT repo](https://github.com/LuaJIT/LuaJIT) created by [@Mi
 
 Zig codebase graph generator that emits a [Mermaid class diagram](https://mermaid.js.org/syntax/classDiagram.html).
 
+- ## 🦎 ⭐ liza
+
+[![ST][liza-st-shd]][liza-st-url]
+[![CI][liza-ci-shd]][liza-ci-url]
+[![LC][liza-lc-shd]][liza-lc-url]
+
+Zig codebase initializer.
+
 - ## 🦎 🎤 wazzup
 
 [![ST][wazzup-st-shd]][wazzup-st-url]
@@ -340,6 +348,15 @@ My workstation [dotfiles](https://en.wiktionary.org/wiki/dotfile).
 [flightplan-cc-url]: https://app.codecov.io/gh/tensorush/flightplan
 [flightplan-lc-shd]: https://img.shields.io/github/license/tensorush/flightplan.svg?style=for-the-badge&labelColor=black
 [flightplan-lc-url]: https://github.com/tensorush/flightplan/blob/main/LICENSE.md
+
+<!-- liza -->
+
+[liza-st-shd]: https://img.shields.io/badge/maintaining-353935?style=for-the-badge
+[liza-st-url]: https://github.com/tensorush/liza
+[liza-ci-shd]: https://img.shields.io/github/actions/workflow/status/tensorush/liza/ci.yaml?branch=main&style=for-the-badge&logo=github&label=CI&labelColor=black
+[liza-ci-url]: https://github.com/tensorush/liza/blob/main/.github/workflows/ci.yaml
+[liza-lc-shd]: https://img.shields.io/github/license/tensorush/liza.svg?style=for-the-badge&labelColor=black
+[liza-lc-url]: https://github.com/tensorush/liza/blob/main/LICENSE.md
 
 <!-- wazzup -->
 
