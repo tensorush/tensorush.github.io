@@ -15,7 +15,7 @@ Brief summary of my background.
 
 Check out my [CV](https://tensorush.github.io/cv/en.pdf) for the relevant academics, jobs, projects, and socials.
 
-Also, subscribe to my blog by pasting [its Atom feed link](https://tensorush.github.io/atom.xml) into your [news feed reader](https://en.wikipedia.org/wiki/News_aggregator) of choice.
+Subscribe to my blog by pasting [its Atom feed link](https://tensorush.github.io/atom.xml) into your [news feed reader](https://en.wikipedia.org/wiki/News_aggregator) of choice.
 
 # **Handle**
 
@@ -35,7 +35,7 @@ Currently, [learning Japanese](@/ljk.md) because it is:
 
 # **Formal Languages**
 
-Here's the timeline of my journey exploring formal languages:
+Here's the timeline of my journey exploring programming, typesetting, and markup languages:
 
 - ## **2019**: [R](https://www.r-project.org/) -> [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 
