@@ -184,6 +184,14 @@ Zig codebase graph generator that emits a [Mermaid class diagram](https://mermai
 
 Zig codebase initializer.
 
+- ## 🦎 💥 sandblast
+
+[![ST][sandblast-st-shd]][sandblast-st-url]
+[![CI][sandblast-ci-shd]][sandblast-ci-url]
+[![LC][sandblast-lc-shd]][sandblast-lc-url]
+
+Rust codebase sandblasting tool.
+
 - ## 🦎 🎤 wazzup
 
 [![ST][wazzup-st-shd]][wazzup-st-url]
@@ -357,6 +365,15 @@ My workstation [dotfiles](https://en.wiktionary.org/wiki/dotfile).
 [liza-ci-url]: https://github.com/tensorush/liza/blob/main/.github/workflows/ci.yaml
 [liza-lc-shd]: https://img.shields.io/github/license/tensorush/liza.svg?style=for-the-badge&labelColor=black
 [liza-lc-url]: https://github.com/tensorush/liza/blob/main/LICENSE.md
+
+<!-- sandblast -->
+
+[sandblast-st-shd]: https://img.shields.io/badge/developing-FFDEAD?style=for-the-badge
+[sandblast-st-url]: https://github.com/tensorush/sandblast
+[sandblast-ci-shd]: https://img.shields.io/github/actions/workflow/status/tensorush/sandblast/ci.yaml?branch=main&style=for-the-badge&logo=github&label=CI&labelColor=black
+[sandblast-ci-url]: https://github.com/tensorush/sandblast/blob/main/.github/workflows/ci.yaml
+[sandblast-lc-shd]: https://img.shields.io/github/license/tensorush/sandblast.svg?style=for-the-badge&labelColor=black
+[sandblast-lc-url]: https://github.com/tensorush/sandblast/blob/main/LICENSE.md
 
 <!-- wazzup -->
 
