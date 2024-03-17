@@ -368,7 +368,7 @@ My workstation [dotfiles](https://en.wiktionary.org/wiki/dotfile).
 
 <!-- sandblast -->
 
-[sandblast-st-shd]: https://img.shields.io/badge/developing-FFDEAD?style=for-the-badge
+[sandblast-st-shd]: https://img.shields.io/badge/maintaining-353935?style=for-the-badge
 [sandblast-st-url]: https://github.com/tensorush/sandblast
 [sandblast-ci-shd]: https://img.shields.io/github/actions/workflow/status/tensorush/sandblast/ci.yaml?branch=main&style=for-the-badge&logo=github&label=CI&labelColor=black
 [sandblast-ci-url]: https://github.com/tensorush/sandblast/blob/main/.github/workflows/ci.yaml
