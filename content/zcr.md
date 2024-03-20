@@ -187,6 +187,30 @@ fn Item(comptime T: type) type {
 }
 ```
 
+- ## Put types that are closely coupled to another type in the latter's namespace
+
+```zig
+// Nope
+const MyItemKind = enum {
+    Extraordinary,
+    Ordinary,
+};
+
+const MyItem = struct {
+    kind: MyItemKind,
+};
+
+// Dope
+const MyItem = struct {
+    const Kind = enum {
+        Extraordinary,
+        Ordinary,
+    };
+
+    kind: Kind,
+};
+```
+
 - ## For allocating functions, the allocator should be either the 1st or 2nd parameter
 
 ```zig
