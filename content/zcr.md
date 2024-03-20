@@ -18,13 +18,6 @@ const item: MyItem = .{}; // Nope
 const item = MyItem{};    // Dope
 ```
 
-- ## Use type names instead of type casts
-
-```zig
-const fld = @as(u8, @intCast(item.fld)); // Nope
-const fld: u8 = @intCast(item.fld);      // Dope
-```
-
 - ## Try to avoid type aliasing altogether
 
 ```zig
@@ -52,6 +45,13 @@ std.debug.print("{}", .{int_or_float});  // Nope
 std.debug.print("{d}", .{int_or_float}); // Dope
 ```
 
+- ## Prefer "@as" to "@intCast" in assignments
+
+```zig
+const fld = @as(u8, @intCast(item.fld)); // Nope
+const fld: u8 = @intCast(item.fld);      // Dope
+```
+
 - ## Don't use any extra labels for naming pointers
 
 ```zig
@@ -69,7 +69,7 @@ if (item_opt) |item| {...}   // Dope
 - ## Use a short, consistent suffix for naming iterators
 
 ```zig
-while (iter.next()) |v| {...}          // Nope
+while (iter.next()) |item| {...}       // Nope
 while (items_iter.next()) |item| {...} // Dope
 ```
 
@@ -92,14 +92,15 @@ const Pet = union(enum) {
 };
 
 const pet = Pet{ .cat = .{ .siberian = {} } }; // Nope
-const pet = Pet{ .cat = .siberian }; // Dope
+const pet = Pet{ .cat = .siberian };           // Dope
 ```
 
-- ## Always use curly braces for loops except for defer blocks
+- ## Always use curly braces for loops except in defer blocks
 
 ```zig
 // Nope
 for (strs) |*str| str.* = try allocator.alloc(u8, str_len);
+
 // Dope
 defer {
     for (strs) |str| allocator.free(str);
@@ -107,7 +108,7 @@ defer {
 }
 ```
 
-- ## Always use curly braces for conditionals except for assignments
+- ## Always use curly braces for conditionals except in assignments
 
 ```zig
 // Nope
@@ -115,6 +116,7 @@ if (a > b)
     a = b;
 else
     a = 0;
+
 // Dope
 a = if (a > b) b else 0;
 ```
@@ -131,6 +133,13 @@ test MyItem {...}   // Dope
 ```zig
 const item_name = @tagName(item_tag);    // Nope
 const item_tag_str = @tagName(item_tag); // Dope
+```
+
+- ## Return void literal to avoid confusion with "continue;" and "break;"
+
+```zig
+return;    // Nope
+return {}; // Dope
 ```
 
 - ## List the expected value before the actual if the type can be inferred
@@ -157,7 +166,7 @@ defer mutex.unlock();
 runCriticalSection();
 ```
 
-- ## Use Self only for file structs as well as nameless and anonymous structs
+- ## Use "Self" only for file structs as well as nameless and anonymous structs
 
 ```zig
 // Nope
