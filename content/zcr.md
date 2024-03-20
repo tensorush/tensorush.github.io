@@ -45,7 +45,7 @@ std.debug.print("{}", .{int_or_float});  // Nope
 std.debug.print("{d}", .{int_or_float}); // Dope
 ```
 
-- ## Prefer "@as" to "@intCast" in assignments
+- ## Prefer `@as` to `@intCast` in assignments
 
 ```zig
 const fld = @as(u8, @intCast(item.fld)); // Nope
@@ -135,7 +135,7 @@ const item_name = @tagName(item_tag);    // Nope
 const item_tag_str = @tagName(item_tag); // Dope
 ```
 
-- ## Return void literal to avoid confusion with "continue;" and "break;"
+- ## Return void literal to avoid confusion with `continue;` and `break;`
 
 ```zig
 return;    // Nope
@@ -166,7 +166,7 @@ defer mutex.unlock();
 runCriticalSection();
 ```
 
-- ## Use "Self" only for file structs as well as nameless and anonymous structs
+- ## Use `Self` only for file structs as well as nameless and anonymous structs
 
 ```zig
 // Nope

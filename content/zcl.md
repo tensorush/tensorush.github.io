@@ -11,21 +11,21 @@ General advice around structuring Zig codebases.
 
 <!-- more -->
 
-- ## Root directory should contain a .gitignore file
+- ## Root directory should contain a `.gitignore` file
 
 ```sh
 zig-cache/
 zig-out/
 ```
 
-- ## Root directory should contain a .gitattributes file
+- ## Root directory should contain a `.gitattributes` file
 
 ```sh
 *.zig text eol=lf
 *.zon text eol=lf
 ```
 
-- ## Root directory should contain a build.zig.zon file
+- ## Root directory should contain a `build.zig.zon` file
 
 ```zig
 .{
@@ -33,15 +33,21 @@ zig-out/
     .version = "<package_version>",
     .dependencies = .{
         .<dependency_package_name> = .{
-            .url = "https://<git_hosting>/<user>/<repo>/archive/<version_tag_or_commit_hash>.tar.gz",
+            .url = "https://<hosting>/<user>/<repo>/archive/<git_tag_or_commit_hash>.tar.gz",
             .hash = "<dependency_package_hash>",
         },
     },
-    .paths = .{""},
+    .paths = .{
+        "src/",
+        "build.zig",
+        "README.md",
+        "LICENSE.md",
+        "build.zig.zon",
+    },
 }
 ```
 
-- ## Root executable file should be named main.zig
+- ## Root executable file should be named `main.zig`
 
 ```zig
 //! Executable source file `main.zig` that contains the entrypoint.

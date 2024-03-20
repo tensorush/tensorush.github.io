@@ -25,7 +25,15 @@ strong {
 
 pre {
     overflow: auto;
-    padding: 5px 10px 5px;
+    border-radius: 5px;
+    padding: 5px 9px 7px;
+    border: 1px solid #f6a516;
+}
+
+h2 > code {
+    border-radius: 3px;
+    padding: 3px 7px 5px;
+    border: 1px solid #f6a516;
 }
 
 blockquote {
