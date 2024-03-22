@@ -45,6 +45,8 @@ Idiomatic Zig programming patterns from the [Zig standard library](https://zigla
 
 - ## [Dynamic dispatch (fat pointer)](https://github.com/ziglang/zig/blob/0.11.0/lib/std/mem/Allocator.zig#L14)
 
+- ## [Static error absence guarantee](https://github.com/ziglang/zig/blob/1d82d7987acf7f020bcc6a976f9887a3556ef79c/lib/std/hash_map.zig#L1563)
+
 - ## [Deferred resource deinitialization](https://github.com/ziglang/zig/blob/0.11.0/lib/std/once.zig#L30)
 
 - ## [Error deferred resource deinitialization](https://github.com/ziglang/zig/blob/0.11.0/lib/std/tz.zig#L92)
