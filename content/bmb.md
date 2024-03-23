@@ -19,7 +19,7 @@ Subscribe to my blog by pasting [its Atom feed link](https://tensorush.github.io
 
 # **Handle**
 
-Started diving into programming around the summer of 2020 by studying all things AI. The idea that any computation could be modelled as a [tensor product](https://www.math3ma.com/blog/the-tensor-product-demystified) stuck with me, so I made up a word for it from my last name "Trush", read as "Troosh", with "T" being a common way to denote a tensor. Unlike my last name, however, "tensorush" reads the usual way, as in "gold rush" or "adrenaline rush".
+Started diving into programming around the summer of 2020 by studying all things AI. The idea that any computation could be modelled as a [tensor product](https://www.math3ma.com/blog/the-tensor-product-demystified) stuck with me, so I made up a word for it from my last name "Trush", read as "Troosh", with "T" being a common way to denote a tensor. Unlike my last name, "tensorush" reads the usual way, as in "gold rush" or "adrenaline rush".
 
 # **Natural Languages**
 
@@ -35,7 +35,7 @@ Currently, [learning Japanese](@/ljk.md) because it is:
 
 # **Formal Languages**
 
-Here's the timeline of my journey exploring programming, typesetting, and markup languages:
+Here's the timeline of my journey exploring programming and markup languages:
 
 - ## **2019**: [R](https://www.r-project.org/) -> [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 
