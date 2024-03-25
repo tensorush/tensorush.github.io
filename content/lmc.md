@@ -56,6 +56,28 @@ Zig implementation of the [SIEVE cache eviction algorithm](https://cachemon.gith
 
 Zig implementation of the [HTTP cookie specification](https://datatracker.ietf.org/doc/html/rfc6265).
 
+- ## 🦎 🗺️ zig quickphf
+
+[![ST][zig-quickphf-st-shd]][zig-quickphf-st-url]
+[![CI][zig-quickphf-ci-shd]][zig-quickphf-ci-url]
+[![CD][zig-quickphf-cd-shd]][zig-quickphf-cd-url]
+[![DC][zig-quickphf-dc-shd]][zig-quickphf-dc-url]
+[![CC][zig-quickphf-cc-shd]][zig-quickphf-cc-url]
+[![LC][zig-quickphf-lc-shd]][zig-quickphf-lc-url]
+
+Zig port of the [QuickPhf library](https://github.com/dtrifuno/quickphf) created by [Darko Trifunovski](https://github.com/dtrifuno).
+
+- ## 🦎 ➗ zig quickdiv
+
+[![ST][zig-quickdiv-st-shd]][zig-quickdiv-st-url]
+[![CI][zig-quickdiv-ci-shd]][zig-quickdiv-ci-url]
+[![CD][zig-quickdiv-cd-shd]][zig-quickdiv-cd-url]
+[![DC][zig-quickdiv-dc-shd]][zig-quickdiv-dc-url]
+[![CC][zig-quickdiv-cc-shd]][zig-quickdiv-cc-url]
+[![LC][zig-quickdiv-lc-shd]][zig-quickdiv-lc-url]
+
+Zig port of the [QuickDiv library](https://github.com/dtrifuno/quickdiv) created by [Darko Trifunovski](https://github.com/dtrifuno).
+
 - ## 🦎 🗂️ zig indexlist
 
 [![ST][zig-indexlist-st-shd]][zig-indexlist-st-url]
@@ -519,6 +541,36 @@ My workstation [dotfiles](https://en.wiktionary.org/wiki/dotfile).
 [zig-cookie-cc-url]: https://app.codecov.io/gh/tensorush/zig-cookie
 [zig-cookie-lc-shd]: https://img.shields.io/github/license/tensorush/zig-cookie.svg?style=for-the-badge&labelColor=black
 [zig-cookie-lc-url]: https://github.com/tensorush/zig-cookie/blob/main/LICENSE.md
+
+<!-- zig quickdiv -->
+
+[zig-quickdiv-st-shd]: https://img.shields.io/badge/maintaining-353935?style=for-the-badge
+[zig-quickdiv-st-url]: https://github.com/tensorush/zig-quickdiv
+[zig-quickdiv-ci-shd]: https://img.shields.io/github/actions/workflow/status/tensorush/zig-quickdiv/ci.yaml?branch=main&style=for-the-badge&logo=github&label=CI&labelColor=black
+[zig-quickdiv-ci-url]: https://github.com/tensorush/zig-quickdiv/blob/main/.github/workflows/ci.yaml
+[zig-quickdiv-cd-shd]: https://img.shields.io/github/actions/workflow/status/tensorush/zig-quickdiv/cd.yaml?branch=main&style=for-the-badge&logo=github&label=CD&labelColor=black
+[zig-quickdiv-cd-url]: https://github.com/tensorush/zig-quickdiv/blob/main/.github/workflows/cd.yaml
+[zig-quickdiv-dc-shd]: https://img.shields.io/badge/click-F6A516?style=for-the-badge&logo=zig&logoColor=F6A516&label=docs&labelColor=black
+[zig-quickdiv-dc-url]: https://tensorush.github.io/zig-quickdiv
+[zig-quickdiv-cc-shd]: https://img.shields.io/codecov/c/github/tensorush/zig-quickdiv?style=for-the-badge&labelColor=black
+[zig-quickdiv-cc-url]: https://app.codecov.io/gh/tensorush/zig-quickdiv
+[zig-quickdiv-lc-shd]: https://img.shields.io/github/license/tensorush/zig-quickdiv.svg?style=for-the-badge&labelColor=black
+[zig-quickdiv-lc-url]: https://github.com/tensorush/zig-quickdiv/blob/main/LICENSE.md
+
+<!-- zig quickphf -->
+
+[zig-quickphf-st-shd]: https://img.shields.io/badge/maintaining-353935?style=for-the-badge
+[zig-quickphf-st-url]: https://github.com/tensorush/zig-quickphf
+[zig-quickphf-ci-shd]: https://img.shields.io/github/actions/workflow/status/tensorush/zig-quickphf/ci.yaml?branch=main&style=for-the-badge&logo=github&label=CI&labelColor=black
+[zig-quickphf-ci-url]: https://github.com/tensorush/zig-quickphf/blob/main/.github/workflows/ci.yaml
+[zig-quickphf-cd-shd]: https://img.shields.io/github/actions/workflow/status/tensorush/zig-quickphf/cd.yaml?branch=main&style=for-the-badge&logo=github&label=CD&labelColor=black
+[zig-quickphf-cd-url]: https://github.com/tensorush/zig-quickphf/blob/main/.github/workflows/cd.yaml
+[zig-quickphf-dc-shd]: https://img.shields.io/badge/click-F6A516?style=for-the-badge&logo=zig&logoColor=F6A516&label=docs&labelColor=black
+[zig-quickphf-dc-url]: https://tensorush.github.io/zig-quickphf
+[zig-quickphf-cc-shd]: https://img.shields.io/codecov/c/github/tensorush/zig-quickphf?style=for-the-badge&labelColor=black
+[zig-quickphf-cc-url]: https://app.codecov.io/gh/tensorush/zig-quickphf
+[zig-quickphf-lc-shd]: https://img.shields.io/github/license/tensorush/zig-quickphf.svg?style=for-the-badge&labelColor=black
+[zig-quickphf-lc-url]: https://github.com/tensorush/zig-quickphf/blob/main/LICENSE.md
 
 <!-- zig indexlist -->
 
