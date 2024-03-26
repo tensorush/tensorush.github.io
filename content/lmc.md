@@ -98,7 +98,7 @@ Zig port of the [IndexList doubly-linked list backed by an array](https://github
 [![CC][flightplan-cc-shd]][flightplan-cc-url]
 [![LC][flightplan-lc-shd]][flightplan-lc-url]
 
-Zif port of the [flight plan parsing utilities](https://en.wikipedia.org/wiki/Flight_plan) created by [@mitchellh](https://github.com/mitchellh).
+Zig port of the [flight plan parsing utilities](https://en.wikipedia.org/wiki/Flight_plan) created by [@mitchellh](https://github.com/mitchellh).
 
 - ## 🦎 ℹ️ zig typeid
 
@@ -142,7 +142,7 @@ Zig implementation of the [Base32 encoding scheme](https://www.crockford.com/bas
 [![CC][zig-komihash-cc-shd]][zig-komihash-cc-url]
 [![LC][zig-komihash-lc-shd]][zig-komihash-lc-url]
 
-Zig port of the [Komihash fast non-cryptographic hash function](https://github.com/avaneev/komihash) created by [@avaneev](https://github.com/avaneev).
+Zig port of the [KomiHash non-cryptographic hash function](https://github.com/avaneev/komihash) created by [@avaneev](https://github.com/avaneev).
 
 - ## 🦎 📝 zig mementohash
 
