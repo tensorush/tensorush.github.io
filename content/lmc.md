@@ -89,14 +89,14 @@ Zig port of the [QuickDiv divisor optimized for repeated division and modulo ope
 
 Zig port of the [IndexList doubly-linked list backed by an array](https://github.com/steveklabnik/indexlist) created by [Steve Klabnik](https://github.com/steveklabnik).
 
-- ## 🦎 🛩️ flightplan
+- ## 🦎 🛩️ zig flightplan
 
-[![ST][flightplan-st-shd]][flightplan-st-url]
-[![CI][flightplan-ci-shd]][flightplan-ci-url]
-[![CD][flightplan-cd-shd]][flightplan-cd-url]
-[![DC][flightplan-dc-shd]][flightplan-dc-url]
-[![CC][flightplan-cc-shd]][flightplan-cc-url]
-[![LC][flightplan-lc-shd]][flightplan-lc-url]
+[![ST][zig-flightplan-st-shd]][zig-flightplan-st-url]
+[![CI][zig-flightplan-ci-shd]][zig-flightplan-ci-url]
+[![CD][zig-flightplan-cd-shd]][zig-flightplan-cd-url]
+[![DC][zig-flightplan-dc-shd]][zig-flightplan-dc-url]
+[![CC][zig-flightplan-cc-shd]][zig-flightplan-cc-url]
+[![LC][zig-flightplan-lc-shd]][zig-flightplan-lc-url]
 
 Zig port of the [libflightplan flight plan formats](https://github.com/mitchellh/libflightplan) created by [Mitchell Hashimoto](https://github.com/mitchellh).
 
@@ -364,20 +364,20 @@ My workstation [dotfiles](https://en.wiktionary.org/wiki/dotfile).
 
 <!-- MARKDOWN LINKS -->
 
-<!-- flightplan -->
+<!-- zig flightplan -->
 
-[flightplan-st-shd]: https://img.shields.io/badge/maintaining-353935?style=for-the-badge
-[flightplan-st-url]: https://github.com/tensorush/flightplan
-[flightplan-ci-shd]: https://img.shields.io/github/actions/workflow/status/tensorush/flightplan/ci.yaml?branch=main&style=for-the-badge&logo=github&label=CI&labelColor=black
-[flightplan-ci-url]: https://github.com/tensorush/flightplan/blob/main/.github/workflows/ci.yaml
-[flightplan-cd-shd]: https://img.shields.io/github/actions/workflow/status/tensorush/flightplan/cd.yaml?branch=main&style=for-the-badge&logo=github&label=CD&labelColor=black
-[flightplan-cd-url]: https://github.com/tensorush/flightplan/blob/main/.github/workflows/cd.yaml
-[flightplan-dc-shd]: https://img.shields.io/badge/click-F6A516?style=for-the-badge&logo=zig&logoColor=F6A516&label=docs&labelColor=black
-[flightplan-dc-url]: https://tensorush.github.io/flightplan
-[flightplan-cc-shd]: https://img.shields.io/codecov/c/github/tensorush/flightplan?style=for-the-badge&labelColor=black
-[flightplan-cc-url]: https://app.codecov.io/gh/tensorush/flightplan
-[flightplan-lc-shd]: https://img.shields.io/github/license/tensorush/flightplan.svg?style=for-the-badge&labelColor=black
-[flightplan-lc-url]: https://github.com/tensorush/flightplan/blob/main/LICENSE.md
+[zig-flightplan-st-shd]: https://img.shields.io/badge/maintaining-353935?style=for-the-badge
+[zig-flightplan-st-url]: https://github.com/tensorush/zig-flightplan
+[zig-flightplan-ci-shd]: https://img.shields.io/github/actions/workflow/status/tensorush/zig-flightplan/ci.yaml?branch=main&style=for-the-badge&logo=github&label=CI&labelColor=black
+[zig-flightplan-ci-url]: https://github.com/tensorush/zig-flightplan/blob/main/.github/workflows/ci.yaml
+[zig-flightplan-cd-shd]: https://img.shields.io/github/actions/workflow/status/tensorush/zig-flightplan/cd.yaml?branch=main&style=for-the-badge&logo=github&label=CD&labelColor=black
+[zig-flightplan-cd-url]: https://github.com/tensorush/zig-flightplan/blob/main/.github/workflows/cd.yaml
+[zig-flightplan-dc-shd]: https://img.shields.io/badge/click-F6A516?style=for-the-badge&logo=zig&logoColor=F6A516&label=docs&labelColor=black
+[zig-flightplan-dc-url]: https://tensorush.github.io/zig-flightplan
+[zig-flightplan-cc-shd]: https://img.shields.io/codecov/c/github/tensorush/zig-flightplan?style=for-the-badge&labelColor=black
+[zig-flightplan-cc-url]: https://app.codecov.io/gh/tensorush/zig-flightplan
+[zig-flightplan-lc-shd]: https://img.shields.io/github/license/tensorush/zig-flightplan.svg?style=for-the-badge&labelColor=black
+[zig-flightplan-lc-url]: https://github.com/tensorush/zig-flightplan/blob/main/LICENSE.md
 
 <!-- liza -->
 
