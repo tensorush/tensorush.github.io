@@ -65,7 +65,7 @@ Zig implementation of the [HTTP cookie specification](https://datatracker.ietf.o
 [![CC][zig-quickphf-cc-shd]][zig-quickphf-cc-url]
 [![LC][zig-quickphf-lc-shd]][zig-quickphf-lc-url]
 
-Zig port of the [QuickPhf improved PTHash minimal perfect hash function for generating static hash maps](https://github.com/dtrifuno/quickphf) created by [Darko Trifunovski](https://github.com/dtrifuno).
+Zig port of the [QuickPhf minimal perfect hash function for generating static hash maps](https://github.com/dtrifuno/quickphf) created by [Darko Trifunovski](https://github.com/dtrifuno).
 
 - ## 🦎 ➗ zig quickdiv
 
@@ -98,7 +98,7 @@ Zig port of the [IndexList doubly-linked list backed by an array](https://github
 [![CC][flightplan-cc-shd]][flightplan-cc-url]
 [![LC][flightplan-lc-shd]][flightplan-lc-url]
 
-Zig port of the [flight plan parsing utilities](https://en.wikipedia.org/wiki/Flight_plan) created by [@mitchellh](https://github.com/mitchellh).
+Zig port of the [flight plan formats](https://github.com/mitchellh/libflightplan) created by [@mitchellh](https://github.com/mitchellh).
 
 - ## 🦎 ℹ️ zig typeid
 
