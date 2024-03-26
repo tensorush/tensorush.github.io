@@ -21,7 +21,7 @@ tags = ["software"]
 [![DC][zig-spin-dc-shd]][zig-spin-dc-url]
 [![LC][zig-spin-lc-shd]][zig-spin-lc-url]
 
-Zig SDK for the [Spin serverless application framework](https://github.com/fermyon/spin) created by [@fermyon](https://github.com/fermyon).
+Zig SDK for the [Spin serverless application framework](https://github.com/fermyon/spin) created by the [Fermyon team](https://github.com/fermyon).
 
 - ## 🦎 🎛️ zig mpsc
 
@@ -32,7 +32,7 @@ Zig SDK for the [Spin serverless application framework](https://github.com/fermy
 [![CC][zig-mpsc-cc-shd]][zig-mpsc-cc-url]
 [![LC][zig-mpsc-lc-shd]][zig-mpsc-lc-url]
 
-Zig port of the [intrusive wait-free MPSC queue](https://www.1024cores.net/home/lock-free-algorithms/queues/intrusive-mpsc-node-based-queue) created by [@dvyukov](https://github.com/dvyukov).
+Zig port of the [intrusive wait-free MPSC queue](https://www.1024cores.net/home/lock-free-algorithms/queues/intrusive-mpsc-node-based-queue) created by [Dmitry Vyukov](https://github.com/dvyukov).
 
 - ## 🦎 💰 zig sieve
 
@@ -43,7 +43,7 @@ Zig port of the [intrusive wait-free MPSC queue](https://www.1024cores.net/home/
 [![CC][zig-sieve-cc-shd]][zig-sieve-cc-url]
 [![LC][zig-sieve-lc-shd]][zig-sieve-lc-url]
 
-Zig implementation of the [SIEVE cache eviction algorithm](https://cachemon.github.io/SIEVE-website/) created by [@yazhuo](https://github.com/yazhuo) and [@1a1a11a](https://github.com/1a1a11a).
+Zig port of the [SIEVE cache eviction algorithm](https://cachemon.github.io/SIEVE-website/) created by [Yazhuo Zhang](https://github.com/yazhuo) and [Juncheng Yang](https://github.com/1a1a11a).
 
 - ## 🦎 🍪 zig cookie
 
@@ -98,7 +98,7 @@ Zig port of the [IndexList doubly-linked list backed by an array](https://github
 [![CC][flightplan-cc-shd]][flightplan-cc-url]
 [![LC][flightplan-lc-shd]][flightplan-lc-url]
 
-Zig port of the [flight plan formats](https://github.com/mitchellh/libflightplan) created by [@mitchellh](https://github.com/mitchellh).
+Zig port of the [libflightplan flight plan formats](https://github.com/mitchellh/libflightplan) created by [Mitchell Hashimoto](https://github.com/mitchellh).
 
 - ## 🦎 ℹ️ zig typeid
 
@@ -109,7 +109,7 @@ Zig port of the [flight plan formats](https://github.com/mitchellh/libflightplan
 [![CC][zig-typeid-cc-shd]][zig-typeid-cc-url]
 [![LC][zig-typeid-lc-shd]][zig-typeid-lc-url]
 
-Zig implementation of the [TypeID type-safe extension of UUIDv7](https://github.com/jetpack-io/typeid) created by [@jetpack-io](https://www.jetpack.io/).
+Zig port of the [TypeID type-safe extension of UUIDv7](https://github.com/jetpack-io/typeid) created by [Daniel Loreto](https://github.com/loreto).
 
 - ## 🦎 🆔 zig uuid
 
@@ -142,7 +142,7 @@ Zig implementation of the [Base32 encoding scheme](https://www.crockford.com/bas
 [![CC][zig-komihash-cc-shd]][zig-komihash-cc-url]
 [![LC][zig-komihash-lc-shd]][zig-komihash-lc-url]
 
-Zig port of the [KomiHash non-cryptographic hash function](https://github.com/avaneev/komihash) created by [@avaneev](https://github.com/avaneev).
+Zig port of the [KomiHash non-cryptographic hash function](https://github.com/avaneev/komihash) created by [Aleksey Vaneev](https://github.com/avaneev).
 
 - ## 🦎 📝 zig mementohash
 
@@ -168,7 +168,7 @@ Zig implementation of the [exponential backoff algorithm](https://en.wikipedia.o
 [![CI][zig-diff-ci-shd]][zig-diff-ci-url]
 [![LC][zig-diff-lc-shd]][zig-diff-lc-url]
 
-Zig implementation of the [diff algorithm](http://www.xmailserver.org/diff2.pdf) created by [@thegenemyers](https://github.com/thegenemyers).
+Zig implementation of the [Myers diff algorithm](http://www.xmailserver.org/diff2.pdf).
 
 - ## 🦎 🌙 zig lua
 
@@ -176,7 +176,7 @@ Zig implementation of the [diff algorithm](http://www.xmailserver.org/diff2.pdf)
 [![CI][zig-lua-ci-shd]][zig-lua-ci-url]
 [![LC][zig-lua-lc-shd]][zig-lua-lc-url]
 
-Zig build of the [lua repo](https://github.com/lua/lua) created by [@roberto-ieru](https://github.com/roberto-ieru).
+Zig build of the [Lua project](https://github.com/lua/lua) created by [Roberto Ierusalimschy](https://github.com/roberto-ieru).
 
 - ## 🦎 🌔 zig luajit
 
@@ -184,7 +184,7 @@ Zig build of the [lua repo](https://github.com/lua/lua) created by [@roberto-ier
 [![CI][zig-luajit-ci-shd]][zig-luajit-ci-url]
 [![LC][zig-luajit-lc-shd]][zig-luajit-lc-url]
 
-Zig build of the [LuaJIT repo](https://github.com/LuaJIT/LuaJIT) created by [@MikePall](https://github.com/MikePall).
+Zig build of the [LuaJIT project](https://github.com/LuaJIT/LuaJIT) created by [Mike Pall](https://github.com/MikePall).
 
 # **Zig Executables**
 
@@ -220,7 +220,7 @@ Rust codebase sandblasting tool.
 [![CI][wazzup-ci-shd]][wazzup-ci-url]
 [![LC][wazzup-lc-shd]][wazzup-lc-url]
 
-Minimal command-line chat example using [libxev](https://github.com/mitchellh/libxev).
+Minimal CLI chat example using [libxev](https://github.com/mitchellh/libxev).
 
 - ## 🦎 🦊 githunt
 
@@ -228,7 +228,7 @@ Minimal command-line chat example using [libxev](https://github.com/mitchellh/li
 [![CI][githunt-ci-shd]][githunt-ci-url]
 [![LC][githunt-lc-shd]][githunt-lc-url]
 
-Thread-pool-based [Hacker News](https://news.ycombinator.com) [GitHub](https://github.com) links reporter.
+Multi-threaded CLI [Hacker News](https://news.ycombinator.com/) feed that only reports posts linking to [GitHub](https://github.com/).
 
 - ## 🦎 🔱 zigzag
 
@@ -252,7 +252,7 @@ Multi-threaded CPU [path tracer](https://en.wikipedia.org/wiki/Path_tracing).
 [![CI][zig-donut-ci-shd]][zig-donut-ci-url]
 [![LC][zig-donut-lc-shd]][zig-donut-lc-url]
 
-Zig port of the [animated ASCII-art donut rendering](https://gist.github.com/a1k0n/8ea6516b4946ab36348fb61703dc3194) created by [@a1k0n](https://github.com/a1k0n).
+Zig port of the [Donut animated ASCII-art rendering](https://gist.github.com/a1k0n/8ea6516b4946ab36348fb61703dc3194) created by [Andy Sloane](https://github.com/a1k0n).
 
 # **Go Services**
 
