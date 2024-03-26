@@ -21,7 +21,7 @@ tags = ["software"]
 [![DC][zig-spin-dc-shd]][zig-spin-dc-url]
 [![LC][zig-spin-lc-shd]][zig-spin-lc-url]
 
-Zig SDK for the [Spin](https://github.com/fermyon/spin) serverless application framework created by [@fermyon](https://github.com/fermyon).
+Zig SDK for the [Spin serverless application framework](https://github.com/fermyon/spin) created by [@fermyon](https://github.com/fermyon).
 
 - ## 🦎 🎛️ zig mpsc
 
@@ -65,7 +65,7 @@ Zig implementation of the [HTTP cookie specification](https://datatracker.ietf.o
 [![CC][zig-quickphf-cc-shd]][zig-quickphf-cc-url]
 [![LC][zig-quickphf-lc-shd]][zig-quickphf-lc-url]
 
-Zig port of the [QuickPhf library](https://github.com/dtrifuno/quickphf) created by [Darko Trifunovski](https://github.com/dtrifuno).
+Zig port of the [QuickPhf improved PTHash minimal perfect hash function for generating static hash maps](https://github.com/dtrifuno/quickphf) created by [Darko Trifunovski](https://github.com/dtrifuno).
 
 - ## 🦎 ➗ zig quickdiv
 
@@ -76,7 +76,7 @@ Zig port of the [QuickPhf library](https://github.com/dtrifuno/quickphf) created
 [![CC][zig-quickdiv-cc-shd]][zig-quickdiv-cc-url]
 [![LC][zig-quickdiv-lc-shd]][zig-quickdiv-lc-url]
 
-Zig port of the [QuickDiv library](https://github.com/dtrifuno/quickdiv) created by [Darko Trifunovski](https://github.com/dtrifuno).
+Zig port of the [QuickDiv divisor optimized for repeated division and modulo operations](https://github.com/dtrifuno/quickdiv) created by [Darko Trifunovski](https://github.com/dtrifuno).
 
 - ## 🦎 🗂️ zig indexlist
 
@@ -87,7 +87,7 @@ Zig port of the [QuickDiv library](https://github.com/dtrifuno/quickdiv) created
 [![CC][zig-indexlist-cc-shd]][zig-indexlist-cc-url]
 [![LC][zig-indexlist-lc-shd]][zig-indexlist-lc-url]
 
-Zig port of the [doubly-linked list backed by an array](https://github.com/steveklabnik/indexlist) created by [Steve Klabnik](https://github.com/steveklabnik).
+Zig port of the [IndexList doubly-linked list backed by an array](https://github.com/steveklabnik/indexlist) created by [Steve Klabnik](https://github.com/steveklabnik).
 
 - ## 🦎 🛩️ flightplan
 
@@ -98,7 +98,7 @@ Zig port of the [doubly-linked list backed by an array](https://github.com/steve
 [![CC][flightplan-cc-shd]][flightplan-cc-url]
 [![LC][flightplan-lc-shd]][flightplan-lc-url]
 
-[Flight plan](https://en.wikipedia.org/wiki/Flight_plan) parsing utilities based on the [libflightplan repo](https://github.com/mitchellh/libflightplan) created by [@mitchellh](https://github.com/mitchellh).
+Zif port of the [flight plan parsing utilities](https://en.wikipedia.org/wiki/Flight_plan) created by [@mitchellh](https://github.com/mitchellh).
 
 - ## 🦎 ℹ️ zig typeid
 
@@ -109,7 +109,7 @@ Zig port of the [doubly-linked list backed by an array](https://github.com/steve
 [![CC][zig-typeid-cc-shd]][zig-typeid-cc-url]
 [![LC][zig-typeid-lc-shd]][zig-typeid-lc-url]
 
-Zig implementation of the [TypeID](https://github.com/jetpack-io/typeid) type-safe extension of UUIDv7 created by [@jetpack-io](https://www.jetpack.io/).
+Zig implementation of the [TypeID type-safe extension of UUIDv7](https://github.com/jetpack-io/typeid) created by [@jetpack-io](https://www.jetpack.io/).
 
 - ## 🦎 🆔 zig uuid
 
@@ -120,7 +120,7 @@ Zig implementation of the [TypeID](https://github.com/jetpack-io/typeid) type-sa
 [![CC][zig-uuid-cc-shd]][zig-uuid-cc-url]
 [![LC][zig-uuid-lc-shd]][zig-uuid-lc-url]
 
-Zig implementation of all seven [UUID versions](https://www.ietf.org/archive/id/draft-peabody-dispatch-new-uuid-format-04.html).
+Zig implementation of the [seven UUID versions](https://www.ietf.org/archive/id/draft-peabody-dispatch-new-uuid-format-04.html).
 
 - ## 🦎 🔤 zig base32
 
@@ -142,9 +142,9 @@ Zig implementation of the [Base32 encoding scheme](https://www.crockford.com/bas
 [![CC][zig-komihash-cc-shd]][zig-komihash-cc-url]
 [![LC][zig-komihash-lc-shd]][zig-komihash-lc-url]
 
-Zig port of the [Komihash hash function](https://github.com/avaneev/komihash) created by [@avaneev](https://github.com/avaneev).
+Zig port of the [Komihash fast non-cryptographic hash function](https://github.com/avaneev/komihash) created by [@avaneev](https://github.com/avaneev).
 
-- ## 🦎 #️⃣ zig mementohash
+- ## 🦎 📝 zig mementohash
 
 [![ST][zig-mementohash-st-shd]][zig-mementohash-st-url]
 [![CI][zig-mementohash-ci-shd]][zig-mementohash-ci-url]
@@ -152,7 +152,7 @@ Zig port of the [Komihash hash function](https://github.com/avaneev/komihash) cr
 [![DC][zig-mementohash-dc-shd]][zig-mementohash-dc-url]
 [![LC][zig-mementohash-lc-shd]][zig-mementohash-lc-url]
 
-Zig port of the [MementoHash consistent hash algorithm](https://github.com/slashdotted/cpp-consistent-hashing-algorithms) created by [Massimo Coluzzi](https://github.com/massimo-coluzzi-supsi) and [Amos Brocco](https://github.com/slashdotted).
+Zig port of the [MementoHash consistent hashing algorithm](https://github.com/slashdotted/cpp-consistent-hashing-algorithms) created by [Massimo Coluzzi](https://github.com/massimo-coluzzi-supsi) and [Amos Brocco](https://github.com/slashdotted).
 
 - ## 🦎 🤚 zig backoff
 
